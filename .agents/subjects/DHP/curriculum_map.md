@@ -14,13 +14,14 @@ Este mapa asegura la cobertura total de la Guía de Referencia proporcionada, or
 | 02 | Sensopercepción | **Completado** | [02-sensopercepcion.md](file:///home/kubrick/www/estudIA/DHP/02-sensopercepcion.md) |
 | 03 | Memoria y Atención | **Completado** | [03-memoria.md](file:///home/kubrick/www/estudIA/DHP/03-memoria.md) |
 | 04 | Observación y Comparación | **Completado** | [04-observacion.md](file:///home/kubrick/www/estudIA/DHP/04-observacion.md) |
-| 05 | Clasificación y Relación | Pendiente | [05-clasificacion.md] |
+| 05 | Clasificación y Creatividad | **Completado** | [05-creatividad.md](file:///home/kubrick/www/estudIA/DHP/05-creatividad.md) |
 
-## Unidad 3: Creatividad
+## Unidad 3: Creatividad y Razonamiento
 | Sesión | Tema | Estado | Archivo |
 | :--- | :--- | :--- | :--- |
-| 06 | Estrategias Creativas | **Completado** | [06-creatividad.md](file:///home/kubrick/www/estudIA/DHP/05-creatividad.md) |
-| 07 | Toma de Decisiones | Pendiente | [07-decisiones.md] |
+| 06 | Razonamiento Analógico | **Completado** | [06-razonamiento.md](file:///home/kubrick/www/estudIA/DHP/06-razonamiento.md) |
+| 07 | Toma de Decisiones | **Completado** | [07-toma-de-decisiones.md](file:///home/kubrick/www/estudIA/DHP/07-toma-de-decisiones.md) |
+| 08 | Metacognición y Transferencia | **En Progreso** | [08-metacognicion.md](file:///home/kubrick/www/estudIA/DHP/08-metacognicion.md) |
 
 ---
 > [!NOTE]

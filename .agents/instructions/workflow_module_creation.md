@@ -1,19 +1,19 @@
 # Workflow: Creación de Módulos Educativos
 
-Para asegurar la calidad premium de cada lección, sigue este proceso de 7 pasos:
+Para asegurar la calidad premium de cada lección, sigue este proceso de 8 pasos:
 
-1.  **Análisis Curricular**: Identifica el RAP (Resultado de Aprendizaje) en la guía de referencia y el programa sintético.
-2.  **Diseño del Detonador (Activación)**: Crea un acertijo, problema o ejercicio diagnóstico de entrada. Genera la imagen necesaria.
-3.  **Desarrollo Teórico**: Escribe la explicación de alto nivel vinculando procesos cognitivos (Acto Mental).
-4.  **Generación de Entrenamiento**: Diseña al menos un ejercicio de alto impacto visual (Raven, DAT, PEI).
-5.  **Contextualización NEM**: Redacta el caso de estudio de aplicación real (Comunidad/Técnica).
-6.  **Cierre Metacognitivo**: Formula las preguntas de reflexión y el plan de transferencia.
-6.  **Cierre Metacognitivo**: Formula las preguntas de reflexión y el plan de transferencia.
-7.  **Validación y Salida**: 
-    - Verifica que todos los enlaces a imágenes funcionen.
-    - Asegura que el archivo se guarde en la carpeta de la materia: `[MATERIA]/`.
-    - Nombre del archivo: `[##]-[tema-corto].md` (ej. `01-acto-mental.md`).
-    - El tono debe ser el del "Profesor IPN" adaptado a adolescentes de 13-15 años.
+1.  **Análisis Curricular**: Consulta el `curriculum_map.md` y selecciona el RAP/Contenido a trabajar.
+2.  **Configuración de Estilo**: Revisa `standards/target_audience.md` para calibrar el tono.
+3.  **Diseño del Detonador**: Usa `prompts/module_templates.md (Prompt A)` y la skill `visual_strategist.md` para el gancho inicial.
+4.  **Desarrollo Teórico (Acto Mental)**: Usa `prompts/module_templates.md (Prompt B)`. Vincula con los conceptos de `subjects/[MATERIA]/knowledge_base.md`.
+5.  **Generación de Entrenamiento**: Aplica la skill `assessment_generator.md` para crear al menos dos ejercicios de alto nivel.
+6.  **Contextualización NEM**: Redacta el caso de estudio basándote en `standards/general.md`.
+7.  **Cierre Metacognitivo**: Usa `prompts/module_templates.md (Prompt C)`.
+8.  **Auditoría de Calidad (Self-Review)**:
+    - ¿El lenguaje es adecuado para 13-15 años?
+    - ¿Hay al menos una imagen de alta calidad generada?
+    - ¿Se menciona el "Acto Mental" (Input/Elaboración/Output)?
+    - Nombre del archivo: `[##]-[tema-corto].md` en la carpeta raíz de la materia.
 
 ---
 > [!IMPORTANT]
