@@ -20,7 +20,7 @@ Usa estas plantillas para estructurar cada sección del archivo Markdown con un 
 ## Prompt E: El Reto Final
 "Diseña ejercicios de opción múltiple que reten la inteligencia del alumno sobre [TEMA]. Usa situaciones prácticas. Evita palabras como 'examen' o 'evaluación'. Llámalo 'Reto Final' o 'Nivel Experto'."
 
-## Estructura Maestra de Archivo
+## Estructura Maestra de Archivo (Versión 2.0)
 ```markdown
 # Módulo [##]: [Título Claro y Directo]
 
@@ -39,15 +39,31 @@ Usa estas plantillas para estructurar cada sección del archivo Markdown con un 
 [Aplicación práctica en la comunidad o vida personal]
 
 ## 🏆 Reto Final
-[Preguntas de opción múltiple con enfoque práctico]
+[De 5 a 10 preguntas de opción múltiple con enfoque práctico]
+[Pregunta 1]
+[Pregunta 2]
+...
+[Pregunta 5-10]
 
 ## 🏁 Pausa para pensar
 [Preguntas de reflexión]
 
 ---
 
+## 📚 Glosario Maestro
+- **[Término 1]**: [Definición sencilla y directa]
+- **[Término 2]**: [Definición sencilla y directa]
+
 ## 🌟 Zona de Descubrimiento
-- **Para ver**: [Película/Serie]
-- **Para buscar**: [Video en YouTube]
-- **Dato curioso**: [Curiosidad de alto impacto]
+- **Para ver**: [Película/Serie con breve explicación de por qué verla]
+- **Para explorar**: [Actividad, video o recurso web para profundizar]
+- **Dato curioso**: [Curiosidad de alto impacto explicada con detalle]
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. [Respuesta]
+2. [Respuesta]
+...
+10. [Respuesta]
 ```

@@ -1,0 +1,13 @@
+{
+  "name": "estudia-bundler",
+  "version": "1.0.0",
+  "description": "Bundles Markdown modules into a premium PDF",
+  "main": "generate-pdf.js",
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-container": "^4.0.0",
+    "playwright": "^1.43.1",
+    "glob": "^10.3.12",
+    "fs-extra": "^11.2.0"
+  }
+}

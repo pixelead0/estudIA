@@ -1,66 +1,97 @@
 # Módulo 09: Tablas, imágenes y dibujos en tus documentos
 
-![Elementos Visuales](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/09_CBI_concepts_visual_objects.png)
+![Objetos y Tablas](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/09_CBI_concepts_objects_tables.png)
 
-## 🚀 El Desafío
-Dicen que "una imagen vale más que mil palabras", y en un documento escolar, **una tabla bien organizada puede explicar mejor un tema que diez párrafos de datos sueltos**.
+## 🎯 El Reto
+Dicen que "una imagen vale más que mil palabras". Imagina que tienes que explicar cómo ha crecido la población de tu ciudad en los últimos 10 años. Podrías escribir párrafos y párrafos de números... o podrías usar una **Tabla** clara y una **Gráfica** colorida. ¿Qué crees que entendería mejor tu profesor?
 
-Imagina que tienes que presentar los resultados de una encuesta sobre los temas favoritos de tu grupo. ¿Qué crees que será más fácil de entender: una lista larga escrita a mano o una tabla comparativa con imágenes ilustrativas? El secreto de un gran documento es saber **mezclar el texto con elementos visuales** para que la información sea clara y atractiva.
+Los documentos modernos no son solo texto; son contenedores de objetos que ayudan a explicar mejor tus ideas. En este módulo aprenderás a insertar y organizar imágenes, formas y tablas para que tus trabajos no solo se lean, sino que se "vean" profesionales. ¿Sabes cómo evitar que una imagen mueva todo tu texto de lugar?
 
 ## 💡 ¿Cómo funciona esto?
 
-Para que tus trabajos cobren vida, usamos diferentes **Objetos**:
+Para enriquecer tus documentos, usamos diferentes tipos de **Objetos**:
 
-1.  **Tablas (Orden y Comparación)**: Son cuadrículas formadas por **filas** (horizontales) y **columnas** (verticales). Sirven para organizar horarios, comparar datos o hacer listas de forma ordenada.
-2.  **Imágenes e Ilustraciones**: Ayudan al lector a visualizar de qué estás hablando. Lo más importante es saber cómo "ajustar el texto" para que la imagen no mueva todo tu documento de lugar.
-3.  **Formas y Gráficos (SmartArt)**: Flechas, cuadros y diagramas que explican procesos o pasos a seguir. Es como dibujar dentro de tu documento de forma profesional.
+1.  **Tablas (El Orden)**: Son cuadrículas formadas por **Columnas** (verticales) y **Filas** (horizontales). Son perfectas para comparar datos, hacer horarios o listas de precios.
+2.  **Imágenes (El Apoyo)**: Puedes usar fotos propias o de internet. Lo más importante es el **Ajuste de Texto**: decidir si la imagen estará "En línea con el texto", "Cuadrado" (el texto la rodea) o "Detrás del texto".
+3.  **Formas y SmartArt (La Lógica)**: Son dibujos como flechas, cuadros o círculos. El **SmartArt** te permite crear mapas conceptuales o diagramas de forma automática y muy estética.
 
 > [!TIP]
-> **Ajuste de Imagen**: Si quieres mover una imagen libremente, cambia su ajuste a **"Cuadrado"** o **"Delante del texto"**. Por defecto, los programas las tratan como si fueran una letra gigante y eso hace que sean difíciles de acomodar.
+> **Consejo del Mentor**: Cuando cambies el tamaño de una imagen, hazlo siempre desde las esquinas. Si lo haces desde los lados, la imagen se verá estirada o aplastada, y perderá su calidad.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Usa los elementos visuales para mejorar tu comunicación:
+Elige la mejor herramienta para cada necesidad:
 
-| Elemento | ¿Para qué sirve? | Consejo de Diseño |
+| Si quieres... | Usa esta herramienta | Resultado |
 | :--- | :--- | :--- |
-| **Tabla** | Para organizar y comparar mucha información. | Usa bordes claros y colores suaves para que sea fácil de leer. |
-| **Imágenes** | Para ilustrar un concepto difícil de explicar. | ¡No las estires! Cámbiales el tamaño siempre desde las esquinas. |
-| **Iconos** | Para representar ideas de forma rápida y moderna. | Úsalos para hacer listas de puntos más interesantes. |
-| **SmartArt** | Para mostrar jerarquías o pasos de un proceso. | Elige colores que combinen con el resto de tu trabajo. |
+| **Comparar los precios de 5 celulares.** | Tabla. | Información organizada en filas y columnas. |
+| **Explicar los pasos de un proceso.** | SmartArt (Ciclo). | Un diagrama con flechas que se ve profesional. |
+| **Mostrar cómo es un volcán por dentro.** | Imagen con ajuste "Cuadrado". | El texto explica la imagen mientras la rodea. |
+| **Señalar una parte importante de una foto.** | Formas (Flecha). | Una guía visual clara para el lector. |
 
-## 🌍 Reto Real
-Estás diseñando una guía de consejos para mejorar el ambiente en tu escuela.
+## 🌍 En tu mundo
+Mira las noticias o un sitio web de deportes. Casi siempre usan tablas para mostrar las posiciones de los equipos y gráficas para comparar el rendimiento de los jugadores. Esa es la forma en que los expertos presentan los datos.
 
-**Tu reto**: Diseña la estructura de una tabla de 3 columnas que incluya: la Acción propuesta, quiénes son los Responsables y qué Materiales se necesitan. ¿Cómo harías para que esta tabla se vea organizada y profesional?
+**Tu reto**: Crea una tabla pequeña con tu horario de clases de lunes a viernes. Usa colores diferentes para los encabezados y asegúrate de que todas las columnas tengan el mismo ancho. ¡Verás lo útil que es tener la información así de organizada!
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
-**1. ¿Cómo se llama el cuadrito donde se cruzan una fila y una columna en una tabla?**
-   - A) Punto.
-   - B) Celda.
-   - C) Unión.
-   - D) Bloque.
+**1. ¿Cómo se llaman los espacios horizontales de una tabla?**
+   - A) Columnas.
+   - B) Filas.
+   - C) Celdas.
+   - D) Márgenes.
 
-**2. Quieres poner una imagen "detrás" de tu texto para que parezca un adorno suave. ¿Qué ajuste de texto debes usar?**
-   - A) En línea con el texto.
-   - B) Detrás del texto.
-   - C) Arriba y abajo.
-   - D) Estrecho.
+**2. ¿Para qué sirve el "Ajuste de Texto" en una imagen insertada?**
+   - A) Para que la imagen se vea con más brillo.
+   - B) Para decidir cómo se comportará el texto que rodea a la imagen y que no se mueva todo el documento.
+   - C) Para borrar el texto del documento.
+   - D) Para cambiar el tamaño de la letra.
 
-**3. ¿Cuál es la principal ventaja de usar un gráfico de SmartArt en lugar de solo escribir una lista?**
-   - A) Hace que el documento tenga menos páginas.
-   - B) Permite ver procesos o pasos a seguir de forma visual y clara.
-   - C) Mejora la ortografía de lo que escribes.
-   - D) Cambia el idioma del programa automáticamente.
+**3. Si quieres hacer un mapa conceptual rápido y con buen diseño, ¿qué herramienta usarías?**
+   - A) Una tabla gigante.
+   - B) SmartArt.
+   - C) Muchas imágenes pegadas.
+   - D) Un cuadro de texto simple.
+
+**4. ¿Qué es una "Celda" en una tabla?**
+   - A) El nombre de la tabla completa.
+   - B) El punto donde se cruzan una fila y una columna (el cuadrito donde escribes).
+   - C) El margen de la página.
+   - D) Una herramienta para borrar datos.
+
+**5. ¿Por qué es recomendable cambiar el tamaño de una imagen desde las esquinas?**
+   - A) Porque es más rápido.
+   - B) Para mantener la proporción y que la imagen no se vea deformada.
+   - C) Para que la imagen pese menos.
+   - D) No tiene importancia desde dónde se cambie.
+
+**6. El formato "Combinar celdas" sirve para:**
+   - A) Borrar el contenido de la tabla.
+   - B) Convertir dos o más celdas en una sola más grande (ideal para títulos).
+   - C) Cambiar el color de toda la tabla.
+   - D) Insertar una imagen dentro de la tabla.
 
 ## 🏁 Pausa para pensar
-1. ¿Qué es lo que más te gusta de agregar imágenes a tus trabajos escolares?
-2. ¿Prefieres leer información en una tabla bien hecha o en un párrafo largo de texto?
-3. Si pudieras usar una sola imagen para representar tu tema favorito, ¿cuál sería?
+1. ¿Cuándo crees que es mejor usar una tabla que una lista de puntos (viñetas)?
+2. ¿Qué tipo de SmartArt te parece más útil para estudiar para un examen?
+3. ¿Por qué crees que a la gente le gusta ver imágenes en lugar de solo leer texto plano?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: Las tablas en los procesadores de texto son parientes cercanas de las celdas de Excel. ¡Si aprendes a usar una, te será mucho más fácil entender la otra!
-- **Para explorar**: Busca "Bancos de imágenes gratuitos". Son sitios donde puedes bajar fotos profesionales y legales para que tus trabajos nunca se vean borrosos o con marcas de agua.
+## 📚 Glosario Maestro
+- **Tabla**: Estructura organizada en filas y columnas para presentar datos.
+- **Celda**: El espacio rectangular donde se inserta información en una tabla.
+- **SmartArt**: Herramienta visual para crear diagramas, procesos y listas gráficas.
+- **Ajuste de Texto**: Configuración que define la posición de una imagen respecto al texto que la rodea.
+- **Proporción**: Relación entre el ancho y el alto de una imagen para que no se deforme.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Talentos Ocultos* (Disney/Fox) - Una película que muestra cómo las mujeres matemáticas de la NASA usaban tablas de datos y cálculos complejos para poner al hombre en la luna. ¡Mucho antes de que existiera Excel!
+- **Para explorar**: "Trucos avanzados para tablas en Word" en YouTube. Aprenderás a sumar números y ordenar listas alfabéticamente dentro de tus tablas.
+- **Dato curioso**: La primera hoja de cálculo electrónica de la historia se llamó VisiCalc y fue lanzada en 1979. Antes de eso, si querías cambiar un número en una tabla de miles de datos, ¡tenías que volver a calcular todo a mano con una calculadora!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. B | 6. B

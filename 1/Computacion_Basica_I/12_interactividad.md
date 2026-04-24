@@ -2,65 +2,96 @@
 
 ![Interactividad](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/12_CBI_concepts_interactivity.png)
 
-## 🚀 El Desafío
-Ya sabes cómo diseñar y animar tus diapositivas, pero ahora vamos a dar el paso final: convertir tu presentación en una **experiencia interactiva**.
+## 🎯 El Reto
+¿Te imaginas entrar a una página de internet donde no pudieras hacer clic en nada y solo tuvieras que verla pasar de principio a fin? ¡Sería aburridísimo! Lo que hace genial a la tecnología es que podemos **interactuar** con ella; nosotros decidimos qué ver y cuándo verlo.
 
-¿Sabías que puedes crear un documento donde el público elija qué quiere ver primero, o un pequeño examen de preguntas y respuestas? Con los **Hipervínculos** y los **Botones de Acción**, tu presentación deja de ser algo que solo se ve de principio a fin y se convierte en algo que el usuario puede **explorar**.
+Tus presentaciones no tienen por qué ser una "fila" de diapositivas aburridas. Puedes convertirlas en un pequeño sitio web, en un juego de preguntas y respuestas o en un catálogo donde el público elija qué tema quiere explorar primero. ¿Sabes cómo crear botones que te lleven a cualquier parte con un solo clic?
 
 ## 💡 ¿Cómo funciona esto?
 
-La interactividad se trata de conectar diferentes puntos de tu trabajo:
+La magia de la interactividad se logra principalmente con dos herramientas:
 
-1.  **Hipervínculos**: Son "portales" que te permiten saltar de una diapositiva a otra, abrir una página web o incluso enviar un correo con solo dar un clic en un texto o imagen.
-2.  **Botones de Acción**: Son iconos especiales (como una flecha, una casita o un símbolo de sonido) que ya tienen funciones programadas para ayudarte a navegar.
-3.  **Multimedia**: Es la capacidad de incluir videos y audios para que tu presentación sea mucho más rica y explicativa.
+1.  **Hipervínculos (Los Túneles)**: Son enlaces que conectan una palabra o imagen con otro lugar. Puede ser otra diapositiva del mismo trabajo, una página de internet o incluso un archivo en tu computadora.
+2.  **Botones de Acción (El Panel de Control)**: Son formas especiales (como flechitas o una casita) que ya tienen funciones programadas: ir al inicio, ir a la diapositiva anterior o terminar la presentación.
+3.  **Multimedia (La Experiencia)**: Insertar videos de YouTube o audios de fondo que el público puede reproducir cuando quiera.
 
 > [!TIP]
-> **Consejo del Mentor**: Crea una diapositiva al principio que funcione como un "Menú Principal". Así, puedes saltar directamente al tema que necesites sin tener que pasar por todas las diapositivas anteriores. ¡Es muy práctico y profesional!
+> **Idea Genial**: Crea un "Menú Principal" en tu segunda diapositiva con botones que lleven a cada parte de tu tema. Así, si tu profesor tiene poco tiempo, puede ir directo a lo que más le interese.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Crea tu propio sistema de navegación:
+Diseña la navegación de tu proyecto:
 
-| Herramienta | ¿Cómo se usa? | Resultado Esperado |
+| Si quieres crear... | Usa esta herramienta | Qué pasará al hacer clic |
 | :--- | :--- | :--- |
-| **Insertar Vínculo** | Clic derecho sobre el objeto > Vínculo. | Te lleva a otra diapositiva específica. |
-| **Botón de Inicio** | Insertar > Formas > Botones de acción. | Te regresa siempre al menú principal. |
-| **Video en línea** | Insertar > Video > Video en línea. | Reproduce un video sin salir de la presentación. |
-| **Acción al pasar el mouse** | Pestaña Insertar > Acción. | El objeto hace algo solo con acercar el cursor. |
+| **Un botón para volver al inicio.** | Botón de acción "Inicio". | Te lleva a la diapositiva 1 de inmediato. |
+| **Un enlace a un video de apoyo.** | Hipervínculo externo. | Se abre tu navegador con el video. |
+| **Un juego de trivia.** | Hipervínculo interno. | Vas a la diapositiva de "Correcto" o "Error". |
+| **Poner música de fondo.** | Insertar Audio. | Se escucha una melodía mientras expones. |
 
-## 🌍 Reto Real
-Imagina que estás haciendo un juego de preguntas sobre "Cultura General". Tienes una diapositiva con una pregunta y dos opciones de respuesta.
+## 🌍 En tu mundo
+Mira las aplicaciones de tu celular. Todo son botones, imágenes que se deslizan y menús que aparecen. Eso es diseño interactivo. Si aprendes a hacerlo en tus presentaciones, tus trabajos se verán mucho más modernos y divertidos de usar.
 
-**Tu reto**: ¿Cómo configurarías los vínculos para que si el usuario elige la opción correcta pase a la siguiente pregunta, y si elige la incorrecta lo mande a una diapositiva que diga "Inténtalo de nuevo"?
+**Tu reto**: Crea una presentación de 4 diapositivas: una portada y tres temas. En la portada, pon tres botones que lleven a cada tema. ¡Prueba que todos funcionen y que puedas regresar a la portada desde cualquier hoja!
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
-**1. ¿Qué sucede si pones un hipervínculo en una imagen y luego borras la diapositiva a la que apuntaba?**
-   - A) El vínculo se borra solo.
-   - B) El vínculo se rompe y no te llevará a ningún lado.
-   - C) La imagen se borra también.
-   - D) El programa crea la diapositiva de nuevo.
+**1. ¿Qué es un "Hipervínculo" en una presentación?**
+   - A) Un tipo de letra muy rápido.
+   - B) Un enlace que conecta un objeto con otra diapositiva, archivo o página web.
+   - C) Un virus que se esconde en las imágenes.
+   - D) El nombre de la computadora.
 
-**2. ¿Cuál es la forma más profesional de incluir un video en tu presentación?**
-   - A) Grabando la pantalla con tu celular.
-   - B) Insertando el video directamente en la diapositiva o usando un enlace que lo reproduzca ahí mismo.
-   - C) Dibujando el video cuadro por cuadro.
-   - D) No se pueden poner videos en las presentaciones.
+**2. ¿Para qué sirve un "Botón de Acción" con forma de casita?**
+   - A) Para dibujar una casa en la presentación.
+   - B) Para regresar automáticamente a la primera diapositiva (inicio).
+   - C) Para cerrar el programa y apagar la luz.
+   - D) Para guardar el archivo en la nube.
 
-**3. ¿Para qué sirve el botón de acción con el icono de una "Casita"?**
-   - A) Para cerrar el programa.
-   - B) Para regresar a la primera diapositiva (el Inicio).
-   - C) Para buscar direcciones en internet.
-   - D) Para guardar el archivo.
+**3. ¿Cuál es la ventaja de crear una presentación interactiva?**
+   - A) Que no tienes que hablar durante la exposición.
+   - B) Que el público puede participar y explorar el contenido de forma no lineal.
+   - C) Que la presentación se hace sola.
+   - D) Que gasta menos energía.
+
+**4. Si quieres insertar un video de YouTube en tu diapositiva, debes ir al menú:**
+   - A) Diseño.
+   - B) Insertar > Video > Video en línea.
+   - C) Transiciones.
+   - D) Archivo > Imprimir.
+
+**5. ¿Qué pasa si borras la página web a la que apunta un hipervínculo externo?**
+   - A) La presentación se borra también.
+   - B) Al hacer clic, aparecerá un error diciendo que la página no se encuentra.
+   - C) La computadora se reinicia.
+   - D) El enlace te lleva a Google automáticamente.
+
+**6. ¿Cómo se puede usar la interactividad para estudiar?**
+   - A) Creando una presentación de preguntas donde el clic te diga si acertaste o fallaste.
+   - B) Poniendo muchas animaciones locas.
+   - C) Cambiando el color de las letras.
+   - D) No sirve para estudiar.
 
 ## 🏁 Pausa para pensar
-1. ¿Qué te parece más útil: una presentación que va en orden o una donde tú puedes elegir el camino?
-2. Si diseñaras una guía interactiva sobre tu escuela, ¿qué botones pondrías en el menú principal?
-3. ¿Cuál es el video más interesante que has visto en una clase o presentación?
+1. ¿Qué te parece más útil: un video dentro de la diapositiva o un link que te mande afuera?
+2. ¿Cómo usarías los botones de acción para hacer un examen divertido para tus amigos?
+3. ¿Crees que la interactividad hace que la gente ponga más atención?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: Muchas de las pantallas táctiles que ves en museos o exposiciones están hechas con programas de presentaciones muy parecidos al que estás usando ahora.
-- **Para explorar**: Investiga cómo insertar "Modelos 3D". Si tu programa es reciente, puedes poner objetos que la gente puede girar y ver desde todos los ángulos durante tu exposición.
+## 📚 Glosario Maestro
+- **Interactividad**: Capacidad de un sistema para responder a las acciones del usuario.
+- **Hipervínculo**: Enlace electrónico que conecta dos puntos de información.
+- **Botón de Acción**: Objeto con funciones de navegación predefinidas.
+- **Multimedia**: Uso de múltiples medios (texto, audio, video) para transmitir información.
+- **Navegación No Lineal**: Poder saltar a diferentes partes de un contenido sin seguir un orden fijo.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Ready Player One* (Warner Bros) - Imagina un mundo donde todo es interactivo y puedes viajar a cualquier lugar con solo decidirlo. Es la versión extrema de los hipervínculos que usamos hoy.
+- **Para explorar**: "Cómo hacer un juego de Jeopardy en PowerPoint" en YouTube. ¡Te sorprenderá lo que puedes crear solo con botones y enlaces!
+- **Dato curioso**: El concepto de "Hipervínculo" y la navegación no lineal existen desde los años 60, ¡mucho antes de que naciera el internet moderno! Fue ideado por un visionario llamado Ted Nelson que quería conectar todo el conocimiento humano.
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. B | 6. A

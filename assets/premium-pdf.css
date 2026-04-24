@@ -1,0 +1,167 @@
+/* Premium Educational PDF Design System */
+:root {
+    --primary-color: #1a56db;
+    --accent-color: #7e3af2;
+    --bg-color: #ffffff;
+    --text-color: #111827;
+    --muted-color: #6b7280;
+    --border-color: #e5e7eb;
+    --tip-bg: #f0fdf4;
+    --tip-border: #bbf7d0;
+    --tip-text: #166534;
+    --warning-bg: #fffbeb;
+    --warning-border: #fef3c7;
+    --warning-text: #92400e;
+}
+
+@page {
+    margin: 2.5cm;
+    @bottom-right {
+        content: counter(page);
+        font-family: 'Inter', system-ui, sans-serif;
+        font-size: 10pt;
+        color: var(--muted-color);
+    }
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--bg-color);
+}
+
+/* Typography */
+h1 {
+    font-size: 32pt;
+    font-weight: 800;
+    color: var(--primary-color);
+    margin-bottom: 0.5em;
+    border-bottom: 4px solid var(--primary-color);
+    padding-bottom: 10px;
+    page-break-before: always;
+}
+
+h1:first-of-type {
+    page-break-before: avoid;
+}
+
+h2 {
+    font-size: 20pt;
+    font-weight: 700;
+    color: var(--accent-color);
+    margin-top: 1.5em;
+    border-left: 5px solid var(--accent-color);
+    padding-left: 15px;
+}
+
+h3 {
+    font-size: 16pt;
+    font-weight: 600;
+    margin-top: 1.2em;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    margin: 1.5em 0;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: left;
+    padding: 12px;
+    font-weight: 600;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr:nth-child(even) {
+    background-color: #f9fafb;
+}
+
+/* Alerts / Blockquotes */
+blockquote {
+    margin: 1.5em 0;
+    padding: 1.5em;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    background-color: #f8fafc;
+}
+
+/* GitHub Style Alerts */
+.alert {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-left: 0.25rem solid;
+    border-radius: 0.5rem;
+}
+
+.alert-tip {
+    background-color: var(--tip-bg);
+    border-color: var(--tip-border);
+    color: var(--tip-text);
+}
+
+.alert-important {
+    background-color: #eff6ff;
+    border-color: #bfdbfe;
+    color: #1e40af;
+}
+
+.alert-warning {
+    background-color: var(--warning-bg);
+    border-color: var(--warning-border);
+    color: var(--warning-text);
+}
+
+/* Cover Page */
+.cover-page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    page-break-after: always;
+}
+
+.cover-title {
+    font-size: 48pt;
+    font-weight: 900;
+    color: var(--primary-color);
+    margin: 0;
+}
+
+.cover-subtitle {
+    font-size: 24pt;
+    color: var(--muted-color);
+    margin-top: 10px;
+}

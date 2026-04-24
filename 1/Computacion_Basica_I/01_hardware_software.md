@@ -2,7 +2,7 @@
 
 ![Conexión Hardware y Software](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/01_CBI_concepts_hardware_software.png)
 
-## 🚀 El Desafío
+## 🎯 El Reto
 Imagina que quieres preparar la mejor pizza del mundo para tus amigos. Tienes una cocina increíble: horno de piedra, amasadora eléctrica, cuchillos afilados y una mesa amplia. Pero... **no tienes la receta**. No sabes cuánto tiempo calentar el horno ni en qué orden poner los ingredientes. Los utensilios están ahí, pero no hacen nada por sí solos.
 
 Por otro lado, tienes la receta secreta de la mejor pizzería de Italia escrita en un papel, pero **no tienes cocina**. Tienes el conocimiento, pero no tienes dónde aplicarlo.
@@ -25,7 +25,7 @@ Para entender cómo se divide el trabajo en tu equipo, piensa en estos dos grand
 > [!TIP]
 > Sin el Hardware, el Software no tiene un lugar donde "cocinarse". Sin el Software, el Hardware es solo un mueble caro que no sabe hacer nada.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
 Demuestra que ya sabes quién es quién en este equipo de trabajo:
 
@@ -37,12 +37,12 @@ Demuestra que ya sabes quién es quién en este equipo de trabajo:
 | Antivirus | **Software** | Protege tu equipo de "ingredientes" dañinos. |
 | Cámara web | **Hardware** | Captura tu imagen para que otros te vean. |
 
-## 🌍 Reto Real
+## 🌍 En tu mundo
 Mira a tu alrededor en tu propia casa. Casi todo lo que tiene botones o pantalla usa este sistema. Un horno de microondas tiene botones y cables (Hardware) y un programa que sabe cuánto tiempo calentar tu comida (Software).
 
 **Tu reto**: Identifica un objeto en tu casa que NO sea una computadora o celular (puede ser una lavadora, una televisión o hasta un coche de juguete) y explica cuál es su Hardware y cuál su Software. ¡Cuéntanos qué descubriste!
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
 **1. Estás escribiendo un ensayo muy importante y de repente se apaga la computadora. ¿Dónde se encontraba esa información que aún no habías guardado?**
    - A) En el Disco Duro (Alacena).
@@ -62,6 +62,24 @@ Mira a tu alrededor en tu propia casa. Casi todo lo que tiene botones o pantalla
    - C) Un componente físico del monitor.
    - D) El cerebro de la computadora.
 
+**4. ¿Cuál de estos es un componente de Hardware que funciona como "Alacena"?**
+   - A) Procesador.
+   - B) Memoria RAM.
+   - C) Disco Duro o SSD.
+   - D) Sistema Operativo.
+
+**5. El Sistema Operativo se encarga principalmente de:**
+   - A) Escribir cartas y documentos.
+   - B) Gestionar los recursos y reglas del hardware para que las apps funcionen.
+   - C) Conectarse a internet por sí solo.
+   - D) Ser la pantalla táctil.
+
+**6. Si una computadora no tiene Software instalado, ¿qué puede hacer?**
+   - A) Solo navegar por internet.
+   - B) Nada, es como una cocina sin chef ni recetas.
+   - C) Ver videos pero sin sonido.
+   - D) Guardar archivos automáticamente.
+
 ## 🏁 Pausa para pensar
 1. ¿Cuál es la pieza de Hardware que más usas a diario y por qué?
 2. Si pudieras inventar un Software para facilitarte la vida en la escuela, ¿qué haría?
@@ -69,7 +87,19 @@ Mira a tu alrededor en tu propia casa. Casi todo lo que tiene botones o pantalla
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: El término "Hardware" viene de las ferreterías (Hard = duro, Ware = mercancía). Originalmente se refería a herramientas de metal como martillos o clavos.
-- **Para explorar**: Busca en casa un dispositivo viejo que ya no sirva y, con permiso de tus padres, observa cómo son sus piezas por fuera. ¡Te sorprenderá ver cuántos componentes diferentes tiene!
+## 📚 Glosario Maestro
+- **Hardware**: La parte física y tangible de cualquier dispositivo tecnológico.
+- **Software**: El conjunto de instrucciones y programas que le dicen al hardware qué hacer.
+- **Procesador (CPU)**: El cerebro del equipo que ejecuta todas las órdenes y cálculos.
+- **Memoria RAM**: Espacio de trabajo temporal que usa la computadora mientras está encendida.
+- **Disco Duro / SSD**: Dispositivo de almacenamiento permanente donde se guardan tus fotos y archivos.
 
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Wall-E* (Disney) - Observa cómo los robots necesitan sus piezas físicas para moverse, pero sus programas internos definen sus misiones y sentimientos.
+- **Para explorar**: "Cómo se fabrica un procesador" en YouTube para descubrir cómo se crean estos cerebros diminutos a partir de arena de silicio.
+- **Dato curioso**: El término "Hardware" nació mucho antes de las computadoras. En inglés, se usaba en las ferreterías para referirse a la mercancía "dura" como martillos y clavos, mientras que "Software" se inventó después para diferenciar lo que es inteligente y flexible (blando).
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. C | 5. B | 6. B

@@ -1,70 +1,98 @@
-# Módulo 05: Problemas difíciles de resolver
+# Módulo 05: ¿Qué harías tú? (Resolviendo dilemas éticos)
 
 ![Dilemas Éticos](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/05_FI_concepts_ethical_dilemmas.png)
 
-## 🚀 El Desafío
-¿Alguna vez te has encontrado en una situación donde no hay una respuesta fácil? Por ejemplo: un amigo te pide que le pases la respuesta de un examen porque si no reprueba. Si lo ayudas, estás siendo buen amigo pero deshonesto con la escuela. Si no lo ayudas, eres honesto pero sientes que traicionas a tu amigo.
+## 🎯 El Reto
+Imagina que vas tarde a un examen súper importante. De pronto, ves que una persona mayor se cae en la calle y nadie más está cerca para ayudarla. Si te detienes, repruebas el examen. Si sigues de largo, la persona podría estar herida. **¿Qué decides?**
 
-A estas situaciones donde dos valores importantes chocan entre sí las llamamos **Dilemas Éticos**. No se trata de elegir entre algo "bueno" y algo "malo", sino entre dos cosas que parecen tener razones válidas. ¿Cómo decidir sin sentir que te equivocas?
+Este es un **Dilema Ético**: una situación donde tienes que elegir entre dos opciones y ambas parecen tener algo bueno y algo malo al mismo tiempo. No hay una respuesta única en la parte de atrás del libro. Aquí es donde tu ética se pone a prueba de verdad. ¿Estás listo para enfrentar las preguntas más difíciles?
 
 ## 💡 ¿Cómo funciona esto?
 
-Para resolver un dilema ético, los filósofos proponen diferentes formas de analizar la situación:
+Para resolver un dilema, los filósofos recomiendan no actuar por impulso, sino seguir estos pasos de **Análisis Ético**:
 
-1.  **Analizar las Consecuencias**: Piensa: "¿Qué opción trae el mayor bien para el mayor número de personas?". A veces hay que elegir lo que cause menos daño a los demás.
-2.  **Seguir el Principio Universal**: Pregúntate: "¿Me gustaría que todo el mundo hiciera lo mismo que voy a hacer yo?". Si la respuesta es no, entonces esa opción no es la correcta.
-3.  **Evaluar la Intención**: ¿Por qué lo estoy haciendo? ¿Para ayudar realmente o solo para quedar bien yo mismo?
+1.  **Identificar el conflicto**: ¿Qué valores están chocando? (Ejemplo: Responsabilidad escolar vs. Solidaridad humana).
+2.  **Ver las consecuencias**: ¿Qué pasará si elijo la opción A? ¿Y si elijo la B? No solo pienses en ti, piensa en los demás.
+3.  **Buscar una tercera vía**: A veces no tenemos que elegir entre blanco y negro. ¿Podría llamar a una ambulancia rápido y luego correr al examen? ¿Podría pedirle a alguien más que ayude mientras aviso al profesor?
+4.  **Tomar la decisión y asumirla**: Elige lo que dicte tu conciencia y prepárate para aceptar el resultado.
 
-> [!TIP]
-> **Pasos para decidir**:
-> 1. Identifica qué valores están chocando (ejemplo: Amistad vs. Honestidad).
-> 2. Imagina qué pasaría con cada opción a corto y largo plazo.
-> 3. Elige la opción que mejor se alinee con el tipo de persona que quieres ser.
+> [!IMPORTANT]
+> **La Prueba del Espejo**: Una buena forma de saber si tu decisión fue correcta es preguntarte: "¿Podré mirarme al espejo mañana y sentirme en paz con lo que hice?".
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Analiza el siguiente dilema clásico: **El Secreto del Amigo**.
-*Un amigo te confiesa que hizo algo que lastimó a otra persona, pero te pide que no se lo digas a nadie.*
+Analiza estos mini-dilemas y busca la mejor solución:
 
-| Opción | Lo bueno (Pros) | Lo difícil (Contras) |
+| El Dilema | ¿Qué valores chocan? | ¿Cuál sería tu solución? |
 | :--- | :--- | :--- |
-| **Guardar el secreto.** | Proteges la confianza de tu amigo. | Permites que la otra persona siga lastimada o sin justicia. |
-| **Decir la verdad.** | Ayudas a la persona afectada y eres honesto. | Tu amigo se sentirá traicionado y podrías perder su amistad. |
+| **Ves a tu mejor amigo copiando en un examen.** | Amistad vs. Honestidad. | (Ejemplo: Hablar con él después y decirle que no es lo correcto). |
+| **Te dan cambio de más en la tienda.** | Beneficio propio vs. Justicia. | (Ejemplo: Regresar el dinero porque no es mío). |
+| **Tus amigos molestan a alguien en un grupo.** | Lealtad al grupo vs. Respeto. | (Ejemplo: Decir que no me parece divertido y salir del grupo). |
+| **Encuentras un celular en el baño.** | Deseo de tenerlo vs. Honradez. | (Ejemplo: Entregarlo a la dirección de la escuela). |
 
-**Tu reflexión**: ¿Qué valor crees que es más importante en esta situación y por qué?
+## 🌍 En tu mundo
+A diario enfrentas dilemas pequeños: ¿Me quedo durmiendo o voy a entrenar? ¿Le cuento la verdad a mis papás o invento una excusa? Cada decisión que tomas, por pequeña que sea, va moldeando tu carácter y diciendo quién eres realmente.
 
-## 🌍 Reto Real
-Seguro has visto situaciones de injusticia en redes sociales o en la calle.
+**Tu reto**: Inventa un dilema ético que pueda pasar en tu salón de clases. Escríbelo y dáselo a un compañero para ver qué decidiría él. ¡Comparen sus respuestas y vean si usaron los mismos valores!
 
-**Tu reto**: Identifica un dilema ético que hayas visto en una película o serie reciente. Escribe cuál fue la decisión del personaje y si tú habrías hecho lo mismo usando la lógica de "el mayor bien para el mayor número de personas".
+## 🏆 Reto Final
 
-## 🧠 Desafío Pro
+**1. ¿Qué es un "Dilema Ético"?**
+   - A) Un problema matemático muy difícil.
+   - B) Una situación donde debemos elegir entre dos opciones que ponen a prueba nuestros valores.
+   - C) Una pelea entre dos amigos.
+   - D) Un tipo de examen sorpresa.
 
-**1. ¿Qué define a un "Dilema Ético"?**
-   - A) Una situación donde la respuesta es obvia y fácil.
-   - B) Una situación donde chocan dos valores o principios y cualquier elección tiene una consecuencia difícil.
-   - C) Un problema matemático muy complejo.
-   - D) Seguir las instrucciones de un manual sin pensar.
+**2. ¿Cuál es el primer paso para resolver un dilema?**
+   - A) Correr y no pensar en nada.
+   - B) Identificar qué valores o reglas están en conflicto.
+   - C) Preguntarle a todo el mundo qué hacer.
+   - D) Tirar una moneda al aire.
 
-**2. Si decides resolver un problema pensando en "el mayor bien para el mayor número de personas", ¿en qué te estás basando?**
-   - A) En tus propios sentimientos del momento.
-   - B) En el análisis de las consecuencias de tus actos.
-   - C) En lo que sea más rápido de hacer.
-   - D) En lo que te de más likes en redes sociales.
+**3. ¿Por qué es importante considerar las consecuencias antes de decidir?**
+   - A) Para ver si nos van a dar un premio.
+   - B) Para entender el impacto que nuestra decisión tendrá en nosotros y en las personas que nos rodean.
+   - C) Para perder el tiempo.
+   - D) No es importante.
 
-**3. ¿Por qué es importante reflexionar antes de actuar ante un dilema?**
-   - A) Para que los demás vean que somos inteligentes.
-   - B) Para asegurarnos de que nuestra decisión sea responsable y coherente con nuestros valores.
-   - C) Porque el tiempo cura todos los problemas.
-   - D) No es importante, lo primero que se nos ocurra suele ser lo mejor.
+**4. ¿Qué es la "Tercera Vía" en un dilema?**
+   - A) Una calle que no tiene salida.
+   - B) Una solución creativa que busca cumplir con los valores en conflicto sin tener que elegir solo uno de los extremos.
+   - C) El nombre de un libro de filosofía.
+   - D) Rendirse y no elegir nada.
+
+**5. La "Prueba del Espejo" sirve para:**
+   - A) Ver si estamos bien peinados.
+   - B) Evaluar si estamos tranquilos y orgullosos de la decisión que tomamos.
+   - C) Que la luz nos dé en la cara.
+   - D) Dibujar sobre el vidrio.
+
+**6. ¿Existe siempre una respuesta "perfecta" para todos los dilemas?**
+   - A) Sí, siempre hay una única respuesta correcta.
+   - B) No, a veces hay que elegir el "mal menor" o la opción que más proteja la dignidad humana según el contexto.
+   - C) Sí, está escrita en las leyes.
+   - D) No importa, cualquier decisión es igual.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál ha sido el dilema más difícil que has enfrentado en la escuela?
-2. ¿A quién le pides consejo cuando no sabes qué es lo correcto?
-3. ¿Crees que siempre existe una "mejor" solución para cada dilema?
+1. ¿Cuál ha sido el dilema más difícil que has tenido que resolver hasta ahora?
+2. ¿Prefieres tomar decisiones solo o pedir consejo a alguien más?
+3. ¿Crees que las personas siempre actúan según lo que dicen sus valores?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: Existe un dilema famoso llamado "El Dilema del Tranvía". Se usa en todo el mundo para estudiar cómo funciona el cerebro humano ante decisiones de vida o muerte.
-- **Para explorar**: Busca en YouTube "Dilemas éticos animados". Verás situaciones cortas que te pondrán a pensar seriamente sobre tus propios valores.
+## 📚 Glosario Maestro
+- **Dilema**: Situación en la que es necesario elegir entre dos opciones igualmente difíciles.
+- **Conflicto de Valores**: Cuando dos cosas que consideramos importantes (como la verdad y la amistad) no pueden cumplirse al mismo tiempo.
+- **Consecuencia**: Resultado o efecto de una acción previa.
+- **Integridad**: Calidad de una persona que actúa siempre de acuerdo con sus valores éticos.
+- **Contexto**: Las circunstancias que rodean un problema y que ayudan a entenderlo mejor.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Spider-Man* (Cualquiera de las películas) - Peter Parker vive en un dilema constante: ¿Ser un adolescente normal o ser un héroe que salva a los demás? Fíjate cómo sus decisiones siempre tienen un costo personal, pero él las asume con responsabilidad.
+- **Para explorar**: Investiga el "Dilema del Tranvía" en YouTube. Es un experimento mental clásico de la filosofía que ha puesto a pensar a millones de personas sobre qué es lo correcto en situaciones extremas.
+- **Dato curioso**: Sabías que los ingenieros que programan los coches que se manejan solos (como los Tesla) tienen que resolver dilemas éticos. Tienen que decidir: si el coche va a chocar, ¿a quién debe proteger primero? ¡La filosofía ayuda a programar el futuro!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. B | 6. B

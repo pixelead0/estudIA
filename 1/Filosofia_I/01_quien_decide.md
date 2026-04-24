@@ -2,7 +2,7 @@
 
 ![El Sujeto Libre](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/01_FI_concepts_free_subject.png)
 
-## 🚀 El Desafío
+## 🎯 El Reto
 Imagina que vas en un barco en medio del océano. Tienes un mapa, timón y velas. Pero, ¿quién decide hacia dónde girar? ¿El viento, las olas o tú mismo? En la vida real, muchas veces sentimos que los demás (tus amigos, las redes sociales o tus papás) son los que mueven el timón.
 
 Aprender filosofía empieza por descubrir quién es el verdadero dueño de tus acciones. ¿Eres tú quien decide o solo estás siguiendo la corriente? Ser un **Sujeto Libre** significa tomar el control del timón y ser responsable de hacia dónde llevas tu vida.
@@ -17,7 +17,7 @@ Para ser el "piloto" de tu propia vida (lo que llamamos un Sujeto Moral), necesi
 > [!TIP]
 > **El Secreto**: Ser libre no significa hacer lo que sea sin consecuencias. Al contrario, entre más libre eres, más dueño eres de los resultados de tus actos. A esto le llamamos **Responsabilidad**.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
 Analiza tus acciones de un día normal y descubre quién movió el timón:
 
@@ -26,13 +26,14 @@ Analiza tus acciones de un día normal y descubre quién movió el timón:
 | **Ayudar a un compañero.** | Sí, sabía que lo necesitaba. | Sí, quise hacerlo. | Mía. |
 | **Comprar algo que vi en un anuncio.** | No mucho, solo se me antojó. | A medias, me convencieron. | Del anuncio. |
 | **Seguir una regla de la escuela.** | Sí, entiendo para qué sirve. | Sí, elijo respetarla. | Mía / Compartida. |
+| **Publicar un comentario molesto.** | No, fue por enojo rápido. | No, me dejé llevar. | Del impulso. |
 
-## 🌍 Reto Real
+## 🌍 En tu mundo
 Piensa en una decisión que hayas tomado recientemente "porque todos los demás lo hacían" (un tipo de ropa, una frase, un video). 
 
 **Tu reto**: Si pudieras volver atrás, ¿qué habrías decidido si solo hubiera importado tu propia opinión? Escribe una pequeña reflexión sobre cómo se siente tomar una decisión siendo el único dueño del timón.
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
 **1. ¿Qué requisitos necesita una persona para ser considerada un "Sujeto Moral"?**
    - A) Tener mucho dinero y poder.
@@ -52,6 +53,24 @@ Piensa en una decisión que hayas tomado recientemente "porque todos los demás 
    - C) Porque el resultado fue negativo.
    - D) Porque no conocías las reglas.
 
+**4. ¿Qué es la "Autodeterminación"?**
+   - A) Hacer lo que los papás digan siempre.
+   - B) La capacidad de una persona para decidir sus propias metas y acciones sin presión externa.
+   - C) El nombre de un robot.
+   - D) La ley de la gravedad.
+
+**5. Ser responsable de nuestros actos significa:**
+   - A) Echarle la culpa a los demás si algo sale mal.
+   - B) Asumir las consecuencias (buenas o malas) de las decisiones que tomamos libremente.
+   - C) Hacer solo lo que nos conviene.
+   - D) Que no nos importe nada.
+
+**6. ¿Cómo influyen las redes sociales en nuestro juicio moral?**
+   - A) No influyen en nada.
+   - B) Pueden presionarnos a actuar de cierta forma para ser aceptados, limitando nuestra libertad real.
+   - C) Nos obligan a ser mejores personas siempre.
+   - D) Solo sirven para ver videos de gatos.
+
 ## 🏁 Pausa para pensar
 1. ¿En qué momentos de tu día sientes que eres más dueño de tus decisiones?
 2. ¿Cómo crees que las redes sociales influyen en tu libertad para pensar diferente?
@@ -59,6 +78,19 @@ Piensa en una decisión que hayas tomado recientemente "porque todos los demás 
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: La palabra "Persona" viene de las máscaras que usaban los actores en el teatro antiguo. La filosofía te ayuda a quitarte las máscaras de los demás para descubrir quién eres tú realmente.
-- **Para explorar**: Observa cómo los anuncios de televisión intentan "hackear" tu voluntad para que desees cosas que no necesitas. ¡Eso es un reto para tu libertad!
+## 📚 Glosario Maestro
+- **Ética**: Disciplina que estudia el bien y el mal y sus relaciones con la moral y el comportamiento humano.
+- **Sujeto Moral**: Persona que tiene la capacidad de distinguir entre lo bueno y lo malo y actuar en consecuencia.
+- **Conciencia**: Conocimiento que el ser humano tiene de su propia existencia, de sus estados y de sus actos.
+- **Libertad**: Facultad y derecho de las personas para elegir de manera responsable su propia forma de actuar.
+- **Responsabilidad**: Deber de asumir las consecuencias de nuestros propios actos.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *The Truman Show* (Paramount Pictures) - Imagina que toda tu vida ha sido decidida por alguien más en un set de televisión. Esta película te hará preguntarte: ¿Qué tan reales son mis decisiones y qué tanto son parte de un guion que otros escribieron para mí?
+- **Para explorar**: Investiga el "Mito de la Caverna" de Platón en YouTube. Es una historia de hace 2,000 años que explica perfectamente cómo a veces vivimos engañados por sombras hasta que decidimos buscar la verdad por nosotros mismos.
+- **Dato curioso**: La palabra "Persona" viene de las máscaras que usaban los actores en el teatro de la antigua Grecia. La filosofía te ayuda a quitarte esas "máscaras" que la sociedad te pone para descubrir quién eres tú realmente detrás de la actuación.
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. C | 2. B | 3. B | 4. B | 5. B | 6. B

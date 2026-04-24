@@ -1,65 +1,98 @@
-# Módulo 06: Convivir en el mundo digital
+# Módulo 06: Convivir en la red (Netiqueta y valores digitales)
 
-![Internet y Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_digital_world.png)
+![Convivencia Digital](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_digital_ethics.png)
 
-## 🚀 El Desafío
-¿Alguna vez has dicho algo a través de un mensaje de texto que nunca te atreverías a decir en persona? O tal vez has visto cómo una broma en redes sociales se sale de control y termina lastimando a alguien de verdad. 
+## 🎯 El Reto
+Imagina que vas a una fiesta con una máscara que oculta tu cara. De pronto, sientes que como nadie sabe quién eres, puedes decir cosas feas, empujar a otros o hacer bromas pesadas sin que pase nada. Pero al final de la noche, te quitas la máscara y te das cuenta de que todos tus amigos estaban ahí y escucharon todo.
 
-Muchos piensan que el mundo digital es como un videojuego donde "nada es real", pero la verdad es que detrás de cada pantalla hay una persona con sentimientos. Tus valores no se quedan guardados en un cajón cuando desbloqueas tu celular; al contrario, es cuando más necesitas usarlos. Hoy vamos a descubrir cómo ser un **Sujeto Moral en la era digital**.
+En internet, a veces sentimos que somos anónimos o que estamos protegidos por una pantalla. Pero lo que decimos y hacemos en la red es tan real como lo que hacemos en el salón de clases. ¿Sabes cómo ser una persona ética también en el mundo digital?
 
 ## 💡 ¿Cómo funciona esto?
 
-Vivir con valores en internet requiere entender tres conceptos clave:
+Para vivir en paz en internet, existe la **Netiqueta** (Etiqueta en la Red), que se basa en estos principios:
 
-1.  **La Identidad Digital**: Todo lo que publicas, comentas o compartes forma parte de quién eres. No existen "dos versiones" de ti (la real y la digital); solo existe una persona que deja una huella en ambos mundos.
-2.  **La Netiqueta (Ética en la red)**: Son las normas de respeto y convivencia en internet. Significa recordar que del otro lado hay un ser humano. Si no lo dirías a la cara, no lo escribas en un post.
-3.  **La Responsabilidad del Click**: Cada "like", cada compartido y cada comentario tiene un impacto. Puedes ayudar a difundir información útil o ser cómplice de un ataque de odio. Tú decides qué tipo de red quieres construir.
+1.  **Recuerda lo humano**: Detrás de cada perfil, cada video o cada comentario hay una persona real con sentimientos. Si no se lo dirías a la cara, no lo escribas en un chat.
+2.  **Cuida tu imagen (Huella Digital)**: Todo lo que publicas hoy se queda guardado para siempre. Tu "yo" del futuro te agradecerá que no hayas subido cosas de las que luego te arrepientas.
+3.  **Respeto y Privacidad**: No compartas fotos o información de otros sin su permiso. Respetar el tiempo y los datos de los demás es un valor fundamental.
+4.  **No alimentes al "Troll"**: Si alguien busca pelear o insultar, lo más ético y valiente es no contestar y reportar. La violencia digital solo crece si le ponemos atención.
 
 > [!CAUTION]
-> **El Efecto de Desinhibición**: En internet es fácil olvidar las consecuencias porque no vemos la reacción de la otra persona. Un filósofo moderno diría: "Tu moral se pone a prueba cuando crees que nadie te está viendo, incluso detrás de un perfil anónimo".
+> **Regla de Oro Digital**: Trata a los demás en internet como te gustaría que te trataran a ti en la vida real. ¡La pantalla no borra tus valores!
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Analiza tu comportamiento digital con este ejercicio de honestidad:
+Pon a prueba tu comportamiento digital:
 
-| Situación Digital | Lo que solemos hacer (Inercia) | Lo que haría un Sujeto Ético |
+| Situación en línea | ¿Qué sería lo ético? | ¿Por qué? |
 | :--- | :--- | :--- |
-| **Ves una noticia escandalosa de alguien.** | Compartirla rápido para que todos la vean. | Verificar si es verdad antes de decir nada. |
-| **Alguien comenta algo que te molesta.** | Responder con un insulto o burla. | Expresar tu desacuerdo con respeto o ignorar. |
-| **Ves que están atacando a un compañero.** | Quedarte callado o darle "like" al ataque. | No participar y, si es posible, apoyar al afectado. |
+| **Ves que alguien publica una foto vergonzosa de un amigo.** | No darle "Like", no compartir y decirle al amigo. | Respetas la dignidad de tu amigo. |
+| **Lees una noticia que parece increíble y muy mala.** | Verificar si es real antes de compartirla. | Evitas difundir mentiras y odio. |
+| **Alguien te insulta en un comentario de un video.** | Ignorar, bloquear o reportar. | No te rebajas a su nivel y cortas la violencia. |
+| **Un amigo te pide la contraseña de tu cuenta.** | Decirle que no, que es personal por seguridad. | Cuidas tu privacidad y la de tus contactos. |
 
-## 🌍 Reto Real
-Tus redes sociales son como tu jardín personal.
+## 🌍 En tu mundo
+Tus redes sociales son tu carta de presentación ante el mundo. Muchas veces las personas nos juzgan por lo que compartimos o por cómo comentamos. Ser una persona íntegra significa ser el mismo (honesto, respetuoso y amable) tanto en el recreo como en el grupo de WhatsApp.
 
-**Tu reto**: Revisa tus últimas tres publicaciones o comentarios. ¿Qué dicen de ti? ¿Reflejan los valores que aprendiste en tu familia y escuela? Propón un cambio positivo que podrías hacer en tu forma de comunicarte en internet a partir de hoy.
+**Tu reto**: Revisa tus últimos 5 comentarios o publicaciones en redes sociales. ¿Reflejan los valores que tienes en la vida real? Si encuentras algo que no te gusta, bórralo y haz el compromiso de ser un ciudadano digital ejemplar.
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
-**1. ¿Por qué es importante mantener nuestros valores éticos en el mundo digital?**
-   - A) Porque así ganamos más seguidores y fama.
-   - B) Porque nuestras acciones en internet afectan a personas reales y forman parte de nuestra identidad.
-   - C) Porque el internet puede dejar de funcionar si somos groseros.
-   - D) No es importante, en internet cada quien puede hacer lo que quiera.
+**1. ¿Qué es la "Netiqueta"?**
+   - A) Una marca de computadoras nuevas.
+   - B) El conjunto de reglas de comportamiento y educación para convivir en internet.
+   - C) Un tipo de virus que afecta a los teclados.
+   - D) Una aplicación para comprar etiquetas.
 
-**2. ¿Qué es la "Netiqueta"?**
-   - A) Un tipo de ropa para usar mientras navegas por internet.
-   - B) El conjunto de normas de comportamiento y respeto que debemos seguir en los espacios digitales.
-   - C) La marca de las computadoras más rápidas.
-   - D) Una aplicación para editar fotos.
+**2. ¿Por qué es importante recordar que "detrás de la pantalla hay un humano"?**
+   - A) Porque las computadoras no tienen sentimientos.
+   - B) Porque a veces olvidamos que nuestras palabras pueden lastimar a personas reales, igual que si estuviéramos frente a ellas.
+   - C) Porque el internet es muy lento.
+   - D) No es importante.
 
-**3. Si compartes un post que se burla de alguien, ¿cuál es tu nivel de responsabilidad moral?**
-   - A) Ninguna, porque yo no escribí el post original.
-   - B) Soy cómplice, porque ayudé a que el daño se hiciera más grande al difundirlo.
-   - C) Solo soy responsable si la persona afectada es mi amiga.
-   - D) Soy responsable solo si me atrapan.
+**3. ¿Qué es la "Huella Digital"?**
+   - A) La marca que dejas cuando tocas la pantalla con los dedos sucios.
+   - B) El rastro de toda la información, fotos y comentarios que publicas en internet y que se queda ahí para siempre.
+   - C) Una forma de desbloquear tu celular.
+   - D) El nombre de tu proveedor de internet.
+
+**4. Si ves un caso de ciberacoso hacia un compañero, ¿qué es lo más ético que puedes hacer?**
+   - A) Reírte y compartirlo con otros.
+   - B) No participar, apoyar al compañero y avisar a un adulto o reportar la cuenta.
+   - C) Ignorarlo para que no te molesten a ti también.
+   - D) Insultar al que está acosando.
+
+**5. ¿Qué significa "respetar la privacidad" de otros en internet?**
+   - A) No publicar fotos, videos o secretos de otras personas sin su permiso explícito.
+   - B) No leer el periódico en línea.
+   - C) Ponerle contraseña a tu celular.
+   - D) Usar un nombre falso.
+
+**6. ¿Cómo ayuda la ética a mejorar el internet?**
+   - A) Hace que las páginas carguen más rápido.
+   - B) Convierte la red en un espacio más seguro, respetuoso y útil para todos, reduciendo el odio y la violencia.
+   - C) Hace que los videojuegos sean más fáciles.
+   - D) No ayuda, internet no tiene reglas.
 
 ## 🏁 Pausa para pensar
-1. ¿Alguna vez te has arrepentido de algo que publicaste en internet?
-2. ¿Cómo crees que sería el internet si todos practicaran la empatía antes de comentar?
-3. ¿Qué regla de oro pondrías para que tu grupo de WhatsApp sea un lugar más agradable?
+1. ¿Alguna vez has escrito algo en internet que no te habrías atrevido a decir en persona? ¿Por qué?
+2. ¿Qué es lo que más te molesta del comportamiento de la gente en redes sociales?
+3. ¿Cómo crees que será el internet del futuro si todos practicamos la netiqueta?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: Sabías que en algunos países ya existen leyes que castigan el ciberacoso de la misma forma que el acoso físico. ¡La sociedad se está dando cuenta de que lo digital es real!
-- **Para explorar**: Busca "Ciudadanía Digital" en internet. Aprenderás cómo proteger tu privacidad y cómo usar la tecnología para crear un impacto positivo en el mundo.
+## 📚 Glosario Maestro
+- **Netiqueta**: Normas de cortesía y comportamiento en medios digitales.
+- **Ciberacoso (Cyberbullying)**: Uso de medios digitales para molestar o acosar a una persona.
+- **Ciudadanía Digital**: Conjunto de derechos y deberes que tenemos al usar la tecnología.
+- **Anonimato**: Estado de una persona que oculta su identidad en la red.
+- **Empatía Digital**: Capacidad de ponerse en el lugar del otro al interactuar a través de pantallas.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Black Mirror: Nosedive* (Netflix - Con supervisión) - Un episodio que muestra de forma extrema cómo sería un mundo donde las personas se califican unas a otras en redes sociales y cómo eso afecta su vida real. Te hará pensar mucho sobre la importancia de ser auténtico.
+- **Para explorar**: Busca las "10 Reglas Básicas de la Netiqueta de Virginia Shea". Son los mandamientos clásicos para ser un buen ciudadano digital desde los inicios de internet.
+- **Dato curioso**: Sabías que en algunos países como España o México ya existen leyes (como la Ley Olimpia) que castigan con cárcel a quienes comparten contenido privado de otros sin su permiso. ¡Lo que haces en internet tiene consecuencias legales reales!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. A | 6. B

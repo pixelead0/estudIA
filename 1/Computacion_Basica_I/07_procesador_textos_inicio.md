@@ -1,66 +1,99 @@
 # Módulo 07: Escribir y dar formato a tus textos
 
-![Procesamiento de Textos](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/07_CBI_concepts_text_processing.png)
+![Procesador de Textos](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/07_CBI_concepts_word_processing.png)
 
-## 🚀 El Desafío
-Imagina que tienes una idea brillante para un proyecto escolar o un reporte importante. Tienes toda la información en tu cabeza, pero si la entregas como un bloque de texto desordenado y sin pausas, **es muy probable que nadie la lea con atención**.
+## 🎯 El Reto
+¿Has visto alguna vez un libro antiguo escrito a mano o con una máquina de escribir? Si te equivocabas en una sola letra al final de la página, ¡tenías que volver a empezar todo! No podías cambiar el tamaño de la letra, ni poner negritas, ni mucho menos insertar una imagen.
 
-Un procesador de textos (como Word o Google Docs) es mucho más que una máquina de escribir moderna; es tu estudio de diseño personal. Aprender a usarlo te permite darle **orden** y **claridad** a tus pensamientos para que los demás entiendan exactamente lo que quieres decir.
+Hoy, los **Procesadores de Texto** (como Word o Google Docs) son como un lienzo inteligente. Puedes borrar, mover párrafos, cambiar colores y corregir la ortografía con un solo clic. Aprender a usarlos no es solo saber escribir, es saber darle una presentación profesional a tus ideas. ¿Sabes cómo hacer que tu tarea se vea impecable?
 
 ## 💡 ¿Cómo funciona esto?
 
-Entrar a un procesador de textos es como trabajar en un **Estudio de Diseño Profesional**:
+Un procesador de textos funciona con herramientas que te permiten "vestir" a tus palabras:
 
-1.  **La Cinta de Opciones**: Es tu estante de herramientas. Aquí arriba encuentras todo: desde cómo cambiar el color de la letra hasta cómo insertar una tabla.
-2.  **Formato de Fuente (El Estilo)**: Usamos negritas para resaltar conceptos clave, cursivas para títulos de libros o palabras en otro idioma, y diferentes tamaños para separar los títulos del contenido normal.
-3.  **Párrafos (El Orden)**: Es la forma en que acomodas el texto. Puedes alinearlo a la izquierda, centrarlo para títulos o "justificarlo" para que se vea recto y elegante como en un libro.
+1.  **Fuente (El Estilo)**: Es el tipo de letra. Algunas son serias (como Times New Roman) y otras más modernas (como Arial).
+2.  **Párrafo (El Orden)**: Te permite alinear el texto a la izquierda, a la derecha o centrarlo. El **Justificado** hace que tu texto se vea derechito por ambos lados, como en los libros.
+3.  **Formato (El Énfasis)**: Usas la **Negrita** para resaltar títulos, la *Cursiva* para frases especiales y el <u>Subrayado</u> para notas importantes.
+4.  **Revisión (El Guardián)**: El programa detecta palabras mal escritas y te sugiere cómo corregirlas. ¡Es como tener un experto en ortografía a tu lado!
 
 > [!TIP]
-> **Consejo del Mentor**: Aprende a usar los **Estilos** (Título 1, Título 2). No solo cambian el aspecto de la letra, sino que ayudan a que el programa entienda la estructura de tu trabajo. ¡Con esto puedes crear un índice automático en segundos!
+> **Truco Pro**: No abuses de los colores y tipos de letra. Un documento profesional suele usar máximo dos tipos de letra diferentes. ¡Menos es más!
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Domina las herramientas básicas de edición:
+Identifica las herramientas básicas de edición:
 
-| Herramienta | ¿Para qué sirve? | Atajo de Teclado |
+| Si quieres... | Usa este botón o comando | Resultado esperado |
 | :--- | :--- | :--- |
-| **Negrita** | Resaltar las palabras más importantes. | `Ctrl + N` |
-| **Cursiva** | Para citas, títulos o palabras extranjeras. | `Ctrl + K` |
-| **Subrayado** | Para dar un énfasis extra a una frase. | `Ctrl + S` |
-| **Alineación Justificada** | Para que el texto se vea ordenado en ambos lados. | `Ctrl + J` |
+| **Resaltar una palabra clave.** | **N** (Negrita) | El texto se ve más grueso y oscuro. |
+| **Poner un título en medio.** | Centrar | El texto se mueve al centro de la hoja. |
+| **Hacer una lista de pasos.** | Viñetas o Numeración | Aparecen puntos o números ordenados. |
+| **Copiar un texto rápido.** | Ctrl + C (Copiar) | El texto se guarda en la memoria temporal. |
+| **Pegar lo que copiaste.** | Ctrl + V (Pegar) | El texto aparece donde esté el cursor. |
 
-## 🌍 Reto Real
-Estás escribiendo un reporte sobre el cuidado del medio ambiente. Tienes una página llena de texto pero no se distinguen los títulos de los párrafos.
+## 🌍 En tu mundo
+Casi todos los trabajos que entregarás en la preparatoria y en la universidad serán digitales. Dominar el procesador de textos te ahorrará horas de trabajo y hará que tus profesores noten tu dedicación.
 
-**Tu reto**: Menciona 3 cambios de formato (negritas, tamaños, colores o alineación) que harías para que un lector pueda identificar los puntos principales del reporte en menos de 10 segundos.
+**Tu reto**: Abre un documento nuevo y escribe tres renglones sobre tu pasatiempo favorito. Aplica negritas al título, centra el texto y cambia el color de una palabra. ¡Explora las herramientas y descubre qué más puedes hacer!
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
-**1. ¿Qué tipo de alineación hace que el texto se vea parejo tanto a la izquierda como a la derecha?**
-   - A) Centrado.
-   - B) Alineado a la izquierda.
-   - C) Justificado.
-   - D) Alineado a la derecha.
+**1. ¿Para qué sirve la herramienta de "Justificado" en un párrafo?**
+   - A) Para explicar por qué llegaste tarde a clase.
+   - B) Para que el texto se alinee perfectamente a ambos lados (izquierdo y derecho).
+   - C) Para poner letras más grandes.
+   - D) Para borrar el texto automáticamente.
 
-**2. Quieres copiar el mismo color y tamaño de letra de un título a otro sin hacerlo paso a paso. ¿Qué herramienta usas?**
-   - A) Copiar y Pegar (Ctrl + C / Ctrl + V).
-   - B) Cortar (Ctrl + X).
-   - C) Copiar Formato (el icono de la brochita).
-   - D) Borrar todo el formato.
+**2. Si quieres resaltar un título muy importante, ¿qué formato es el más adecuado?**
+   - A) Cursiva.
+   - B) Negrita.
+   - C) Tachado.
+   - D) Letra muy pequeñita.
 
-**3. ¿Cuál es la diferencia entre "Guardar" y "Guardar como"?**
-   - A) No hay ninguna diferencia.
-   - B) "Guardar" actualiza el archivo actual; "Guardar como" te permite crear una copia con un nuevo nombre o en otra carpeta.
-   - C) "Guardar como" solo sirve para imprimir.
-   - D) "Guardar" borra el archivo anterior.
+**3. ¿Qué combinación de teclas se usa para "Guardar" tu documento rápidamente?**
+   - A) Ctrl + C.
+   - B) Ctrl + G (o Ctrl + S en inglés).
+   - C) Ctrl + Alt + Supr.
+   - D) F1.
+
+**4. Las "Viñetas" sirven principalmente para:**
+   - A) Dibujar en el documento.
+   - B) Crear listas de elementos u objetos de forma ordenada.
+   - C) Cambiar el color de la hoja.
+   - D) Insertar videos.
+
+**5. ¿Qué hace el corrector ortográfico cuando ve una palabra subrayada en rojo?**
+   - A) Indica que la palabra es muy importante.
+   - B) Señala un posible error de ortografía que debes revisar.
+   - C) Dice que la palabra es de otro idioma.
+   - D) Cambia la palabra por un emoji.
+
+**6. ¿Cuál es la ventaja de usar un Procesador de Textos en lugar de una máquina de escribir?**
+   - A) Que no necesitas usar las manos.
+   - B) Que puedes corregir errores y cambiar el diseño sin desperdiciar papel.
+   - C) Que la computadora escribe sola por ti.
+   - D) No tiene ninguna ventaja.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál es el tipo de letra que más te gusta usar para tus trabajos y por qué?
-2. ¿Prefieres escribir tus borradores a mano o directamente en la computadora?
-3. Si escribieras una revista sobre tu pasatiempo favorito, ¿cómo usarías los títulos para llamar la atención?
+1. ¿Qué te parece más difícil: escribir el contenido o darle formato al texto?
+2. ¿Por qué crees que es importante que un trabajo escolar tenga una buena presentación?
+3. ¿Cuál es tu tipo de letra favorito y en qué momento lo usarías?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: La fuente *Times New Roman* fue diseñada en 1931 específicamente para un periódico de Londres. El objetivo era que fuera muy fácil de leer y que aprovechara bien el espacio del papel.
-- **Para explorar**: Busca en internet "Psicología de las fuentes". Descubrirás por qué algunas letras nos parecen formales y otras más divertidas o modernas.
+## 📚 Glosario Maestro
+- **Procesador de Texto**: Software diseñado para la creación, edición y formato de documentos de texto.
+- **Fuente (Font)**: Estilo o diseño de las letras en un documento.
+- **Alineación**: Colocación del texto respecto a los márgenes de la página (Izquierda, Centro, Derecha, Justificado).
+- **Cursor**: La línea parpadeante que indica dónde se escribirá el próximo carácter.
+- **Portapapeles**: Memoria temporal donde se guarda el texto que has copiado o cortado.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *The Post: Los Oscuros Secretos del Pentágono* (Película) - Observa cómo se imprimían los periódicos antes y la importancia de cada palabra escrita en papel.
+- **Para explorar**: Busca "Atajos de teclado para Word" en YouTube. Aprenderás a trabajar mucho más rápido sin usar tanto el ratón.
+- **Dato curioso**: El diseño del teclado que usamos hoy (QWERTY) se inventó en 1873 para las máquinas de escribir. Se diseñó así para que las letras más usadas estuvieran separadas y no se trabaran los martillos de metal de la máquina. ¡Seguimos usando un diseño de hace más de 150 años!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. B | 6. B

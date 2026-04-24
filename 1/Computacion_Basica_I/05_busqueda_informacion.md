@@ -1,66 +1,97 @@
 # Módulo 05: Técnicas para encontrar información real y útil
 
-![Investigación y búsqueda](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/05_CBI_concepts_search_techniques.png)
+![Búsqueda de Información](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/05_CBI_concepts_search_techniques.png)
 
-## 🚀 El Desafío
-¿Alguna vez has buscado algo en internet y los primeros resultados son anuncios o páginas que no tienen nada que ver con lo que quieres? Con tanta información disponible, saber buscar no es solo escribir una palabra; es saber preguntar correctamente.
+## 🎯 El Reto
+Imagina que eres un detective y te dan un caso difícil. Tienes acceso a la base de datos más grande del mundo, pero hay un problema: **la mitad de las pistas son mentira**. Hay personas tratando de engañarte y noticias falsas por todos lados.
 
-Si tuvieras que investigar sobre un tema importante para la escuela, como "cómo cuidar el agua en mi ciudad", **¿cómo podrías asegurar que la información que encuentres es de verdad y no una noticia falsa?** Aprender a buscar es como convertirte en un investigador que sabe separar los hechos de los rumores.
+En internet, cualquiera puede publicar lo que quiera. Si solo escribes una palabra en Google y te quedas con el primer resultado, podrías estar aprendiendo algo totalmente falso. ¿Cómo puedes convertirte en un detective digital capaz de separar la información valiosa de la basura?
 
 ## 💡 ¿Cómo funciona esto?
 
-Para buscar como un experto, podemos usar dos "mapas" que nos guían paso a paso:
+Para buscar como un experto, necesitas aplicar estos tres filtros de **Curaduría de Información**:
 
-1.  **Modelo Gavilán**: Es como ser un detective de la información. Primero defines bien qué necesitas saber (La Pregunta), luego buscas las fuentes (Internet o libros), analizas si la información es buena y, finalmente, construyes tu respuesta.
-2.  **Modelo Big6**: Son 6 pasos sencillos para organizar cualquier investigación, desde entender la tarea hasta revisar si el resultado final quedó como esperabas.
+1.  **Saber Preguntar (Operadores)**: No busques como hablas. Si usas comillas (`" "`), Google buscará la frase exacta. Si usas el signo menos (`-`), puedes quitar resultados que no quieres (ejemplo: `Jaguar -animal` para buscar el coche).
+2.  **Verificar la Fuente**: Fíjate quién escribe. ¿Es una universidad (`.edu`), una organización (`.org`) o un sitio de noticias reconocido? Si el sitio está lleno de anuncios de "baja de peso rápido", desconfía.
+3.  **Comparar Datos**: Nunca te quedes con una sola versión. Si tres sitios diferentes y confiables dicen lo mismo, es muy probable que sea verdad.
 
 > [!TIP]
-> **Truco de búsqueda**: Si buscas una frase exacta, ponla entre comillas `" "`. Por ejemplo, si buscas `"Constitución de México"`, el buscador solo te mostrará páginas donde aparezcan esas tres palabras juntas y en ese orden.
+> **Consejo del Mentor**: Wikipedia es genial para empezar, pero recuerda que es una enciclopedia libre. Úsala para encontrar las "fuentes" o enlaces al final del artículo, que es donde está la información original y verificada.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Aplica estos trucos para encontrar exactamente lo que necesitas:
+Pon a prueba tu instinto de detective con estos trucos de búsqueda:
 
-| Herramienta | ¿Cuándo usarla? | Ejemplo Práctico |
+| Si quieres buscar... | Escribe en el buscador... | ¿Qué pasará? |
 | :--- | :--- | :--- |
-| **Comillas " "** | Para buscar nombres o frases exactas. | `"Revolución Mexicana"` |
-| **Signo Menos -** | Para quitar palabras que no te sirven. | `Mercurio -planeta` (si buscas el metal). |
-| **Buscadores Académicos** | Para encontrar libros y artículos serios. | Google Académico. |
-| **Búsqueda por Imagen** | Para saber de dónde viene una foto. | Subir una imagen al buscador para ver su origen. |
+| **Una frase exacta de un libro.** | `"frase que buscas"` | Solo saldrán páginas con esas palabras exactas. |
+| **Información solo de sitios de educación.** | `tema site:.edu` | Solo verás resultados de universidades o escuelas. |
+| **El significado de una palabra.** | `define:palabra` | Te mostrará el diccionario de inmediato. |
+| **Un tipo de archivo específico.** | `tema filetype:pdf` | Solo te mostrará documentos en PDF para leer. |
 
-## 🌍 Reto Real
-A veces circulan noticias en redes sociales que parecen reales pero son mentira.
+## 🌍 En tu mundo
+Todos los días recibimos información por TikTok, WhatsApp o Facebook. Muchas de esas "noticias" son falsas y solo buscan asustar o ganar clics.
 
-**Tu reto**: Imagina que quieres investigar sobre "la alimentación saludable". Escribe una "Pregunta de Investigación" que sea muy específica (no vale solo poner "¿qué comer?"). Debe ser una pregunta que te obligue a buscar en varias páginas para dar una buena respuesta.
+**Tu reto**: Busca una noticia que hayas escuchado recientemente y trata de verificarla usando los trucos que aprendiste. Busca al menos dos fuentes confiables que hablen del tema. ¿Era verdad o era un "bulo" (mentira)?
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
-**1. ¿Cuál es la principal ventaja de seguir un modelo como el Gavilán al hacer una tarea?**
-   - A) Terminar más rápido sin tener que leer nada.
-   - B) Asegurarte de que la información sea confiable y esté bien organizada.
-   - C) Que la computadora escriba la tarea por ti.
-   - D) No tener que usar el internet.
+**1. ¿Para qué sirve poner una búsqueda entre comillas (" ")?**
+   - A) Para que la computadora sepa que es una cita importante.
+   - B) Para buscar la frase exacta y en ese mismo orden.
+   - C) Para que los resultados sean más coloridos.
+   - D) Para borrar el historial de búsqueda.
 
-**2. Si quieres buscar información sobre el animal "Jaguar" pero el buscador solo te muestra anuncios de coches, ¿qué truco usarías?**
-   - A) Escribir JAGUAR en mayúsculas.
-   - B) Escribir `Jaguar -autos`.
-   - C) Buscar "animalito bonito".
-   - D) Reiniciar el navegador.
+**2. ¿Cuál de estas terminaciones de página web suele ser la más confiable para tareas escolares?**
+   - A) .com
+   - B) .edu o .gob
+   - C) .tk
+   - D) .xyz
 
-**3. ¿En qué paso del proceso de búsqueda debes revisar si la página web que encontraste es de una institución confiable?**
-   - A) Al principio, antes de buscar.
-   - B) Durante el análisis de la información.
-   - C) Al final, cuando ya entregaste la tarea.
-   - D) Nunca, todo en internet es verdad.
+**3. Si buscas información sobre un país y el primer resultado es un anuncio, ¿qué debes hacer?**
+   - A) Hacer clic de inmediato porque pagaron por estar ahí.
+   - B) Bajar un poco más para encontrar los resultados orgánicos y confiables.
+   - C) Apagar el Wi-Fi.
+   - D) Comprar lo que el anuncio ofrece.
+
+**4. ¿Qué es una "Fake News"?**
+   - A) Una noticia que es muy vieja.
+   - B) Información falsa diseñada para engañar a las personas y hacerse viral.
+   - C) Un tipo de navegador nuevo.
+   - D) Un virus que borra tus fotos.
+
+**5. El operador `site:.org` sirve para:**
+   - A) Buscar solo en páginas de organizaciones sin fines de lucro.
+   - B) Organizar tus archivos en carpetas.
+   - C) Borrar tu cuenta de redes sociales.
+   - D) Crear una página web nueva.
+
+**6. ¿Por qué es importante comparar la información en al menos tres sitios diferentes?**
+   - A) Para gastar más internet.
+   - B) Para confirmar que los datos son reales y no un error o mentira de un solo sitio.
+   - C) Para ver qué página tiene mejores fotos.
+   - D) No es importante, Google nunca se equivoca.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál es el buscador que más usas y por qué te gusta más que otros?
-2. ¿Alguna vez has compartido una información que resultó ser mentira? ¿Cómo te sentiste?
-3. ¿Por qué crees que es importante citar o decir de dónde sacaste la información en tus trabajos escolares?
+1. ¿Alguna vez te has creído una noticia en internet que resultó ser falsa? ¿Cómo te sentiste?
+2. ¿Qué criterios usas tú para decidir si una página web es "buena" o "mala"?
+3. ¿Por qué crees que a algunas personas les gusta inventar mentiras en internet?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: Se estima que solo el 10% de las personas pasa a la segunda página de resultados de Google. ¡A veces la mejor información está un poquito más escondida!
-- **Para explorar**: Intenta buscar tu propio nombre entre comillas en el buscador. ¿Qué resultados aparecen? Eso es parte de lo que el mundo sabe de ti en la red.
+## 📚 Glosario Maestro
+- **Buscador (Search Engine)**: Sistema informático que busca archivos almacenados en servidores web (ejemplo: Google, Bing).
+- **Palabra Clave (Keyword)**: Término o frase que resume lo que quieres encontrar.
+- **Operadores de Búsqueda**: Símbolos o palabras especiales que ayudan a filtrar y refinar los resultados.
+- **Fuente Confiable**: Sitio web respaldado por instituciones o expertos que verifican su información.
+- **Curaduría de Contenidos**: El arte de buscar, filtrar y organizar la mejor información sobre un tema.
 
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Sherlock Holmes* (Cualquier versión) - Fíjate cómo Sherlock no se queda con lo primero que ve; él observa, analiza las fuentes y conecta las pistas. ¡Exactamente lo que hace un buen investigador digital!
+- **Para explorar**: "Google Dorks para principiantes" en YouTube. Aprenderás trucos avanzados para encontrar cosas increíbles en internet que casi nadie sabe buscar.
+- **Dato curioso**: El primer buscador de internet no fue Google. Se llamaba "Archie" y fue creado en 1990 por un estudiante universitario. No buscaba páginas web (porque casi no había), ¡buscaba listas de archivos para descargar!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. A | 6. B

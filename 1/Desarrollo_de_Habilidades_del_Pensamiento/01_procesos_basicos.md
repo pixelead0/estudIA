@@ -2,7 +2,7 @@
 
 ![Procesos de Pensamiento](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/01_DHP_concepts_basic_processes.png)
 
-## 🚀 El Desafío
+## 🎯 El Reto
 Estás por iniciar un viaje increíble para conocer la herramienta más potente que tienes: **tu propia mente**. Muchas veces pensamos que "pensar" es algo automático que no requiere esfuerzo, pero en realidad es lo que haces cada segundo para decidir desde qué ropa ponerte hasta cómo resolver un problema difícil.
 
 ¿Alguna vez te ha pasado que alguien te pregunta algo y te quedas en silencio un momento, como si estuvieras buscando algo perdido? **Eso es tu mente trabajando**. Imagina que tienes que elegir qué vas a desayunar: tu mente recuerda qué hay en la cocina, qué se te antoja y si tienes tiempo de prepararlo. Todo eso pasa en segundos.
@@ -19,7 +19,7 @@ Pensar es como tener un **centro de operaciones** en tu cabeza donde recibes se�
 > [!TIP]
 > **Dato Clave**: Pensar nos permite resolver problemas antes de que pasen. Es como tener un simulador en tu cabeza para probar qué pasaría si haces una cosa u otra.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
 Vamos a poner a prueba tu mente con un ejercicio de agilidad mental. No necesitas nada más que tu atención:
 
@@ -28,13 +28,14 @@ Vamos a poner a prueba tu mente con un ejercicio de agilidad mental. No necesita
 | **Imagina un ave gigante volando sobre tu casa.** | Creatividad e Imaginación. |
 | **Recuerda el camino de la entrada de tu escuela a tu salón.** | Memoria y Orientación. |
 | **Dime dos cosas en las que se parezcan un lápiz y una pluma.** | Comparación y Relación. |
+| **Decidir qué ropa ponerte según el clima.** | Toma de decisiones. |
 
-## 🌍 Reto Real
+## 🌍 En tu mundo
 Hoy, en un momento cualquiera (como cuando vas a cruzar la calle o cuando vas a comprar algo), trata de notar cuántas cosas pensaste antes de actuar. 
 
-**Tu reto**: Identifica un momento de tu día donde hayas tenido que tomar una decisión rápida. ¿Qué información recibiste y qué decidiste al final?
+**Tu reto**: Identifica un momento de tu día donde hayas tenido que tomar una decisión rápida. ¿Qué información recibiste y qué decidiste al final? ¿Te diste cuenta de los pasos que siguió tu mente?
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
 **1. ¿Qué es lo que mejor describe lo que hacemos cuando pensamos?**
    - A) Copiar exactamente lo que vemos sin cambiar nada.
@@ -45,7 +46,7 @@ Hoy, en un momento cualquiera (como cuando vas a cruzar la calle o cuando vas a 
 **2. ¿Cuál es el primer paso para poder pensar sobre algo que está ocurriendo?**
    - A) Tomar una decisión final.
    - B) Ignorar lo que nos rodea.
-   - C) Percibir u observar la información a través de los sentidos.
+   - C) Percibir u observar la información a través de los sentidos (vista, oído, etc.).
    - D) Olvidar lo que ya sabemos.
 
 **3. ¿Para qué nos sirve "conectar" ideas en nuestra mente?**
@@ -54,6 +55,24 @@ Hoy, en un momento cualquiera (como cuando vas a cruzar la calle o cuando vas a 
    - C) Para que la mente se canse más rápido.
    - D) No tiene ninguna utilidad real.
 
+**4. Cuando imaginas algo que no existe, estás usando un proceso de:**
+   - A) Memoria básica.
+   - B) Creatividad.
+   - C) Olvido.
+   - D) Sueño profundo.
+
+**5. ¿Qué parte del proceso de pensamiento te ayuda a no mojarte cuando ves nubes grises?**
+   - A) Solo observar.
+   - B) Relacionar la nube gris con la lluvia y actuar en consecuencia.
+   - C) Cerrar los ojos.
+   - D) Correr sin rumbo.
+
+**6. ¿Por qué se dice que el cerebro es como un "simulador"?**
+   - A) Porque es una computadora de metal.
+   - B) Porque nos permite imaginar qué pasaría con diferentes decisiones antes de tomarlas en la vida real.
+   - C) Porque solo sirve para jugar videojuegos.
+   - D) Porque no es real.
+
 ## 🏁 Pausa para pensar
 1. ¿En qué momento del día sientes que tu mente está más activa o despejada?
 2. Si tuvieras que explicarle a alguien qué es pensar usando un ejemplo de la vida diaria, ¿cuál elegirías?
@@ -61,6 +80,19 @@ Hoy, en un momento cualquiera (como cuando vas a cruzar la calle o cuando vas a 
 
 ---
 
-## 🌟 Zona Bonus
-- **Para explorar**: Observa cómo los animales resuelven problemas sencillos (como alcanzar comida). Verás que ellos también tienen procesos básicos de pensamiento.
-- **Dato curioso**: Tu cerebro procesa imágenes y señales mucho más rápido de lo que tardas en parpadear. ¡Eres más rápido de lo que crees!
+## 📚 Glosario Maestro
+- **Pensamiento**: Proceso mental por el cual procesamos información y creamos ideas.
+- **Percepción**: La forma en que recibimos información del mundo a través de los sentidos.
+- **Análisis**: Capacidad de separar un problema en partes para entenderlo mejor.
+- **Relación**: Conectar una información nueva con algo que ya sabíamos antes.
+- **Toma de Decisiones**: Resultado final del pensamiento donde elegimos una acción.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Intensamente* (Disney/Pixar) - Una película increíble que muestra cómo funcionan los procesos mentales y las emociones dentro de la cabeza de una niña. ¡Es como ver tu propio centro de operaciones!
+- **Para explorar**: "Cómo funciona el cerebro" en YouTube (Canal: CuriosaMente) para descubrir las conexiones eléctricas que permiten que pienses.
+- **Dato curioso**: Tu cerebro procesa imágenes y señales mucho más rápido de lo que tardas en parpadear. ¡En lo que tú haces un "clic", tu mente ya conectó miles de neuronas para entender lo que estás viendo!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. C | 3. B | 4. B | 5. B | 6. B

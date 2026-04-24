@@ -1,71 +1,100 @@
-# Módulo 07: ¿Qué es valioso para ti?
+# Módulo 07: ¿Qué es lo más importante? (Valores y Axiología)
 
-![Los Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/07_FI_concepts_values.png)
+![Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/07_FI_concepts_axiology.png)
 
-## 🚀 El Desafío
-Imagina que tienes una caja mágica donde solo caben tres cosas. Si tuvieras que elegir entre un millón de pesos, la salud de tu familia o la libertad de decidir tu futuro, ¿con qué te quedarías? 
+## 🎯 El Reto
+Imagina que vas caminando por la calle y encuentras una maleta llena de dinero. Al mismo tiempo, ves que a un anciano se le caen sus medicinas y nadie lo ayuda. Tienes que elegir: o te llevas la maleta (que te daría mucho dinero) o te detienes a ayudar al anciano (que te daría la satisfacción de hacer el bien).
 
-Esa elección no es al azar; depende de tus **Valores**. Los valores son como una brújula interna que te dice qué es importante y qué no lo es tanto. No son cosas que puedas tocar, pero son las que le dan sentido a todo lo que haces. Hoy vamos a descubrir cuáles son los valores que guían tu vida.
+¿Por qué algunas cosas nos parecen "valiosas" y otras no? ¿El dinero vale más que la vida o la salud? El estudio de lo que consideramos importante se llama **Axiología**. Hoy descubriremos que todos tenemos una escala de valores que guía nuestras decisiones, aunque no nos demos cuenta. ¿Qué es lo que tú más valoras en la vida?
 
 ## 💡 ¿Cómo funciona esto?
 
-En filosofía, el estudio de los valores se llama Axiología. Para entender un valor, debemos conocer sus tres características principales:
+Los valores son como las **Gafas de Colores** con las que vemos el mundo. No son cosas que puedas tocar, pero definen cómo actúas:
 
-1.  **Cualidad**: Un valor es una "característica positiva" que le damos a las cosas o personas. No decimos "el valor de la fealdad", sino el valor de la **belleza**.
-2.  **Polaridad**: Todo valor tiene un opuesto (un antivalor). Al valor de la **Justicia** se le opone la Injusticia; a la **Honestidad**, la Mentira. Siempre elegimos entre dos polos.
-3.  **Jerarquía**: No todos los valores valen lo mismo para todos. Para alguien puede ser más importante el **Éxito**, mientras que para otro lo es la **Amistad**. El orden en que ponemos nuestros valores se llama nuestra "Escala de Valores".
+1.  **Valores Económicos**: Lo que nos da utilidad o riqueza (dinero, bienes, éxito).
+2.  **Valores Vitales**: Lo que tiene que ver con la vida y la salud (hacer ejercicio, comer bien, cuidar la naturaleza).
+3.  **Valores Estéticos**: Lo que consideramos bello o armonioso (arte, música, limpieza).
+4.  **Valores Morales**: Lo que nos hace mejores personas y ayuda a los demás (honestidad, respeto, justicia).
+5.  **Valores Intelectuales**: Lo que tiene que ver con el conocimiento y la verdad (estudiar, leer, ser curioso).
 
 > [!TIP]
-> **Tipos de Valores**:
-> *   **Vitales**: Salud, energía, vida.
-> *   **Económicos**: Utilidad, riqueza, ahorro.
-> *   **Estéticos**: Belleza, armonía, arte.
-> *   **Morales**: Bondad, justicia, honestidad, respeto.
+> **Dato de Sabio**: Los valores no son "eternos" en el sentido de que todos piensen igual, pero existen valores universales que casi todas las culturas respetan porque ayudan a la humanidad a sobrevivir y ser feliz.
 
-## 📝 Entrenamiento
+## ✍️ Manos a la obra
 
-Vamos a explorar tu propia brújula interna. Ordena estos 5 valores del 1 (el más importante para ti) al 5 (el menos importante):
+Identifica a qué grupo pertenecen estos valores:
 
-| Valor | Tu lugar (1 al 5) | ¿Por qué es importante para ti? |
+| Valor | Tipo de Valor | ¿Por qué es importante? |
 | :--- | :--- | :--- |
-| **Honestidad** | | |
-| **Amistad** | | |
-| **Éxito Personal** | | |
-| **Salud / Bienestar** | | |
-| **Libertad** | | |
+| **La Salud.** | Vital. | Sin ella no podemos disfrutar nada más de la vida. |
+| **La Sinceridad.** | Moral. | Permite que las personas confíen unas en otras. |
+| **Un celular nuevo.** | Económico. | Es una herramienta útil y tiene un costo. |
+| **Aprender filosofía.** | Intelectual. | Nos ayuda a pensar por nosotros mismos. |
+| **Un atardecer hermoso.** | Estético. | Nos da una sensación de paz y belleza. |
 
-## 🌍 Reto Real
-Tus valores se demuestran en lo que haces con tu tiempo y tu energía.
+## 🌍 En tu mundo
+Tus amigos y tú valoran cosas diferentes. Quizás para alguien lo más importante es ser el mejor en un videojuego (éxito/competencia), mientras que para otro lo más valioso es pasar tiempo con su familia (afecto/lealtad). Ninguno está mal, simplemente tienen gafas de colores diferentes.
 
-**Tu reto**: Piensa en la última vez que sacrificaste algo por un valor (ejemplo: sacrificaste tiempo de juego para ayudar a un amigo). ¿Qué valor estabas siguiendo? Identificar estos momentos te ayudará a conocerte mejor.
+**Tu reto**: Haz una lista de las 5 cosas que más valoras hoy en tu vida. Ordénalas de la más importante a la menos importante. ¡Eso te ayudará a conocerte mejor y a saber por qué tomas las decisiones que tomas!
 
-## 🧠 Desafío Pro
+## 🏆 Reto Final
 
-**1. ¿Qué es lo que estudia la Axiología?**
-   - A) La evolución de los seres vivos.
-   - B) La naturaleza y el significado de los valores.
-   - C) La historia de las guerras mundiales.
-   - D) El funcionamiento de las computadoras.
+**1. ¿Qué estudia la "Axiología"?**
+   - A) Los huesos de los dinosaurios.
+   - B) La naturaleza de los valores y los juicios de valor.
+   - C) Cómo ahorrar dinero en el banco.
+   - D) El clima de las montañas.
 
-**2. ¿A qué se refiere la "Polaridad" de los valores?**
-   - A) A que los valores solo existen en el Polo Norte.
-   - B) A que cada valor tiene un sentido positivo y un antivalor opuesto (negativo).
-   - C) A que los valores cambian según el clima.
-   - D) A que los valores atraen a las personas como imanes.
+**2. ¿Qué es un "Valor"?**
+   - A) El precio de una cosa en la tienda.
+   - B) Una cualidad que hace que algo sea apreciado, preferido o considerado importante por una persona o sociedad.
+   - C) Una regla que se debe seguir a la fuerza.
+   - D) Un tipo de moneda antigua.
 
-**3. ¿Por qué es importante tener una "Jerarquía de Valores"?**
-   - A) Para saber qué es más importante cuando tenemos que tomar una decisión difícil donde chocan dos valores.
-   - B) Para demostrar que somos superiores a los demás.
-   - C) Para que los demás sigan nuestras reglas.
-   - D) Para no tener que pensar en el futuro.
+**3. Si decides no comer chatarra para cuidar tu cuerpo, ¿qué tipo de valor estás priorizando?**
+   - A) Económico.
+   - B) Vital.
+   - C) Estético.
+   - D) Religioso.
+
+**4. ¿Por qué existen "Valores Universales"?**
+   - A) Porque el espacio exterior los inventó.
+   - B) Porque son valores (como el respeto a la vida o la verdad) que ayudan a que cualquier sociedad funcione y progrese en paz.
+   - C) Porque todos tienen que pensar igual.
+   - D) Porque son los más baratos.
+
+**5. El valor de la "Justicia" pertenece al grupo de los valores:**
+   - A) Estéticos.
+   - B) Morales o Éticos.
+   - C) Vitales.
+   - D) Económicos.
+
+**6. ¿Pueden los valores cambiar con el tiempo?**
+   - A) No, son fijos para siempre.
+   - B) Sí, la forma en que las sociedades valoran las cosas puede evolucionar (por ejemplo, hoy valoramos más el cuidado del ambiente que hace 100 años).
+   - C) Solo si el gobierno lo ordena.
+   - D) Solo cambian para los niños.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál es el valor que más admiras en otra persona?
-2. ¿Crees que los valores cambian a medida que crecemos?
-3. Si pudieras regalarle un valor a todo el mundo, ¿cuál elegirías?
+1. ¿Qué valor crees que le hace más falta al mundo hoy en día?
+2. ¿Alguna vez has cambiado de opinión sobre lo que consideras "valioso"?
+3. ¿Cómo crees que el dinero influye en lo que la gente valora?
 
 ---
 
-## 🌟 Zona Bonus
-- **Dato curioso**: Sabías que existen valores universales que casi todas las culturas del mundo respetan, como la búsqueda de la paz y el cuidado de la vida. ¡A pesar de nuestras diferencias, compartimos mucho!
-- **Para explorar**: Escribe tus 3 valores principales en un papel y pégalo en un lugar donde lo veas siempre. Te servirá de brújula cuando no sepas qué decisión tomar.
+## 📚 Glosario Maestro
+- **Axiología**: Rama de la filosofía que estudia la naturaleza de los valores.
+- **Jerarquía de Valores**: Orden de importancia que le damos a nuestros valores personales.
+- **Polaridad**: Característica de los valores de tener siempre un polo positivo y uno negativo (ej. belleza vs. fealdad).
+- **Universalidad**: Valores que son respetados en la mayoría de las culturas del mundo.
+- **Juicio de Valor**: Opinión sobre si algo es bueno, malo, bello o útil basado en nuestros valores.
+
+## 🌟 Zona de Descubrimiento
+- **Para ver**: *Up: Una aventura de altura* (Disney/Pixar) - Al principio, el protagonista valora mucho su casa y sus recuerdos materiales, pero al final descubre que lo más valioso son las personas y las nuevas aventuras. ¡Es una lección de axiología en movimiento!
+- **Para explorar**: Investiga quién fue Max Scheler. Él fue un filósofo que creó una de las "escalas de valores" más famosas de la historia.
+- **Dato curioso**: Sabías que en algunas culturas antiguas, la sal era tan valiosa que se usaba para pagar a los trabajadores. De ahí viene la palabra "Salario". ¡El valor de las cosas depende de lo que la sociedad necesite en ese momento!
+
+---
+
+## 🔑 Respuestas Correctas (Reto Final)
+1. B | 2. B | 3. B | 4. B | 5. B | 6. B
