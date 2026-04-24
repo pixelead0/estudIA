@@ -2,34 +2,34 @@
 
 Usa estas plantillas para estructurar cada sección del archivo Markdown.
 
-## Prompt A: El Hook (Detonador)
-"Actúa como un Profesor del IPN carismático. Crea un 'Detonador' para el tema [TEMA]. Debe ser un problema real o un acertijo visual que atrape a un adolescente de 14 años. Termina con la pregunta: ¿Cómo resolverías esto sin usar [HERRAMIENTA COMÚN]?"
+## Prompt A: El Hook (Activación)
+"Actúa como un mentor experto y carismático. Crea un 'Detonador' para el tema [TEMA]. Debe ser un problema real, un dilema social o un acertijo visual que atrape a un adolescente de 14 años. Evita tecnicismos y enfócate en la curiosidad."
 
-## Prompt B: Explicación de Acto Mental
-"Traduce el concepto técnico de [CONCEPTO] al lenguaje del Acto Mental (Input-Elaboración-Output). Usa una analogía tecnológica (Smartphones, Gaming, IA) que sea relevante para el perfil del estudiante. Mantén un tono profesional pero accesible."
+## Prompt B: Explicación del Proceso (Lógica profunda)
+"Traduce el concepto técnico de [CONCEPTO] a una explicación paso a paso que revele la lógica detrás del tema. Usa una analogía moderna (Tecnología, Gaming, Redes Sociales o situaciones de la vida común) que sea relevante para el estudiante. Mantén un tono desafiante pero accesible."
 
-## Prompt C: Cierre Metacognitivo
-"Diseña 3 preguntas de cierre que fuercen al alumno a pensar sobre su propio pensamiento. 
-1. ¿Qué fue lo que más te costó procesar? 
-2. ¿En qué otra materia podrías usar esta misma lógica? 
-3. Si tuvieras que explicarle esto a tu 'yo' de hace 2 años, ¿qué ejemplo usarías?"
+## Prompt C: Pausa de Reflexión
+"Diseña 3 preguntas que fuercen al alumno a pensar sobre cómo procesó el tema. 
+1. ¿Qué parte del proceso te pareció más lógica y cuál más confusa? 
+2. ¿Dónde podrías aplicar este 'superpoder' mental en tu vida diaria? 
+3. Si tuvieras que explicarle esto a alguien que no sabe nada del tema, ¿qué ejemplo usarías?"
 
 ## Estructura Maestra de Archivo
 ```markdown
-# [Número] - [Título Atractivo]
+# [Número] - [Título de Impacto]
 
-## 🚀 El Desafío (Hook)
+## 🚀 El Desafío (Activación)
 [Contenido del Detonador]
 
-## 🧠 ¿Cómo funciona tu mente? (Teoría)
-[Explicación de Acto Mental]
+## 🧠 ¿Cómo funciona esto? (Lógica)
+[Explicación profunda con analogía]
 
-## 🛠️ Entrenamiento de Poder (Ejercicio)
+## 🛠️ Entrenamiento de Poder (Práctica)
 [Skill: assessment_generator]
 
-## 🌍 Aplicación Real (Comunidad/NEM)
-[Caso práctico]
+## 🌍 En tu Mundo (Aplicación)
+[Caso práctico o reto social]
 
-## 🏁 Checkpoint (Metacognición)
+## 🏁 Pausa para pensar (Reflexión)
 [Preguntas de cierre]
 ```

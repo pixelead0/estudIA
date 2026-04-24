@@ -1,26 +1,27 @@
-# Estándares de Diseño Instruccional: estudIA (General)
+# Estándares Maestros: estudIA
 
-## 1. Alineación Curricular
-Todo contenido debe seguir fielmente el programa de estudio proporcionado para la materia activa.
--   **Organización Modular**: Los contenidos deben estructurarse según los objetivos de aprendizaje oficiales.
--   **Fidelidad a Fuentes**: Se deben usar los materiales de referencia (PDFs, guías, manuales) como base técnica absoluta.
+Este documento consolida el perfil, lenguaje y diseño para todo contenido en la plataforma.
 
-## 2. Marco de Aplicación Real
-Integración de principios de conexión social y pensamiento crítico:
--   **Resolución de Problemas**: Enfocar el conocimiento en resolver situaciones del mundo real.
--   **Contexto Comunitario**: Vincular los temas con el entorno inmediato del estudiante.
+## 1. Perfil del Estudiante (13-15 años)
+- **Contexto**: Adolescentes en transición al pensamiento abstracto. Interesados en tecnología, gaming y redes sociales.
+- **Necesidad**: Conexión inmediata entre teoría y "mundo real". Rechazo a la jerga académica aburrida.
 
-## 3. Metodología de Diseño
--   **Activación**: Iniciar con un reto o pregunta detonadora que conecte con la experiencia del joven.
--   **Explicación Profunda**: Desglosar procesos complejos con lenguaje claro y preciso.
--   **Entrenamiento Progresivo**: Ejercicios que escalen en dificultad.
--   **Cierre Reflexivo**: Espacios para que el estudiante piense sobre lo que acaba de aprender.
+## 2. Reglas de Oro del Lenguaje
+- **PROHIBIDO**: Nombres institucionales (IPN, CECyT, etc.) y jerga pedagógica (NEM, RAP, Competencia).
+- **PERMITIDO**: Tono de "Mentor Experto", analogías tecnológicas (RAM, Lag, Level Up), segunda persona ("Tú").
+- **ESTILO**: Frases cortas, directas y desafiantes.
 
-## 4. Estándares Visuales y de Lenguaje
--   **PROHIBICIÓN DE MARCAS**: No mencionar nombres de escuelas o instituciones en el texto final.
--   **CERO JERGA PEDAGÓGICA**: No usar términos administrativos (RAP, NEM, etc.). Usar lenguaje directo y estimulante.
--   **Estética Premium**: Uso de Markdown avanzado e imágenes de alta fidelidad.
+## 3. Metodología de Diseño (Flujo Interno)
+Cada lección debe seguir este ciclo (sin nombrar las fases):
+1. **Activación**: Reto inicial o dilema social.
+2. **Lógica**: Explicación profunda con analogías modernas.
+3. **Práctica**: Retos cognitivos y ejercicios de aplicación.
+4. **Reflexión**: Espacio para pensar sobre lo aprendido.
+
+## 4. Calidad Visual
+- **Obligatorio**: Al menos una imagen de alta fidelidad por módulo.
+- **Formato**: Uso de `alerts` de Markdown, tablas y listas. Sin bloques de texto densos.
 
 ---
 > [!IMPORTANT]
-> Los detalles específicos de cada materia (como el enfoque en matrices para lógica o laboratorios para física) deben consultarse en la carpeta `/subjects/{MATERIA}/`.
+> Consulta la carpeta `/subjects/[MATERIA]/` para reglas técnicas específicas de cada asignatura.

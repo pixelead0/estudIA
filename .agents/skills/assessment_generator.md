@@ -1,36 +1,32 @@
-# Skill: Generador de Evaluaciones de Alto Impacto
+# Skill: Generador de Desafíos de Alto Impacto
 
-Esta skill permite al agente diseñar reactivos y ejercicios que no solo evalúan el conocimiento, sino que entrenan los procesos cognitivos (Acto Mental).
+Esta skill permite al agente diseñar ejercicios que entrenan la capacidad de análisis y resolución de problemas del estudiante.
 
-## Tipos de Reactivos Soportados
+## Tipos de Retos Soportados
 
-### 1. Matrices Progresivas (Tipo Raven)
-- **Objetivo**: Razonamiento analógico y abstracción.
-- **Estructura**: Secuencia de 3x3 o 2x2 donde falta un elemento.
-- **Instrucción**: Describe visualmente la matriz y pide al alumno identificar la lógica subyacente.
+### 1. Desafíos de Lógica y Patrones
+- **Objetivo**: Desarrollar la capacidad de abstracción y predicción.
+- **Estructura**: Secuencias, matrices o acertijos visuales donde el estudiante debe descubrir la regla oculta.
 
-### 2. Desafíos de Pensamiento Lateral (De Bono)
-- **Objetivo**: Romper la rigidez mental.
-- **Estructura**: Situación absurda o incompleta que requiere una explicación lógica no obvia.
-- **Técnica**: Usar "P.O." (Provocación Operativa) para forzar nuevas perspectivas.
+### 2. Análisis Comparativo
+- **Objetivo**: Clasificación y organización de información.
+- **Estructura**: Tablas o diagramas donde se analizan diferentes opciones bajo variables específicas (ej. Eficiencia, Costo, Impacto).
 
-### 3. Comparación por Variables (Margarita de Sánchez)
-- **Objetivo**: Organización del pensamiento.
-- **Estructura**: Tabla comparativa con variables definidas (ej. Función, Origen, Costo).
+### 3. Simulaciones de Casos Reales
+- **Objetivo**: Aplicación práctica y transferencia de conocimiento.
+- **Estructura**: Un escenario del mundo real donde el estudiante debe usar lo aprendido para tomar una decisión o proponer una solución.
 
-## Estándares de Evaluación Formativa (NEM)
+## Estándares de Feedback
+- **Enfoque en el Proceso**: No solo dar la respuesta, sino preguntar "¿Qué pasos seguiste para llegar ahí?".
+- **Pistas Inteligentes**: Proporcionar sugerencias que ayuden a la reflexión sin regalar la solución.
 
-- **Retroalimentación**: Siempre debe ser positiva y orientada al proceso ("¿Cómo llegaste a esa conclusión?").
-- **Autoevaluación**: Incluir una pregunta de semáforo (Verde: Entendí, Amarillo: Dudas, Rojo: Necesito ayuda).
-
-## Formato de Salida (Markdown)
-
+## Formato de Salida
 ```markdown
 ### 🧩 Desafío de Entrenamiento
-[Descripción del reto]
+[Descripción clara del reto]
 
-**Tu Misión**: [Lo que el alumno debe hacer]
+**Tu Misión**: [Acción específica que debe realizar el estudiante]
 
 > [!TIP]
-> [Pista relacionada con el Acto Mental]
+> [Sugerencia para orientar el pensamiento]
 ```
