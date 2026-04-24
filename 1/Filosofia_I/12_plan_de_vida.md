@@ -9,15 +9,21 @@ Pero la filosofía no sirve de nada si se queda solo en los libros. El verdadero
 
 ## 💡 ¿Cómo funciona esto?
 
+### 1. Los Puntos Cardinales (Tu Mapa Personal)
 Un Plan de Vida es como un **Mapa del Tesoro** que tú mismo dibujas siguiendo estos cuatro puntos cardinales:
+1. **¿Quién soy? (Autoconocimiento)**: Reconoce tus fortalezas, tus gustos y esas "piezas" de identidad que te hacen único.
+2. **¿Qué valoro? (Prioridades)**: Define qué es lo más importante para ti (tu "Penthouse" de valores). Esto será tu guía cuando tengas que tomar decisiones difíciles.
+3. **¿A dónde voy? (Metas)**: Escribe qué quieres lograr a corto plazo (este año), mediano plazo (la prepa) y largo plazo (tu vida profesional y personal).
+4. **¿Cómo lo haré? (Acción Ética)**: Define qué acciones vas a tomar cada día para ser fiel a tus valores y alcanzar tus sueños sin dañar a los demás.
 
-1.  **¿Quién soy? (Autoconocimiento)**: Reconoce tus fortalezas, tus gustos y esas "piezas" de identidad que te hacen único.
-2.  **¿Qué valoro? (Prioridades)**: Define qué es lo más importante para ti (tu "Penthouse" de valores). Esto será tu guía cuando tengas que tomar decisiones difíciles.
-3.  **¿A dónde voy? (Metas)**: Escribe qué quieres lograr a corto plazo (este año), mediano plazo (la prepa) y largo plazo (tu vida profesional y personal).
-4.  **¿Cómo lo haré? (Acción Ética)**: Define qué acciones vas a tomar cada día para ser fiel a tus valores y alcanzar tus sueños sin dañar a los demás.
+### 2. El Guion de tu Película (Misión y Visión)
+Tener un propósito te da una fuerza increíble. La **Misión Personal** es tu declaración de principios hoy (ej: "Mi misión es ser una persona honesta que use su creatividad para ayudar a los animales"). La **Visión** es cómo te ves en el futuro, alcanzando la **Autorrealización** (el logro máximo de tus capacidades).
+
+### 3. Navegando entre tormentas
+Tener un plan no significa que todo sea perfecto o aburrido. Al contrario, tener una brújula clara te da la libertad de explorar nuevos caminos sin perderte. El plan debe ser **flexible**: puedes (y debes) ajustarlo conforme vayas creciendo y descubriendo cosas nuevas. Lo importante es mantener tu **Integridad**: vivir de acuerdo con tus valores en todo momento, incluso cuando nadie te ve.
 
 > [!TIP]
-> **Consejo del Mentor**: No te preocupes si no tienes todas las respuestas hoy. El Plan de Vida es un documento vivo que puedes (y debes) ajustar conforme vayas creciendo. ¡Lo importante es empezar a navegar!
+> **El Secreto del Éxito**: Las personas que tienen metas claras suelen ser más felices porque sienten que su esfuerzo tiene un propósito. Poner tus sueños en papel compromete a tu voluntad y te ayuda a convertir lo invisible en realidad.
 
 ## ✍️ Manos a la obra
 
@@ -30,12 +36,7 @@ Empieza a dibujar tu mapa hoy mismo:
 | **Amigos y Familia.** | Ser un mejor apoyo para los que amo. | Lealtad y Empatía. |
 | **Pasatiempos.** | Aprender un instrumento o deporte nuevo. | Perseverancia y Creatividad. |
 
-## 🌍 En tu mundo
-Tener un Plan de Vida no significa que tu vida sea aburrida o que no puedas improvisar. Al contrario, tener una brújula clara te da la libertad de explorar nuevos caminos sin perderte. Las personas que tienen metas claras suelen ser más felices porque sienten que su esfuerzo tiene un propósito.
-
-**Tu reto**: Escribe tu "Misión Personal" en una sola frase (ejemplo: "Mi misión es ser una persona honesta que use su creatividad para ayudar a los animales"). ¡Ponla en un lugar donde la veas diario y deja que sea tu guía!
-
-## 🏆 Reto Final
+## 🏆 Reto Final: Auditoría de Plan de Vida
 
 **1. ¿Qué es un "Plan de Vida"?**
    - A) Un horario de clases aburrido.
@@ -90,7 +91,6 @@ Tener un Plan de Vida no significa que tu vida sea aburrida o que no puedas impr
 ## 🌟 Zona de Descubrimiento
 - **Para ver**: *Forrest Gump* (Paramount Pictures) - Una película que muestra cómo un hombre, siguiendo siempre sus valores sencillos (honestidad, lealtad, amor), logra cosas increíbles y tiene una vida plena a pesar de los problemas. ¡Una lección de vida en cada escena!
 - **Para explorar**: Crea un "Tablero de Visión" (Vision Board) con imágenes que representen tus metas y sueños. Es una forma visual y poderosa de mantener tu plan de vida presente cada día en tu cuarto.
-- **Dato curioso**: Sabías que muchas de las personas más exitosas del mundo dicen que el momento en que escribieron sus metas por primera vez fue cuando empezaron a hacerse realidad. ¡Poner tus sueños en papel le da fuerza a tu pensamiento y compromete a tu voluntad!
 
 ---
 

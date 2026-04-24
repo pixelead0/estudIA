@@ -5,37 +5,43 @@
 ## 🎯 El Reto
 Imagina que estás en un edificio que se está incendiando (es una simulación, ¡no te asustes!). Tienes tiempo de salvar solo una cosa: tu celular con todas tus fotos, tu perro que está en el rincón, o tu mochila con la tarea final de mañana.
 
-**¿Qué salvas primero?** La respuesta a esta pregunta revela tu **Jerarquía de Valores**. Todos decimos que valoramos la vida, el dinero y el éxito, pero cuando tenemos que elegir, siempre ponemos uno por encima del otro. Construir tu propio "edificio de valores" es lo que te ayuda a no dudar cuando la vida te pone en situaciones difíciles.
+**¿Qué salvas primero?** La respuesta a esta pregunta revela tu **Jerarquía de Valores**. Todos decimos que valoramos la vida, el dinero y el éxito, pero cuando tenemos que elegir, siempre ponemos uno por encima del otro. Construir tu propio "edificio de valores" es lo que te ayuda a no dudar cuando la vida te pone a prueba.
 
 ## 💡 ¿Cómo funciona esto?
 
-Los filósofos dicen que los valores se organizan como un **Edificio de Pisos**:
+### 1. Los Niveles de la Torre (Jerarquía de Valores)
+Los filósofos sugieren que nuestras prioridades se organizan como un edificio:
+- **Planta Baja (Valores Útiles)**: Dinero, tecnología, herramientas. Son necesarios, pero no son el fin de la vida.
+- **Primer Piso (Valores Vitales)**: Tu salud, tu energía, tu vida física.
+- **Segundo Piso (Valores Espirituales)**: La belleza, la justicia, la verdad.
+- **Penthouse (Valores Morales)**: La bondad, la honestidad. Estos son los **Valores Superiores** que realmente nos humanizan.
 
-1.  **Planta Baja (Valores Útiles)**: Lo que nos sirve para algo práctico (dinero, tecnología, herramientas). Son necesarios, pero no son lo más importante.
-2.  **Primer Piso (Valores Vitales)**: Lo que nos mantiene vivos y sanos (salud, comida, aire limpio).
-3.  **Segundo Piso (Valores Espirituales/Intelectuales)**: Lo que alimenta nuestra mente y alma (belleza, verdad, justicia, conocimiento).
-4.  **Penthouse (Valores Morales)**: Lo que nos define como seres humanos excelentes (bondad, honestidad, amor).
+### 2. ¿Por qué elegimos un piso sobre otro?
+Para moverte por este edificio, usas tres herramientas básicas:
+- **Bipolaridad**: Reconoces que cada valor tiene su opuesto (Valiente vs. Cobarde).
+- **Preferencia**: Es el acto de elegir conscientemente un valor de un piso superior sobre uno inferior.
+- **Valores Aprendidos**: Son los principios que has adquirido por tu educación y que se han convertido en los cimientos de tu carácter.
+
+### 3. El Secreto del Arquitecto (El Punto Medio)
+Aristóteles, uno de los más grandes arquitectos del pensamiento, decía que ser bueno no es irse a los extremos. La **Virtud** es el equilibrio perfecto o **Punto Medio** entre dos vicios: el exceso y la deficiencia. Por ejemplo, el valor es el punto medio entre ser cobarde (deficiencia) y ser temerario (exceso que te pone en peligro tontamente).
+
+¿De dónde viene este valor? Hay tres visiones: el **Objetivismo** (está en la cosa), el **Subjetivismo** (está en ti) y la postura **Relacional**, que dice que el valor surge en el encuentro entre tú y lo que valoras.
 
 > [!IMPORTANT]
-> **La Regla de la Base**: No puedes tener un Penthouse si el edificio no tiene cimientos. Valorar el amor es difícil si no tienes salud o comida. Pero quedarse solo en la planta baja (dinero) hace que tu edificio esté incompleto.
+> **Reflexión Social**: Cuando una sociedad solo valora lo económico (la planta baja), descuida la justicia y la honestidad, y el edificio entero se vuelve inestable. ¡Tú decides en qué piso quieres vivir!
 
 ## ✍️ Manos a la obra
 
-Organiza tus propias prioridades en estas situaciones:
+Organiza tus propias prioridades en estas situaciones difíciles:
 
-| Situación difícil | Opción A vs. Opción B | ¿Qué eliges y por qué? |
+| Situación | Opción A vs. Opción B | ¿Qué eliges y por qué? |
 | :--- | :--- | :--- |
-| **Estudiar para un examen vs. Ir a la fiesta.** | Deber vs. Placer. | (Ejemplo: Estudiar, porque mi educación es prioridad). |
-| **Comprar unos tenis vs. Ahorrar para un curso.** | Estética vs. Conocimiento. | (Ejemplo: El curso, porque me servirá para mi futuro). |
-| **Decir la verdad vs. Evitar un regaño.** | Honestidad vs. Comodidad. | (Ejemplo: Decir la verdad, porque mi integridad vale más). |
-| **Ayudar a un amigo vs. Ver tu serie favorita.** | Lealtad vs. Entretenimiento. | (Ejemplo: Ayudar a mi amigo, las personas son primero). |
+| **Estudiar para un examen vs. Ir a la fiesta.** | Deber vs. Placer. | (Ejemplo: Estudiar, mi educación es el Penthouse). |
+| **Comprar unos tenis vs. Ahorrar para un curso.** | Estética vs. Conocimiento. | (Ejemplo: El curso, me ayuda a crecer como persona). |
+| **Decir la verdad vs. Evitar un regaño.** | Honestidad vs. Comodidad. | (Ejemplo: La verdad, mi integridad no tiene precio). |
+| **Ayudar a un amigo vs. Ver tu serie.** | Lealtad vs. Entretenimiento. | (Ejemplo: Ayudar, las personas valen más que las cosas). |
 
-## 🌍 En tu mundo
-A veces nuestras prioridades están "al revés". Quizás valoramos más tener muchos "likes" (valores útiles/sociales) que tener una buena salud mental o ser honestos. Analizar tu jerarquía te permite "remodelar" tu edificio para que vivas más feliz y tranquilo.
-
-**Tu reto**: Dibuja un edificio de 4 pisos y escribe en cada uno los valores que crees que tienes en ese nivel. ¿Qué valor está en tu Penthouse? ¿Hay algo que te gustaría cambiar de lugar? ¡Comparte tu edificio con alguien de confianza!
-
-## 🏆 Reto Final
+## 🏆 Reto Final: Auditoría de Jerarquías
 
 **1. ¿Qué es una "Jerarquía de Valores"?**
    - A) Una lista de precios.
@@ -43,35 +49,59 @@ A veces nuestras prioridades están "al revés". Quizás valoramos más tener mu
    - C) Una ley que prohíbe pensar.
    - D) El nombre de un libro de historia.
 
-**2. Según la filosofía, ¿qué valores suelen estar en la parte superior de la jerarquía?**
-   - A) Los valores económicos (dinero).
-   - B) Los valores morales y espirituales (amor, justicia, verdad).
-   - C) Los valores de diversión (videojuegos).
-   - D) Los valores de moda.
+**2. ¿Qué es la "Bipolaridad" de los valores?**
+   - A) Que los valores cambian de opinión.
+   - B) Que cada valor tiene un polo positivo y un opuesto negativo.
+   - C) Que hay valores que valen doble.
+   - D) Que solo hay dos valores en el mundo.
 
-**3. ¿Por qué es importante tener una jerarquía de valores clara?**
-   - A) Para no tener que pensar nunca más.
-   - B) Para que nos ayude a tomar decisiones difíciles de forma rápida y coherente con lo que somos.
-   - C) Para que los demás nos admiren.
-   - D) Para sacar mejores notas en filosofía.
+**3. ¿Por qué Aristóteles explica que el valor o virtud es el "Punto Medio"?**
+   - A) Porque es más fácil de encontrar.
+   - B) Porque la virtud es el equilibrio entre el exceso y la deficiencia (dos vicios).
+   - C) Porque no le gustaban los extremos.
+   - D) Porque así se ahorra energía.
 
-**4. Si prefieres salvar a tu perro antes que a tu celular en un incendio, estás priorizando:**
+**4. ¿Qué diferencia hay entre los Valores Universales y los Individuales?**
+   - A) Los universales son para todos los humanos; los individuales dependen de cada persona y sus preferencias.
+   - B) Los universales son más caros.
+   - C) Los individuales son para los niños.
+   - D) No hay diferencia.
+
+**5. ¿Qué son los "Valores Aprendidos"?**
+   - A) Los que vienen en los libros.
+   - B) Principios que nos permiten orientar nuestro comportamiento y que adquirimos a través de la educación y la vida.
+   - C) Solo los que te enseñan en la escuela.
+   - D) Los que se compran con dinero.
+
+**6. ¿Cuál es la diferencia entre el Objetivismo, Subjetivismo y la postura Intermedia del valor?**
+   - A) Es una diferencia de precio.
+   - B) El objetivismo dice que el valor está en la cosa; el subjetivismo que depende del sujeto; la intermedia dice que el valor surge en la relación entre ambos.
+   - C) Son tres tipos de religiones.
+   - D) Solo cambian el nombre.
+
+**7. Si prefieres salvar a tu perro antes que a tu celular en un incendio, estás priorizando:**
    - A) Valores Útiles sobre Valores Vitales.
    - B) Valores Vitales (vida) sobre Valores Útiles (objeto).
    - C) Valores Estéticos sobre Valores Morales.
    - D) Nada, fue por instinto.
 
-**5. ¿Puede la jerarquía de valores de una persona cambiar con el tiempo?**
-   - A) No, nacemos con una y se queda así.
-   - B) Sí, a medida que crecemos y vivimos nuevas experiencias, nuestras prioridades pueden cambiar (por ejemplo, valoras más la salud cuando te enfermas).
-   - C) Solo si nos pagan por cambiarla.
-   - D) Solo cambia para los genios.
-
-**6. ¿Qué sucede cuando una sociedad solo valora lo económico (la planta baja del edificio)?**
+**8. ¿Qué sucede cuando una sociedad solo valora lo económico (la planta baja del edificio)?**
    - A) Se vuelve la más feliz del mundo.
    - B) Suele descuidar la justicia, la salud y la honestidad, generando problemas sociales graves.
    - C) No pasa nada, el dinero lo arregla todo.
    - D) Se vuelve más creativa.
+
+**9. ¿Cómo se define la "Preferencia" en axiología?**
+   - A) Querer lo que otros tienen.
+   - B) El acto de elegir un valor superior sobre uno inferior tras una reflexión.
+   - C) Comprar lo más barato.
+   - D) No tener opinión.
+
+**10. ¿Cuál de estos es un ejemplo de bipolaridad valorativa?**
+   - A) Verdad / Mentira.
+   - B) Rojo / Azul.
+   - C) Lunes / Martes.
+   - D) Perro / Gato.
 
 ## 🏁 Pausa para pensar
 1. Si pudieras elegir un solo valor para que fuera el más importante en todo el mundo, ¿cuál sería?
@@ -81,18 +111,16 @@ A veces nuestras prioridades están "al revés". Quizás valoramos más tener mu
 ---
 
 ## 📚 Glosario Maestro
-- **Jerarquía**: Estructura que organiza elementos en niveles de importancia.
-- **Preferencia**: El acto de elegir una cosa sobre otra basado en nuestros valores.
-- **Criterio de Jerarquización**: La razón por la cual ponemos un valor por encima de otro (ej. durabilidad, profundidad).
-- **Valores Superiores**: Aquellos que nos humanizan y no dependen de cosas materiales.
-- **Conflicto de Jerarquías**: Cuando dos personas tienen prioridades diferentes y deben ponerse de acuerdo.
+- **Jerarquía**: Estructura que organiza niveles de importancia.
+- **Preferencia**: El acto de elegir una cosa sobre otra.
+- **Valores Superiores**: Aquellos que nos humanizan.
+- **Punto Medio**: El equilibrio de la virtud.
 
 ## 🌟 Zona de Descubrimiento
-- **Para ver**: *Soul* (Disney/Pixar) - Una película increíble que trata sobre lo que realmente importa en la vida. El protagonista cree que su prioridad es el éxito profesional, pero descubre que los "valores vitales" y las pequeñas chispas de la vida diaria son más valiosas.
-- **Para explorar**: Investiga la "Pirámide de Maslow". Aunque es de psicología, te ayudará a entender por qué primero necesitamos cubrir lo básico para luego pensar en los valores más altos.
-- **Dato curioso**: Sabías que el filósofo Max Scheler decía que los valores morales son "superiores" porque son los únicos que no se gastan cuando los compartes. Si compartes tu dinero, tienes menos; si compartes tu amor o tu honestidad, ¡tienes más!
+- **Dato curioso**: Max Scheler decía que los valores morales no se gastan cuando los compartes. ¡Si compartes amor, tienes más!
+- **Para explorar**: Investiga la "Pirámide de Maslow". Te ayudará a entender por qué primero necesitamos cubrir lo básico para luego pensar en lo más alto.
 
 ---
 
-## 🔑 Respuestas Correctas (Reto Final)
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+## 🔑 Respuestas Correctas
+1. B | 2. B | 3. B | 4. A | 5. B | 6. B | 7. B | 8. B | 9. B | 10. A
