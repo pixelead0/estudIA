@@ -1,25 +1,33 @@
-# Curriculum Map: Filosofía I
+# Mapa Curricular: Filosofía I (Ética)
 
-Este mapa te ayudará a cuestionar, entender y decidir sobre los grandes temas de la vida.
+Este mapa organiza la materia en módulos y sub-módulos para optimizar la carga cognitiva y asegurar el cumplimiento de la guía ETS.
 
-## Bloque 1: Tú y tus decisiones
-- **Módulo 01**: ¿Quién decide por ti? (Filosofía vs Sentido Común, El Sujeto Libre)
-- **Módulo 02**: Lo que está bien y lo que no (Ética, Moral, Hammurabi y Deontología)
-- **Módulo 03.01**: El café con los grandes maestros (Doctrinas Éticas y las 4 preguntas de Kant)
-- **Módulo 03.02**: Las reglas han cambiado (Historia de la Moral, Hammurabi y los dos planos morales)
+## Bloque 1: El Despertar del Pensamiento
+- **Módulo 01**: ¿Quién decide por ti? (Orígenes y el Sujeto Libre)
+- **Módulo 02.01**: Lo que está bien y lo que no (Ética y Moral)
+- **Módulo 02.02**: El Maestro de la Verdad (Sócrates y las Ciencias)
 
-## Bloque 2: Entendiendo nuestro entorno
-- **Módulo 04**: ¿Quién nos enseña a ser quienes somos? (Tipos de Familia y Equidad)
-- **Módulo 05.01**: El piloto de tu vida (El Acto Moral, Libertad y Responsabilidad)
-- **Módulo 05.02**: ¿Soy realmente libre? (Dilemas Éticos, Bioética y Deontología)
-- **Módulo 06**: Convivir en el mundo digital (Ciberética y Tecnología)
+## Bloque 2: Las Reglas del Juego Humano
+- **Módulo 03.01**: Grandes ideas para vivir mejor (Doctrinas Éticas)
+- **Módulo 03.02**: Las reglas han cambiado (Historia de la Moral)
+- **Módulo 04.01**: El Equipo Original (La Familia y el Parentesco)
+- **Módulo 04.02**: Vivir con Dignidad (Equidad y Crisis Familiar)
 
-## Bloque 3: Lo que realmente importa
-- **Módulo 07**: ¿Qué es valioso para ti? (Axiología: Objetivismo vs Subjetivismo)
-- **Módulo 08**: Poniendo orden a nuestras prioridades (Jerarquía y Bipolaridad)
-- **Módulo 09**: Vivir en sociedad con respeto (Derechos Humanos y Sustentabilidad)
+## Bloque 3: Libertad y Responsabilidad
+- **Módulo 05.01**: El piloto de tu vida (El Acto Moral)
+- **Módulo 05.02**: ¿Soy realmente libre? (Dilemas y Bioética)
+- **Módulo 06**: El Futuro y el Planeta (Tecnología y Medio Ambiente)
 
-## Bloque 4: Tu identidad y tu futuro
-- **Módulo 10**: Descubriendo quién eres (Identidad Personal y Dignidad)
-- **Módulo 11**: Tu lugar en tu país y el mundo (Identidad Nacional e Identidad IPN)
-- **Módulo 12**: Proyecto Final: Tu plan de vida
+## Bloque 4: Valores e Identidad
+- **Módulo 07.01**: ¿Qué es valioso para ti? (Axiología y Valores)
+- **Módulo 07.02**: ¿De quién es la verdad? (Objetivismo vs Subjetivismo)
+- **Módulo 08**: Mi edificio de valores (Jerarquías y prioridades)
+- **Módulo 09**: Todos somos iguales (Ciudadanía y Derechos)
+
+## Bloque 5: Quiénes somos y hacia dónde vamos
+- **Módulo 10**: ¿Quién soy yo? (Dignidad e Identidad)
+- **Módulo 11**: Mi casa y mi orgullo (Identidad Nacional e IPN)
+- **Módulo 12**: Mi Plan de Vida (Proyecto Final)
+
+---
+*Nota: Todos los módulos incluyen el 100% de los reactivos de la guía ETS correspondientes a su temática.*

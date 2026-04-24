@@ -9,8 +9,8 @@ def audit_subject(subject_path, target_path):
     with open(map_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Find modules like "- **Módulo 01**: Name"
-    modules = re.findall(r'- \*\*Módulo (\d+)\*\*: (.*)', content)
+    # Find modules like "- **Módulo 01**: Name" or "- **Módulo 02.01**: Name"
+    modules = re.findall(r'- \*\*Módulo ([\d\.]+)\*\*: (.*)', content)
     
     results = []
     
