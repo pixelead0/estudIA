@@ -1,10 +1,11 @@
 # Configuración: estudIA
 
 ## Materia Activa
-- **Nombre**: DHP
-- **Foco**: Cognición y Lógica
-- **Metadata**: [.agents/subjects/DHP/](file:///home/kubrick/www/estudIA/.agents/subjects/DHP/)
-- **Salida**: [DHP/](file:///home/kubrick/www/estudIA/DHP/)
+- **Nombre**: Computación Básica I
+- **Semestre**: 1
+- **Foco**: Alfabetización Digital y Herramientas de Productividad
+- **Metadata**: [.agents/subjects/1/Computacion_Basica_I/](file:///home/kubrick/www/estudIA/.agents/subjects/1/Computacion_Basica_I/)
+- **Salida**: [1/Computacion_Basica_I/](file:///home/kubrick/www/estudIA/1/Computacion_Basica_I/)
 
 ## Rutas Engine
 - **Motor**: `.agents/instructions/`

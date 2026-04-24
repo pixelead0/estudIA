@@ -1,15 +1,24 @@
-# Workflow: Onboarding de Materia
+# Workflow: Onboarding de Nueva Materia
 
-Si el programa no existe en `/subjects/`:
+Sigue este proceso cuando el usuario proporcione un programa de estudio de una materia nueva.
 
-1. **Estructura**: Crea `.agents/subjects/[NOMBRE]/`.
-2. **Assets**: Crea raíz de materia `[NOMBRE]/assets/concepts` y `[NOMBRE]/assets/exercises`.
-3. **Análisis**: Genera en el folder de la materia:
-   - `curriculum_map.md`: Temas divididos en módulos numéricos.
-   - `knowledge_base.md`: Conceptos clave y bibliografía.
-4. **Config**: Establece en `.agents/config.md` la nueva materia como activa.
-5. **Aprobación**: Presenta el mapa al usuario antes de diseñar lecciones.
+## 1. Detección y Estructura
+- **Identificar**: Extrae el nombre de la materia y el **Semestre** (1-6) del documento.
+- **Directorio de Salida**: Crea `[SEMESTRE]/[MATERIA]/`.
+- **Directorio de Engine**: Crea `.agents/subjects/[SEMESTRE]/[MATERIA]/`.
+- **Directorio de Assets**: Crea `assets/[SEMESTRE]/[MATERIA]/`.
+
+## 2. Análisis Técnico (Backstage)
+Genera en `.agents/subjects/[SEMESTRE]/[MATERIA]/`:
+- **`curriculum_map.md`**: Mapa de módulos (00, 01, 02...).
+- **`knowledge_base.md`**: Conceptos y bibliografía.
+- **`specialized_skills.md`**: Habilidades técnicas específicas de la materia.
+
+## 3. Configuración
+- Actualiza `.agents/config.md` con los nuevos datos de **Semestre** y **Materia**.
+- Presenta el mapa al usuario para aprobación.
 
 ---
-> [!NOTE]
-> Mantén el rigor técnico en el análisis interno (Backstage), pero sepáralo totalmente del contenido final.
+> [!IMPORTANT]
+> Todo activo visual debe guardarse siguiendo la convención:
+> `assets/[SEMESTRE]/[MATERIA]/##_[MODULO]_[TIPO: concepts/exercises]_[NOMBRE].png`

@@ -19,4 +19,5 @@ Al generar una imagen, sigue esta estructura de prompt:
 
 ## Instrucción de Implementación
 - Siempre usa el tag `![Descripción](path/to/image.png)` en el Markdown.
-- Los archivos deben guardarse en la carpeta de la materia bajo `/assets/`.
+- Los archivos DEBEN guardarse como:
+  `assets/[SEMESTRE]/[MATERIA]/##_[MODULO]_[TIPO: concepts/exercises]_[NOMBRE].png`
