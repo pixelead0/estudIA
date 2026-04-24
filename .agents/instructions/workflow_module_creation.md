@@ -7,7 +7,7 @@
 5. **Sección 3 (Práctica)**: Genera retos con la skill `assessment_generator.md`.
 6. **Sección 4 (Mundo)**: Crea reto social/comunitario.
 7. **Sección 5 (Pausa)**: Preguntas de reflexión.
-8. **Check Final**: ¿Cero jerga? ¿Cero marcas? ¿Imagen generada? ¿Nombre: `##-tema.md`?
+8. **Expert Quality Gate**: Sigue `instructions/workflow_quality_gate.md` para una auditoría final. Si no pasa el filtro, vuelve al paso necesario.
 
 ---
 > [!IMPORTANT]

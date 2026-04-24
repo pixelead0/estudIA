@@ -8,7 +8,8 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 
 ## 2. Reglas de Oro del Lenguaje
 - **PROHIBIDO**: Nombres institucionales (IPN, CECyT, etc.) y jerga pedagógica (NEM, RAP, Competencia).
-- **PERMITIDO**: Tono de "Mentor Experto", analogías tecnológicas (RAM, Lag, Level Up), segunda persona ("Tú").
+- **PERMITIDO**: Tono de "Mentor Experto", analogías de vida diaria o tecnológicas sencillas (Lag, La Nube, Galería de fotos), segunda persona ("Tú").
+- **CUIDADO**: No asumas que saben qué es una "RAM" o "SSD". Usa "Pizarrón mental" o "Baúl de recuerdos".
 - **ESTILO**: Frases cortas, directas y desafiantes.
 
 ## 3. Metodología de Diseño (Flujo Interno)

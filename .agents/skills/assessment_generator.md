@@ -16,6 +16,12 @@ Esta skill permite al agente diseñar ejercicios que entrenan la capacidad de an
 - **Objetivo**: Aplicación práctica y transferencia de conocimiento.
 - **Estructura**: Un escenario del mundo real donde el estudiante debe usar lo aprendido para tomar una decisión o proponer una solución.
 
+### 4. Desafío Pro (Estilo Evaluación Oficial)
+- **Objetivo**: Preparar para el examen final sin mencionarlo.
+- **Estructura**: Preguntas de opción múltiple con distractores inteligentes.
+- **Rigor**: Deben ser reactivos extraídos o inspirados directamente en la guía oficial de la materia.
+- **Nombre**: NUNCA usar "ETS" o "Examen". Usar "Boss Fight", "Nivel Experto" o "Desafío Pro".
+
 ## Estándares de Feedback
 - **Enfoque en el Proceso**: No solo dar la respuesta, sino preguntar "¿Qué pasos seguiste para llegar ahí?".
 - **Pistas Inteligentes**: Proporcionar sugerencias que ayuden a la reflexión sin regalar la solución.
