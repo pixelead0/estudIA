@@ -1,102 +1,91 @@
 # Módulo 08: Mi edificio de valores (Jerarquías y prioridades)
 
-![Prioridades de Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/08_FI_concepts_values_hierarchy.png)
+![Jerarquía de Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/08_FI_concepts_values_hierarchy.png)
 
 ## 🎯 El Reto
-Imagina que estás en un edificio que se está incendiando (es una simulación, ¡no te asustes!). Tienes tiempo de salvar solo una cosa: tu celular con todas tus fotos, tu perro que está en el rincón, o tu mochila con la tarea final de mañana.
-
-**¿Qué salvas primero?** La respuesta a esta pregunta revela tu **Jerarquía de Valores**. Todos decimos que valoramos la vida, el dinero y el éxito, pero cuando tenemos que elegir, siempre ponemos uno por encima del otro. Construir tu propio "edificio de valores" es lo que te ayuda a no dudar cuando la vida te pone a prueba.
+Imagina que tu vida es un edificio. Cada piso representa algo que te importa. ¿Qué pondrías en los cimientos y qué pondrías en el penthouse? Hoy vamos a aprender a organizar nuestros valores para que, cuando la vida se ponga difícil, sepas exactamente qué proteger primero. No todos los valores valen lo mismo en todas las situaciones, y aprender a priorizarlos es lo que nos hace adultos responsables.
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. Los Niveles de la Torre (Jerarquía de Valores)
-Los filósofos sugieren que nuestras prioridades se organizan como un edificio:
-- **Planta Baja (Valores Útiles)**: Dinero, tecnología, herramientas. Son necesarios, pero no son el fin de la vida.
-- **Primer Piso (Valores Vitales)**: Tu salud, tu energía, tu vida física.
-- **Segundo Piso (Valores Espirituales)**: La belleza, la justicia, la verdad.
-- **Penthouse (Valores Morales)**: La bondad, la honestidad. Estos son los **Valores Superiores** que realmente nos humanizan.
+### 1. El Orden de los Tesoros (Jerarquía)
+Los valores no están todos al mismo nivel. La **Jerarquía de Valores** es el orden de importancia que les damos(1). Algunos son más duraderos y profundos que otros. Un **valor superior** es aquel que es más duradero, indivisible y sirve de base para otros valores(5). Por ejemplo, la **Dignidad Humana** suele estar por encima del éxito económico en un edificio de valores bien construido.
 
-### 2. ¿Por qué elegimos un piso sobre otro?
-Para moverte por este edificio, usas tres herramientas básicas:
-- **Bipolaridad**: Reconoces que cada valor tiene su opuesto (Valiente vs. Cobarde).
-- **Preferencia**: Es el acto de elegir conscientemente un valor de un piso superior sobre uno inferior.
-- **Valores Aprendidos**: Son los principios que has adquirido por tu educación y que se han convertido en los cimientos de tu carácter.
+### 2. El Mapa de los Opuestos (Bipolaridad)
+Todos los valores tienen un polo positivo y uno negativo(2). Esto se llama **Bipolaridad**. Si existe la justicia, existe la injusticia. Si existe la belleza, existe la fealdad. Aprender a valorar significa elegir conscientemente el polo que nos humaniza y rechazar el que nos daña.
 
-### 3. El Secreto del Arquitecto (El Punto Medio)
-Aristóteles, uno de los más grandes arquitectos del pensamiento, decía que ser bueno no es irse a los extremos. La **Virtud** es el equilibrio perfecto o **Punto Medio** entre dos vicios: el exceso y la deficiencia. Por ejemplo, el valor es el punto medio entre ser cobarde (deficiencia) y ser temerario (exceso que te pone en peligro tontamente).
+### 3. ¿Cómo decidir qué va primero?
+Para construir tu jerarquía, debes usar un criterio. El principio que debe orientar siempre tu toma de decisiones es el **bienestar de todos los seres humanos** y el respeto a la dignidad propia y ajena(3). Una jerarquía sana se construye a través de la reflexión, la experiencia y el compromiso con el bien humano(6). Cuando no sabemos qué es lo más importante y confundimos los valores inferiores con los superiores, caemos en una **Crisis de Valores**(4).
 
-¿De dónde viene este valor? Hay tres visiones: el **Objetivismo** (está en la cosa), el **Subjetivismo** (está en ti) y la postura **Relacional**, que dice que el valor surge en el encuentro entre tú y lo que valoras.
-
-> [!IMPORTANT]
-> **Reflexión Social**: Cuando una sociedad solo valora lo económico (la planta baja), descuida la justicia y la honestidad, y el edificio entero se vuelve inestable. ¡Tú decides en qué piso quieres vivir!
+> [!TIP]
+> **Dato Clave**: Tu jerarquía de valores es como tu huella digital ética: es única y define quién eres realmente ante los problemas del mundo.
 
 ## ✍️ Manos a la obra
 
-Organiza tus propias prioridades en estas situaciones difíciles:
+Organiza estos valores de lo más importante (1) a lo menos importante (4) para ti hoy:
 
-| Situación | Opción A vs. Opción B | ¿Qué eliges y por qué? |
+| Valor | Nivel de importancia | ¿Por qué? |
 | :--- | :--- | :--- |
-| **Estudiar para un examen vs. Ir a la fiesta.** | Deber vs. Placer. | (Ejemplo: Estudiar, mi educación es el Penthouse). |
-| **Comprar unos tenis vs. Ahorrar para un curso.** | Estética vs. Conocimiento. | (Ejemplo: El curso, me ayuda a crecer como persona). |
-| **Decir la verdad vs. Evitar un regaño.** | Honestidad vs. Comodidad. | (Ejemplo: La verdad, mi integridad no tiene precio). |
-| **Ayudar a un amigo vs. Ver tu serie.** | Lealtad vs. Entretenimiento. | (Ejemplo: Ayudar, las personas valen más que las cosas). |
+| **Salud física.** | | |
+| **Amistad / Lealtad.** | | |
+| **Éxito académico.** | | |
+| **Honestidad.** | | |
 
 ## 🌍 En tu mundo
-Cada vez que decides no comprar algo innecesario para ahorrar para tus estudios, estás moviéndote en la jerarquía de tus valores. En tu comunidad, esto se ve cuando un grupo de personas prefiere donar tiempo para mejorar la escuela de la colonia en lugar de gastarlo solo en su propio beneficio. Tu "jerarquía" personal es lo que determina si eres alguien que solo busca su comodidad o alguien que construye un futuro para todos.
+Tú aplicas la jerarquía de valores cada vez que decides decir la verdad aunque eso signifique una mala nota, o cuando decides ayudar a un amigo en lugar de ver una serie. Estás poniendo la **Honestidad** o la **Lealtad** por encima del placer momentáneo(1). En tu comunidad, esto se traduce en elegir líderes que valoren el bien común por encima de su propio beneficio. Tu edificio de valores es lo que te mantiene en pie ante las tormentas de la vida.
 
 ## 🏆 Reto Final
 
-1. ¿Qué es una "Jerarquía de Valores"?
+1. ¿Qué es la "Jerarquía de Valores"?
    - A) Una lista de precios.
-   - B) El orden de importancia que cada persona o sociedad le da a sus valores.
-   - C) Una ley que prohíbe pensar.
-   - D) El nombre de un libro de historia.
+   - B) El orden de importancia que le damos a los valores según su calidad y duración.
+   - C) Una regla del ejército.
+   - D) No tiene significado en ética.
 
-2. ¿Qué es la "Bipolaridad" de los valores?
-   - A) Que los valores cambian de opinión.
-   - B) Que cada valor tiene un polo positivo y un opuesto negativo.
-   - C) Que hay valores que valen doble.
-   - D) Que solo hay dos valores en el mundo.
+2. ¿Qué significa la "Bipolaridad" de los valores?
+   - A) Que los valores cambian de humor.
+   - B) Que cada valor tiene un polo positivo y un polo negativo (opuesto).
+   - C) Que hay dos tipos de valores solamente.
+   - D) Que los valores son eléctricos.
 
-3. ¿Por qué Aristóteles explica que el valor o virtud es el "Punto Medio"?
-   - A) Porque es más fácil de encontrar.
-   - B) Porque la virtud es el equilibrio entre el exceso y la deficiencia (dos vicios).
-   - C) Porque no le gustaban los extremos.
-   - D) Porque así se ahorra energía.
+3. ¿Cuál es el principio que debe orientar la jerarquía de valores?
+   - A) Lo que me de más dinero.
+   - B) El bienestar de todos los seres humanos y el respeto a la dignidad.
+   - C) Lo que sea más divertido.
+   - D) Lo que diga la televisión.
 
-4. ¿Qué diferencia hay entre los Valores Universales y los Individuales?
-   - A) Los universales son para todos los humanos; los individuales dependen de cada persona y sus preferencias.
-   - B) Los universales son más caros.
-   - C) Los individuales son para los niños.
-   - D) No hay diferencia.
+4. ¿A qué se le denomina "Crisis de Valores" en relación con la jerarquía?
+   - A) A que no sabemos qué es lo más importante y confundimos los valores inferiores con los superiores.
+   - B) A que los valores son muy caros.
+   - C) A que ya no hay valores en el mundo.
+   - D) No existe tal crisis.
 
-5. ¿Qué son los "Valores Aprendidos"?
-   - A) Los que vienen en los libros.
-   - B) Principios que nos permiten orientar nuestro comportamiento y que adquirimos a través de la educación y la vida.
-   - C) Solo los que te enseñan en la escuela.
-   - D) Los que se compran con dinero.
+5. ¿Cuál es la característica de un valor superior?
+   - A) Que es más grande físicamente.
+   - B) Que es más duradero, indivisible y fundamenta a otros valores.
+   - C) Que todos lo tienen.
+   - D) Que se puede comprar.
 
-6. ¿Cuál es la diferencia entre el Objetivismo, Subjetivismo y la postura Intermedia del valor?
-   - A) Es una diferencia de precio.
-   - B) El objetivismo dice que el valor está en la cosa; el subjetivismo que depende del sujeto; la intermedia dice que el valor surge en la relación entre ambos.
-   - C) Son tres tipos de religiones.
-   - D) Solo cambian el nombre.
+6. ¿Cómo se construye una jerarquía de valores sana?
+   - A) Copiando la de otros.
+   - B) A través de la reflexión, la experiencia y el compromiso con el bien humano.
+   - C) Siguiendo los impulsos.
+   - D) No se construye, se nace con ella.
 
 ## 🏁 Pausa para pensar
-1. Si pudieras elegir un solo valor para que fuera el más importante en todo el mundo, ¿cuál sería?
-2. ¿Qué crees que pasaría si todos pusiéramos la "honestidad" en el Penthouse de nuestro edificio?
-3. ¿Cómo crees que la publicidad intenta cambiar tus prioridades de valores?
+1. Si tu edificio de valores tuviera solo 3 pisos, ¿cuáles serían?
+2. ¿Qué valor crees que es el más "bipolar" (que tiene el opuesto más fuerte)?
+3. ¿Por qué crees que a veces es difícil mantener la jerarquía de valores ante la presión de los amigos?
 
 ## 📚 Glosario Maestro
-- **Jerarquía**: Estructura que organiza niveles de importancia.
-- **Preferencia**: El acto de elegir una cosa sobre otra.
-- **Valores Superiores**: Aquellos que nos humanizan.
-- **Punto Medio**: El equilibrio de la virtud.
+- **Jerarquía**: Orden de niveles.
+- **Bipolaridad**: Existencia de opuestos.
+- **Preferencia**: Acto de elegir un valor sobre otro.
+- **Valor Superior**: Valor con mayor peso ético.
 
 ## 🌟 Zona de Descubrimiento
-- **Dato curioso**: Max Scheler decía que los valores morales no se gastan cuando los compartes. ¡Si compartes amor, tienes más!
-- **Para ver**: Busca "Experimento social sobre la jerarquía de valores" en YouTube para ver cómo decide la gente en situaciones reales.
-- **Para explorar**: Investiga la "Pirámide de Maslow". Te ayudará a entender por qué primero necesitamos cubrir lo básico para luego pensar en lo más alto.
+- **Dato curioso**: El filósofo Max Scheler propuso una jerarquía que iba desde los valores de "lo agradable" (comida, comodidad) hasta los valores "religiosos" o "espirituales" (justicia, verdad).
+- **Para ver**: Busca "Jerarquía de valores" en YouTube para ver diferentes ejemplos de cómo organizar tus prioridades.
+- **Para explorar**: Trata de identificar cuál es el valor que está en la base de todas tus decisiones importantes esta semana.
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. A | 5. B | 6. B

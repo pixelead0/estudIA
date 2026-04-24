@@ -8,20 +8,20 @@ Has llegado al final de este viaje por la Filosofía y la Ética. Pero en realid
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. El Arquitecto de su Destino
-Un plan de vida no es una lista de deseos; es un compromiso ético contigo mismo. Para diseñarlo, debes considerar:
-- **Tus Valores**: ¿Qué es lo que realmente te importa (Penthouse de tu edificio)?
-- **Tu Vocación**: ¿Cómo vas a poner "la técnica al servicio de la patria"?
+Un plan de vida no es una lista de deseos; es un compromiso ético contigo mismo para orientar tu libertad con responsabilidad(1). Para diseñarlo, debes considerar:
+- **Tus Valores**: Son los cimientos que determinan tus decisiones y qué tipo de persona serás(2).
+- **Tu Vocación**: ¿Cómo vas a poner "la técnica al servicio de la patria"? Tus conocimientos científicos deben buscar el bienestar de tu sociedad(3).
 - **Tu Responsabilidad**: ¿Qué consecuencias quieres dejar en el mundo?
 
 ### 2. Integrando los Saberes
-Para que tu plan sea sólido, debe responder a las 4 preguntas de Kant:
+Para que tu plan sea sólido, debes usar tu **Conciencia Crítica** para evaluar tus opciones y no dejarte llevar por impulsos(4). Tu plan debe responder a las 4 preguntas de Kant:
 1.  **¿Qué puedo conocer?**: (Tu preparación académica).
 2.  **¿Qué debo hacer?**: (Tu compromiso ético y moral).
 3.  **¿Qué me es permitido esperar?**: (Tus metas y sueños).
 4.  **¿Qué es el hombre?**: (Tu visión de quién quieres llegar a ser).
 
 ### 3. La Brújula de la Integridad
-Recuerda que la ética es el "arte de vivir". Tu plan de vida debe buscar la **Felicidad** (Eudemonismo) a través de la virtud y el respeto a la dignidad de los demás. No busques solo el éxito económico; busca la **Alegría** de ser alguien que aporta algo valioso a la sociedad.
+Recordemos que la ética es el "arte de vivir". Lo contrario de ser un "imbécil moral" es tener conciencia y fijarse en si lo que se hace es realmente lo que se quiere(6). La recompensa más alta de actuar con integridad es la **Alegría** de saber que estás construyendo tu ser de forma digna y justa(5).
 
 ## ✍️ Manos a la obra
 
@@ -29,13 +29,13 @@ Define los pilares de tu futuro:
 
 | Área de Vida | Mi Objetivo Ético | ¿Qué valor aplicaré? |
 | :--- | :--- | :--- |
-| **Estudios / Carrera.** | Usar mis conocimientos para ayudar. | Responsabilidad / Servicio. |
+| **Estudios / Carrera.** | Usar mis conocimientos para ayudar(3). | Responsabilidad / Servicio. |
 | **Relaciones / Familia.** | Construir vínculos de respeto. | Lealtad / Amor. |
 | **Sociedad / Comunidad.** | Ser un ciudadano honesto. | Justicia / Integridad. |
 | **Personal / Salud.** | Cuidar mi cuerpo y mi mente. | Templanza / Respeto. |
 
 ## 🌍 En tu mundo
-Tu plan de vida no es algo que se quede guardado en un cajón; es lo que te ayuda a decidir hoy mismo si vas a estudiar para ese examen o si vas a ayudar a un vecino. En tu comunidad, alguien con un plan de vida claro es alguien que inspira a los demás a ser mejores. Tú eres el autor de la historia que México necesita leer.
+Tu plan de vida no es algo que se quede guardado en un cajón; es lo que te ayuda a decidir hoy mismo si vas a estudiar para ese examen o si vas a ayudar a un vecino(1). En tu comunidad, alguien con un plan de vida claro es alguien que inspira a los demás a ser mejores. Tú eres el autor de la historia que México necesita leer(3).
 
 ## 🏆 Reto Final
 

@@ -8,25 +8,25 @@ Imagina que estamos en el año 2015, en París. Líderes de todo el mundo están
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. El Termómetro del Mundo (COP21)
-En la cumbre de París de 2015 (**COP21**), se discutió la continuidad de la vida en el planeta. El **recalentamiento global** se debe a la emisión de **Gases de Efecto Invernadero** por la industria y los combustibles fósiles. Los científicos advirtieron: si la temperatura sube **2 grados** más, se romperá la cadena de la vida. Por eso es urgente que las empresas tengan un **Código de Ética Sustentable**.
+En la cumbre de París de 2015 (**COP21**), se discutió la continuidad de la vida en el planeta y el freno al cambio climático(1). El **recalentamiento global** se debe a la emisión de **Gases de Efecto Invernadero** por la industria y los combustibles fósiles(2). Los científicos advirtieron: si la temperatura sube **2 grados** más, se romperá la cadena de la vida(3). Por eso es urgente que las empresas tengan un **Código de Ética Sustentable**(4).
 
 ### 2. ¿Qué hay en nuestra despensa? (Recursos Naturales)
-Los recursos se distribuyen en:
+Los recursos se distribuyen en(8):
 - **Renovables**: Sol, viento (se regeneran rápido).
 - **Potencialmente renovables**: Agua, bosques (se agotan si no se cuidan).
 - **No Renovables**: Petróleo, minerales (una vez usados, se acaban).
 
 ### 3. Progreso con Conciencia
 Debemos distinguir entre:
-- **Desarrollo Sustentable**: Satisface las necesidades del presente sin comprometer a las futuras generaciones (uso de recursos).
-- **Desarrollo Sostenible**: Incluye también factores sociales y económicos de largo plazo.
+- **Desarrollo Sustentable**: Satisface las necesidades del presente sin comprometer a las futuras generaciones(5). Se enfoca en el uso responsable de recursos naturales(6).
+- **Desarrollo Sostenible**: Incluye también factores sociales y económicos de largo plazo para asegurar la continuidad de la vida(6).
 
 ### 4. Ramas del Futuro
-- **Bioética**: Rama que une la biología con la ética para resolver dilemas de la vida y la medicina.
-- **Ciencia y Tecnología**: Son un "arma de doble filo". Tienen ventajas (avances médicos, comunicación) y desventajas (contaminación, desempleo por automatización). El único criterio de valor ético que debe orientarlas es el **bienestar de todos los seres humanos**.
+- **Bioética**: Rama de la ética que estudia los problemas morales relacionados con la vida y la biología (medicina, genética)(10).
+- **Ciencia y Tecnología**: Son un **arma de doble filo**(12). Tienen ventajas (avances médicos, comunicación) y desventajas (contaminación, desempleo)(7). El único criterio de valor ético que debe orientarlas es el **bienestar de todos los seres humanos** y la protección de la vida(9).
 
 > [!TIP]
-> **Deontología**: Es la rama que estudia los deberes y la ética de las profesiones. ¡Toda tecnología necesita un profesional con ética!
+> **Deontología**: Es la rama de la ética que trata de los **deberes** que rigen una actividad profesional(11). ¡Toda tecnología necesita un profesional con ética!
 
 ## ✍️ Manos a la obra
 
@@ -40,7 +40,7 @@ Analiza el impacto de la tecnología:
 | **Internet.** | Comunicación global. | Huella de carbono por centros de datos. |
 
 ## 🌍 En tu mundo
-Tú eres un guardián del planeta cada vez que decides reducir tu consumo o usar la tecnología para informarte y no para dañar. En tu comunidad, esto se traduce en cuidar los recursos naturales de tu zona y exigir que la industria local sea responsable. Tu futuro depende de la ética con la que tratemos a la naturaleza hoy.
+Tú eres un guardián del planeta cada vez que decides reducir tu consumo o usar la tecnología para informarte y no para dañar(12). En tu comunidad, esto se traduce en cuidar los recursos naturales de tu zona y exigir que la industria local sea responsable(4). Tu futuro depende de la ética con la que tratemos a la naturaleza hoy.
 
 ## 🏆 Reto Final
 

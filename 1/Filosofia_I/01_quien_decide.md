@@ -10,33 +10,31 @@ Ese fue el nacimiento de la **Filosofía**. Hoy vamos a viajar al origen de la c
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. El Gran Despertar: Del Miedo al Porqué
-La Filosofía surgió en la antigua Grecia, específicamente en la ciudad de **Mileto** alrededor del **siglo VI a.C.** Etimológicamente, viene del griego *Philos* (Amor) y *Sophia* (Sabiduría): es el **amor por la sabiduría**. Surgió porque el hombre sintió curiosidad, asombro y admiración ante los misterios del mundo.
+La Filosofía surgió en la antigua Grecia, específicamente en la ciudad de **Mileto** (Grecia, siglo VI a.C.)(1). Etimológicamente, viene del griego *Philos* (Amor) y *Sophia* (Sabiduría): es el **amor por la sabiduría**(2). Surgió porque el hombre sintió curiosidad, asombro y admiración ante los misterios del mundo(6). Tales de Mileto es considerado el fundador de este camino(3).
 
-A este cambio lo llamamos el **"Paso del Mito al Logos"**. Mientras que el **Mito** usa la magia, la fantasía y la religión para explicar el mundo, el **Logos** usa la reflexión racional y la lógica. Fue **Pitágoras** quien inventó la palabra "Filosofía", definiéndola como una búsqueda constante de la verdad, no como su posesión.
+A este cambio radical lo llamamos el **"Paso del Mito al Logos"**(12). Mientras que el **Mito** usa la magia, la fantasía y la religión para explicar el mundo, el **Logos** usa la reflexión racional y la lógica(9). Fue **Pitágoras** quien inventó la palabra "Filosofía"(8), definiéndola como una búsqueda constante de la verdad, no como su posesión.
 
 ### 2. La Búsqueda del Ingrediente Secreto (El Arjé)
-Los primeros pensadores que rompieron con los mitos fueron los **Presocráticos**. Ellos buscaron el **Arjé**: el principio original de todas las cosas. A diferencia de los **Sofistas** (maestros de la retórica que cobraban por convencer), los filósofos clásicos como **Sócrates, Platón y Aristóteles** buscaban la verdad de forma desinteresada.
+Los primeros pensadores que rompieron con los mitos a través de la reflexión racional(10) fueron los **Presocráticos**(7). Ellos buscaron el **Arjé**: el principio o elemento original de todas las cosas(11). A diferencia de los **Sofistas** (maestros de la retórica que cobraban por convencer)(7), los filósofos clásicos como **Sócrates, Platón y Aristóteles**(13) buscaban la verdad de forma desinteresada.
 
-El **Quehacer del filósofo** es precisamente ese: buscar las causas últimas de la realidad a través de la crítica y la razón. Por eso la filosofía es una **ciencia fáctica**: porque parte de los hechos reales para analizarlos racionalmente. Sus principales problemas son el **ser**, el **conocimiento**, la **verdad** y la **existencia**.
+El **Quehacer del filósofo** es precisamente ese: buscar las causas últimas de la realidad a través de la crítica y la razón(4). Por eso la filosofía es una **ciencia fáctica**(23): porque parte de los hechos reales para analizarlos racionalmente. Sus principales problemas son el **ser**, el **conocimiento**, la **verdad** y la **existencia**(15). Tiene características únicas: es crítica, racional, metódica y universal(5).
 
 ### 3. ¿Qué es ser humano?
-La filosofía nos diferencia del reino animal por nuestra **reflexión racional** y **autoconciencia**. Existen varias visiones:
-- **Clásica (Aristóteles)**: Animal político y racional.
-- **Homo Faber**: Ser que fabrica herramientas y transforma la naturaleza.
-- **Homo Transformador (Marx)**: Ser definido por su trabajo y su capacidad de cambiar la sociedad.
-- **Trascendentalista**: Creen en un alma que supera la materia.
-- **Inmanentista**: Somos pura biología y materia.
+La filosofía nos diferencia del reino animal por nuestra **reflexión racional** y **autoconciencia**(16). Existen varias visiones sobre el concepto de hombre:
+- **Clásica (Aristóteles)**: Animal político y racional que busca la felicidad(17).
+- **Homo Faber**: Ser que fabrica herramientas y transforma la naturaleza(14).
+- **Homo Transformador (Marx)**: Ser definido por su trabajo y su capacidad de cambiar la sociedad(18).
 - **Existencialista (Sartre)**: El hombre es un **proyecto** libre; somos lo que hacemos con nuestra vida.
 
 ### 4. Los Lentes del Saber
-Existen cuatro tipos principales de conocimiento:
+Existen cuatro tipos principales de conocimiento(19):
 1.  **Empírico**: Basado en la experiencia diaria y los sentidos.
 2.  **Religioso**: Basado en la fe y dogmas.
 3.  **Filosófico**: Basado en la razón pura y la búsqueda de causas últimas.
 4.  **Científico**: Basado en el método, la experimentación y la comprobación.
 
 > [!NOTE]
-> **Reflexión**: El hombre hace Filosofía porque necesita entenderse, y la Filosofía hace al hombre porque lo libera de sus prejuicios. Como dice la frase: "quien no tiene barniz de filosofía, va por la vida prisionero de sus propios prejuicios".
+> **Reflexión**: El hombre hace Filosofía porque necesita entenderse, y la Filosofía hace al hombre porque lo libera de sus prejuicios(22). Como dice la frase: "quien no tiene barniz de filosofía, va por la vida prisionero de sus propios prejuicios"(21). Estamos sujetos a una **programación biológica** (instintos) y **cultural** (aprendizaje social)(20).
 
 ## ✍️ Manos a la obra
 
@@ -50,7 +48,7 @@ Identifica el tipo de explicación:
 | **"Me pregunto qué es la justicia."** | Logos / Filosofía. | Busca la esencia de un concepto racional. |
 
 ## 🌍 En tu mundo
-Filosofar no es estar en las nubes; es aprender a hackear tu **programación cultural** (lo que la sociedad te dice que seas) y tu **programación biológica** (tus instintos). Cada vez que te detienes a pensar "¿realmente quiero hacer esto o solo sigo a los demás?", estás usando el Logos para ser el dueño de tu vida en tu colonia, con tus amigos y en tu futuro.
+Filosofar no es estar en las nubes; es aprender a hackear tu **programación cultural** (lo que la sociedad te dice que seas) y tu **programación biológica** (tus instintos)(20). Cada vez que te detienes a pensar "¿realmente quiero hacer esto o solo sigo a los demás?", estás usando el Logos para ser el dueño de tu vida en tu colonia, con tus amigos y en tu futuro.
 
 ## 🏆 Reto Final
 
@@ -206,7 +204,7 @@ Filosofar no es estar en las nubes; es aprender a hackear tu **programación cul
 
 ## 🌟 Zona de Descubrimiento
 - **Dato curioso**: Tales de Mileto predijo un eclipse solar en el año 585 a.C. ¡Usó la razón para entender el cielo!
-- **Para ver**: Busca en YouTube "El origen de la filosofía: del mito al logos" para ver una animación de este gran cambio.
+- **Para ver**: Busca "El origen de la filosofía: del mito al logos" para ver una animación de este gran cambio.
 - **Para explorar**: Investiga sobre la "Alegoría de la Caverna" de Platón. Es la mejor forma de entender cómo pasamos de las sombras a la verdad.
 
 ## 🔑 Respuestas Correctas

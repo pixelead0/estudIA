@@ -8,26 +8,26 @@ Imagina que te despiertas en un mundo donde no tienes derecho a decir lo que pie
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. Las Raíces de la Libertad (Revolución Francesa)
-La base de nuestros derechos modernos se encuentra en los ideales de la **Revolución Francesa** de 1789: **Libertad, Igualdad y Fraternidad**. Estos ideales inspiraron la lucha por la dignidad de todas las personas sin importar su clase social.
+La base de nuestros derechos modernos se encuentra en los ideales de la **Revolución Francesa** de 1789: **Libertad, Igualdad y Fraternidad**(1). Estos ideales nos recuerdan que todos somos parte de la misma familia humana y debemos apoyarnos con solidaridad(12).
 
 ### 2. ¿Qué son los Derechos Humanos?
-Son facultades e instituciones que protegen la dignidad de todos los seres humanos. El **10 de diciembre de 1948**, en París, la ONU aprobó la **Declaración Universal de Derechos Humanos**, que consta de **30 artículos** basados en los principios de libertad y justicia.
+Son facultades e instituciones que protegen la dignidad de todos los seres humanos(2). El **10 de diciembre de 1948**, en París, la ONU aprobó la **Declaración Universal de Derechos Humanos**(4), que consta de **30 artículos** basados en los principios de libertad y justicia(5).
 
 ### 3. Las Tres Oleadas (Generaciones de Derechos)
-Los derechos humanos han surgido en tres etapas o "generaciones":
+Los derechos humanos han surgido en tres etapas o "generaciones"(3):
 1.  **1ª Generación (Derechos Civiles y Políticos)**: Libertad de expresión, derecho al voto, a la vida. Surgen con la Revolución Francesa.
 2.  **2ª Generación (Derechos Económicos, Sociales y Culturales)**: Derecho al trabajo, a la educación, a la salud.
-3.  **3ª Generación (Derechos de Solidaridad)**: Derecho a la paz, a un medio ambiente sano, a la libre determinación.
+3.  **3ª Generación (Derechos de Solidaridad)**: Derecho a la paz, a un medio ambiente sano.
 
 ### 4. Los Enemigos de la Convivencia
 Para vivir en paz, debemos identificar y combatir:
-- **Discriminación**: Trato desigual a una persona o grupo por motivos de raza, religión, sexo, etc.
-- **Racismo**: Discriminación basada en la raza o grupo étnico.
-- **Clasismo**: Discriminación basada en la clase social.
-- **Corrupción**: El abuso de poder para beneficio propio, que destruye la confianza social.
+- **Discriminación**: Trato desigual, desfavorable o de desprecio hacia una persona o grupo(6).
+- **Racismo**: Discriminación basada en la raza(7).
+- **Clasismo**: Discriminación basada en el nivel económico o clase social(7).
+- **Corrupción**: El abuso de poder para beneficio propio(9). Diferenciamos a la persona corrupta de la **responsable**, quien actúa con integridad y asume las consecuencias de sus actos(9).
 
 > [!IMPORTANT]
-> **Deber y Derecho**: Todo **Derecho** implica un **Deber**. Si tienes derecho a ser respetado, tienes el deber de respetar a los demás. El principio fundamental es: "No hagas a otros lo que no quieres que te hagan".
+> **Deber y Derecho**: Todo **Derecho** implica un **Deber**(8). El Derecho es la facultad que tenemos; el Deber es la obligación moral de respetar el derecho ajeno(8). El principio fundamental es: "No hagas a otros lo que no quieres que te hagan"(10). Para mejorar la sociedad, necesitamos desarrollar una **Conciencia Crítica**(11).
 
 ## ✍️ Manos a la obra
 
@@ -41,7 +41,7 @@ Diferencia entre Derechos y Deberes:
 | **No tirar basura en la calle.** | Deber. | Protege el derecho de todos a un ambiente sano. |
 
 ## 🌍 En tu mundo
-Tú ejerces tus derechos cada vez que das tu opinión en clase con respeto o cuando decides no participar en una burla hacia alguien por su apariencia o su origen. En tu comunidad, esto se traduce en denunciar injusticias y en promover que todos sean tratados con la misma dignidad. Ser un ciudadano responsable significa entender que tus derechos terminan donde empiezan los de los demás.
+Tú ejerces tus derechos cada vez que das tu opinión en clase con respeto o cuando decides no participar en una burla hacia alguien por su apariencia o su origen(6). En tu comunidad, esto se traduce en denunciar injusticias y en promover que todos sean tratados con la misma dignidad. Ser un ciudadano responsable significa entender que tus derechos terminan donde empiezan los de los demás(8).
 
 ## 🏆 Reto Final
 
@@ -130,7 +130,7 @@ Tú ejerces tus derechos cada vez que das tu opinión en clase con respeto o cua
 
 ## 🌟 Zona de Descubrimiento
 - **Dato curioso**: Sabías que la Declaración Universal de Derechos Humanos es el documento más traducido del mundo (está en más de 500 idiomas).
-- **Para ver**: Busca en YouTube "La historia de los derechos humanos" para ver cómo pasamos de la esclavitud a la libertad.
+- **Para ver**: Busca "La historia de los derechos humanos" en YouTube para ver cómo pasamos de la esclavitud a la libertad.
 - **Para explorar**: Lee los 30 artículos de la Declaración Universal. ¡Muchos de ellos te sorprenderán por lo modernos que son!
 
 ## 🔑 Respuestas Correctas

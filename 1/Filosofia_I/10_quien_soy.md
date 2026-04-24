@@ -8,26 +8,22 @@ Si te quitaran tu nombre, tu ropa, tu celular y tu casa, ¿qué quedaría de ti?
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. El Valor de ser Humano (Dignidad)
-La **Dignidad** es la condición que exige cada ser humano de ser tratado como semejante a los demás, con respeto y amor. No es algo que se gane o se compre; se tiene simplemente por ser persona. Lo que devuelve una persona al ser tratada con dignidad es **Respeto y Amor**.
+La **Dignidad** es la condición que exige cada ser humano de ser tratado como semejante a los demás, con respeto(1). No es algo que se gane o se compre; se tiene simplemente por ser persona. Lo que devuelve una persona al ser tratada con dignidad es **Respeto y Amor**(2).
 
 ### 2. El Poder de Elegir (Libertad vs. Libertinaje)
 Para construir tu identidad, usas tu **Libertad**. Pero ojo, no todo es lo mismo:
-- **Libre Albedrío**: Es la capacidad de la voluntad para decidir por sí misma.
-- **Libertad Interna**: Es tu capacidad de decidir qué pensar y qué sentir, incluso en situaciones difíciles.
-- **Libertinaje**: Es el abuso de la libertad, actuando sin responsabilidad y dañando a otros o a uno mismo. Es hacer "lo que sea" sin pensar en las consecuencias.
+- **Libre Albedrío**: Es la capacidad de la voluntad para decidir por sí misma(3).
+- **Libertad Interna**: Es tu capacidad de decidir sobre tus propios pensamientos, deseos y valores morales(5).
+- **Libertinaje**: Es el abuso de la libertad, actuando sin responsabilidad y dañando a otros o a uno mismo(4). Es hacer "lo que sea" sin pensar en las consecuencias.
 
 ### 3. El Camino de la Identidad
-Tu identidad se construye a través de la **Reflexión** y la **Responsabilidad**. Ser responsable significa saber que cada uno de tus actos va construyendo quién eres. La identidad personal es única, pero se diferencia de la **Dignidad Humana** en que esta última es universal (todos la tenemos por igual), mientras que la identidad es lo que te hace ser "tú" y no otra persona.
+Tu identidad se construye a través de la **Reflexión**(10) y la **Responsabilidad**. El "meollo" o núcleo de la responsabilidad es saber que cada uno de tus actos va construyendo quién eres como ser humano(7). La identidad personal es única, pero se diferencia de la **Dignidad Humana** en que esta última es universal, mientras que la identidad nos une a un país y cultura específica(9).
 
 ### 4. ¿Qué nos limita?
-A veces nuestra libertad tiene **Obstáculos**:
-- **Ignorancia**: No saber qué nos conviene.
-- **Miedo**: Actuar por temor y no por voluntad.
-- **Violencia**: Cuando otros nos obligan físicamente.
-Superar estos obstáculos es la tarea de una persona que busca ser realmente libre.
+A veces nuestra libertad tiene **Obstáculos**(6): la ignorancia, el miedo, la violencia, las pasiones desordenadas y los trastornos psíquicos. Superar estos obstáculos es la tarea de una persona que busca ser realmente libre.
 
 > [!NOTE]
-> **Reflexión**: Vivir sin reflexionar significa ir por la vida prisionero de tus propios prejuicios. ¡Atrévete a pensar por ti mismo!
+> **Reflexión**: Vivir sin reflexionar significa ir por la vida prisionero de tus propios prejuicios y de las opiniones ajenas(8). ¡Atrévete a pensar por ti mismo!
 
 ## ✍️ Manos a la obra
 
@@ -41,7 +37,7 @@ Diferencia los tipos de libertad:
 | **Copiar en un examen "porque todos lo hacen".** | Falta de Libertad (Heteronomía). | Sigues una costumbre sin reflexionar. |
 
 ## 🌍 En tu mundo
-Tú defiendes tu dignidad cada vez que te haces respetar y cuando respetas a los demás, sin importar su apariencia o condición. En tu comunidad, esto se ve cuando un grupo de jóvenes decide crear un espacio de expresión donde todos son escuchados. Ser tú mismo no es una moda, es el acto de libertad más grande que puedes realizar cada día.
+Tú defiendes tu dignidad cada vez que te haces respetar y cuando respetas a los demás, sin importar su apariencia o condición(1). En tu comunidad, esto se ver cuando un grupo de jóvenes decide crear un espacio de expresión donde todos son escuchados. Ser tú mismo no es una moda, es el acto de libertad más grande que puedes realizar cada día.
 
 ## 🏆 Reto Final
 

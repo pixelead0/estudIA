@@ -8,27 +8,23 @@
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. ¿Qué nos une? (Identidad Nacional)
-La **Identidad Nacional** es el conjunto de valores, símbolos, historia y tradiciones que nos dan un sentido de pertenencia a México. Como dice el dicho: "quien no ama a su tierra, no ama a su madre". Esta identidad se basa en el respeto a nuestros **Símbolos Patrios**: la Bandera, el Escudo y el Himno Nacional.
+La **Identidad Nacional** es el conjunto de valores, símbolos, historia y tradiciones que nos dan un sentido de pertenencia a una nación y cultura propia(1). Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6). Esta identidad se basa en el respeto a nuestros **Símbolos Patrios**: la Bandera, el Escudo y el Himno Nacional(3).
 
 ### 2. El Equipo que nos organiza (El Estado)
-Para vivir juntos, los mexicanos formamos un **Estado**, que tiene tres elementos básicos:
+Para vivir juntos, los mexicanos formamos un **Estado**, que tiene tres elementos básicos(2):
 1.  **Población**: Todos nosotros.
 2.  **Territorio**: El suelo, mar y aire de México.
 3.  **Gobierno / Soberanía**: El poder de decidir nuestro propio destino.
-Nuestro gobierno se divide en tres poderes: **Ejecutivo** (Presidente), **Legislativo** (Senado y Cámara de Diputados) y **Judicial** (Jueces y Corte).
+Nuestro gobierno se divide en tres **Poderes Políticos**: **Ejecutivo**, **Legislativo** (Senado y Cámara de Diputados)(5) y **Judicial**(4).
 
 ### 3. El Orgullo Guinda y Blanco (Identidad IPN)
-Como estudiante del **IPN**, formas parte de una institución con una identidad única:
-- **Lema**: "La Técnica al Servicio de la Patria".
-- **Colores**: Guinda y Blanco.
-- **Misión**: Poner el conocimiento científico y tecnológico para resolver los problemas de México.
-El **Código de Ética del IPN** se basa en principios como la honestidad, la responsabilidad, el respeto y la justicia social.
+Como estudiante del **IPN**, formas parte de una institución con una identidad única(7): su lema "La Técnica al Servicio de la Patria", sus colores guinda y blanco, y su compromiso social. El **Código de Ética del IPN** se basa en principios como la honestidad, la responsabilidad, el respeto, la justicia social e integridad(8).
 
 ### 4. Valores para la Vida
-Los valores de identidad nacional no son solo para las fiestas patrias; son principios que nos permiten orientar nuestro comportamiento cada día para ser mejores ciudadanos. Incluyen el amor a la patria, el respeto a la diversidad y el compromiso con el progreso de México.
+Los valores de identidad nacional no son solo para las fiestas patrias; son principios que adquirimos de nuestra cultura y familia(10) que nos permiten orientar nuestro comportamiento cada día para ser mejores ciudadanos. 
 
 > [!IMPORTANT]
-> **Dignidad y Patria**: Mientras que la Dignidad Humana nos une a todos los habitantes del mundo, la Identidad Nacional nos da una raíz y un propósito específico dentro de nuestra cultura.
+> **Dignidad y Patria**: Mientras que la Dignidad Humana es universal para todas las personas(9), la Identidad Nacional nos une a un país y cultura específica(9).
 
 ## ✍️ Manos a la obra
 
@@ -42,7 +38,7 @@ Identifica los símbolos y elementos:
 | **El Lema del IPN.** | Nuestra vocación de servicio. | Nos recuerda que estudiamos para ayudar a México. |
 
 ## 🌍 En tu mundo
-Tú vives la identidad nacional cada vez que respetas una ley de tránsito, cuando cuidas un monumento histórico o cuando apoyas a un talento mexicano. En el IPN, vives tu identidad cada vez que estudias con honestidad y usas tus conocimientos para ayudar a alguien. No solo eres un estudiante; eres parte de la fuerza que transforma a México desde la técnica y el corazón.
+Tú vives la identidad nacional cada vez que respetas una ley de tránsito, cuando cuidas un monumento histórico o cuando apoyas a un talento mexicano(1). En el IPN, vives tu identidad cada vez que estudias con honestidad y usas tus conocimientos para ayudar a alguien(7). No solo eres un estudiante; eres parte de la fuerza que transforma a México desde la técnica y el corazón.
 
 ## 🏆 Reto Final
 
