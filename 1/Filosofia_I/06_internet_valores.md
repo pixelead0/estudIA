@@ -1,98 +1,92 @@
-# Módulo 06: Convivir en la red (Netiqueta y valores digitales)
+# Módulo 06: El Futuro y el Planeta (Tecnología y Medio Ambiente)
 
-![Convivencia Digital](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_digital_ethics.png)
+![Ciberética y Tecnología](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_cyberethics.png)
 
 ## 🎯 El Reto
-Imagina que vas a una fiesta con una máscara que oculta tu cara. De pronto, sientes que como nadie sabe quién eres, puedes decir cosas feas, empujar a otros o hacer bromas pesadas sin que pase nada. Pero al final de la noche, te quitas la máscara y te das cuenta de que todos tus amigos estaban ahí y escucharon todo.
+Imagina que estamos en el año 2015, en París. Líderes de todo el mundo están reunidos discutiendo si la especie humana podrá sobrevivir o si la cadena de la vida se romperá para siempre. No es una película de ciencia ficción, fue la **COP21**.
 
-En internet, a veces sentimos que somos anónimos o que estamos protegidos por una pantalla. Pero lo que decimos y hacemos en la red es tan real como lo que hacemos en el salón de clases. ¿Sabes cómo ser una persona ética también en el mundo digital?
+¿Qué tiene que ver la ética con el clima? Todo. Porque nuestras decisiones tecnológicas y el uso de energía (como los combustibles fósiles) están cambiando la temperatura del planeta. ¿Es ético dejarle un mundo roto a las siguientes generaciones?
 
 ## 💡 ¿Cómo funciona esto?
 
-Para vivir en paz en internet, existe la **Netiqueta** (Etiqueta en la Red), que se basa en estos principios:
+### 1. El Gran Desafío: Cambio Climático
+En París (2015), se discutió la continuidad de la vida. El problema es el **recalentamiento global** causado por:
+- La emisión de **Gases de Efecto Invernadero**.
+- La quema de combustibles fósiles (carbón, petróleo) y la industria.
+- **El límite**: Si la tierra sube 2 grados más, la cadena de la vida que nos sostiene se romperá.
 
-1.  **Recuerda lo humano**: Detrás de cada perfil, cada video o cada comentario hay una persona real con sentimientos. Si no se lo dirías a la cara, no lo escribas en un chat.
-2.  **Cuida tu imagen (Huella Digital)**: Todo lo que publicas hoy se queda guardado para siempre. Tu "yo" del futuro te agradecerá que no hayas subido cosas de las que luego te arrepientas.
-3.  **Respeto y Privacidad**: No compartas fotos o información de otros sin su permiso. Respetar el tiempo y los datos de los demás es un valor fundamental.
-4.  **No alimentes al "Troll"**: Si alguien busca pelear o insultar, lo más ético y valiente es no contestar y reportar. La violencia digital solo crece si le ponemos atención.
+### 2. Ciencia y Tecnología: El arma de doble filo
+La tecnología no es ni buena ni mala por sí misma, depende de cómo la usemos:
+- **Ventajas**: Comunicación instantánea, medicina avanzada, energías limpias.
+- **Desventajas**: Contaminación, adicción digital, pérdida de privacidad y desempleo por automatización.
 
-> [!CAUTION]
-> **Regla de Oro Digital**: Trata a los demás en internet como te gustaría que te trataran a ti en la vida real. ¡La pantalla no borra tus valores!
+### 3. Ética Sustentable para Empresas
+Hoy es urgente que las empresas no solo piensen en ganar dinero, sino en crear un **Código de Ética Sustentable** que proteja el medio ambiente y a la sociedad.
+
+> [!WARNING]
+> **Diferencia Vital**: El **Desarrollo Sustentable** busca cuidar los recursos naturales; el **Desarrollo Sostenible** busca que el progreso sea equilibrado en lo social, económico y ambiental.
 
 ## ✍️ Manos a la obra
 
-Pon a prueba tu comportamiento digital:
+Analiza el impacto de la tecnología:
 
-| Situación en línea | ¿Qué sería lo ético? | ¿Por qué? |
+| Tecnología | Lado Positivo (Ético) | Lado Negativo (Riesgo) |
 | :--- | :--- | :--- |
-| **Ves que alguien publica una foto vergonzosa de un amigo.** | No darle "Like", no compartir y decirle al amigo. | Respetas la dignidad de tu amigo. |
-| **Lees una noticia que parece increíble y muy mala.** | Verificar si es real antes de compartirla. | Evitas difundir mentiras y odio. |
-| **Alguien te insulta en un comentario de un video.** | Ignorar, bloquear o reportar. | No te rebajas a su nivel y cortas la violencia. |
-| **Un amigo te pide la contraseña de tu cuenta.** | Decirle que no, que es personal por seguridad. | Cuidas tu privacidad y la de tus contactos. |
-
-## 🌍 En tu mundo
-Tus redes sociales son tu carta de presentación ante el mundo. Muchas veces las personas nos juzgan por lo que compartimos o por cómo comentamos. Ser una persona íntegra significa ser el mismo (honesto, respetuoso y amable) tanto en el recreo como en el grupo de WhatsApp.
-
-**Tu reto**: Revisa tus últimos 5 comentarios o publicaciones en redes sociales. ¿Reflejan los valores que tienes en la vida real? Si encuentras algo que no te gusta, bórralo y haz el compromiso de ser un ciudadano digital ejemplar.
+| **Inteligencia Artificial.** | Ayuda a diagnosticar enfermedades rápido. | Puede usarse para crear noticias falsas. |
+| **Energía Solar.** | No emite gases de efecto invernadero. | Las baterías pueden ser difíciles de reciclar. |
+| **Redes Sociales.** | Conecta a personas en todo el mundo. | Puede fomentar el ciberacoso o la ansiedad. |
+| **Plásticos.** | Son baratos y útiles para medicina. | Inundan los océanos y tardan siglos en degradarse. |
 
 ## 🏆 Reto Final
 
-**1. ¿Qué es la "Netiqueta"?**
-   - A) Una marca de computadoras nuevas.
-   - B) El conjunto de reglas de comportamiento y educación para convivir en internet.
-   - C) Un tipo de virus que afecta a los teclados.
-   - D) Una aplicación para comprar etiquetas.
+**1. ¿Qué se discutió en París en la cumbre de 2015 (COP21)?**
+   - A) Un torneo mundial de fútbol.
+   - B) La continuidad de la vida en el planeta y el freno al cambio climático.
+   - C) La moda del próximo año.
+   - D) Nuevas reglas para internet.
 
-**2. ¿Por qué es importante recordar que "detrás de la pantalla hay un humano"?**
-   - A) Porque las computadoras no tienen sentimientos.
-   - B) Porque a veces olvidamos que nuestras palabras pueden lastimar a personas reales, igual que si estuviéramos frente a ellas.
-   - C) Porque el internet es muy lento.
-   - D) No es importante.
+**2. ¿A qué se debe principalmente el recalentamiento global?**
+   - A) A que el sol está más cerca.
+   - B) A la emisión de gases de efecto invernadero por la industria y combustibles fósiles.
+   - C) A que hay mucha gente en la calle.
+   - D) Es un proceso natural sin intervención humana.
 
-**3. ¿Qué es la "Huella Digital"?**
-   - A) La marca que dejas cuando tocas la pantalla con los dedos sucios.
-   - B) El rastro de toda la información, fotos y comentarios que publicas en internet y que se queda ahí para siempre.
-   - C) Una forma de desbloquear tu celular.
-   - D) El nombre de tu proveedor de internet.
+**3. ¿Qué sucederá si la temperatura de la Tierra sube 2 grados más?**
+   - A) Tendremos veranos más divertidos.
+   - B) Se romperá la cadena de la vida que sostiene a la especie humana.
+   - C) No pasará nada importante.
+   - D) El hielo de los polos se hará más fuerte.
 
-**4. Si ves un caso de ciberacoso hacia un compañero, ¿qué es lo más ético que puedes hacer?**
-   - A) Reírte y compartirlo con otros.
-   - B) No participar, apoyar al compañero y avisar a un adulto o reportar la cuenta.
-   - C) Ignorarlo para que no te molesten a ti también.
-   - D) Insultar al que está acosando.
+**4. ¿Cuál es el fin que promueve el "Vicio" en nuestra relación con el mundo?**
+   - A) La alegría.
+   - B) La desdicha del ser humano.
+   - C) La riqueza eterna.
+   - D) El orden social.
 
-**5. ¿Qué significa "respetar la privacidad" de otros en internet?**
-   - A) No publicar fotos, videos o secretos de otras personas sin su permiso explícito.
-   - B) No leer el periódico en línea.
-   - C) Ponerle contraseña a tu celular.
-   - D) Usar un nombre falso.
-
-**6. ¿Cómo ayuda la ética a mejorar el internet?**
-   - A) Hace que las páginas carguen más rápido.
-   - B) Convierte la red en un espacio más seguro, respetuoso y útil para todos, reduciendo el odio y la violencia.
-   - C) Hace que los videojuegos sean más fáciles.
-   - D) No ayuda, internet no tiene reglas.
+**5. ¿Es urgente que las empresas tengan un código de ética sustentable?**
+   - A) No, lo más importante es que ganen dinero.
+   - B) Sí, es vital para asegurar que la industria no destruya el futuro del planeta.
+   - C) Solo si el gobierno las obliga.
+   - D) No, las empresas no tienen nada que ver con la ética.
 
 ## 🏁 Pausa para pensar
-1. ¿Alguna vez has escrito algo en internet que no te habrías atrevido a decir en persona? ¿Por qué?
-2. ¿Qué es lo que más te molesta del comportamiento de la gente en redes sociales?
-3. ¿Cómo crees que será el internet del futuro si todos practicamos la netiqueta?
+1. ¿Cómo influyen tus hábitos digitales (como ver videos en streaming) en el consumo de energía del planeta?
+2. ¿Qué tecnología crees que es la más necesaria para salvar el medio ambiente?
+3. ¿Estarías dispuesto a renunciar a ciertas comodidades para frenar el cambio climático?
 
 ---
 
 ## 📚 Glosario Maestro
-- **Netiqueta**: Normas de cortesía y comportamiento en medios digitales.
-- **Ciberacoso (Cyberbullying)**: Uso de medios digitales para molestar o acosar a una persona.
-- **Ciudadanía Digital**: Conjunto de derechos y deberes que tenemos al usar la tecnología.
-- **Anonimato**: Estado de una persona que oculta su identidad en la red.
-- **Empatía Digital**: Capacidad de ponerse en el lugar del otro al interactuar a través de pantallas.
+- **COP21**: Conferencia de las Naciones Unidas sobre el Cambio Climático de 2015.
+- **Efecto Invernadero**: Atrapamiento de calor en la atmósfera por gases contaminantes.
+- **Combustibles Fósiles**: Petróleo, carbón y gas natural.
+- **Ciberética**: Uso ético y responsable de las herramientas digitales.
 
 ## 🌟 Zona de Descubrimiento
-- **Para ver**: *Black Mirror: Nosedive* (Netflix - Con supervisión) - Un episodio que muestra de forma extrema cómo sería un mundo donde las personas se califican unas a otras en redes sociales y cómo eso afecta su vida real. Te hará pensar mucho sobre la importancia de ser auténtico.
-- **Para explorar**: Busca las "10 Reglas Básicas de la Netiqueta de Virginia Shea". Son los mandamientos clásicos para ser un buen ciudadano digital desde los inicios de internet.
-- **Dato curioso**: Sabías que en algunos países como España o México ya existen leyes (como la Ley Olimpia) que castigan con cárcel a quienes comparten contenido privado de otros sin su permiso. ¡Lo que haces en internet tiene consecuencias legales reales!
+- **Dato curioso**: Sabías que los centros de datos que sostienen internet consumen tanta energía como países enteros. ¡Nuestra vida digital tiene una huella física real!
+- **Para explorar**: Investiga el "Acuerdo de París". Es el compromiso más grande de la historia para proteger el clima.
 
 ---
 
-## 🔑 Respuestas Correctas (Reto Final)
-1. B | 2. B | 3. B | 4. B | 5. A | 6. B
+## 🔑 Respuestas Correctas
+1. B | 2. B | 3. B | 4. B | 5. B

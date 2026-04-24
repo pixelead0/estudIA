@@ -1,96 +1,98 @@
-# Módulo 02: ¿Existe el bien y el mal? (Ética y Moral)
+# Módulo 02: Lo que está bien y lo que no (Ética y Moral)
 
 ![Ética y Moral](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/02_FI_concepts_ethics_moral.png)
 
 ## 🎯 El Reto
-Imagina que estás jugando un partido de fútbol. El árbitro marca una falta que tú sabes que no cometiste, pero tu equipo va perdiendo y ese tiro libre podría darles la victoria. ¿Te quedas callado y aprovechas la ventaja o le dices la verdad al árbitro aunque pierdan?
+¿Por qué Sócrates buscaba la verdad con tanta insistencia que prefirió morir antes que dejar de preguntar? Porque para él, la verdad no era solo un dato, era la base para vivir bien. 
 
-En la vida, todos tenemos un "árbitro interno" que nos dice qué está bien y qué está mal. Pero, ¿de dónde vienen esas reglas? ¿Son iguales para todos? ¿Es lo mismo ser "bueno" en México que en China o en el siglo pasado? Hoy descubriremos la diferencia entre las reglas que seguimos y la razón por la que las seguimos.
+Hoy vamos a descubrir por qué la **Ética** es considerada el "Arte de vivir" y cómo nos ayuda a diferenciar lo que simplemente sucede (**Realidad**) de lo que es verdadero y valioso (**Verdad**).
 
 ## 💡 ¿Cómo funciona esto?
 
-Para entender nuestro comportamiento, la filosofía separa estos dos conceptos:
+### 1. Las palabras tienen historia
+- **Ética**: Viene del griego *Ethos* (carácter o lugar donde se habita). Su fundador es **Sócrates**, quien sacó la filosofía de las estrellas para ponerla en el corazón del hombre.
+- **Moral**: Viene del latín *Moris* (costumbre).
+- **Diferencia**: La Moral es el grupo de reglas; la Ética es la reflexión de por qué las seguimos.
 
-1.  **La Moral (El Reglamento)**: Son las reglas de conducta que aprendemos en nuestra familia, escuela y país. Es lo que nos dice "esto se hace así porque así nos enseñaron". Es práctica y cambia según la cultura.
-2.  **La Ética (El Análisis)**: Es el estudio de esa moral. Es cuando nos preguntamos: "¿Por qué esta regla es buena? ¿Es justa para todos?". La ética no nos da órdenes, nos ayuda a pensar para que nosotros mismos decidamos nuestro camino.
+### 2. El Objeto de Estudio
+En filosofía, distinguimos dos "objetos":
+- **Objeto Material**: Es lo que se estudia. En la Ética, el objeto material es la **Moral** (el comportamiento humano).
+- **Objeto Formal**: Es el "lente" con el que se estudia. En la Ética, es la **bondad o maldad** de los actos bajo la luz de la razón.
+
+### 3. Verdad vs. Realidad
+- **Realidad**: Es todo lo que existe, sea bueno o malo (ej. la violencia es una realidad).
+- **Verdad**: Es la concordancia entre lo que pensamos y lo que es. Buscar la verdad ética significa descubrir qué es lo que realmente nos conviene como seres humanos.
+
+### 4. La Ética y otras Ciencias
+La ética no está sola. Se relaciona con:
+- **Psicología**: Para entender los motivos internos.
+- **Sociología**: Para ver cómo se comporta el grupo.
+- **Derecho**: Para comparar las leyes morales con las leyes legales.
 
 > [!TIP]
-> **Diferencia Clave**: La Moral es como el equipo que te dice qué jugadas hacer. La Ética es como el estudio del juego que te ayuda a entender por qué esas jugadas funcionan o si deberías inventar unas nuevas.
+> **El Arte de Vivir**: La ética se define como el arte de poner el placer al servicio de la alegría (**Templanza**) y de buscar lo que nos mejora como personas.
 
 ## ✍️ Manos a la obra
 
-Diferencia entre un acto moral (tradición) y un juicio ético (reflexión):
+Diferencia los conceptos:
 
-| Situación | ¿Es Moral o Ético? | ¿Por qué? |
+| Concepto | Definición Rápida | Ejemplo |
 | :--- | :--- | :--- |
-| **Ceder el asiento a un adulto mayor.** | Moral. | Es una regla de cortesía que nos enseñaron desde niños. |
-| **Preguntarte si es justo que haya gente sin casa.** | Ético. | Estás analizando un valor (la justicia) y reflexionando sobre él. |
-| **No decir mentiras porque es pecado.** | Moral. | Estás siguiendo una regla religiosa o familiar establecida. |
-| **Decidir no comer carne para no dañar animales.** | Ético. | Estás tomando una decisión personal basada en tu propia reflexión. |
-
-## 🌍 En tu mundo
-Todos los días te enfrentas a dilemas. Cuando decides no copiar en un examen aunque nadie te esté viendo, no lo haces solo por la regla (Moral), sino porque tú crees que tu honestidad vale más que una calificación (Ética).
-
-**Tu reto**: Piensa en una regla de tu casa que no te guste. Trata de analizarla éticamente: ¿Qué bien busca esa regla? ¿A quién protege? Al final, ¿crees que la regla es justa o debería cambiar? ¡Escribe tus razones!
+| **Moral** | Lo que se hace (costumbre). | No decir groserías en la mesa. |
+| **Moralidad** | La acción real. | Que de hecho hoy no dijiste ninguna. |
+| **Doble Moral** | Incongruencia. | Criticar que otros mientan mientras tú mientes. |
+| **Amoral** | Sin sentido moral. | Un huracán (no es ni bueno ni malo, solo sucede). |
 
 ## 🏆 Reto Final
 
-**1. ¿Cuál es la principal diferencia entre Ética y Moral?**
-   - A) Son lo mismo, no hay diferencia.
-   - B) La Moral son las reglas prácticas; la Ética es la reflexión sobre esas reglas.
-   - C) La Ética es para los filósofos y la Moral para los religiosos.
-   - D) Una se escribe con mayúscula y la otra no.
+**1. ¿Quién es considerado el fundador de la Ética?**
+   - A) Platón.
+   - B) Sócrates.
+   - C) Tales de Mileto.
+   - D) Aristóteles.
 
-**2. ¿Por qué se dice que la Moral es cultural?**
-   - A) Porque solo existe en los libros de cultura.
-   - B) Porque cambia según el país, la época y las costumbres de cada grupo.
-   - C) Porque no es importante.
-   - D) Porque se hereda en la sangre.
+**2. ¿Qué significa etimológicamente la palabra "Ethos"?**
+   - A) Costumbre.
+   - B) Carácter o morada.
+   - C) Ley.
+   - D) Castigo.
 
-**3. Un juicio ético ocurre cuando:**
-   - A) Alguien te regaña por algo malo.
-   - B) Te detienes a pensar en los valores y razones detrás de una acción.
-   - C) Sigues una orden sin preguntar nada.
-   - D) Copias el comportamiento de tus amigos.
+**3. ¿Cuál es el "Objeto Material" de estudio de la Ética?**
+   - A) Los planetas.
+   - B) La Moral (la conducta humana).
+   - C) El dinero.
+   - D) Las leyes del estado.
 
-**4. ¿Qué busca la Ética al final del día?**
-   - A) Castigar a los malos.
-   - B) Ayudarnos a vivir mejor y a construir una sociedad más justa para todos.
-   - C) Que nos aprendamos muchas definiciones.
-   - D) Que todos piensen exactamente igual.
+**4. ¿A qué se le denomina "el arte de vivir" o de acertar en lo que nos conviene?**
+   - A) Matemáticas.
+   - B) Ética.
+   - C) Política.
+   - D) Religión.
 
-**5. Si una persona ayuda a otra solo porque espera que le paguen, ¿su acto es ético?**
-   - A) Sí, porque ayudó.
-   - B) No, porque su intención no fue el bien del otro, sino su propio beneficio egoísta.
-   - C) Solo si le pagan mucho.
-   - D) Sí, porque así son los negocios.
-
-**6. ¿Qué significa que la Moral sea "heterónoma" y la Ética sea "autónoma"?**
-   - A) Que la Moral viene de afuera (reglas) y la Ética nace de tu propia razón.
-   - B) Que una es más difícil que la otra.
-   - C) Que no se pueden mezclar.
-   - D) Son palabras sin sentido.
+**5. ¿Qué es la "Doble Moral"?**
+   - A) Tener dos opiniones sobre un libro.
+   - B) La falta de congruencia entre lo que se predica y lo que se hace.
+   - C) Estudiar dos tipos de ética.
+   - D) Seguir dos leyes al mismo tiempo.
 
 ## 🏁 Pausa para pensar
-1. ¿Qué valor crees que es el más importante para vivir en paz con los demás?
-2. ¿Alguna vez has hecho algo "malo" por una buena razón? ¿Qué pensó tu ética en ese momento?
-3. ¿Crees que las leyes siempre son éticas o a veces pueden ser injustas?
+1. ¿Por qué crees que Sócrates decía que "el mal es producto de la ignorancia"?
+2. ¿Cuál es la diferencia entre que algo sea "real" y que sea "verdadero" en tu vida?
+3. ¿Cómo aplicarías la "Ética" para mejorarte a ti mismo hoy?.
 
 ---
 
 ## 📚 Glosario Maestro
-- **Moral**: Conjunto de normas, valores y creencias que guían el comportamiento de un grupo.
-- **Ética**: Reflexión teórica y racional sobre la moral y el comportamiento humano.
-- **Valor**: Cualidad que hace que algo sea apreciado o considerado importante (honestidad, respeto).
-- **Norma**: Regla que se debe seguir o a la que se deben ajustar las conductas.
-- **Justicia**: Principio moral que inclina a obrar y juzgar respetando la verdad y dando a cada uno lo que le corresponde.
+- **Eticidad**: La capacidad humana de vivir éticamente y transformar su entorno.
+- **Templanza**: El arte de poner el placer al servicio de la alegría.
+- **Anomia**: Estado de desorden por falta de normas.
+- **Justicia**: Considerar los intereses del otro como si fuesen tuyos.
 
 ## 🌟 Zona de Descubrimiento
-- **Para ver**: *Extraordinario* (Wonder / Lionsgate) - Una película que te hará preguntarte: "¿Qué es ser una buena persona?". En un mundo que te presiona para ser igual a todos, elegir ser amable es el acto ético más valioso.
-- **Para explorar**: Investiga el concepto de "Ethos" en internet. Descubrirás que los antiguos griegos usaban esta palabra para referirse a la "casa" o el "hogar" de una persona. ¡Tu ética es el hogar de tu alma!
-- **Dato curioso**: La palabra "Ética" viene del griego *ethos* (carácter) y "Moral" viene del latín *mos* (costumbre). Básicamente, ¡llevamos más de 2,500 años tratando de definir qué significa ser un buen ser humano!
+- **Dato curioso**: Sócrates nunca escribió un libro. Todo lo que sabemos de él es por lo que escribieron sus alumnos, como Platón. ¡Era el maestro que solo quería platicar!
+- **Para explorar**: Busca la frase de Albert Camus: "Un hombre sin Ética es una bestia salvaje que convive con la sociedad". ¿Estás de acuerdo?
 
 ---
 
-## 🔑 Respuestas Correctas (Reto Final)
-1. B | 2. B | 3. B | 4. B | 5. B | 6. A
+## 🔑 Respuestas Correctas
+1. B | 2. B | 3. B | 4. B | 5. B

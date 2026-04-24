@@ -1,100 +1,88 @@
-# Módulo 07: ¿Qué es lo más importante? (Valores y Axiología)
+# Módulo 07: ¿Qué es valioso para ti? (Axiología)
 
-![Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/07_FI_concepts_axiology.png)
+![Los Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/07_FI_concepts_values.png)
 
 ## 🎯 El Reto
-Imagina que vas caminando por la calle y encuentras una maleta llena de dinero. Al mismo tiempo, ves que a un anciano se le caen sus medicinas y nadie lo ayuda. Tienes que elegir: o te llevas la maleta (que te daría mucho dinero) o te detienes a ayudar al anciano (que te daría la satisfacción de hacer el bien).
+Imagina que estás en una subasta donde no se vende dinero ni objetos, sino **Valores**. Solo tienes una moneda para comprar algo para toda tu vida. ¿Elegirías la **Sinceridad**, el **Éxito**, la **Belleza** o la **Justicia**?
 
-¿Por qué algunas cosas nos parecen "valiosas" y otras no? ¿El dinero vale más que la vida o la salud? El estudio de lo que consideramos importante se llama **Axiología**. Hoy descubriremos que todos tenemos una escala de valores que guía nuestras decisiones, aunque no nos demos cuenta. ¿Qué es lo que tú más valoras en la vida?
+Esta rama de la filosofía que estudia los valores se llama **Axiología**. Hoy vamos a descubrir por qué las cosas son valiosas y cómo armar tu propia "escalera de tesoros".
 
 ## 💡 ¿Cómo funciona esto?
 
-Los valores son como las **Gafas de Colores** con las que vemos el mundo. No son cosas que puedas tocar, pero definen cómo actúas:
+### 1. El Valor y el Bien
+- **Valor**: Es la cualidad que hace que algo sea apreciado (ej. la "utilidad" de un lápiz).
+- **Bien**: Es el objeto que posee ese valor (ej. el lápiz mismo).
+- **Valorar**: Es el acto de preferir o rechazar algo basándonos en nuestros sentimientos y razón.
 
-1.  **Valores Económicos**: Lo que nos da utilidad o riqueza (dinero, bienes, éxito).
-2.  **Valores Vitales**: Lo que tiene que ver con la vida y la salud (hacer ejercicio, comer bien, cuidar la naturaleza).
-3.  **Valores Estéticos**: Lo que consideramos bello o armonioso (arte, música, limpieza).
-4.  **Valores Morales**: Lo que nos hace mejores personas y ayuda a los demás (honestidad, respeto, justicia).
-5.  **Valores Intelectuales**: Lo que tiene que ver con el conocimiento y la verdad (estudiar, leer, ser curioso).
+### 2. ¿De dónde viene el valor?
+- **Subjetivismo**: Dice que el valor depende de quien mira. "Es valioso porque a mí me gusta". (Autores: Meinong, Ehrenfels).
+- **Objetivismo**: Dice que el valor está en el objeto mismo, aunque nadie lo vea. "El oro es valioso aunque no haya nadie para comprarlo". (Autores: **Max Scheler**, Nicolai Hartmann).
 
-> [!TIP]
-> **Dato de Sabio**: Los valores no son "eternos" en el sentido de que todos piensen igual, pero existen valores universales que casi todas las culturas respetan porque ayudan a la humanidad a sobrevivir y ser feliz.
+### 3. Las Características de los Valores
+- **Bipolaridad**: Todo valor tiene un polo positivo y uno negativo (un contra-valor).
+- **Jerarquía**: Los valores no valen lo mismo; unos son más importantes que otros (ej. la salud vale más que el dinero).
+
+> [!IMPORTANT]
+> **Fundador**: Se considera a **Hermann Lotze** y **Max Scheler** como los padres de la Axiología moderna.
 
 ## ✍️ Manos a la obra
 
-Identifica a qué grupo pertenecen estos valores:
+**Ejemplos de Bipolaridad (10 pares):**
+1. Bueno / Malo | 2. Útil / Inútil | 3. Bello / Feo | 4. Justo / Injusto | 5. Verdadero / Falso | 6. Leal / Desleal | 7. Valiente / Cobarde | 8. Generoso / Tacaño | 9. Saludable / Nocivo | 10. Sagrado / Profano.
 
-| Valor | Tipo de Valor | ¿Por qué es importante? |
-| :--- | :--- | :--- |
-| **La Salud.** | Vital. | Sin ella no podemos disfrutar nada más de la vida. |
-| **La Sinceridad.** | Moral. | Permite que las personas confíen unas en otras. |
-| **Un celular nuevo.** | Económico. | Es una herramienta útil y tiene un costo. |
-| **Aprender filosofía.** | Intelectual. | Nos ayuda a pensar por nosotros mismos. |
-| **Un atardecer hermoso.** | Estético. | Nos da una sensación de paz y belleza. |
-
-## 🌍 En tu mundo
-Tus amigos y tú valoran cosas diferentes. Quizás para alguien lo más importante es ser el mejor en un videojuego (éxito/competencia), mientras que para otro lo más valioso es pasar tiempo con su familia (afecto/lealtad). Ninguno está mal, simplemente tienen gafas de colores diferentes.
-
-**Tu reto**: Haz una lista de las 5 cosas que más valoras hoy en tu vida. Ordénalas de la más importante a la menos importante. ¡Eso te ayudará a conocerte mejor y a saber por qué tomas las decisiones que tomas!
+**Ejemplos de Jerarquía (De menor a mayor importancia común):**
+1. Valores Económicos (Dinero) -> 2. Valores Físicos (Placer) -> 3. Valores Vitales (Salud) -> 4. Valores Estéticos (Belleza) -> 5. Valores Intelectuales (Verdad) -> 6. Valores Morales (Bien) -> 7. Valores Religiosos (Santidad).
 
 ## 🏆 Reto Final
 
-**1. ¿Qué estudia la "Axiología"?**
-   - A) Los huesos de los dinosaurios.
-   - B) La naturaleza de los valores y los juicios de valor.
-   - C) Cómo ahorrar dinero en el banco.
-   - D) El clima de las montañas.
+**1. ¿Cuál es la rama de la filosofía que estudia los valores?**
+   - A) Ontología.
+   - B) Axiología.
+   - C) Epistemología.
+   - D) Estética.
 
-**2. ¿Qué es un "Valor"?**
-   - A) El precio de una cosa en la tienda.
-   - B) Una cualidad que hace que algo sea apreciado, preferido o considerado importante por una persona o sociedad.
-   - C) Una regla que se debe seguir a la fuerza.
-   - D) Un tipo de moneda antigua.
+**2. ¿Quién es considerado uno de los fundadores de la Axiología?**
+   - A) Sócrates.
+   - B) Max Scheler.
+   - C) Karl Marx.
+   - D) Thomas Hobbes.
 
-**3. Si decides no comer chatarra para cuidar tu cuerpo, ¿qué tipo de valor estás priorizando?**
-   - A) Económico.
-   - B) Vital.
-   - C) Estético.
-   - D) Religioso.
+**3. ¿Qué afirma la corriente "Objetivista" del valor?**
+   - A) Que los valores dependen totalmente del sujeto que los percibe.
+   - B) Que los valores dependen del objeto y existen independientemente del sujeto.
+   - C) Que los valores no existen.
+   - D) Que todos los valores son iguales.
 
-**4. ¿Por qué existen "Valores Universales"?**
-   - A) Porque el espacio exterior los inventó.
-   - B) Porque son valores (como el respeto a la vida o la verdad) que ayudan a que cualquier sociedad funcione y progrese en paz.
-   - C) Porque todos tienen que pensar igual.
-   - D) Porque son los más baratos.
+**4. ¿Qué es la "Bipolaridad" de los valores?**
+   - A) Que los valores cambian de opinión.
+   - B) Que cada valor tiene un polo positivo y un opuesto negativo.
+   - C) Que hay valores que valen doble.
+   - D) Que solo hay dos valores en el mundo.
 
-**5. El valor de la "Justicia" pertenece al grupo de los valores:**
-   - A) Estéticos.
-   - B) Morales o Éticos.
-   - C) Vitales.
-   - D) Económicos.
-
-**6. ¿Pueden los valores cambiar con el tiempo?**
-   - A) No, son fijos para siempre.
-   - B) Sí, la forma en que las sociedades valoran las cosas puede evolucionar (por ejemplo, hoy valoramos más el cuidado del ambiente que hace 100 años).
-   - C) Solo si el gobierno lo ordena.
-   - D) Solo cambian para los niños.
+**5. ¿Cuándo se da una "Crisis de Valores"?**
+   - A) Cuando no hay dinero en el banco.
+   - B) Cuando los valores tradicionales dejan de ser respetados o se pierden sin ser reemplazados por otros mejores.
+   - C) Cuando se prohíbe hablar de filosofía.
+   - D) Cuando el examen es muy difícil.
 
 ## 🏁 Pausa para pensar
-1. ¿Qué valor crees que le hace más falta al mundo hoy en día?
-2. ¿Alguna vez has cambiado de opinión sobre lo que consideras "valioso"?
-3. ¿Cómo crees que el dinero influye en lo que la gente valora?
+1. ¿Crees que la belleza es algo subjetivo (depende de cada quien) o algo objetivo (hay cosas bellas de por sí)?
+2. ¿Cuál es el valor que está hasta arriba de tu propia jerarquía hoy?
+3. ¿Qué contra-valor (polo negativo) es el que más te molesta ver en los demás? (ej. la mentira, la injusticia).
 
 ---
 
 ## 📚 Glosario Maestro
-- **Axiología**: Rama de la filosofía que estudia la naturaleza de los valores.
-- **Jerarquía de Valores**: Orden de importancia que le damos a nuestros valores personales.
-- **Polaridad**: Característica de los valores de tener siempre un polo positivo y uno negativo (ej. belleza vs. fealdad).
-- **Universalidad**: Valores que son respetados en la mayoría de las culturas del mundo.
-- **Juicio de Valor**: Opinión sobre si algo es bueno, malo, bello o útil basado en nuestros valores.
+- **Axiología**: Teoría o estudio de los valores.
+- **Bien**: Objeto valioso o cosa útil.
+- **Ceguera Valorativa**: Incapacidad de percibir ciertos valores (ej. alguien que no aprecia el arte o la honestidad).
+- **Preferencia**: El acto de elegir un valor sobre otro.
 
 ## 🌟 Zona de Descubrimiento
-- **Para ver**: *Up: Una aventura de altura* (Disney/Pixar) - Al principio, el protagonista valora mucho su casa y sus recuerdos materiales, pero al final descubre que lo más valioso son las personas y las nuevas aventuras. ¡Es una lección de axiología en movimiento!
-- **Para explorar**: Investiga quién fue Max Scheler. Él fue un filósofo que creó una de las "escalas de valores" más famosas de la historia.
-- **Dato curioso**: Sabías que en algunas culturas antiguas, la sal era tan valiosa que se usaba para pagar a los trabajadores. De ahí viene la palabra "Salario". ¡El valor de las cosas depende de lo que la sociedad necesite en ese momento!
+- **Dato curioso**: La palabra "valor" venía originalmente de la economía (el precio de las cosas), pero los filósofos la tomaron para hablar del "precio" de las acciones humanas.
+- **Para explorar**: Investiga la "Tabla de Valores de Max Scheler". Verás que él ponía los valores religiosos y espirituales por encima de los materiales y biológicos.
 
 ---
 
-## 🔑 Respuestas Correctas (Reto Final)
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+## 🔑 Respuestas Correctas
+1. B | 2. B | 3. B | 4. B | 5. B

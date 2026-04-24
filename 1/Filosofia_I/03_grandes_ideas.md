@@ -1,100 +1,101 @@
-# Módulo 03: ¿Cómo vivir mejor? (Grandes ideas sobre la vida)
+# Módulo 03: Grandes ideas para vivir mejor (Doctrinas Éticas)
 
 ![Doctrinas Éticas](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/03_FI_concepts_ethical_theories.png)
 
 ## 🎯 El Reto
-Imagina que te encuentras una lámpara maravillosa y el genio te ofrece tres tipos de vida:
-1. Una vida llena de placeres, fiestas y comida deliciosa todo el tiempo.
-2. Una vida donde eres un héroe famoso y todos te admiran por tus logros.
-3. Una vida tranquila donde ayudas a los demás y siempre haces lo correcto, aunque nadie te vea.
+Imagina que te sientas a tomar un café con los pensadores más brillantes de la historia. Les preguntas: "**¿Qué es ser humano y qué debemos hacer?**". Cada uno tiene una respuesta que cambió el mundo.
 
-**¿Cuál elegirías?** Esta pregunta se la han hecho los filósofos más grandes de la historia. Cada uno creó una "receta" diferente para alcanzar la felicidad. Hoy conoceremos las tres más famosas para ver cuál se adapta mejor a lo que tú buscas.
+Hoy vamos a explorar las "recetas" de los grandes maestros y las 4 preguntas que Immanuel Kant decía que todo ser humano debe hacerse para entender su lugar en el universo.
 
 ## 💡 ¿Cómo funciona esto?
 
-A lo largo de los siglos, han existido tres grandes formas de entender qué es lo más importante en la vida:
+### 1. Las 4 Preguntas de Kant
+Immanuel Kant resumió toda la filosofía en estas preguntas vitales:
+1. **¿Qué puedo conocer?**: Los límites de nuestra inteligencia.
+2. **¿Qué debo hacer?**: La base de la **Ética**.
+3. **¿Qué me está permitido esperar?**: Sobre el futuro y la esperanza.
+4. **¿Qué es el hombre?**: La pregunta final que une a todas las demás.
 
-1.  **El camino del Placer (Epicureísmo)**: Dicen que lo más importante es evitar el dolor y buscar lo que nos hace sentir bien. Pero ojo, no se trata de comer dulces hasta que te duela la panza, sino de disfrutar las cosas sencillas con medida para estar en paz.
-2.  **El camino del Deber (Estoicismo)**: Dicen que la vida es dura y no podemos controlar lo que nos pasa, pero sí cómo reaccionamos. La felicidad está en cumplir con nuestra obligación y ser valientes, sin importar si sufrimos.
-3.  **El Justo Medio (Aristóteles)**: Dice que la felicidad está en el equilibrio. No seas cobarde, pero tampoco seas un loco arriesgado; sé **Valiente** (que es el punto medio). La virtud es como un músculo que se entrena cada día.
+### 2. Dos formas de ver la Ética
+- **Ética Material**: Dice que lo bueno es alcanzar un "objetivo" o "premio" (placer, dinero, felicidad). Ejemplo: "Hago ejercicio para verme bien".
+- **Ética Formal**: Dice que lo bueno es cumplir con el deber por el deber mismo, sin esperar nada a cambio. Ejemplo: "Digo la verdad porque es lo correcto, aunque me traiga problemas".
 
-> [!TIP]
-> **Consejo del Maestro**: Ninguna de estas ideas es 100% perfecta. Lo ideal es tomar lo mejor de cada una: disfruta la vida (Placer), sé fuerte ante los problemas (Deber) y busca siempre el equilibrio (Justo Medio).
+### 3. Visiones del Ser Humano
+- **Aristóteles**: Somos el "animal racional" y político.
+- **Marx**: Somos seres que se definen por su **trabajo** y su lugar en la sociedad.
+- **Nietzsche**: Somos seres que deben superarse para llegar al "Súper Hombre".
+- **Sartre**: Somos pura libertad; no nacemos con un destino, lo creamos con cada elección.
+- **Camus**: Somos seres que buscan sentido en un mundo que a veces parece absurdo.
+
+### 4. Doctores de la Ética
+- **Relativismo (Protágoras)**: "El hombre es la medida de todas las cosas". No hay una verdad única, todo depende de quién lo mire.
+- **Formalismo (Kant)**: Lo único bueno sin restricción es una "buena voluntad" que cumple su deber.
+- **Hedonismo (Epicuro)**: El placer inteligente es la meta.
+
+> [!NOTE]
+> **El Lobo del Hombre**: Thomas Hobbes decía que, si no hay reglas, somos como lobos que se atacan entre sí (*Homo homini lupus*). La ética es lo que nos permite dejar de ser lobos para ser ciudadanos.
 
 ## ✍️ Manos a la obra
 
-Identifica qué filósofo te daría este consejo:
+¿Qué pensador diría esto?
 
-| Situación | Consejo del Filósofo | ¿Quién lo diría? |
+| Frase | Pensador | Doctrina / Idea |
 | :--- | :--- | :--- |
-| **Te da miedo hablar en público.** | "No evites el miedo, enfréntalo con calma porque es tu deber." | Estoico. |
-| **Quieres comprarte 10 videojuegos.** | "Compra solo uno y disfrútalo mucho; el exceso te traerá estrés." | Epicúreo (Placer). |
-| **No sabes cuánto tiempo estudiar.** | "Ni un minuto ni 10 horas; busca el tiempo justo para aprender bien." | Aristóteles (Justo Medio). |
-| **Alguien te insulta en la calle.** | "No puedes controlar lo que él dice, solo tu paz mental." | Estoico. |
-
-## 🌍 En tu mundo
-Cuando decides apagar el celular para dormir a tus horas, estás usando el **Justo Medio**. Cuando decides no quejarte por una tarea difícil y simplemente hacerla, estás siendo un **Estoico**. Y cuando disfrutas de una tarde con tus amigos sin preocuparte por nada más, estás siendo un **Epicúreo**.
-
-**Tu reto**: Piensa en algo que te esté costando trabajo lograr (como aprender un deporte o una materia). ¿Cuál de los tres caminos te ayudaría más a lograrlo? Escribe tu plan de acción usando esa idea.
+| **"Cumple tu deber sin esperar premios."** | Kant. | Formalismo. |
+| **"Somos lo que hacemos con lo que hicieron de nosotros."** | Sartre. | Existencialismo. |
+| **"La felicidad es el fin supremo."** | Aristóteles. | Eudemonismo. |
+| **"Lo que es bueno para ti puede no serlo para mí."** | Protágoras. | Relativismo. |
 
 ## 🏆 Reto Final
 
-**1. Según Aristóteles, ¿dónde se encuentra la virtud?**
-   - A) En los extremos (ser el más exagerado en todo).
-   - B) En el "Justo Medio" o equilibrio entre dos vicios.
-   - C) En ganar mucho dinero.
-   - D) En no hacer nada.
+**1. ¿Cuáles son las 4 preguntas fundamentales de Immanuel Kant?**
+   - A) ¿Quién soy?, ¿A dónde voy?, ¿Con quién?, ¿Por qué?
+   - B) ¿Qué puedo conocer?, ¿Qué debo hacer?, ¿Qué me es permitido esperar?, ¿Qué es el hombre?
+   - C) ¿Cómo ganar dinero?, ¿Cómo ser famoso?, ¿Cómo viajar?, ¿Cómo comer?
+   - D) No hizo preguntas, solo dio respuestas.
 
-**2. ¿Qué es lo más importante para un filósofo Estoico?**
-   - A) Tener muchas posesiones materiales.
-   - B) Mantener la paz mental y cumplir con el deber, aceptando lo que no podemos cambiar.
-   - C) Llorar por cada problema que tenemos.
-   - D) Ser el más divertido de la fiesta.
+**2. ¿Qué es la Ética Formal?**
+   - A) Una ética donde hay que ir vestido de traje.
+   - B) Una ética que se basa en el deber y la intención, no en los resultados o premios.
+   - C) Una ética que solo siguen los gobernantes.
+   - D) Una ética que busca el placer.
 
-**3. El Epicureísmo dice que el placer verdadero consiste en:**
-   - A) Comer y beber en exceso todo el día.
-   - B) Buscar la tranquilidad del alma (ataraxia) y el placer sencillo sin dolor.
-   - C) Comprar las cosas más caras.
-   - D) Ser famoso en redes sociales.
+**3. ¿Quién afirmó que "el hombre es la medida de todas las cosas" (Relativismo)?**
+   - A) Sócrates.
+   - B) Protágoras.
+   - C) Kant.
+   - D) Hobbes.
 
-**4. ¿Qué es la "Eudaimonía"?**
-   - A) Una enfermedad del estómago.
-   - B) El término griego para referirse a la plenitud o felicidad que se logra con la virtud.
-   - C) Un tipo de gimnasia antigua.
-   - D) El nombre de una estrella.
+**4. Según Thomas Hobbes, ¿por qué necesitamos leyes y ética?**
+   - A) Porque somos seres perfectos.
+   - B) Porque "el hombre es el lobo del hombre" y sin reglas nos destruiríamos.
+   - C) Porque los reyes quieren mandar.
+   - D) Para gastar papel.
 
-**5. Si una persona es muy tacaña (no gasta nada) y otra es muy gastalona (tira el dinero), el justo medio sería:**
-   - A) Ser más tacaño.
-   - B) La Generosidad (gastar lo justo para ayudar y vivir bien).
-   - C) No tener dinero.
-   - D) Pedir prestado.
-
-**6. ¿Cómo nos ayuda hoy estudiar estas ideas de hace miles de años?**
-   - A) Para aprendernos nombres difíciles.
-   - B) Porque nos dan herramientas para manejar nuestras emociones y tomar mejores decisiones de vida.
-   - C) Para nada, el mundo ya cambió mucho.
-   - D) Para pasar el examen.
+**5. ¿Qué pensador dice que el hombre se define por su trabajo y transformación de la naturaleza?**
+   - A) Nietzsche.
+   - B) Karl Marx.
+   - C) Schopenhauer.
+   - D) Aristóteles.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál de estos tres caminos (Placer, Deber o Equilibrio) crees que sigues más seguido?
-2. ¿Qué crees que es más importante: ser feliz o hacer lo correcto? ¿Pueden ser lo mismo?
-3. ¿Cuál es el "justo medio" de pasar tiempo en redes sociales?
+1. ¿Cuál de las 4 preguntas de Kant te parece la más difícil de responder hoy?
+2. ¿Prefieres una ética de "premios" (Material) o una de "deber" (Formal)?
+3. ¿Crees que realmente somos "lobos" por naturaleza o somos buenos por defecto?
 
 ---
 
 ## 📚 Glosario Maestro
-- **Virtud**: Hábito de hacer el bien; es el punto medio entre dos extremos malos.
-- **Ataraxia**: Estado de tranquilidad y ausencia de deseos o temores.
-- **Deber**: Obligación moral que nos impulsa a actuar correctamente.
-- **Vicio**: El exceso o la falta de una cualidad (lo opuesto a la virtud).
-- **Estoicismo**: Doctrina que enseña el dominio de la mente sobre los hechos externos.
+- **Homo Faber**: Concepto del hombre como fabricante de herramientas (Marx/Bergson).
+- **Imperativo Categórico**: Regla de Kant que dice: "Actúa como si tu acción fuera una ley universal".
+- **Relativismo**: Doctrina que niega verdades absolutas (Protágoras).
+- **Sujeto Trascendental**: El hombre que posee una esencia que va más allá de lo físico.
 
 ## 🌟 Zona de Descubrimiento
-- **Para ver**: *The Good Place* (Netflix) - Una serie súper divertida que explora todas estas teorías éticas mientras los personajes intentan descubrir qué significa realmente "ser bueno" en la vida moderna.
-- **Para explorar**: Busca "El Manual de Epicteto" en YouTube (resúmenes cortos). Son consejos estoicos de hace 2,000 años que parecen escritos para los problemas de hoy.
-- **Dato curioso**: Sabías que el filósofo Kant era tan puntual que la gente en su ciudad (Königsberg) ponía sus relojes a la hora exacta cuando lo veían pasar caminando por la tarde. ¡Eso es llevar el deber al extremo!
+- **Dato curioso**: Nietzsche decía que la vida sin música sería un error. ¡Hasta los filósofos más rudos amaban el arte!
+- **Para explorar**: Busca el concepto de "Existencialismo" de Jean-Paul Sartre. Te enseñará que tú eres el único responsable de lo que hagas con tu vida.
 
 ---
 
-## 🔑 Respuestas Correctas (Reto Final)
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+## 🔑 Respuestas Correctas
+1. B | 2. B | 3. B | 4. B | 5. B
