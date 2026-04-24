@@ -12,14 +12,16 @@ Ejecuta el script de auditoría para validar la integridad del archivo:
 - **Comando**: `python3 scripts/audit_modules.py`
 - **Requisito**: 0 errores en las 9 secciones obligatorias y 0 errores en el conteo de preguntas (min 6).
 
-### 2. Filtro de Pureza Pedagógica
-- **Lenguaje**: ¿Se eliminaron siglas institucionales (IPN, RAP, NEM)?
-- **Analogías**: ¿Son relevantes para jóvenes de 14 años (evitar tecnicismos)?
-- **Tono**: ¿Suena a mentor experto o a burócrata aburrido?
+### 2. Filtro de Pureza Pedagógica (Ref. [.agents/experts/pedagogue.md](file:///home/kubrick/www/estudIA/.agents/experts/pedagogue.md))
+- **Andamiaje**: ¿El concepto se apoya en conocimientos previos o analogías sólidas?
+- **Carga Cognitiva**: ¿Se eliminó la "paja" y el lenguaje burocrático (IPN, RAP)?
+- **Tono**: ¿Suena a un mentor experto que guía, no a un libro de texto aburrido?
 
-### 3. Filtro de Profundidad
-- **Glosario**: ¿Los términos están explicados de forma que un niño entienda?
-- **Zona de Descubrimiento**: ¿Los recursos recomendados (cine, YouTube) son atractivos?
+### 3. Filtro de Rigor Disciplinar (SME)
+Invoca al experto correspondiente según la materia:
+- **Filosofía**: [El Filósofo](file:///home/kubrick/www/estudIA/.agents/experts/philosopher.md) (Precisión conceptual y ética).
+- **Computación**: [El Tecnólogo](file:///home/kubrick/www/estudIA/.agents/experts/computer_scientist.md) (Eficacia técnica y ciberseguridad).
+- **DHP**: [El Científico Cognitivo](file:///home/kubrick/www/estudIA/.agents/experts/cognitive_scientist.md) (Procesos mentales y metacognición).
 
 ## Resolución del Auditor
 - **APROBADO**: El módulo o materia cumple con el 100% de los estándares.

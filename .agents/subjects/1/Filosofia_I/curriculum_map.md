@@ -5,11 +5,13 @@ Este mapa te ayudará a cuestionar, entender y decidir sobre los grandes temas d
 ## Bloque 1: Tú y tus decisiones
 - **Módulo 01**: ¿Quién decide por ti? (Filosofía vs Sentido Común, El Sujeto Libre)
 - **Módulo 02**: Lo que está bien y lo que no (Ética, Moral, Hammurabi y Deontología)
-- **Módulo 03**: Grandes ideas para vivir mejor (Doctrinas Éticas e Historia de la Moral)
+- **Módulo 03.01**: El café con los grandes maestros (Doctrinas Éticas y las 4 preguntas de Kant)
+- **Módulo 03.02**: Las reglas han cambiado (Historia de la Moral, Hammurabi y los dos planos morales)
 
 ## Bloque 2: Entendiendo nuestro entorno
 - **Módulo 04**: ¿Quién nos enseña a ser quienes somos? (Tipos de Familia y Equidad)
-- **Módulo 05**: Problemas difíciles de resolver (Dilemas Éticos, Bioética y Acto Moral)
+- **Módulo 05.01**: El piloto de tu vida (El Acto Moral, Libertad y Responsabilidad)
+- **Módulo 05.02**: ¿Soy realmente libre? (Dilemas Éticos, Bioética y Deontología)
 - **Módulo 06**: Convivir en el mundo digital (Ciberética y Tecnología)
 
 ## Bloque 3: Lo que realmente importa

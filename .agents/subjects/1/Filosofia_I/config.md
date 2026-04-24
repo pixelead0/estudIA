@@ -9,6 +9,6 @@
 - **Assets**: [assets/1/Filosofia_I/](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/)
 
 ## Estado de Desarrollo
-- **Módulos Totales**: 12
-- **Módulos Completados**: 12
+- **Módulos Totales**: 14
+- **Módulos Completados**: 14
 - **Última Actualización**: 2026-04-24

@@ -15,7 +15,13 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 - **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto.
 
 ## 3. Estructura Obligatoria (Versión 2.0)
-Cada módulo debe contener exactamente estas 9 secciones en orden:
+Cada módulo debe estar contenido en un archivo Markdown. 
+
+**Nomenclatura**:
+- Módulo Simple: `XX_[nombre].md`
+- Sub-módulos (para temas densos): `XX.YY_[nombre].md` (ej. `03.01_doctrinas_griegas.md`)
+
+**Secciones Obligatorias (en orden)**:
 1.  **🎯 El Reto**: Gancho inicial basado en un dilema o situación cotidiana.
 2.  **💡 ¿Cómo funciona esto?**: Explicación lógica con analogías claras.
 3.  **✍️ Manos a la obra**: Actividad práctica o ejercicio guiado.
