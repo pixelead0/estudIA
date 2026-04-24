@@ -6,3 +6,6 @@
 - **Normas**: `.agents/standards/`
 - **Memoria**: `.agents/memory/`
 - **Prompts**: `.agents/prompts/`
+
+## Rutas de Salida
+- **Exports**: `exports/`

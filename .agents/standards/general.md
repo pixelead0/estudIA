@@ -14,12 +14,17 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 - **PERMITIDO**: Tono de "Mentor Amigo", analogías de vida diaria (la cocina, el transporte, el deporte, el mercado, la escuela), segunda persona ("Tú").
 - **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto.
 
-## 3. Metodología de Diseño (Ciclo de Aprendizaje)
-Cada lección debe seguir este ciclo (sin nombrar las fases):
-1.  **Activación**: Un reto, dilema o pregunta curiosa sobre algo cotidiano.
-2.  **Lógica**: Explicación del concepto usando ejemplos que cualquiera entienda.
-3.  **Práctica**: Ejercicios prácticos aplicados a la realidad del alumno.
-4.  **Reflexión**: Preguntas para que el alumno piense sobre lo aprendido.
+## 3. Estructura Obligatoria (Versión 2.0)
+Cada módulo debe contener exactamente estas 9 secciones en orden:
+1.  **🎯 El Reto**: Gancho inicial basado en un dilema o situación cotidiana.
+2.  **💡 ¿Cómo funciona esto?**: Explicación lógica con analogías claras.
+3.  **✍️ Manos a la obra**: Actividad práctica o ejercicio guiado.
+4.  **🌍 En tu mundo**: Aplicación del concepto a la comunidad o vida social.
+5.  **🏆 Reto Final**: Cuestionario de 6 preguntas de opción múltiple.
+6.  **🏁 Pausa para pensar**: Preguntas de reflexión profunda.
+7.  **📚 Glosario Maestro**: Definiciones sencillas de términos clave.
+8.  **🌟 Zona de Descubrimiento**: Recomendaciones (ver, explorar) y dato curioso.
+9.  **🔑 Respuestas Correctas**: Clave de respuestas del Reto Final.
 
 ## 4. Calidad Visual
 - **Obligatorio**: Al menos una imagen clara y atractiva por módulo que refuerce el concepto.
