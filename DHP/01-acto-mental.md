@@ -5,7 +5,7 @@
 ---
 
 ## 1. El Acto Mental: ¿Cerebro o Smartphone?
-Para que tu cerebro aprenda algo, debe seguir tres fases obligatorias. Si una falla, el aprendizaje se "glitchea".
+Para que tu cerebro aprenda algo, debe seguir tres fases obligatorias. Si una falla, el aprendizaje se "glitchea" o se detiene.
 
 ![Acto Mental: Cerebro vs Computadora](file:///home/kubrick/www/estudIA/assets/concepts/acto_mental.png)
 

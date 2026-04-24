@@ -1,6 +1,6 @@
 # Módulo 03: Memoria — Tu Disco Duro Mental
 
-¿De qué sirve observar algo increíble si al minuto se te olvida? La **Memoria** es la capacidad de guardar tus experiencias y "abrirlas" cuando las necesitas. En el mundo digital, serías una combinación de Memoria RAM y un Disco de Estado Sólido (SSD).
+¿De qué sirve observar algo increíble si al minuto se te olvida? La **Memoria** es la capacidad de guardar tus experiencias y "abrirlas" cuando las necesitas. Es como tener un pizarrón mental y una biblioteca gigante.
 
 ---
 
