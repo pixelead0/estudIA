@@ -1,67 +1,66 @@
-# Módulo 09: Documentos que Cobran Vida (Imágenes y Tablas)
+# Módulo 09: Tablas, imágenes y dibujos en tus documentos
 
-<!-- [IMAGEN PENDIENTE: Una composición visual de una tabla de datos transformándose en una gráfica colorida] -->
+![Elementos Visuales](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/09_CBI_concepts_visual_objects.png)
 
 ## 🚀 El Desafío
-Dicen que "una imagen vale más que mil palabras", y en un documento técnico, **una tabla bien hecha vale más que 10 párrafos de datos aburridos**. 
+Dicen que "una imagen vale más que mil palabras", y en un documento escolar, **una tabla bien organizada puede explicar mejor un tema que diez párrafos de datos sueltos**.
 
-Imagina que tienes que presentar los resultados de una encuesta sobre los juegos más populares de tu grupo. ¿Qué crees que impactará más: una lista escrita o una tabla comparativa con imágenes de los logos de los juegos? El secreto de un documento pro es saber **mezclar texto con elementos visuales** sin que parezca un collage de primaria.
+Imagina que tienes que presentar los resultados de una encuesta sobre los temas favoritos de tu grupo. ¿Qué crees que será más fácil de entender: una lista larga escrita a mano o una tabla comparativa con imágenes ilustrativas? El secreto de un gran documento es saber **mezclar el texto con elementos visuales** para que la información sea clara y atractiva.
 
-## 🧠 ¿Cómo funciona esto?
+## 💡 ¿Cómo funciona esto?
 
-Para darle vida a tu texto, usamos **Objetos**:
+Para que tus trabajos cobren vida, usamos diferentes **Objetos**:
 
-1. **Tablas (Orden Absoluto)**: Son cuadrículas de **filas** (horizontales) y **columnas** (verticales). Sirven para comparar datos, organizar horarios o hacer listas de precios.
-2. **Imágenes e Ilustraciones**: Ayudan a que el lector entienda de qué hablas. Pero cuidado: debes saber cómo "ajustar el texto" para que la imagen no mueva todo tu documento al otro lado del mundo.
-3. **Formas y SmartArt**: Flechas, cuadros y diagramas que explican procesos. Es como dibujar dentro de tu documento.
+1.  **Tablas (Orden y Comparación)**: Son cuadrículas formadas por **filas** (horizontales) y **columnas** (verticales). Sirven para organizar horarios, comparar datos o hacer listas de forma ordenada.
+2.  **Imágenes e Ilustraciones**: Ayudan al lector a visualizar de qué estás hablando. Lo más importante es saber cómo "ajustar el texto" para que la imagen no mueva todo tu documento de lugar.
+3.  **Formas y Gráficos (SmartArt)**: Flechas, cuadros y diagramas que explican procesos o pasos a seguir. Es como dibujar dentro de tu documento de forma profesional.
 
 > [!TIP]
-> **Ajuste de Imagen**: Si quieres mover una imagen libremente, cámbiale el ajuste a **"Delante del texto"** o **"Cuadrado"**. Por defecto, Word las trata como si fueran una letra gigante y difícil de mover.
+> **Ajuste de Imagen**: Si quieres mover una imagen libremente, cambia su ajuste a **"Cuadrado"** o **"Delante del texto"**. Por defecto, los programas las tratan como si fueran una letra gigante y eso hace que sean difíciles de acomodar.
 
-## 🛠️ Entrenamiento de Poder
+## 📝 Entrenamiento
 
-Usa los elementos visuales con sabiduría:
+Usa los elementos visuales para mejorar tu comunicación:
 
-| Elemento | ¿Para qué sirve? | Tip de Diseño |
+| Elemento | ¿Para qué sirve? | Consejo de Diseño |
 | :--- | :--- | :--- |
-| **Tabla** | Comparar mucha información. | Usa "Estilos de Tabla" para que se vea colorida. |
-| **Imágenes** | Ilustrar un concepto. | ¡No las estires! Siempre cámbiales el tamaño desde las esquinas. |
-| **Iconos** | Representar ideas rápido. | Son mejores que las fotos para listas de puntos. |
-| **Gráficos** | Mostrar números y estadísticas. | Solo úsalos si tienes datos reales. |
+| **Tabla** | Para organizar y comparar mucha información. | Usa bordes claros y colores suaves para que sea fácil de leer. |
+| **Imágenes** | Para ilustrar un concepto difícil de explicar. | ¡No las estires! Cámbiales el tamaño siempre desde las esquinas. |
+| **Iconos** | Para representar ideas de forma rápida y moderna. | Úsalos para hacer listas de puntos más interesantes. |
+| **SmartArt** | Para mostrar jerarquías o pasos de un proceso. | Elige colores que combinen con el resto de tu trabajo. |
 
 ## 🌍 Reto Real
-Estás haciendo una guía de supervivencia para un apocalipsis zombie en tu escuela.
+Estás diseñando una guía de consejos para mejorar el ambiente en tu escuela.
 
-**Tu reto**: Diseña la estructura de una tabla de 3 columnas que incluya: el Objeto de supervivencia, su Nivel de importancia (1-10) y dónde encontrarlo en la escuela. ¿Cómo harías para que la tabla no se vea aburrida?
+**Tu reto**: Diseña la estructura de una tabla de 3 columnas que incluya: la Acción propuesta, quiénes son los Responsables y qué Materiales se necesitan. ¿Cómo harías para que esta tabla se vea organizada y profesional?
 
-## 🏆 Desafío Pro
+## 🧠 Desafío Pro
 
-**1. ¿Cómo se llama el punto donde se cruzan una fila y una columna en una tabla?**
+**1. ¿Cómo se llama el cuadrito donde se cruzan una fila y una columna en una tabla?**
    - A) Punto.
    - B) Celda.
-   - C) Cuadrito.
-   - D) Nodo.
+   - C) Unión.
+   - D) Bloque.
 
-**2. Quieres poner una foto detrás de tu texto para que parezca una marca de agua. ¿Qué ajuste de texto debes usar?**
+**2. Quieres poner una imagen "detrás" de tu texto para que parezca un adorno suave. ¿Qué ajuste de texto debes usar?**
    - A) En línea con el texto.
    - B) Detrás del texto.
    - C) Arriba y abajo.
    - D) Estrecho.
 
-**3. ¿Cuál es la principal ventaja de usar SmartArt en lugar de solo texto?**
-   - A) Hace que el archivo pese menos.
-   - B) Permite visualizar procesos o jerarquías de forma clara y atractiva.
-   - C) Corrige la ortografía automáticamente.
-   - D) Cambia el idioma de la PC.
+**3. ¿Cuál es la principal ventaja de usar un gráfico de SmartArt en lugar de solo escribir una lista?**
+   - A) Hace que el documento tenga menos páginas.
+   - B) Permite ver procesos o pasos a seguir de forma visual y clara.
+   - C) Mejora la ortografía de lo que escribes.
+   - D) Cambia el idioma del programa automáticamente.
 
 ## 🏁 Pausa para pensar
-1. ¿Qué es lo que más te cuesta trabajo cuando insertas una imagen en un documento?
-2. ¿Prefieres ver la información en una tabla o en un párrafo largo? ¿Por qué?
-3. Si pudieras insertar un GIF en un documento impreso (como en Harry Potter), ¿qué GIF pondrías en tu tarea de hoy?
+1. ¿Qué es lo que más te gusta de agregar imágenes a tus trabajos escolares?
+2. ¿Prefieres leer información en una tabla bien hecha o en un párrafo largo de texto?
+3. Si pudieras usar una sola imagen para representar tu tema favorito, ¿cuál sería?
 
 ---
 
-## 🚀 Zona Bonus: Siguiente Nivel
-- **Para ver**: Tutoriales de "Diseño de tablas en Word". Verás cómo una tabla gris puede convertirse en algo digno de una infografía.
-- **Para buscar**: "Bancos de imágenes gratuitos" (como Unsplash o Pixabay). Para que nunca más uses imágenes con marcas de agua o borrosas.
-- **Dato Pro**: Las tablas en los procesadores de texto son las "primas" de las celdas de Excel. ¡Si aprendes una, ya sabes la mitad de la otra!
+## 🌟 Zona Bonus
+- **Dato curioso**: Las tablas en los procesadores de texto son parientes cercanas de las celdas de Excel. ¡Si aprendes a usar una, te será mucho más fácil entender la otra!
+- **Para explorar**: Busca "Bancos de imágenes gratuitos". Son sitios donde puedes bajar fotos profesionales y legales para que tus trabajos nunca se vean borrosos o con marcas de agua.

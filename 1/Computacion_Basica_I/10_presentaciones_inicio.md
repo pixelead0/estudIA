@@ -1,70 +1,69 @@
-# Módulo 10: Luces, Cámara, ¡Acción! (Presentaciones)
+# Módulo 10: Crea presentaciones claras y atractivas
 
-<!-- [IMAGEN PENDIENTE: Un proyector digital mostrando una diapositiva con un diseño de impacto] -->
+![Presentaciones de impacto](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/10_CBI_concepts_presentations_basics.png)
 
 ## 🚀 El Desafío
-Imagina que tienes que convencer a tus papás de que te compren esa consola o te dejen ir a ese viaje, o que tienes que exponer tu idea de negocio frente a toda la clase. Puedes hablar muy bien, pero si tienes un **apoyo visual de impacto**, ya tienes la mitad del éxito asegurado.
+Imagina que tienes una gran idea para mejorar algo en tu comunidad o en tu escuela, y necesitas que los demás te escuchen y te apoyen. Puedes tener un gran discurso, pero si tienes un **apoyo visual claro y atractivo**, será mucho más fácil que tu mensaje se entienda y se recuerde.
 
-Un diseñador de presentaciones (como PowerPoint o Google Slides) no es para escribir libros; es para **contar historias visuales**. El error #1 es llenar la pantalla de texto que nadie va a leer. ¿Cómo diseñarías una presentación que la gente no pueda dejar de mirar?
+Un programa de presentaciones (como PowerPoint o Google Slides) no es para escribir textos largos; es para **apoyar lo que tú dices** con imágenes y puntos clave. ¿Cómo diseñarías una presentación que mantenga la atención de todos de principio a fin?
 
-## 🧠 ¿Cómo funciona esto?
+## 💡 ¿Cómo funciona esto?
 
-Crear una presentación es como ser el **Director de una Película**:
+Crear una presentación es como ser el **Director de una Historia**:
 
-1. **La Diapositiva (Tu Escena)**: Es el espacio donde pones lo más importante. Cada diapositiva debe tener una sola idea principal.
-2. **Vistas de Presentación**:
-   - **Normal**: Donde diseñas y pegas cosas.
-   - **Clasificador**: Para ver todas tus escenas juntas y decidir cuál va primero.
-   - **Presentación**: ¡El show en vivo! Lo que ve tu público.
-3. **Diseño y Temas**: Son los "trajes" de tu presentación. Un buen tema le da colores y fuentes profesionales a todo el archivo de un solo clic.
+1.  **La Diapositiva (Tu Escena)**: Es el espacio donde pones la idea principal. Recuerda: cada diapositiva debe tratar solo un tema para no confundir al público.
+2.  **Diferentes Vistas**:
+    - **Normal**: Donde diseñas y escribes tus ideas.
+    - **Clasificador**: Para ver todas tus hojas juntas y decidir qué tema va primero.
+    - **Presentación**: Es el modo "en vivo", lo que verá tu audiencia en la pantalla grande.
+3.  **Temas y Diseño**: Son combinaciones de colores y letras ya listas que le dan un aspecto profesional a todo tu trabajo con un solo clic.
 
 > [!IMPORTANT]
-> **La Regla del 6x6**: Intenta no poner más de 6 líneas de texto por diapositiva y no más de 6 palabras por línea. Menos es más. El protagonista eres TÚ, la presentación es solo tu apoyo.
+> **La Regla de Oro**: Intenta no poner más de 6 líneas de texto por diapositiva. El protagonista de la exposición eres TÚ; la presentación es solo una guía para que los demás te sigan mejor.
 
-## 🛠️ Entrenamiento de Poder
+## 📝 Entrenamiento
 
-Domina el escenario digital:
+Domina las herramientas para organizar tu presentación:
 
-| Herramienta | ¿Para qué sirve? | Acción Pro |
+| Herramienta | ¿Para qué sirve? | Atajo de Teclado |
 | :--- | :--- | :--- |
-| **Nueva Diapositiva** | Agregar una escena más. | `Ctrl + M` |
-| **Diseño de Diapositiva** | Cambiar cómo se acomoda el texto/fotos. | Clic derecho > Diseño |
-| **Vistas** | Organizar el orden de la historia. | Iconos en la barra inferior |
-| **Notas del Orador** | Lo que TÚ lees pero el público no ve. | Panel de notas abajo |
+| **Nueva Diapositiva** | Para agregar un nuevo tema a tu historia. | `Ctrl + M` |
+| **Diseño de Diapositiva** | Para cambiar cómo se acomodan las fotos y el texto. | Clic derecho > Diseño. |
+| **Notas del Orador** | Para escribir recordatorios que solo tú verás. | Panel de notas (abajo). |
+| **Presentar** | Inicia la presentación en pantalla completa. | Tecla `F5`. |
 
 ## 🌍 Reto Real
-Tienes que exponer sobre "Tu YouTuber favorito" en solo 3 diapositivas.
+Tienes que exponer sobre un tema que te apasione (puede ser un lugar, una actividad o un personaje histórico) usando solo 3 diapositivas.
 
-**Tu reto**: ¿Qué pondrías en cada una para que sea emocionante? (Pista: No pongas su biografía entera, busca qué lo hace único).
+**Tu reto**: ¿Qué información pondrías en cada una para que sea interesante y nadie se distraiga? Recuerda usar más imágenes y menos palabras.
 
-## 🏆 Desafío Pro
+## 🧠 Desafío Pro
 
 **1. ¿Qué combinación de teclas inicia la presentación desde la primera diapositiva?**
-   - A) F1
+   - A) Ctrl + P
    - B) F5
-   - C) Ctrl + P
-   - D) Barra espaciadora
+   - C) Alt + F4
+   - D) Barra espaciadora.
 
-**2. Si tienes 50 diapositivas y quieres verlas todas pequeñas para cambiar el orden de la 40 a la 2, ¿qué vista usarías?**
+**2. Si tienes muchas diapositivas y quieres cambiar el orden de la última a la primera, ¿qué vista es la mejor?**
    - A) Vista Normal.
    - B) Vista Clasificador de Diapositivas.
    - C) Vista de Lectura.
-   - D) Zoom out infinito.
+   - D) No se puede cambiar el orden.
 
-**3. ¿Cuál es el error más común al crear una presentación?**
-   - A) Usar pocas imágenes.
-   - B) Poner demasiado texto y leerlo todo durante la exposición.
-   - C) Usar colores llamativos.
-   - D) Terminar rápido.
+**3. ¿Cuál es el error más común al hacer una presentación?**
+   - A) Usar imágenes claras.
+   - B) Poner demasiado texto en la pantalla y leerlo todo.
+   - C) Hablar con seguridad.
+   - D) Terminar a tiempo.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál es la presentación más aburrida que has visto y por qué lo era?
-2. Si tuvieras que usar un solo color para toda tu presentación, ¿cuál elegirías para que la gente no se duerma?
-3. ¿Te pones nervioso al exponer? ¿Cómo crees que una buena presentación te ayudaría a sentirte más seguro?
+1. ¿Qué es lo que más te aburre de una presentación cuando eres el público?
+2. Si tuvieras que usar un solo color para toda tu presentación, ¿cuál elegirías para que sea fácil de leer?
+3. ¿Cómo crees que una buena presentación te ayuda a sentirte más seguro al hablar frente a otros?
 
 ---
 
-## 🚀 Zona Bonus: Siguiente Nivel
-- **Para ver**: Cualquier charla de *TED Talks* en YouTube. Mira cómo sus presentaciones casi no tienen texto, solo imágenes poderosas.
-- **Para buscar**: "Regla de los tercios en diseño". Te servirá para acomodar tus fotos y que se vean artísticas.
-- **Dato Pro**: Steve Jobs, el creador de Apple, ensayaba sus presentaciones de 20 minutos durante cientos de horas. ¡Nada era casualidad!
+## 🌟 Zona Bonus
+- **Dato curioso**: Las presentaciones se usan en casi todos los trabajos del mundo para proponer ideas nuevas. ¡Aprender a hacerlas bien ahora te servirá para siempre!
+- **Para explorar**: Busca ejemplos de "Infografías". Son una excelente fuente de inspiración para ver cómo se puede explicar algo complejo con muy poco texto y muchos iconos.

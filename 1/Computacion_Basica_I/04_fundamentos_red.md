@@ -1,68 +1,55 @@
-# Módulo 04: La Red que Conecta el Mundo
+# Módulo 04: Cómo funciona Internet y cómo navegar seguro
 
 ![Fundamentos de la Red e Internet](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/04_CBI_concepts_internet_basics.png)
 
 ## 🚀 El Desafío
-Imagina que quieres jugar una partida de *Free Fire* o *Fortnite* con un amigo que vive en otro país. Cuando disparas o te mueves, esa información viaja miles de kilómetros, cruza océanos por cables submarinos y llega a la consola de tu amigo en menos de lo que parpadeas.
+Imagina que quieres enviarle un mensaje a un primo que vive en otra ciudad o incluso en otro país. En el pasado, tendrías que escribir una carta, llevarla al correo, esperar a que un camión o avión la transportara y que llegara días después. Hoy, ese mensaje llega en un segundo.
 
-**¿Cómo es posible que todo el mundo esté conectado a la vez sin que los datos se choquen?** Internet no es magia, es una infraestructura física y lógica increíble que funciona las 24 horas del día.
+Imagina enviar una carta: escribes, la envías por correo, un transporte la lleva y llega días después. Hoy, un mensaje llega en un instante.
 
-## 🧠 ¿Cómo funciona esto?
+**¿Cómo estamos todos conectados sin que la información se pierda?** Internet no es magia; es una red mundial de cables y equipos que conectan dispositivos, funcionando de forma similar a un sistema de carreteras.
 
-Internet es como una **Ciudad Global Invisible**:
+## 💡 ¿Cómo funciona esto?
 
-1. **La Web (WWW)**: Son las tiendas y bibliotecas de la ciudad. Lo que ves en Chrome o Safari.
-2. **Protocolos (Las Reglas de Tránsito)**: Como el HTTP o HTTPS, que aseguran que los datos lleguen a salvo.
-3. **Servidores (Los Rascacielos)**: Computadoras gigantes que nunca se apagan y guardan la información de Google, TikTok o Netflix.
-4. **Navegador (Tu Vehículo)**: Es el programa que usas para recorrer esa ciudad.
+Internet funciona como un sistema de transporte de información:
+
+1.  **La Red**: Es la estructura física, como las carreteras y puentes. Incluye los cables submarinos y las señales inalámbricas que conectan todo.
+2.  **La Web**: Son los sitios que visitas usando la red, funcionando como los edificios o tiendas a los que accedes al viajar por esas carreteras.
+3.  **Los Servidores**: Son equipos potentes que guardan información todo el tiempo. Cuando accedes a un sitio, en realidad le pides una copia de esa información a un servidor.
+4.  **El Navegador**: Es la herramienta (como Chrome o Edge) que usas para recorrer la red y visualizar lo que buscas.
 
 > [!IMPORTANT]
-> **Internet vs. Web**: Internet es la red de cables y satélites (la carretera). La Web es el contenido que viaja por ella (los coches). Puedes tener Internet y usarlo para jugar en línea sin entrar a ninguna página web.
+> **Dato**: Internet es la red completa; la Web es solo una forma de usarla. Aplicaciones de mensajería o juegos también usan la red sin ser necesariamente páginas web.
 
-## 🛠️ Entrenamiento de Poder
+## 📝 Entrenamiento
 
-Diferencia los servicios para ser un experto en la red:
+Distingue los servicios para navegar:
 
-| Servicio | ¿Para qué sirve? | Ejemplo Pro |
+| Servicio | ¿Para qué sirve? | Ejemplo |
 | :--- | :--- | :--- |
-| **Navegación Web** | Buscar información y ver páginas. | Google Chrome, Wikipedia. |
-| **Streaming** | Ver video o audio sin descargarlo. | Twitch, YouTube, Spotify. |
-| **Correo Electrónico** | Enviar mensajes formales y archivos. | Gmail, Outlook. |
-| **Nube (Cloud)** | Guardar tus archivos fuera de tu PC. | Google Drive, Dropbox. |
+| **Buscadores** | Encontrar información específica. | Google, Bing. |
+| **Correo** | Enviar mensajes y archivos. | Gmail, Outlook. |
+| **La Nube** | Guardar archivos fuera de tu equipo. | Google Drive, OneDrive. |
+| **Streaming** | Ver o escuchar contenido al momento. | YouTube, Spotify. |
 
 ## 🌍 Reto Real
-Casi todo lo que usas hoy necesita Internet: tu refri inteligente, tu tele, tu consola.
+Casi todo a nuestro alrededor está conectado. 
 
-**Tu reto**: Si hoy se cortara el cable de fibra óptica que conecta a tu país con el resto del mundo, ¿qué tres cosas de tu rutina diaria dejarían de funcionar y cómo las sustituirías "a la antigua"?
+**Tu reto**: Si el internet fallara por 24 horas, ¿qué tres actividades cotidianas de tu familia se verían afectadas? Describe cómo las realizarían usando herramientas tradicionales (ejemplo: usar un mapa de papel en lugar de uno digital).
 
-## 🏆 Desafío Pro
+## 🧠 Desafío Pro
 
-**1. ¿Qué significa la "S" al final de HTTPS en la barra de direcciones?**
-   - A) Que el sitio es Súper rápido.
-   - B) Que el sitio es Seguro (los datos viajan encriptados).
-   - C) Que el sitio es de Software libre.
-   - D) Que el sitio solo funciona en Smartphones.
+**1. ¿Qué significa el candado en la dirección de una página?**
+   - A) La página está bloqueada.
+   - B) Tu información viaja cifrada y es más segura.
+   - C) La página tiene un costo.
+   - D) El equipo tiene un virus.
 
-**2. Si una página web no carga pero tu juego en línea funciona perfecto, ¿qué es lo más probable?**
-   - A) No tienes Internet.
-   - B) El servidor de esa página web está caído.
-   - C) Tu monitor se descompuso.
-   - D) Alguien desconectó el router.
+**2. Si una página tarda mucho en cargar, ¿qué es lo más probable?**
+   - A) Falló todo el internet.
+   - B) El servidor de esa página tiene mucha demanda o problemas.
+   - C) El monitor falla.
+   - D) El teclado está desconectado.
 
-**3. ¿Cuál es la función de un "Link" o Hipervínculo?**
-   - A) Descargar un virus automáticamente.
-   - B) Conectar un documento con otro en cualquier parte del mundo.
-   - C) Apagar la computadora.
-   - D) Cambiar el idioma de la página.
+- **Para explorar**: Busca en internet un "Mapa de cables submarinos". Te sorprenderá ver cómo todo el planeta está unido por cables reales en el fondo del océano.
 
-## 🏁 Pausa para pensar
-1. ¿Cuál es el sitio web que más visitas al día y qué pasaría si desapareciera mañana?
-2. ¿Sabías que los datos de Internet viajan principalmente por cables en el fondo del mar y no por satélites? ¿Te lo imaginabas así?
-3. Si pudieras crear una página web sobre cualquier tema, ¿de qué sería?
-
----
-
-## 🚀 Zona Bonus: Siguiente Nivel
-- **Para ver**: *Wifi Ralph* (Muestra una representación increíble de cómo se ve Internet por dentro).
-- **Para buscar**: "Submarine cable map" en Google. Es un mapa real de todos los cables que cruzan los océanos.
-- **Dato Pro**: El primer mensaje enviado por Internet fue la palabra "LOGIN", ¡pero el sistema se cayó después de las primeras dos letras! Así que el primer mensaje real fue solo "LO".

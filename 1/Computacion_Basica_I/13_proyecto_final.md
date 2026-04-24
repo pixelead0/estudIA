@@ -1,72 +1,71 @@
-# Módulo 13: La Gran Batalla Final (Proyecto Integrador)
+# Módulo 13: Proyecto Final: Aplicando todo lo aprendido
 
-<!-- [IMAGEN PENDIENTE: Un trofeo digital rodeado de iconos de Word, PowerPoint e Internet] -->
+![Proyecto Integrador](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/13_CBI_concepts_final_project.png)
 
 ## 🚀 El Desafío
-Has pasado por todas las pruebas: dominas el hardware, sabes moverte en la red como un ninja, tus documentos de Word parecen revistas y tus presentaciones tienen más magia que una película de Marvel. 
+¡Felicidades! Has recorrido un largo camino: ahora sabes cómo funciona el hardware, cómo navegar con seguridad en internet, cómo crear documentos profesionales y cómo diseñar presentaciones que impacten.
 
-Ahora llega el **Boss Final**. No es un examen de memoria, es un **Proyecto de Poder**. Tienes que elegir un problema real de tu comunidad (o un tema que te apasione), investigarlo a fondo y crear el ecosistema digital que lo explique al mundo. ¿Estás listo para demostrar que eres un Maestro de la Computación?
+Ahora llega el momento de demostrar tus habilidades con un **Proyecto Real**. No se trata de un examen de memoria, sino de aplicar lo que sabes para resolver un problema o explicar un tema que te interese de forma profesional. ¿Estás listo para mostrar tu trabajo al mundo?
 
-## 🧠 ¿Cómo funciona esto?
+## 💡 ¿Cómo funciona esto?
 
-Este proyecto une todas tus habilidades en una **Misión de 3 Fases**:
+Este proyecto final une todas tus herramientas en una **Misión de 3 Pasos**:
 
-1. **Fase de Inteligencia (Internet)**: Elige tu tema y usa los Modelos de Búsqueda (Gavilán o Big6). Encuentra datos reales, imágenes pro y verifica tus fuentes. ¡Nada de fake news!
-2. **Fase de Construcción (Procesador de Textos)**: Redacta tu reporte final. Debe tener:
-   - Portada de impacto.
-   - Índice automático (usando Estilos).
-   - Introducción, Desarrollo con tablas de datos y Conclusiones.
-   - Bibliografía bien citada.
-3. **Fase de Despliegue (Presentaciones)**: Crea una presentación ejecutiva para "vender" tu idea. Recuerda la regla del 6x6, usa animaciones con propósito y añade botones interactivos para que tu público pueda navegar por ella.
+1.  **Investigación (Internet)**: Elige un tema que te apasione o un problema de tu comunidad. Usa las técnicas de búsqueda que aprendiste para encontrar datos reales, imágenes de alta calidad y fuentes confiables.
+2.  **Documentación (Procesador de Textos)**: Crea un reporte completo de tu investigación. Debe incluir:
+    - Portada organizada.
+    - Índice automático usando Estilos.
+    - Contenido bien estructurado con títulos, párrafos y tablas de datos.
+    - Bibliografía con las fuentes que consultaste.
+3.  **Comunicación (Presentaciones)**: Diseña una presentación para exponer tus resultados. Usa imágenes claras, muy poco texto, animaciones con sentido y botones interactivos para navegar por ella.
 
 > [!IMPORTANT]
-> El objetivo no es solo entregar archivos, sino demostrar que sabes **gestionar la información** para resolver un problema.
+> **El objetivo principal**: No es solo entregar archivos, sino demostrar que sabes **gestionar la información** para comunicar una idea de forma clara y profesional.
 
-## 🛠️ Entrenamiento de Poder: Checklist del Maestro
+## 📝 Entrenamiento: Lista de Verificación
 
-Asegúrate de que tu proyecto tenga el "Sello Pro" antes de entregarlo:
+Antes de entregar tu proyecto, asegúrate de que tenga estos elementos:
 
-| Sección | Elemento Obligatorio | Estado |
+| Sección | ¿Qué debe incluir? | Revisado |
 | :--- | :--- | :--- |
-| **Investigación** | Al menos 3 fuentes confiables citadas. | [ ] |
-| **Documento Word** | Uso de Saltos de Página y Encabezados. | [ ] |
-| **Tablas/Imágenes** | Una tabla comparativa y una imagen con ajuste cuadrado. | [ ] |
-| **Presentación** | Al menos una transición "Transformación" o "Morph". | [ ] |
-| **Interactividad** | Un botón de "Regresar al Menú" en cada diapositiva. | [ ] |
+| **Investigación** | Al menos 3 fuentes de información confiables. | [ ] |
+| **Reporte Escrito** | Uso de Saltos de Página y encabezados con tu nombre. | [ ] |
+| **Tablas e Imágenes** | Una tabla comparativa y al menos una imagen bien ajustada. | [ ] |
+| **Presentación** | Un diseño limpio con la regla de poco texto (6x6). | [ ] |
+| **Interactividad** | Un botón de "Regresar al Menú" en tus diapositivas. | [ ] |
 
 ## 🌍 Reto Real
-Piensa en grande. Tu proyecto podría ser: "Cómo reducir el uso de plástico en mi escuela", "La historia de los eSports" o "Guía de ciberseguridad para mis abuelos".
+Piensa en un tema que sea útil para los demás. Tu proyecto podría ser: "Guía de seguridad en internet para mi familia", "Cómo mejorar el reciclaje en mi colonia" o "La historia de mi deporte favorito".
 
-**Tu reto**: Escribe ahora mismo el título de tu proyecto y las 3 preguntas clave que vas a investigar en Internet para resolverlo.
+**Tu reto**: Escribe el título tentativo de tu proyecto y define 3 preguntas clave que vas a investigar para poder desarrollarlo.
 
-## 🏆 Desafío Pro (El Último Nivel)
+## 🧠 Desafío Pro
 
-**1. Si al terminar tu proyecto de Word notas que al agregar una línea al principio se mueve todo el documento, ¿qué error de novato cometiste?**
-   - A) No pusiste suficientes imágenes.
-   - B) No usaste "Saltos de Página" (Ctrl + Enter) para separar las secciones.
-   - C) El procesador de textos no funciona bien.
-   - D) El archivo es demasiado pesado.
+**1. Si al escribir tu reporte notas que al agregar una línea se desacomodan todas las páginas siguientes, ¿qué herramienta olvidaste usar?**
+   - A) El corrector ortográfico.
+   - B) Los Saltos de Página (Ctrl + Enter).
+   - C) Las negritas.
+   - D) El mouse.
 
-**2. ¿Cuál es la mejor forma de asegurar que tu presentación de PowerPoint no aburra a tu audiencia?**
-   - A) Poner 20 animaciones de rebote por diapositiva.
-   - B) Leer todo el texto que escribiste en la pantalla.
-   - C) Usar imágenes poderosas y muy poco texto (Regla 6x6).
-   - D) Hablar muy rápido para terminar pronto.
+**2. ¿Cuál es la mejor forma de asegurar que tu presentación no sea aburrida para quienes la ven?**
+   - A) Leer todo lo que escribiste en la pantalla sin mirar al público.
+   - B) Usar imágenes que expliquen tus ideas y poner muy poco texto.
+   - C) Poner música muy fuerte durante toda la exposición.
+   - D) Usar 50 animaciones diferentes por diapositiva.
 
-**3. ¿Por qué es vital guardar tu proyecto final en una estructura de carpetas organizada (como aprendiste en el Módulo 03)?**
-   - A) Para que la PC no explote.
-   - B) Para encontrar rápido todos los activos (fotos, audios, borradores) si necesitas editarlos después.
-   - C) Porque el programa te obliga a hacerlo.
-   - D) Solo para que se vea bonito el escritorio.
+**3. ¿Por qué es importante guardar tus trabajos en carpetas bien organizadas?**
+   - A) Para que la computadora no se llene de archivos.
+   - B) Para encontrar rápido tus fotos, borradores y el archivo final si necesitas hacer cambios.
+   - C) Porque el profesor lo pide.
+   - D) No es importante, se puede guardar todo en el escritorio.
 
 ## 🏁 Pausa para pensar
-1. De todo lo que aprendiste en este curso, ¿cuál fue la herramienta que más te sorprendió?
-2. ¿Cómo te sientes ahora cuando usas una computadora comparado a cómo te sentías el primer día?
-3. Si pudieras inventar un nuevo programa o aplicación que no exista, ¿qué problema resolvería?
+1. De todo lo que aprendiste en este curso, ¿cuál fue la herramienta que más te gustó usar?
+2. ¿Cómo ha cambiado tu forma de usar la computadora desde el primer día hasta hoy?
+3. Si pudieras crear una aplicación que resolviera un problema de tu escuela, ¿qué haría?
 
 ---
 
-## 🚀 Zona Bonus: Siguiente Nivel
-- **Para ver**: *Steve Jobs* (La película). Observa cómo se preparaba para las presentaciones más importantes de su vida.
-- **Para buscar**: "Portafolios digitales". Mira cómo los profesionales organizan sus proyectos para que el mundo los contrate.
-- **Dato Pro**: Muchas de las grandes empresas del mundo (como Google o Facebook) empezaron exactamente como un "Proyecto Integrador" de estudiantes. ¡Tu idea podría ser la siguiente!
+## 🌟 Zona Bonus
+- **Dato curioso**: Muchas de las grandes ideas que hoy usamos en todo el mundo empezaron como proyectos escolares de estudiantes como tú. ¡Tu trabajo podría ser el inicio de algo grande!
+- **Para explorar**: Investiga cómo crear un "Portafolio Digital". Es una forma de guardar todos tus mejores trabajos para que el mundo vea de lo que eres capaz.

@@ -1,66 +1,66 @@
-# Módulo 05: El Arte de Encontrar Tesoros (Búsqueda Pro)
+# Módulo 05: Técnicas para encontrar información real y útil
 
-<!-- [IMAGEN PENDIENTE: Detective digital con lupa holográfica] -->
+![Investigación y búsqueda](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/05_CBI_concepts_search_techniques.png)
 
 ## 🚀 El Desafío
-¿Alguna vez has buscado algo en Google y los primeros 10 resultados son anuncios o páginas que no tienen nada que ver con lo que quieres? En un mundo con trillones de datos, saber buscar no es un lujo, es un superpoder.
+¿Alguna vez has buscado algo en internet y los primeros resultados son anuncios o páginas que no tienen nada que ver con lo que quieres? Con tanta información disponible, saber buscar no es solo escribir una palabra; es saber preguntar correctamente.
 
-Si tuvieras que investigar si "los tiburones pueden vivir en agua dulce" para una tarea de mañana, **¿cómo asegurarías que la información que encuentres es real y no una *fake news*?**
+Si tuvieras que investigar sobre un tema importante para la escuela, como "cómo cuidar el agua en mi ciudad", **¿cómo podrías asegurar que la información que encuentres es de verdad y no una noticia falsa?** Aprender a buscar es como convertirte en un investigador que sabe separar los hechos de los rumores.
 
-## 🧠 ¿Cómo funciona esto?
+## 💡 ¿Cómo funciona esto?
 
-Para buscar como un profesional, usamos "mapas" llamados **Modelos de Búsqueda**:
-3
-1. **Modelo Gavilán**: Es como ser un detective. Primero defines qué buscas (La Pregunta), luego vas a la escena del crimen (Internet), analizas las pistas (La Información) y finalmente resuelves el caso (Tu Tarea).
-2. **Big6**: Es una estrategia de 6 pasos para no perderte. Desde saber qué necesitas hasta evaluar si lo que hiciste quedó bien.
+Para buscar como un experto, podemos usar dos "mapas" que nos guían paso a paso:
+
+1.  **Modelo Gavilán**: Es como ser un detective de la información. Primero defines bien qué necesitas saber (La Pregunta), luego buscas las fuentes (Internet o libros), analizas si la información es buena y, finalmente, construyes tu respuesta.
+2.  **Modelo Big6**: Son 6 pasos sencillos para organizar cualquier investigación, desde entender la tarea hasta revisar si el resultado final quedó como esperabas.
 
 > [!TIP]
-> **Truco de Buscador**: Usa comillas `" "` para buscar frases exactas. Si buscas `"tiburón de río"`, Google solo te mostrará páginas donde aparezcan esas tres palabras juntas.
+> **Truco de búsqueda**: Si buscas una frase exacta, ponla entre comillas `" "`. Por ejemplo, si buscas `"Constitución de México"`, el buscador solo te mostrará páginas donde aparezcan esas tres palabras juntas y en ese orden.
 
-## 🛠️ Entrenamiento de Poder
+## 📝 Entrenamiento
 
-Aplica la lógica de búsqueda:
+Aplica estos trucos para encontrar exactamente lo que necesitas:
 
-| Herramienta | ¿Cuándo usarla? | Acción Detective |
+| Herramienta | ¿Cuándo usarla? | Ejemplo Práctico |
 | :--- | :--- | :--- |
-| **Comillas " "** | Para frases exactas. | `"Cambio climático en México"` |
-| **Signo Menos -** | Para quitar palabras. | `Jaguar -animal` (Si buscas el coche). |
-| **Google Académico** | Para tareas serias. | Busca libros y artículos científicos. |
-| **Búsqueda por Imagen** | Para saber el origen. | Sube una foto para ver si es real o editada. |
+| **Comillas " "** | Para buscar nombres o frases exactas. | `"Revolución Mexicana"` |
+| **Signo Menos -** | Para quitar palabras que no te sirven. | `Mercurio -planeta` (si buscas el metal). |
+| **Buscadores Académicos** | Para encontrar libros y artículos serios. | Google Académico. |
+| **Búsqueda por Imagen** | Para saber de dónde viene una foto. | Subir una imagen al buscador para ver su origen. |
 
 ## 🌍 Reto Real
-Las redes sociales están llenas de noticias falsas que parecen reales.
+A veces circulan noticias en redes sociales que parecen reales pero son mentira.
 
-**Tu reto**: Aplica el primer paso del Modelo Gavilán. Formula una "Pregunta Inicial" perfecta para investigar sobre "El impacto de los videojuegos en el cerebro". No vale solo poner "videojuegos", tiene que ser una pregunta que te obligue a investigar a fondo.
+**Tu reto**: Imagina que quieres investigar sobre "la alimentación saludable". Escribe una "Pregunta de Investigación" que sea muy específica (no vale solo poner "¿qué comer?"). Debe ser una pregunta que te obligue a buscar en varias páginas para dar una buena respuesta.
 
-## 🏆 Desafío Pro
+## 🧠 Desafío Pro
 
-**1. ¿Cuál es la principal ventaja de usar el Modelo Gavilán en una investigación?**
-   - A) Terminar la tarea más rápido sin leer.
-   - B) Asegurar que la información sea confiable y esté bien organizada.
-   - C) Que Google te dé mejores resultados automáticamente.
-   - D) Ganar seguidores en redes sociales.
+**1. ¿Cuál es la principal ventaja de seguir un modelo como el Gavilán al hacer una tarea?**
+   - A) Terminar más rápido sin tener que leer nada.
+   - B) Asegurarte de que la información sea confiable y esté bien organizada.
+   - C) Que la computadora escriba la tarea por ti.
+   - D) No tener que usar el internet.
 
-**2. Si buscas información sobre "Mercurio" pero solo te salen resultados del planeta y tú quieres el metal, ¿qué deberías escribir?**
-   - A) Mercurio planeta
-   - B) Mercurio -planeta
-   - C) "Mercurio"
-   - D) AYUDA MERCURIO METAL
+**2. Si quieres buscar información sobre el animal "Jaguar" pero el buscador solo te muestra anuncios de coches, ¿qué truco usarías?**
+   - A) Escribir JAGUAR en mayúsculas.
+   - B) Escribir `Jaguar -autos`.
+   - C) Buscar "animalito bonito".
+   - D) Reiniciar el navegador.
 
-**3. ¿Qué paso del modelo Big6 se encarga de revisar si el trabajo final realmente responde a lo que se pidió al principio?**
-   - A) Definición de la tarea.
-   - B) Localización y acceso.
-   - C) Síntesis.
-   - D) Evaluación.
+**3. ¿En qué paso del proceso de búsqueda debes revisar si la página web que encontraste es de una institución confiable?**
+   - A) Al principio, antes de buscar.
+   - B) Durante el análisis de la información.
+   - C) Al final, cuando ya entregaste la tarea.
+   - D) Nunca, todo en internet es verdad.
 
 ## 🏁 Pausa para pensar
-1. ¿Cuál ha sido la búsqueda más difícil que has hecho en internet?
-2. ¿Alguna vez te has creído una noticia falsa? ¿Cómo te diste cuenta de que no era real?
-3. ¿Crees que la Inteligencia Artificial (como ChatGPT) reemplaza la necesidad de saber buscar información?
+1. ¿Cuál es el buscador que más usas y por qué te gusta más que otros?
+2. ¿Alguna vez has compartido una información que resultó ser mentira? ¿Cómo te sentiste?
+3. ¿Por qué crees que es importante citar o decir de dónde sacaste la información en tus trabajos escolares?
 
 ---
 
-## 🚀 Zona Bonus: Siguiente Nivel
-- **Para ver**: *The Social Dilemma* (Para entender cómo los buscadores eligen qué mostrarte).
-- **Para buscar**: "Google Dorks" (Son comandos avanzados de búsqueda que te harán sentir como un hacker de la información).
-- **Dato Pro**: El 90% de las personas nunca pasa de la primera página de resultados de Google. ¡El verdadero tesoro suele estar escondido en la página 2 o 3!
+## 🌟 Zona Bonus
+- **Dato curioso**: Se estima que solo el 10% de las personas pasa a la segunda página de resultados de Google. ¡A veces la mejor información está un poquito más escondida!
+- **Para explorar**: Intenta buscar tu propio nombre entre comillas en el buscador. ¿Qué resultados aparecen? Eso es parte de lo que el mundo sabe de ti en la red.
+
