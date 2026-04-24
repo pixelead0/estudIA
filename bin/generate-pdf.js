@@ -10,36 +10,11 @@ const md = new MarkdownIt({
     typographer: true
 });
 
-// Transform paths and embed images as Base64 to bypass browser security
+// Transform paths to absolute file:// URLs
 async function transformImages(content) {
     const rootPath = '/home/kubrick/www/estudIA/';
-    const imageRegex = /!\[(.*?)\]\((file:\/\/.*?)\)/g;
-    let transformed = content;
-    const matches = [...content.matchAll(imageRegex)];
-
-    for (const match of matches) {
-        const altText = match[1];
-        const fullUrl = match[2];
-        const filePath = fullUrl.replace('file://', '');
-        
-        if (await fs.pathExists(filePath)) {
-            const ext = path.extname(filePath).substring(1).toLowerCase();
-            const imageBuffer = await fs.readFile(filePath);
-            const base64 = imageBuffer.toString('base64');
-            
-            // Detect actual MIME type from Base64 header
-            let mimeType = `image/${ext === 'jpg' ? 'jpeg' : ext}`;
-            if (base64.startsWith('/9j/')) mimeType = 'image/jpeg';
-            else if (base64.startsWith('iVBORw')) mimeType = 'image/png';
-            else if (base64.startsWith('R0lGOD')) mimeType = 'image/gif';
-            else if (base64.startsWith('UklGR')) mimeType = 'image/webp';
-
-            const dataUrl = `data:${mimeType};base64,${base64}`;
-            // Replace the entire markdown image syntax with an HTML img tag
-            transformed = transformed.replace(match[0], `<img src="${dataUrl}" alt="${altText}">`);
-        }
-    }
-    return transformed;
+    // Already in file:///home/kubrick/www/estudIA/ format in the modules
+    return content;
 }
 
 // Custom transformation for GitHub-style alerts: > [!TIP]
@@ -119,7 +94,9 @@ async function generatePDF(semester, subject) {
 
     console.log(`🚀 Rendering PDF to ${pdfPath}...`);
     
-    const browser = await chromium.launch();
+    const browser = await chromium.launch({
+        args: ['--allow-file-access-from-files']
+    });
     const page = await browser.newPage();
     
     await page.goto(`file://${tempHtmlPath}`, { waitUntil: 'networkidle' });
