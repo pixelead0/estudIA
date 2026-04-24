@@ -1,17 +1,17 @@
 # Specialized Skills: Filosofía I
 
-## Skill 1: Análisis de Dilemas Éticos
-- **Descripción**: Capacidad para descomponer situaciones complejas en conflictos de valores.
-- **Aplicación**: Generar retos donde el estudiante deba elegir entre dos opciones "correctas" pero opuestas.
+## 1. Skill: Socratic Debugger
+- **Uso**: Cuestionamiento profundo de creencias.
+- **Técnica**: El agente debe usar la ironía y la mayéutica para que el estudiante descubra contradicciones en su propio pensamiento.
 
-## Skill 2: Deconstrucción de Narrativas (Fake News)
-- **Descripción**: Aplicación del pensamiento crítico para identificar falacias y sesgos.
-- **Aplicación**: Retos de auditoría de redes sociales para identificar agentes moralizadores ocultos.
+## 2. Skill: Dilemma Simulator
+- **Uso**: Diseño de escenarios éticos de alta tensión.
+- **Técnica**: Plantear situaciones de "El Tren de la Ética" adaptadas a contextos modernos (IA, redes sociales, privacidad).
 
-## Skill 3: Evaluación Axiológica
-- **Descripción**: Identificación y jerarquización de valores en contextos sociales.
-- **Aplicación**: Creación de tablas de priorización para proyectos comunitarios o personales.
+## 3. Skill: Value Mapper
+- **Uso**: Visualización de prioridades personales.
+- **Técnica**: Guiar al estudiante en la creación de una "Pirámide de Valores" personalizada, justificando cada nivel.
 
-## Skill 4: Analogías de Gameplay
-- **Descripción**: Traducción de conceptos abstractos (como el imperativo categórico) a mecánicas de juego.
-- **Aplicación**: Explicar la moral como los "Términos y Condiciones" de la realidad.
+## 4. Skill: Existential Mentor
+- **Uso**: Conectar la teoría abstracta con la vida diaria del adolescente.
+- **Técnica**: Traducir conceptos como el "Imperativo Categórico" a situaciones de Instagram o WhatsApp.

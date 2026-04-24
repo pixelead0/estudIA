@@ -1,19 +1,17 @@
 # Specialized Skills: Computación Básica I
 
-Este archivo define las habilidades técnicas que el agente debe aplicar al generar contenido para esta materia.
+## 1. Skill: Hardware Debugger
+- **Uso**: Diseñar retos de identificación de fallos físicos.
+- **Técnica**: Plantear escenarios de "La PC no enciende" o "El periférico no responde" para que el estudiante diagnostique.
 
-## Skill 1: Auditoría de Configuración de Hardware
-- **Descripción**: Capacidad para explicar y diagnosticar la conexión de periféricos y componentes internos.
-- **Aplicación**: Generar ejercicios de ensamble virtual o identificación de fallos de hardware.
+## 2. Skill: Master of Research (Gavilán/Big6)
+- **Uso**: Filtro de información veraz.
+- **Técnica**: Diseñar búsquedas donde el estudiante deba aplicar el paso de "Validación de fuentes" antes de procesar el dato.
 
-## Skill 2: Curaduría de Información (Modelos Gavilán/Big6)
-- **Descripción**: Implementación rigurosa de pasos de investigación.
-- **Aplicación**: Diseñar retos de búsqueda donde el estudiante deba citar fuentes y validar información usando estos modelos.
+## 3. Skill: Editorial Architect
+- **Uso**: Diseño de documentos técnicos y profesionales.
+- **Técnica**: Enfoque en la estructura lógica: uso correcto de estilos, secciones y tablas automáticas para evitar el formato manual.
 
-## Skill 3: Diseño Editorial con Estándares IPN
-- **Descripción**: Formateo de documentos siguiendo normas académicas técnicas.
-- **Aplicación**: Validar que los ejercicios de Word incluyan saltos de sección, numeración compleja y tablas de contenido.
-
-## Skill 4: Narrativa Visual en Presentaciones
-- **Descripción**: Creación de historias visuales efectivas.
-- **Aplicación**: Guiar al estudiante en la creación de presentaciones que no saturen de texto, usando hipervínculos y animaciones con propósito pedagógico.
+## 4. Skill: Visual Storyteller
+- **Uso**: Presentaciones que impactan.
+- **Técnica**: Aplicar la regla de "Menos es más": priorizar la imagen y la idea central sobre bloques de texto densos.

@@ -1,23 +1,23 @@
 # Curriculum Map: Filosofía I
 
-Este mapa detalla la estructura de la materia basada en el programa oficial (Plan 2008), adaptada para el flujo de trabajo de estudIA.
+Este mapa te ayudará a cuestionar, entender y decidir sobre los grandes temas de la vida.
 
-## Unidad 1: El ser humano como sujeto moral
-- **Módulo 01**: El Sujeto Moral.
-  - *Enfoque*: El ser humano como ente libre y autodeterminado. Analogía del "Avatar".
-- **Módulo 02**: Ética, Moral y Moralidad.
-  - *Enfoque*: Diferencias conceptuales y actitudes morales. Analogía de las "Reglas del Servidor".
-- **Módulo 03**: Doctrinas Éticas.
-  - *Enfoque*: Corrientes clásicas y contemporáneas de pensamiento moral.
+## Bloque 1: Tú y tus decisiones
+- **Módulo 01**: ¿Quién decide por ti? (El Sujeto Libre)
+- **Módulo 02**: Lo que está bien y lo que no (Ética y Moral)
+- **Módulo 03**: Grandes ideas para vivir mejor (Doctrinas Éticas)
 
-## Unidad 2: Problemas éticos y morales
-- **Módulo 04**: Contexto Histórico y Agentes Moralizadores.
-  - *Enfoque*: Evolución de la moral y el papel de la familia, escuela y medios.
-- **Módulo 05**: Dilemas Éticos Contemporáneos.
-  - *Enfoque*: Derechos Humanos, Desarrollo Sustentable y Ciberética.
+## Bloque 2: Entendiendo nuestro entorno
+- **Módulo 04**: ¿Quién nos enseña a ser quienes somos? (Familia y Escuela)
+- **Módulo 05**: Problemas difíciles de resolver (Dilemas Éticos)
+- **Módulo 06**: Convivir en el mundo digital (Internet y Valores)
 
-## Unidad 3: Axiología de la sociedad contemporánea
-- **Módulo 06**: Naturaleza y Jerarquía de los Valores.
-  - *Enfoque*: Qué son los valores y cómo los priorizamos.
-- **Módulo 07**: Identidad Nacional y Valores para la Vida.
-  - *Enfoque*: Valores en el contexto de México y la convivencia social.
+## Bloque 3: Lo que realmente importa
+- **Módulo 07**: ¿Qué es valioso para ti? (Los Valores)
+- **Módulo 08**: Poniendo orden a nuestras prioridades (Jerarquía de Valores)
+- **Módulo 09**: Vivir en sociedad con respeto
+
+## Bloque 4: Tu identidad y tu futuro
+- **Módulo 10**: Descubriendo quién eres (Identidad Personal)
+- **Módulo 11**: Tu lugar en tu país y el mundo (Identidad Nacional)
+- **Módulo 12**: Proyecto Final: Tu plan de vida

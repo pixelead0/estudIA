@@ -1,22 +1,19 @@
 # Knowledge Base: Computación Básica I
 
+## Referencias Técnicas
+- **Tanenbaum, A. S.** - Sistemas Operativos Modernos.
+- **Modelo Gavilán / Big6** - Metodologías de investigación documental.
+- **Estándares de Accesibilidad Web (W3C)** - Principios básicos para diseño de documentos.
+
 ## Conceptos Clave
-- **Hardware**: Componentes físicos (CPU, RAM, Periféricos).
-- **Software**: Sistemas operativos, aplicaciones y virus.
-- **Modelos de Búsqueda**: 
-  - **Modelo Gavilán**: Pasos para la investigación académica.
-  - **Big6**: Estrategia para la solución de problemas de información.
-- **Gestión de Archivos**: Jerarquías, extensiones y organización lógica.
-- **Procesamiento de Textos**: Tipografía, estilos, diseño editorial y referencias.
-- **Presentaciones Asertivas**: Reglas de diseño (6x6), contraste y jerarquía visual.
+1. **Hardware/Software**: El cuerpo y el alma de la computadora.
+2. **Sistema Operativo**: El mediador entre el usuario y la máquina.
+3. **Metadatos de Archivo**: Información oculta que describe un archivo (autor, fecha, tipo).
+4. **Seguridad Digital**: Protección de datos, contraseñas y privacidad en la red.
+5. **Jerarquía Visual**: Uso de títulos, subtítulos y espacios para guiar la lectura.
+6. **Diseño de Presentaciones**: Reglas de contraste, legibilidad y storytelling.
 
-## Bibliografía Oficial
-- **Romero Gómez, Antonio**. *Aprendiendo Computación I*. Grupo Editorial Éxodo, 2008.
-- **Tiznado S., Marco Antonio**. *Informática*. Mc Graw Hill, 2004.
-- **Beskeen/Duffy**. *Microsoft Office XP*. Thomson, 2003.
-- **Vasconcelos Santillán, Jorge**. *Introducción a la Computación*. Publicaciones Culturales, 2002.
-
-## Recursos Digitales Sugeridos
-- [ABCDatos - Programas y Navegadores](http://www.abcdatos.com/programas/navegadores)
-- [Eduteka - Proyectos WebQuest](http://www.eduteka.org/ProyectosWebquest2.php)
-- [Ciberhabitat](http://ciberhabitat.gob.mx/)
+## Habilidades de Salida
+- Capacidad para configurar y optimizar un entorno de trabajo digital.
+- Habilidad para buscar, filtrar y validar información en internet.
+- Dominio de herramientas de edición de texto y diseño de presentaciones de nivel profesional.

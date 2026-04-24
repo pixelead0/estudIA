@@ -1,51 +1,53 @@
-# Biblioteca de Prompts: Plantillas de Módulo
+# Biblioteca de Prompts: Plantillas de Módulo (Versión Simple)
 
-Usa estas plantillas para estructurar cada sección del archivo Markdown.
+Usa estas plantillas para estructurar cada sección del archivo Markdown con un lenguaje accesible.
 
-## Prompt A: El Hook (Activación)
-"Actúa como un mentor experto y carismático. Crea un 'Desafío' inicial para el tema [TEMA]. Debe ser un problema real, un dilema de la vida común o un acertijo visual que atrape a un adolescente de 14 años. Evita tecnicismos y enfócate en la curiosidad."
+## Prompt A: El Reto Inicial (Activación)
+"Actúa como un mentor cercano. Crea un desafío o pregunta curiosa sobre el tema [TEMA]. Usa una situación común de la vida diaria (en la escuela, con amigos, en casa). Evita palabras técnicas y enfócate en despertar el interés de un joven de 14 años de forma sencilla."
 
-## Prompt B: Explicación de la Lógica (Deep Dive)
-"Traduce el concepto técnico de [CONCEPTO] a una explicación paso a paso que revele la lógica profunda. Usa una analogía sencilla de la vida diaria o tecnología fácil (Streaming, Nube, Galería de fotos). Mantén un tono desafiante pero accesible."
+## Prompt B: Explicación Sencilla (Deep Dive)
+"Explica el concepto de [CONCEPTO] paso a paso. Usa una analogía que cualquier persona entienda (ejemplo: organizar la ropa, seguir una receta de cocina, jugar un deporte). Mantén un lenguaje claro, amable y sin términos complicados."
 
-## Prompt C: Pausa de Reflexión
-"Diseña 3 preguntas que fuercen al alumno a pensar sobre su proceso de aprendizaje. 
-1. ¿Qué parte fue la más fácil de imaginar? 
-2. ¿Cómo usarías este truco mental en otra materia? 
-3. ¿Qué le dirías a un amigo para explicarle esto en un mensaje de 10 segundos?"
+## Prompt C: Pausa para Pensar
+"Diseña 3 preguntas de reflexión personal: 
+1. ¿En qué momento de tu día has visto algo parecido a esto? 
+2. Si tuvieras que explicárselo a un niño más pequeño, ¿qué ejemplo usarías? 
+3. ¿Cómo te puede ayudar esto mañana mismo?"
 
-## Prompt D: Curaduría Bonus
-"Sugiere una película, un video de YouTube (especifica qué buscar) y un 'Dato Pro' relacionado con [TEMA]. Todo debe ser atractivo para un joven de 14 años y libre de lenguaje escolar."
+## Prompt D: Zona de Descubrimiento (Bonus)
+"Sugiere una película o serie conocida, un video corto y un dato curioso sobre [TEMA]. Evita recomendaciones demasiado técnicas o 'geeks'. Enfócate en la cultura popular general."
 
-## Prompt E: El Desafío Pro (Simulacro)
-"Diseña entre 5 y 10 reactivos de alta complejidad basados en el examen oficial (ETS) de [MATERIA] para el tema [TEMA]. NO uses la palabra 'examen' ni 'ETS'. Llámalo 'Desafío Pro' o 'Boss Fight'. Deben ser preguntas de opción múltiple que requieran pensar, no solo memorizar."
+## Prompt E: El Reto Final
+"Diseña ejercicios de opción múltiple que reten la inteligencia del alumno sobre [TEMA]. Usa situaciones prácticas. Evita palabras como 'examen' o 'evaluación'. Llámalo 'Reto Final' o 'Nivel Experto'."
 
 ## Estructura Maestra de Archivo
 ```markdown
-# Módulo [##]: [Título de Impacto]
+# Módulo [##]: [Título Claro y Directo]
 
-## 🚀 El Desafío
-[Contenido del Detonador]
+![Imagen representativa](path/to/image.png)
 
-## 🧠 ¿Cómo funciona esto?
-[Explicación con analogía sencilla]
+## 🎯 El Reto
+[Situación curiosa o dilema cotidiano]
 
-## 🛠️ Entrenamiento de Poder
-[Skill: assessment_generator - Nivel Básico/Intermedio]
+## 💡 ¿Cómo funciona esto?
+[Explicación con analogía sencilla de la vida diaria]
 
-## 🌍 Reto Real
-[Caso práctico o aplicación en la vida común]
+## ✍️ Manos a la obra
+[Ejercicios de nivel básico e intermedio]
 
-## 🏆 Desafío Pro
-[Prompt E: Reactivo tipo ETS - Nivel Avanzado]
+## 🌍 En tu mundo
+[Aplicación práctica en la comunidad o vida personal]
+
+## 🏆 Reto Final
+[Preguntas de opción múltiple con enfoque práctico]
 
 ## 🏁 Pausa para pensar
 [Preguntas de reflexión]
 
 ---
 
-## 🚀 Zona Bonus: Siguiente Nivel
+## 🌟 Zona de Descubrimiento
 - **Para ver**: [Película/Serie]
-- **Para buscar**: [Instrucciones de búsqueda en YouTube]
-- **Dato Pro**: [Curiosidad de alto impacto]
+- **Para buscar**: [Video en YouTube]
+- **Dato curioso**: [Curiosidad de alto impacto]
 ```

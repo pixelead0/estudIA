@@ -1,39 +1,24 @@
 # Curriculum Map: Computación Básica I
 
-Este mapa detalla la estructura de la materia basada en el programa oficial (Plan 2008).
+Este mapa te dará las herramientas necesarias para dominar la tecnología y trabajar mejor.
 
-## Unidad 1: Sistema Operativo Gráfico
-- **Módulo 01**: Introducción al Hardware y Software.
-  - *Enfoque*: Identificación de componentes y periféricos.
-- **Módulo 02**: Entorno del Sistema Operativo.
-  - *Enfoque*: Escritorio, ventanas, iconos y configuración básica.
-- **Módulo 03**: Gestión de Archivos y Carpetas.
-  - *Enfoque*: Estructura jerárquica, búsqueda y organización de información.
+## Bloque 1: Conoce tu equipo y cómo cuidarlo
+- **Módulo 01**: Las piezas de tu computadora (Hardware y Software)
+- **Módulo 02**: Aprendiendo a usar el Sistema Operativo
+- **Módulo 03**: Organiza tus archivos y carpetas sin perder nada
 
-## Unidad 2: Internet
-- **Módulo 04**: Fundamentos de la Red y Navegación.
-  - *Enfoque*: Servicios de Internet y navegadores.
-- **Módulo 05**: Modelos de Búsqueda de Información.
-  - *Enfoque*: Aplicación de modelos Gavilán y Big6.
-- **Módulo 06**: Comunicación y Comunidades Virtuales.
-  - *Enfoque*: Correo electrónico, foros y seguridad básica.
+## Bloque 2: Navega y busca como un experto
+- **Módulo 04**: Cómo funciona Internet y cómo navegar seguro
+- **Módulo 05**: Técnicas para encontrar información real y útil
+- **Módulo 06**: Tu seguridad y comunicación en la red
 
-## Unidad 3: Procesador de Textos
-- **Módulo 07**: Entorno y Edición Básica.
-  - *Enfoque*: Herramientas del procesador y formato de texto.
-- **Módulo 08**: Diseño de Página y Estructura.
-  - *Enfoque*: Márgenes, encabezados, pies de página y saltos.
-- **Módulo 09**: Objetos e Ilustraciones.
-  - *Enfoque*: Tablas, imágenes y gráficos en documentos.
+## Bloque 3: Crea documentos profesionales
+- **Módulo 07**: Escribir y dar formato a tus textos
+- **Módulo 08**: Cómo diseñar una página y organizar un trabajo
+- **Módulo 09**: Tablas, imágenes y dibujos en tus documentos
 
-## Unidad 4: Diseñador de Presentaciones Electrónicas
-- **Módulo 10**: Entorno de Presentaciones.
-  - *Enfoque*: Vistas, diseño de diapositiva y temas.
-- **Módulo 11**: Animaciones y Transiciones.
-  - *Enfoque*: Dinamismo en la presentación de ideas.
-- **Módulo 12**: Objetos Dinámicos e Hipervínculos.
-  - *Enfoque*: Interactividad y botones de acción.
-
-## Proyecto Integrador
-- **Módulo 13**: La Gran Batalla Final (Proyecto Integrador).
-  - *Enfoque*: Aplicación total de habilidades (Investigación, Word y PowerPoint).
+## Bloque 4: Presentaciones que convencen
+- **Módulo 10**: Crea presentaciones claras y atractivas
+- **Módulo 11**: Dale vida a tus ideas con animaciones
+- **Módulo 12**: Presentaciones interactivas y útiles
+- **Módulo 13**: Proyecto Final: Aplicando todo lo aprendido

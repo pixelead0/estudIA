@@ -1,20 +1,20 @@
 # Knowledge Base: Filosofía I
 
+## Referencias Maestras
+- **Aristóteles** - Ética a Nicómaco.
+- **Kant, I.** - Fundamentación de la metafísica de las costumbres.
+- **Sartre, J. P.** - El existencialismo es un humanismo.
+- **Savater, F.** - Ética para Amador.
+
 ## Conceptos Clave
-- **Sujeto Moral**: El individuo que tiene la capacidad de elegir y actuar según normas.
-- **Ética vs Moral**: La Ética es la reflexión teórica; la Moral es la práctica cotidiana (el código).
-- **Axiología**: Rama de la filosofía que estudia la naturaleza de los valores.
-- **Ciberética**: Ética aplicada al entorno digital y las redes sociales.
-- **Bioética**: Dilemas éticos sobre la vida y la tecnología médica.
+1. **Sujeto Moral**: El ser humano que elige su camino basándose en la libertad.
+2. **Autodeterminación**: La capacidad de decidir por uno mismo sin depender de "scripts" externos.
+3. **Dilema Ético**: Situación donde dos valores entran en conflicto y no hay una respuesta fácil.
+4. **Ciberética**: El comportamiento moral en entornos digitales y redes sociales.
+5. **Axiología**: El estudio de lo que consideramos valioso o importante.
+6. **Eudemonía**: La felicidad entendida como el propósito de la vida virtuosa.
 
-## Bibliografía Oficial
-- **Nietzsche, Frederich**. *Genealogía de la moral*. Alianza Editorial, 2005.
-- **Savater, Fernando**. *Los siete pecados capitales*. Debate, 2005.
-- **Sartori, Giovanni**. *Homo-videns*. Taurus, 2005.
-- **Angulo Parra, Yolanda**. *Ética*. Santillana, 2003.
-- **Foucault, Michel**. *Hermenéutica del yo*. FCE, 2006.
-
-## Recursos Digitales Sugeridos
-- [Wikillerato - Filosofía](http://portales.educared.net/wikillerato/Filosofia)
-- [Derechos Humanos - ACNUR](www.eacnur.org/derechoshumanos)
-- [Axiología - Wikipedia](es.wikipedia.org/wiki/Axiología)
+## Habilidades de Salida
+- Capacidad para analizar dilemas complejos y justificar decisiones con argumentos sólidos.
+- Habilidad para identificar influencias externas en el propio sistema de valores.
+- Desarrollo de un pensamiento crítico aplicado a la tecnología y la convivencia social.
