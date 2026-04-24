@@ -33,3 +33,7 @@ Este mapa detalla la estructura de la materia basada en el programa oficial (Pla
   - *Enfoque*: Dinamismo en la presentación de ideas.
 - **Módulo 12**: Objetos Dinámicos e Hipervínculos.
   - *Enfoque*: Interactividad y botones de acción.
+
+## Proyecto Integrador
+- **Módulo 13**: La Gran Batalla Final (Proyecto Integrador).
+  - *Enfoque*: Aplicación total de habilidades (Investigación, Word y PowerPoint).
