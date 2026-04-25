@@ -26,13 +26,18 @@ Cada módulo debe estar contenido en un archivo Markdown.
 2.  **💡 ¿Cómo funciona esto?**: Explicación lógica con analogías claras.
 3.  **✍️ Manos a la obra**: Actividad práctica o ejercicio guiado.
 4.  **🌍 En tu mundo**: Aplicación del concepto a la comunidad o vida social.
-5.  **🏆 Reto Final**: Cuestionario de 6 preguntas de opción múltiple.
+5.  **🏆 Reto Final**: Cuestionario de opción múltiple (mínimo 6 preguntas). **IMPORTANTE**: Las preguntas deben ser VERBATIM (exactas) de la guía original en cuanto a fondo y contenido. Sin embargo, es OBLIGATORIO corregir errores de ortografía, acentuación y puntuación (especialmente los signos de apertura ¿ y ¡) para mantener el estándar de calidad premium.
 6.  **🏁 Pausa para pensar**: Preguntas de reflexión profunda.
 7.  **📚 Glosario Maestro**: Definiciones sencillas de términos clave.
 8.  **🌟 Zona de Descubrimiento**: Recomendaciones (ver, explorar) y dato curioso.
 9.  **🔑 Respuestas Correctas**: Clave de respuestas del Reto Final.
 
-## 4. Calidad Visual
+## 4. Sistema de Referencia de Autoaprendizaje
+- **Etiquetas `(N)`**: Dentro del texto de la sección "💡 ¿Cómo funciona esto?", se deben insertar etiquetas `(N)` donde `N` es el número de la pregunta del "Reto Final" que se responde en ese párrafo o sección.
+- **Propósito**: Permitir que el estudiante localice inmediatamente la base teórica de cada reactivo del examen.
+
+## 5. Calidad Visual y Redacción
+- **Fluidez y Párrafos**: Evitar muros de texto. Separar los párrafos de manera que cada uno trate una idea clara. Usar conectores de transición (Por consiguiente, No obstante, En consecuencia) para asegurar la fluidez.
 - **Obligatorio**: Al menos una imagen clara y atractiva por módulo que refuerce el concepto.
 - **Formato**: Uso de `alerts` de Markdown, tablas y listas para facilitar la lectura.
 

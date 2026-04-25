@@ -7,6 +7,9 @@
     - **Fase de Lógica**: Desarrolla `💡 ¿Cómo funciona esto?` usando analogías de vida cotidiana.
     - **Fase de Acción**: Crea `✍️ Manos a la obra` y `🌍 En tu mundo`.
     - **Fase de Evaluación**: Genera `🏆 Reto Final` (mínimo 6 preguntas) y `🔑 Respuestas Correctas`.
+    - **Reglas de Precisión**:
+        - **Mantenimiento de Reactivos**: Las preguntas del "Reto Final" deben ser **idénticas** a las de la guía original. NO se deben "mejorar" ni cambiar.
+        - **Referencias Internas**: Inyectar etiquetas `(N)` en la explicación teórica vinculándolas al número de reactivo local.
     - **Fase de Cierre**: Crea `🏁 Pausa para pensar`, `📚 Glosario Maestro` y `🌟 Zona de Descubrimiento`.
 4. **Expert Quality Gate**: Ejecuta auditoría final. Si pasa, guarda en: `1/[MATERIA]/##_[nombre].md`.
 

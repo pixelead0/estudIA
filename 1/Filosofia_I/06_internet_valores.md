@@ -1,136 +1,130 @@
 # Módulo 06: El Futuro y el Planeta (Tecnología y Medio Ambiente)
 
-![Ciberética y Tecnología](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_cyberethics.png)
+![Ciencia y Tecnología](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_science_eco.png)
 
 ## 🎯 El Reto
-Imagina que estamos en el año 2015, en París. Líderes de todo el mundo están reunidos en una sala, nerviosos, discutiendo si la especie humana podrá sobrevivir. ¿Qué tiene que ver la ética con el clima? Todo. Porque nuestras decisiones tecnológicas están cambiando el equilibrio de la vida. Hoy vamos a descubrir cómo ser ciudadanos responsables en la era digital y ambiental.
+Imagina que tienes en tus manos un control remoto capaz de cambiar el clima, crear vida en un laboratorio o conectar tu mente a una red global. Suena a ciencia ficción, pero es la realidad que la humanidad está construyendo hoy. 
+
+El gran dilema es: ¿el hecho de que "podamos" hacer algo significa que "debamos" hacerlo? En este módulo, exploraremos la relación entre el avance científico y nuestra responsabilidad con la vida y el planeta, descubriendo por qué la ética es el freno de emergencia que necesitamos para no chocar contra nuestro propio progreso.
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. El Termómetro del Mundo (COP21)
-En la cumbre de París de 2015 (**COP21**), se discutió la continuidad de la vida en el planeta y el freno al cambio climático(1). El **recalentamiento global** se debe a la emisión de **Gases de Efecto Invernadero** por la industria y los combustibles fósiles(2). Los científicos advirtieron: si la temperatura sube **2 grados** más, se romperá la cadena de la vida(3). Por eso es urgente que las empresas tengan un **Código de Ética Sustentable**(4).
+### 1. El Motor del Cambio: Ciencia y Tecnología
+Para entender nuestro presente, primero debemos distinguir las herramientas que utilizamos. Por un lado, la **Ciencia** es el conjunto de conocimientos sistemáticos y verificables sobre la realidad, obtenidos mediante la observación y la experimentación(1). Su objetivo principal es comprender cómo funciona el universo. 
 
-### 2. ¿Qué hay en nuestra despensa? (Recursos Naturales)
-Los recursos se distribuyen en(8):
-- **Renovables**: Sol, viento (se regeneran rápido).
-- **Potencialmente renovables**: Agua, bosques (se agotan si no se cuidan).
-- **No Renovables**: Petróleo, minerales (una vez usados, se acaban).
+Por otro lado, la **Tecnología** es la aplicación práctica de ese conocimiento científico para resolver problemas específicos o satisfacer necesidades humanas(2). En consecuencia, mientras la ciencia busca el "saber", la tecnología busca el "hacer" y transformar el entorno(3).
 
-### 3. Progreso con Conciencia
-Debemos distinguir entre:
-- **Desarrollo Sustentable**: Satisface las necesidades del presente sin comprometer a las futuras generaciones(5). Se enfoca en el uso responsable de recursos naturales(6).
-- **Desarrollo Sostenible**: Incluye también factores sociales y económicos de largo plazo para asegurar la continuidad de la vida(6).
+### 2. El Límite Ético del Poder
+No obstante, el avance tecnológico no es neutral. El **valor ético** fundamental en la ciencia y la tecnología es la **Responsabilidad**(4); esto implica prever las consecuencias de nuestras invenciones antes de lanzarlas al mundo. 
 
-### 4. Ramas del Futuro
-- **Bioética**: Rama de la ética que estudia los problemas morales relacionados con la vida y la biología (medicina, genética)(10).
-- **Ciencia y Tecnología**: Son un **arma de doble filo**(12). Tienen ventajas (avances médicos, comunicación) y desventajas (contaminación, desempleo)(7). El único criterio de valor ético que debe orientarlas es el **bienestar de todos los seres humanos** y la protección de la vida(9).
+En la actualidad, nos enfrentamos a graves **problemas éticos**, como la manipulación genética, la vigilancia masiva o el uso de la Inteligencia Artificial sin control(5). Aquí es donde entra la **Bioética**, una rama que estudia los problemas éticos surgidos de los avances en biología y medicina, como es el caso de la clonación o la edición de embriones humanos(6).
 
-> [!TIP]
-> **Deontología**: Es la rama de la ética que trata de los **deberes** que rigen una actividad profesional(11). ¡Toda tecnología necesita un profesional con ética!
+### 3. Nuestra Relación con la Naturaleza
+A lo largo de la historia, hemos visto el mundo desde dos perspectivas opuestas(7):
+- **Antropocentrismo**: Considera que el ser humano es el centro del universo y que la naturaleza está a su servicio incondicional.
+- **Biocentrismo**: Sostiene que todas las formas de vida tienen el mismo valor intrínseco y merecen respeto, poniendo a la vida en el centro.
+
+Debido a la visión antropocéntrica extrema, hoy enfrentamos el **Calentamiento Global**, causado principalmente por la emisión excesiva de gases de efecto invernadero derivados de la actividad industrial(9). Para medir nuestro impacto personal en este proceso, utilizamos el concepto de **Huella Ecológica**(10): la cantidad de recursos naturales que consumimos para mantener nuestro estilo de vida.
+
+### 4. El Camino a la Supervivencia
+Por consiguiente, la única vía para garantizar el futuro es el **Desarrollo Sustentable**(8). Este concepto propone un modelo de progreso que satisfaga nuestras necesidades actuales sin comprometer la capacidad de las futuras generaciones para satisfacer las suyas. Se trata de aprender a vivir en equilibrio, entendiendo que somos parte de un ecosistema frágil que debemos proteger.
+
+> [!IMPORTANT]
+> **Dato Clave**: La ética ambiental nos enseña que no somos dueños del planeta, sino sus cuidadores. Cada decisión tecnológica debe pasar por el filtro de la justicia social y el respeto a la vida.
 
 ## ✍️ Manos a la obra
 
-Analiza el impacto de la tecnología:
+Analiza el impacto de la tecnología en tu entorno:
 
-| Tecnología | Ventaja (Ética) | Desventaja (Riesgo) |
+| Avance Tecnológico | Beneficio Humano | Posible Problema Ético |
 | :--- | :--- | :--- |
-| **Inteligencia Artificial.** | Diagnóstico médico preciso. | Desempleo por automatización. |
-| **Combustibles Fósiles.** | Energía barata y transportes. | Emisión de gases invernadero. |
-| **Energía Renovable.** | Protege el clima. | Costo inicial elevado. |
-| **Internet.** | Comunicación global. | Huella de carbono por centros de datos. |
+| **Redes Sociales.** | Comunicación instantánea global. | Invasión de la privacidad y noticias falsas(5). |
+| **Energía Nuclear.** | Gran cantidad de electricidad sin CO2. | Riesgo de accidentes y residuos tóxicos. |
+| **Inteligencia Artificial.** | Automatización de tareas complejas. | Pérdida de empleos y sesgos algorítmicos(5). |
+| **Edición Genética.** | Cura de enfermedades hereditarias. | Creación de seres "diseñados" (Bioética)(6). |
 
 ## 🌍 En tu mundo
-Tú eres un guardián del planeta cada vez que decides reducir tu consumo o usar la tecnología para informarte y no para dañar(12). En tu comunidad, esto se traduce en cuidar los recursos naturales de tu zona y exigir que la industria local sea responsable(4). Tu futuro depende de la ética con la que tratemos a la naturaleza hoy.
+Tú aplicas el desarrollo sustentable cada vez que decides reducir tu consumo de plásticos, cuando prefieres caminar en lugar de usar el auto o cuando exiges que los productos que compras sean amigables con el ambiente(8). 
+
+En tu comunidad, esto se traduce en participar en proyectos de reciclaje o en proteger las áreas verdes. Recuerda que tu "huella ecológica" es la marca que dejas en la Tierra; depende de ti que esa marca sea una de cuidado y respeto, asegurando que los que vengan después también puedan disfrutar de la belleza de nuestro mundo(10).
 
 ## 🏆 Reto Final
 
-1. ¿Qué se discutió en París en la cumbre de 2015 (COP21)?
-   - A) Un torneo de deportes.
-   - B) La continuidad de la vida en el planeta y el freno al cambio climático.
-   - C) La moda del próximo año.
-   - D) Nuevas reglas para el comercio.
+1. ¿Qué es la "Ciencia"?
+   - A) Un conjunto de cuentos.
+   - B) Conjunto de conocimientos sistemáticos y verificables sobre la realidad obtenidos por observación y experimentación.
+   - C) Una opinión sobre el mundo.
+   - D) Lo que sale en las noticias.
 
-2. ¿A qué se debe el recalentamiento global?
-   - A) A que el sol está más cerca.
-   - B) A la emisión de gases de efecto invernadero por la industria y la combustión de combustibles fósiles.
-   - C) A causas naturales sin intervención humana.
-   - D) Al ruido de las ciudades.
+2. Define: Tecnología.
+   - A) Comprar celulares nuevos.
+   - B) Aplicación del conocimiento científico para resolver problemas y satisfacer necesidades humanas.
+   - C) Jugar videojuegos.
+   - D) Usar internet.
 
-3. ¿Qué sucederá si la temperatura de la Tierra sube otros dos grados centígrados?
-   - A) Tendremos veranos más largos.
-   - B) Se romperá la cadena de la vida que sostiene a la especie humana.
-   - C) No pasará nada importante.
-   - D) El hielo de los polos será más grueso.
+3. ¿Cuál es la diferencia entre Ciencia y Tecnología?
+   - A) Son lo mismo.
+   - B) La Ciencia busca conocer (saber); la Tecnología busca aplicar ese conocimiento para transformar (hacer).
+   - C) La Ciencia es vieja y la Tecnología moderna.
+   - D) No tienen relación.
 
-4. ¿Consideras como urgencia que las empresas creen un código de ética sustentable?
-   - A) No, lo único importante es que ganen dinero.
-   - B) Sí, es vital para asegurar que la industria no destruya el futuro del planeta.
-   - C) Solo si el gobierno las obliga por la fuerza.
-   - D) No, las empresas no tienen nada que ver con la ética.
+4. ¿Cuál es el valor ético fundamental en la ciencia y la tecnología?
+   - A) El dinero.
+   - B) La Responsabilidad.
+   - C) La fama.
+   - D) La rapidez.
 
-5. ¿Qué es el "Desarrollo Sustentable"?
-   - A) Crecer sin importar el futuro.
-   - B) El desarrollo que satisface las necesidades del presente sin comprometer la capacidad de las futuras generaciones.
-   - C) Solo usar energía eléctrica en casa.
-   - D) No construir nada nuevo para no gastar.
+5. Menciona un problema ético actual de la ciencia y la tecnología:
+   - A) Que las computadoras son caras.
+   - B) La manipulación genética, la falta de privacidad o el uso de armas autónomas.
+   - C) Que no hay internet en todas partes.
+   - D) Que los libros son pesados.
 
-6. ¿Cuál es la diferencia entre Desarrollo Sustentable y Sostenible?
-   - A) Son palabras iguales con el mismo significado.
-   - B) El Sustentable se enfoca en el uso responsable de recursos naturales; el Sostenible incluye también factores sociales y económicos de largo plazo.
-   - C) Sostenible es solo para empresas internacionales.
-   - D) Sustentable es solo para la escuela.
+6. Da un ejemplo de un problema Bioético:
+   - A) El costo de las medicinas.
+   - B) La clonación humana o la edición genética de embriones.
+   - C) Estudiar medicina.
+   - D) Usar cubrebocas.
 
-7. Menciona ventajas y desventajas de la Ciencia y Tecnología.
-   - A) Todo es gratis; es muy aburrido.
-   - B) Ventajas: avances médicos y comunicación; Desventajas: contaminación y desempleo por automatización.
-   - C) Ventajas: jugar videojuegos; Desventajas: gastar mucha luz.
-   - D) No tienen ninguna ventaja real.
+7. Diferencia entre Biocentrismo y Antropocentrismo:
+   - A) Son tipos de animales.
+   - B) El Antropocentrismo pone al hombre al centro; el Biocentrismo pone a la vida (todas las especies) al centro.
+   - C) Son religiones antiguas.
+   - D) No hay diferencia.
 
-8. ¿Cómo se distribuyen los Recursos Naturales?
-   - A) Por colores y tamaños.
-   - B) Renovables, Potencialmente renovables y No Renovables.
-   - C) Solo los que se venden y los que se regalan.
-   - D) Naturales y artificiales únicamente.
+8. ¿Qué es el "Desarrollo Sustentable"?
+   - A) Ganar mucho dinero rápido.
+   - B) Progreso que satisface las necesidades del presente sin comprometer las de las futuras generaciones.
+   - C) Usar todos los recursos ahora.
+   - D) No usar ninguna tecnología.
 
-9. ¿Cuál es el único criterio de valor ético que debe orientar los actos del ser humano ante la tecnología?
-   - A) La mayor ganancia de dinero posible.
-   - B) El bienestar de todos los seres humanos y la protección de la vida.
-   - C) Ser el país más poderoso del mundo.
-   - D) Que la tecnología sea lo más rápida posible.
+9. ¿Cuál es la causa principal del Calentamiento Global?
+   - A) Que hace mucho sol.
+   - B) La emisión excesiva de gases de efecto invernadero por la actividad humana industrial.
+   - C) Los volcanes.
+   - D) El movimiento de la Tierra.
 
-10. ¿Qué significa el concepto "Bioética"?
-    - A) Estudiar a los animales en el bosque.
-    - B) Rama de la ética que estudia los problemas morales relacionados con la vida y la biología (medicina, genética).
-    - C) Un tipo de medicina natural.
-    - D) La vida de los filósofos.
-
-11. ¿Qué es la "Deontología"?
-    - A) El estudio de los dientes.
-    - B) Rama de la ética que trata de los deberes, especialmente los que rigen una actividad profesional.
-    - C) El estudio de los dioses antiguos.
-    - D) Un tipo de arquitectura.
-
-12. ¿Por qué se dice que la tecnología es un "arma de doble filo"?
-    - A) Porque corta la realidad en dos partes.
-    - B) Porque tiene el potencial de mejorar la vida humana o de destruirla si se usa sin ética.
-    - C) Porque es difícil de manejar con las manos.
-    - D) Porque usa electricidad y calor al mismo tiempo.
+10. ¿Qué es la "Huella Ecológica"?
+    - A) La marca de un zapato en el lodo.
+    - B) Medida del impacto humano sobre la naturaleza (recursos que consumimos vs. lo que la Tierra puede regenerar).
+    - C) Un tipo de bosque.
+    - D) Un camino para caminar.
 
 ## 🏁 Pausa para pensar
-1. ¿Cómo influyen tus hábitos digitales en el consumo de energía del planeta?
-2. ¿Qué tecnología crees que es la más necesaria para salvar el medio ambiente hoy?
-3. ¿Estarías dispuesto a renunciar a ciertas comodidades para frenar el cambio climático?
+1. ¿Cuál de los avances tecnológicos actuales te genera más miedo y cuál te da más esperanza?
+2. ¿Te consideras una persona más "antropocéntrica" o "biocéntrica"? ¿Por qué?
+3. ¿Qué pequeñas acciones diarias podrías cambiar hoy para reducir tu huella ecológica?
 
 ## 📚 Glosario Maestro
-- **Bioética**: Ética de la vida.
-- **Deontología**: Ética de las profesiones.
-- **Combustibles Fósiles**: Petróleo, carbón y gas.
-- **Recurso No Renovable**: Se agota con el uso.
+- **Bioética**: Ética aplicada a la vida y la salud.
+- **Sustentabilidad**: Equilibrio entre lo económico, social y ambiental.
+- **Gases de Efecto Invernadero**: Gases que atrapan el calor en la atmósfera.
+- **Biocentrismo**: Filosofía que valora toda forma de vida por igual.
 
 ## 🌟 Zona de Descubrimiento
-- **Dato curioso**: Sabías que los centros de datos que sostienen internet consumen tanta energía como países enteros. ¡Nuestra vida digital tiene una huella física real!
-- **Para ver**: Busca en YouTube "El impacto ambiental de la tecnología" para ver cómo se fabrican y desechan nuestros dispositivos.
-- **Para explorar**: Investiga qué es la "Huella Ecológica" y calcula la tuya en internet.
+- **Dato curioso**: Sabías que si todos los seres humanos viviéramos como un ciudadano promedio de Estados Unidos, necesitaríamos el equivalente a 5 planetas Tierra para sobrevivir. ¡Nuestra huella ecológica cuenta!
+- **Para ver**: Busca "Nuestro planeta" en plataformas de streaming para entender la urgencia de proteger la biodiversidad.
+- **Para explorar**: Calcula tu propia huella ecológica en sitios web especializados. ¡Te sorprenderá ver cuántos planetas necesitas para tu estilo de vida actual!
 
 ## 🔑 Respuestas Correctas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B | 11. B | 12. B
+1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B
