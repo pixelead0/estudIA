@@ -1,6 +1,6 @@
 # Módulo 08: Cómo diseñar una página y organizar un trabajo
 
-![Diseño de Página](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/08_CBI_concepts_page_layout.png)
+![Diseño de Página](../../assets/1/Computacion_Basica_I/08_CBI_concepts_page_layout.png)
 
 ## 🎯 El Reto
 Imagina que estás leyendo una revista increíble: las fotos están perfectamente alineadas, los títulos son claros y el texto es muy fácil de seguir. Ahora imagina que todo ese contenido estuviera amontonado, sin espacios en blanco y con letras que llegan hasta el borde de la hoja. No querrías leer ni una sola palabra, ¿verdad?

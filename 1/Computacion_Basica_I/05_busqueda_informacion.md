@@ -1,6 +1,6 @@
 # Módulo 05: Técnicas para encontrar información real y útil
 
-![Búsqueda de Información](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/05_CBI_concepts_search_techniques.png)
+![Búsqueda de Información](../../assets/1/Computacion_Basica_I/05_CBI_concepts_search_techniques.png)
 
 ## 🎯 El Reto
 Imagina que eres un detective de alto nivel y te asignan un caso sumamente difícil. Tienes acceso a la base de datos más grande del mundo, pero hay un grave problema: **la mitad de las pistas son mentiras diseñadas para engañarte**. 

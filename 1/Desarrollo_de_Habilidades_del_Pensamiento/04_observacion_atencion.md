@@ -1,6 +1,6 @@
 # Módulo 04: El arte de observar y poner atención
 
-![Observación y Atención](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/04_DHP_concepts_observation_attention.png)
+![Observación y Atención](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/04_DHP_concepts_observation_attention.png)
 
 ## 🎯 El Reto
 Imagina que vas caminando distraído por la calle y, de pronto, pasa frente a ti un elefante rosa andando en bicicleta. Si vas mirando la pantalla de tu celular, lo más probable es que ni siquiera te des cuenta de este evento extraordinario. Mirar es un acto biológico automático, pero **observar** es un arte que requiere intención y atención a los detalles(1).

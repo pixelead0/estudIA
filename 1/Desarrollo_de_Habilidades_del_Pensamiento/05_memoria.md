@@ -1,6 +1,6 @@
 # Módulo 05: Los secretos de tu memoria y cómo entrenarla
 
-![Memoria y Aprendizaje](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/05_DHP_concepts_memory_retention.png)
+![Memoria y Aprendizaje](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/05_DHP_concepts_memory_retention.png)
 
 ## 🎯 El Reto
 Imagina que posees una biblioteca mágica con la capacidad de guardar todos los libros del mundo. Sin embargo, hay un inconveniente: el bibliotecario es un poco distraído y, si no le indicas exactamente en qué estante poner cada libro, lo deja tirado en el suelo y se le olvida por completo que existe.

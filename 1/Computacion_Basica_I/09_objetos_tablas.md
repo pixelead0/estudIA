@@ -1,6 +1,6 @@
 # Módulo 09: Tablas, imágenes y dibujos en tus documentos
 
-![Objetos y Tablas](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/09_CBI_concepts_objects_tables.png)
+![Objetos y Tablas](../../assets/1/Computacion_Basica_I/09_CBI_concepts_objects_tables.png)
 
 ## 🎯 El Reto
 Dicen popularmente que "una imagen vale más que mil palabras". Imagina por un momento que tienes que explicar cómo ha crecido la población de tu ciudad en los últimos 10 años. Podrías escribir párrafos y párrafos llenos de números difíciles de leer... o podrías usar una **Tabla** clara y una **Gráfica** colorida. ¿Qué crees que entendería mejor tu profesor?

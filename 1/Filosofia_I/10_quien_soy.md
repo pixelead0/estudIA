@@ -1,6 +1,6 @@
 # Módulo 10: ¿Quién soy yo? (Dignidad e Identidad)
 
-![Identidad Personal](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/10_FI_concepts_personal_identity.png)
+![Identidad Personal](../../assets/1/Filosofia_I/10_FI_concepts_personal_identity.png)
 
 ## 🎯 El Reto
 Si te quitaran tu nombre, tu ropa, tu celular y tu casa, ¿qué quedaría realmente de ti? Quedaría algo sagrado que nadie puede arrebatarte: tu **Dignidad**. 

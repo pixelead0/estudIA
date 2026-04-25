@@ -1,6 +1,6 @@
 # Módulo 01: ¿Qué pasa en tu cabeza cuando piensas?
 
-![Procesos de Pensamiento](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/01_DHP_concepts_basic_processes.png)
+![Procesos de Pensamiento](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/01_DHP_concepts_basic_processes.png)
 
 ## 🎯 El Reto
 Estás por iniciar un viaje fascinante hacia el interior de la herramienta más potente que posees: **tu propia mente**. Muchas veces creemos que "pensar" es un acto automático que no requiere esfuerzo alguno, pero en realidad es un proceso complejo que realizas cada segundo para decidir desde qué ropa ponerte hasta cómo resolver un problema matemático difícil.

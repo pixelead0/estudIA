@@ -1,6 +1,6 @@
 # Módulo 07: Escribir y dar formato a tus textos
 
-![Procesador de Textos](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/07_CBI_concepts_word_processing.png)
+![Procesador de Textos](../../assets/1/Computacion_Basica_I/07_CBI_concepts_word_processing.png)
 
 ## 🎯 El Reto
 ¿Has visto alguna vez un libro antiguo escrito totalmente a mano o con una ruidosa máquina de escribir? Si te equivocabas en una sola letra al final de la página, ¡tenías que volver a empezar todo desde cero! No podías cambiar el tamaño de la letra, ni poner negritas, ni mucho menos insertar una imagen para ilustrar tu idea.

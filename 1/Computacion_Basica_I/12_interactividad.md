@@ -1,6 +1,6 @@
 # Módulo 12: Presentaciones interactivas y útiles
 
-![Interactividad](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/12_CBI_concepts_interactivity.png)
+![Interactividad](../../assets/1/Computacion_Basica_I/12_CBI_concepts_interactivity.png)
 
 ## 🎯 El Reto
 ¿Te imaginas entrar a una página de internet donde no pudieras hacer clic en absolutamente nada y solo tuvieras que verla pasar de principio a fin como una película vieja? ¡Sería increíblemente aburrido! Lo que hace genial a la tecnología actual es que podemos **interactuar** con ella; nosotros decidimos qué ver, cuándo verlo y en qué orden hacerlo.

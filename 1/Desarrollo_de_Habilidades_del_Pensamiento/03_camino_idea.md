@@ -1,6 +1,6 @@
 # Módulo 03: El camino de una idea (Entrada, Proceso y Salida)
 
-![Camino de la Idea](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/03_DHP_concepts_input_process_output.png)
+![Camino de la Idea](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/03_DHP_concepts_input_process_output.png)
 
 ## 🎯 El Reto
 Imagina por un momento que eres el chef principal de un restaurante de clase mundial. Para entregar un platillo delicioso a tus comensales, necesitas tres pasos obligatorios: recibir ingredientes frescos y de calidad (Entrada), cocinarlos con técnica y cuidado extremo (Proceso) y finalmente presentar el plato de forma atractiva en la mesa (Salida).

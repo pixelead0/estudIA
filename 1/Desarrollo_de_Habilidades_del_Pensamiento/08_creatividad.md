@@ -1,6 +1,6 @@
 # Módulo 08: Despierta tu creatividad e imaginación
 
-![Creatividad](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/08_DHP_concepts_creativity.png)
+![Creatividad](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/08_DHP_concepts_creativity.png)
 
 ## 🎯 El Reto
 Imagina que te entregan un simple clip de metal para papel. Si solo piensas de forma lógica y rígida, dirás que su único fin es sujetar hojas. Pero, ¿qué ocurre si lo observas con los ojos de un creador? Podría transformarse en un anzuelo para pescar, un arete moderno, un pasador para el cabello, una herramienta para resetear tu celular o incluso una pequeña escultura abstracta.

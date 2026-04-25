@@ -1,6 +1,6 @@
 # Módulo 10: Expansión de Ideas: El universo de lo posible
 
-![Expansión de Ideas](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/10_DHP_concepts_idea_expansion.png)
+![Expansión de Ideas](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/10_DHP_concepts_idea_expansion.png)
 
 ## 🎯 El Reto
 Imagina que eres un intrépido explorador que acaba de desembarcar en un continente totalmente nuevo y desconocido. Tienes dos opciones frente a ti: quedarte sentado en la arena de la playa donde llegaste o subir a la montaña más alta del lugar para observar qué tan inmenso es el territorio que tienes por descubrir.

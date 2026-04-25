@@ -1,6 +1,6 @@
 # Módulo 01: Las piezas de tu computadora (Hardware y Software)
 
-![Hardware y Software](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/01_CBI_concepts_hardware_software.png)
+![Hardware y Software](../../assets/1/Computacion_Basica_I/01_CBI_concepts_hardware_software.png)
 
 ## 🎯 El Reto
 Imagina que quieres preparar la mejor pizza del mundo para tus amigos. Tienes una cocina increíble: horno de piedra, amasadora eléctrica, cuchillos afilados y una mesa amplia. Pero... **no tienes la receta**. No sabes cuánto tiempo calentar el horno ni en qué orden poner los ingredientes. Los utensilios están ahí, pero no hacen nada por sí solos.

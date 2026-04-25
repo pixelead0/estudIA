@@ -12,16 +12,21 @@ Ejecuta el script de auditoría para validar la integridad del archivo:
 - **Comando**: `python3 scripts/audit_modules.py`
 - **Requisito**: 0 errores en las 9 secciones obligatorias y 0 errores en el conteo de preguntas (min 6).
 
-### 2. Filtro de Pureza Pedagógica (Ref. [.agents/experts/pedagogue.md](file:///home/kubrick/www/estudIA/.agents/experts/pedagogue.md))
+### 2. Filtro de Pureza Pedagógica (Ref. [.agents/experts/pedagogue.md](../experts/pedagogue.md))
 - **Andamiaje**: ¿El concepto se apoya en conocimientos previos o analogías sólidas?
+- **Referenciación `(N)`**: ¿Cada párrafo clave tiene su etiqueta `(N)` apuntando al reactivo?
 - **Carga Cognitiva**: ¿Se eliminó la "paja" y el lenguaje burocrático (IPN, RAP)?
 - **Tono**: ¿Suena a un mentor experto que guía, no a un libro de texto aburrido?
 
-### 3. Filtro de Rigor Disciplinar (SME)
-Invoca al experto correspondiente según la materia:
-- **Filosofía**: [El Filósofo](file:///home/kubrick/www/estudIA/.agents/experts/philosopher.md) (Precisión conceptual y ética).
-- **Computación**: [El Tecnólogo](file:///home/kubrick/www/estudIA/.agents/experts/computer_scientist.md) (Eficacia técnica y ciberseguridad).
-- **DHP**: [El Científico Cognitivo](file:///home/kubrick/www/estudIA/.agents/experts/cognitive_scientist.md) (Procesos mentales y metacognición).
+### 3. Filtro de Rigor Ortográfico y Formal
+- **Signos de Apertura**: ¿Se incluyeron obligatoriamente `¿` y `¡`?
+- **Acentuación Interrogativa**: ¿Los pronombres "qué", "cómo", etc., están acentuados en los reactivos?
+- **Reactivos Verbatim**: ¿Preguntas idénticas en fondo pero con ortografía corregida?
+
+### 4. Filtro de Rigor Disciplinar (SME)
+- **Filosofía**: [El Filósofo](../experts/philosopher.md) (Precisión conceptual).
+- **Computación**: [El Tecnólogo](../experts/computer_scientist.md) (Eficacia técnica).
+- **DHP**: [El Científico Cognitivo](../experts/cognitive_scientist.md) (Procesos mentales).
 
 ## Resolución del Auditor
 - **APROBADO**: El módulo o materia cumple con el 100% de los estándares.

@@ -1,6 +1,6 @@
 # Módulo 09: Todos somos iguales (Ciudadanía y Derechos)
 
-![Derechos Humanos](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/09_FI_concepts_human_rights.png)
+![Derechos Humanos](../../assets/1/Filosofia_I/09_FI_concepts_human_rights.png)
 
 ## 🎯 El Reto
 Imagina que te despiertas en un mundo donde no tienes derecho a decir lo que piensas, a asistir a la escuela o a elegir a qué dedicarte profesionalmente. Ese mundo oscuro existió para muchas personas durante siglos. 

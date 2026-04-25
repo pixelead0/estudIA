@@ -1,6 +1,6 @@
 # Módulo 11: Mi casa y mi orgullo (Identidad Nacional e IPN)
 
-![Identidad Nacional](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/11_FI_concepts_national_identity.png)
+![Identidad Nacional](../../assets/1/Filosofia_I/11_FI_concepts_national_identity.png)
 
 ## 🎯 El Reto
 ¿Qué sientes en el pecho cuando escuchas las primeras notas del Himno Nacional o cuando ves el escudo de tu escuela brillando en tu uniforme? Esa emoción profunda tiene un nombre: **Identidad Nacional**. 

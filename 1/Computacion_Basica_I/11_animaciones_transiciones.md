@@ -1,6 +1,6 @@
 # Módulo 11: Dale vida a tus ideas con animaciones
 
-![Animaciones y Transiciones](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/11_CBI_concepts_animations.png)
+![Animaciones y Transiciones](../../assets/1/Computacion_Basica_I/11_CBI_concepts_animations.png)
 
 ## 🎯 El Reto
 ¿Has notado cómo en las películas de acción o en tus videojuegos favoritos nada aparece de golpe? Las cosas entran con estilo, se mueven para resaltar y luego desaparecen de forma suave y natural. Ese movimiento controlado es precisamente lo que mantiene nuestra atención despierta.

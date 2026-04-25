@@ -1,6 +1,6 @@
 # Módulo 06: El Futuro y el Planeta (Tecnología y Medio Ambiente)
 
-![Ciencia y Tecnología](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/06_FI_concepts_science_eco.png)
+![Ciencia y Tecnología](../../assets/1/Filosofia_I/06_FI_concepts_science_eco.png)
 
 ## 🎯 El Reto
 Imagina que tienes en tus manos un control remoto capaz de cambiar el clima, crear vida en un laboratorio o conectar tu mente a una red global. Suena a ciencia ficción, pero es la realidad que la humanidad está construyendo hoy. 

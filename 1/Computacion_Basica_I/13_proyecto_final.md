@@ -1,6 +1,6 @@
 # Módulo 13: Proyecto Final: Aplicando todo lo aprendido
 
-![Proyecto Integrador](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/13_CBI_concepts_final_project.png)
+![Proyecto Integrador](../../assets/1/Computacion_Basica_I/13_CBI_concepts_final_project.png)
 
 ## 🎯 El Reto
 ¡Felicidades, has llegado a la gran meta final! A lo largo de este curso, has aprendido a conocer profundamente las piezas de tu computadora, a navegar con seguridad por el inmenso océano de internet, a redactar documentos impecables y a diseñar presentaciones que emocionan. Sin embargo, el conocimiento solo se vuelve real y poderoso cuando se utiliza para crear algo valioso.

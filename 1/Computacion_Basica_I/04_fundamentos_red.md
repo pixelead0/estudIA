@@ -1,6 +1,6 @@
 # Módulo 04: Cómo funciona Internet y cómo navegar seguro
 
-![Internet y Navegación](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/04_CBI_concepts_internet_basics.png)
+![Internet y Navegación](../../assets/1/Computacion_Basica_I/04_CBI_concepts_internet_basics.png)
 
 ## 🎯 El Reto
 Imagina que quieres enviarle una carta a un amigo que vive en otro país. Para que llegue a su destino, necesitas su dirección exacta, un sistema de transporte eficiente (aviones o barcos) y carteros que sepan exactamente a dónde dirigirse. 

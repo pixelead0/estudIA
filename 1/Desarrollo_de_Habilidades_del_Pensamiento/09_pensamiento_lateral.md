@@ -1,6 +1,6 @@
 # Módulo 09: Pensamiento Lateral: Soluciones que nadie ve
 
-![Pensamiento Lateral](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/09_DHP_concepts_lateral_thinking.png)
+![Pensamiento Lateral](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/09_DHP_concepts_lateral_thinking.png)
 
 ## 🎯 El Reto
 Un hombre vive solo en el piso número 20 de un edificio muy alto. Todas las mañanas toma el elevador hasta la planta baja para ir a su trabajo. Sin embargo, cuando regresa por la tarde, toma el elevador solo hasta el piso 10 y luego sube las escaleras el resto del camino hasta su casa... a menos que ese día esté lloviendo o que haya alguien más acompañándolo en el elevador. **¿Por qué hace algo tan extraño?**

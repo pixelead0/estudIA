@@ -1,6 +1,6 @@
 # Módulo 11: Contracción de Ideas: El arte de elegir bien
 
-![Contracción de Ideas](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/11_DHP_concepts_idea_contraction.png)
+![Contracción de Ideas](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/11_DHP_concepts_idea_contraction.png)
 
 ## 🎯 El Reto
 Imagina que entras a la heladería más grande del mundo y tienen 500 sabores diferentes para elegir. Al principio te sientes emocionado y lleno de energía (esto es la fase de Expansión), pero de pronto te das cuenta de que solo tienes dinero suficiente para comprar un cono sencillo. Tienes que elegir obligatoriamente **uno solo** entre los quinientos(6).

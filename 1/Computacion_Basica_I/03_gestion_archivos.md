@@ -1,6 +1,6 @@
 # Módulo 03: Organiza tus archivos y carpetas sin perder nada
 
-![Gestión de Archivos](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/03_CBI_concepts_file_management.png)
+![Gestión de Archivos](../../assets/1/Computacion_Basica_I/03_CBI_concepts_file_management.png)
 
 ## 🎯 El Reto
 Imagina que tienes una colección de 500 fotos, 20 canciones y 30 documentos de la escuela, pero **todo está guardado en una sola carpeta llamada "Varios"**. Si mañana tu profesor te pide la tarea que entregaste hace dos meses, **¿cuánto tiempo tardarías en encontrarla?** 

@@ -1,6 +1,6 @@
 # Módulo 10: Crea presentaciones claras y atractivas
 
-![Presentaciones Electrónicas](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/10_CBI_concepts_presentations_basics.png)
+![Presentaciones Electrónicas](../../assets/1/Computacion_Basica_I/10_CBI_concepts_presentations_basics.png)
 
 ## 🎯 El Reto
 ¿Alguna vez te ha tocado una exposición donde el compañero se dedica a leer una diapositiva saturada de texto pequeño mientras todos en el salón se aburren? ¡Qué pesadilla! Una presentación electrónica no es un libro que se proyecta en la pared; es una poderosa herramienta visual diseñada para que **tú** brilles mientras explicas un tema(3).

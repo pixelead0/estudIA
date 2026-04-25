@@ -1,6 +1,6 @@
 # Módulo 06: Tu seguridad y comunicación en la red
 
-![Seguridad Digital](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/06_CBI_concepts_digital_security.png)
+![Seguridad Digital](../../assets/1/Computacion_Basica_I/06_CBI_concepts_digital_security.png)
 
 ## 🎯 El Reto
 Imagina que dejas la puerta de tu casa abierta de par en par, con un letrero que dice: "No estoy, pero pasen a ver mis fotos familiares y mis diarios personales". Suena como una locura, ¿verdad? Pues eso es exactamente lo que hacemos cuando usamos contraseñas débiles como "12345" o cuando aceptamos a desconocidos en nuestras redes sociales.

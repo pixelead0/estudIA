@@ -1,6 +1,6 @@
 # Módulo 02: Aprendiendo a usar el Sistema Operativo
 
-![El Sistema Operativo](file:///home/kubrick/www/estudIA/assets/1/Computacion_Basica_I/02_CBI_concepts_operating_system.png)
+![El Sistema Operativo](../../assets/1/Computacion_Basica_I/02_CBI_concepts_operating_system.png)
 
 ## 🎯 El Reto
 Imagina que entras a una biblioteca gigante donde hay millones de libros, pero no hay estantes, ni bibliotecario, ni orden alguno. Los libros están tirados en el suelo por todas partes. Sería absolutamente imposible encontrar lo que buscas.

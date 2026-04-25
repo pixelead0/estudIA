@@ -1,6 +1,6 @@
 # Módulo 01: ¿Quién decide por ti? (Orígenes y el Sujeto Libre)
 
-![El Sujeto Libre](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/01_FI_concepts_free_subject.png)
+![El Sujeto Libre](../../assets/1/Filosofia_I/01_FI_concepts_free_subject.png)
 
 ## 🎯 El Reto
 Imagina por un momento que vives en una época donde el mundo es un misterio aterrador. En este escenario, todo se explica a través de monstruos colosales y dioses temperamentales: si la lluvia cae con fuerza, es porque un dios está deprimido; si un rayo cruza el cielo, es porque alguien ha desatado una flecha de fuego desde el Olimpo.

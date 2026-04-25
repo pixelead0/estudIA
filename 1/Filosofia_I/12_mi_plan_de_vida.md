@@ -1,6 +1,6 @@
 # Módulo 12: Mi Plan de Vida (Proyecto Final)
 
-![Proyecto Final](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/12_FI_concepts_final_project.png)
+![Proyecto Final](../../assets/1/Filosofia_I/12_FI_concepts_final_project.png)
 
 ## 🎯 El Reto
 Has llegado al final de este emocionante viaje a través de la Filosofía y la Ética. Pero, en realidad, este no es un final, sino el comienzo del viaje más importante de tu existencia: tu propia vida. En este módulo final, el filósofo no soy yo, ni tampoco los grandes pensadores del pasado; hoy el filósofo eres tú. 

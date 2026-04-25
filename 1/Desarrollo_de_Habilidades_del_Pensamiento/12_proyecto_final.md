@@ -1,6 +1,6 @@
 # Módulo 12: Proyecto Final: Mi mapa del pensamiento
 
-![Proyecto Final DHP](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/12_DHP_concepts_final_project.png)
+![Proyecto Final DHP](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/12_DHP_concepts_final_project.png)
 
 ## 🎯 El Reto
 ¡Muchísimas felicidades! Has completado con éxito el entrenamiento de la herramienta más poderosa de todo el universo conocido: tu propia mente. A lo largo de estos módulos, has aprendido a observar lo que otros ignoran, a guardar tesoros valiosos en tu memoria, a pensar "fuera de la caja" y a tomar decisiones estratégicas como un verdadero experto.

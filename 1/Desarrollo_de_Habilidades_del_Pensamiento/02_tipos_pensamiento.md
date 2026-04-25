@@ -1,6 +1,6 @@
 # Módulo 02: Diferentes formas de ver el mundo (Tipos de pensamiento)
 
-![Tipos de Pensamiento](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/02_DHP_concepts_thought_types.png)
+![Tipos de Pensamiento](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/02_DHP_concepts_thought_types.png)
 
 ## 🎯 El Reto
 Imagina que te entregan una caja cerrada con un candado de alta seguridad y te dicen que adentro hay un tesoro invaluable. Para abrirla, tienes a tu disposición varias herramientas: una lupa potente, un martillo pesado, un manual de instrucciones detallado y tu propia imaginación. 

@@ -1,6 +1,6 @@
 # Módulo 06: Ordenar y comparar para entender mejor
 
-![Orden y Comparación](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/06_DHP_concepts_order_comparison.png)
+![Orden y Comparación](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/06_DHP_concepts_order_comparison.png)
 
 ## 🎯 El Reto
 Imagina que te regalan una colección de 1,000 cartas de tu juego favorito, pero están todas revueltas en una bolsa de plástico. Para saber cuáles son las más valiosas, cuáles te faltan o cuáles tienes repetidas, es imposible simplemente mirarlas todas al mismo tiempo.

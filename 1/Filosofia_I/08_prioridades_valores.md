@@ -1,6 +1,6 @@
 # Módulo 08: Mi edificio de valores (Jerarquías y prioridades)
 
-![Jerarquía de Valores](file:///home/kubrick/www/estudIA/assets/1/Filosofia_I/08_FI_concepts_values_hierarchy.png)
+![Jerarquía de Valores](../../assets/1/Filosofia_I/08_FI_concepts_values_hierarchy.png)
 
 ## 🎯 El Reto
 Imagina que tu vida es un edificio en construcción. Cada piso representa algo que te importa: tus amigos, tu familia, tu carrera, el dinero o la honestidad. Ahora, piensa con cuidado: ¿qué pondrías en los cimientos para que el edificio no se caiga ante un terremoto y qué pondrías en el penthouse para disfrutar de la vista? 

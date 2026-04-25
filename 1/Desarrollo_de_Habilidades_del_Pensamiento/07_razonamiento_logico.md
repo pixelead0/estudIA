@@ -1,6 +1,6 @@
 # Módulo 07: El poder del razonamiento lógico
 
-![Razonamiento Lógico](file:///home/kubrick/www/estudIA/assets/1/Desarrollo_de_Habilidades_del_Pensamiento/07_DHP_concepts_logical_reasoning.png)
+![Razonamiento Lógico](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/07_DHP_concepts_logical_reasoning.png)
 
 ## 🎯 El Reto
 Imagina por un momento que eres un experto programador diseñando el cerebro de un robot avanzado. Tienes que darle instrucciones exactas y sin errores: "Si el semáforo está en rojo, detente; si está en verde, avanza". El robot no tiene la capacidad de adivinar; solo puede seguir las reglas de la lógica para sobrevivir.
