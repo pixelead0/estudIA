@@ -47,9 +47,9 @@ Cada módulo debe estar contenido en un archivo Markdown.
 6.  **📚 Glosario Maestro**: Definiciones precisas pero accesibles.
     - **Claridad Total**: Explicar los términos esenciales sin lenguaje innecesariamente complejo.
 7.  **🌟 Zona de Descubrimiento**: Recursos adicionales para profundizar de forma entretenida:
-    - **Dato curioso 1** y **Dato curioso 2**: Hechos poco conocidos o sorprendentes sobre el tema o sus aplicaciones.
-    - **Para ver**: Recomendaciones multimedia (videos cortos, documentales, contenido visual educativo).
-    - **Para explorar**: Enlaces a herramientas, experimentos, noticias o casos de estudio relacionados.
+    - **Dato curioso 1** y **Dato curioso 2**: Hechos poco conocidos o sorprendentes.
+    - **🎥 Para ver (Experiencias y Casos Reales)**: Inclusión obligatoria de al menos 2 referencias a casos de la vida real, experimentos, tutoriales prácticos o demostraciones relacionadas con el tema, con su **link directo a YouTube**.
+    - **🎬 Para ver (Cine y Series)**: Inclusión obligatoria de al menos 2 referencias a escenas icónicas de películas o series con su **link directo a YouTube**.
     - **Para conversar**: Un punto de partida sugerido para debatir el tema con amigos, familiares o mentores.
 8.  **🏆 Reto Final**: Cuestionario de opción múltiple (mínimo 6 preguntas). **IMPORTANTE**: Las preguntas deben ser VERBATIM (exactas) de la guía original en cuanto a fondo y contenido. Sin embargo, es OBLIGATORIO corregir errores de ortografía, acentuación y puntuación (especialmente los signos de apertura ¿ y ¡) para mantener el estándar de calidad premium.
 9.  **🔑 Respuestas Correctas**: Clave de respuestas del Reto Final.
