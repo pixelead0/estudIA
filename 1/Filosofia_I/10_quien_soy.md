@@ -84,8 +84,12 @@ Tú defiendes tu dignidad cada vez que pones límites y no dejas que te traten m
 
 - **Dato curioso 1**: Un filósofo llamado Kant decía que las personas nunca deben ser usadas como "herramientas" para conseguir algo, sino como un fin en sí mismas.
 - **Dato curioso 2**: Se ha comprobado que cuando te respetas a ti mismo (autoestima), es mucho más fácil respetar a los demás.
-- **Para ver**: Busca la historia de personas que mantuvieron su "Libertad Interna" incluso en situaciones muy difíciles (como Nelson Mandela o Viktor Frankl).
-- **Para explorar**: Escribe en un papel 3 cosas que nadie pueda quitarte nunca. ¡Esa es la base de tu dignidad!
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **¿Quién soy? Una pregunta filosófica**: ¿Eres tu cuerpo, tus recuerdos o algo más? Un video para explorar el misterio de la identidad personal. https://www.youtube.com/watch?v=LmwthMCIZLQ
+    - **¿Estás conmigo? (Poema visual de identidad)**: Una reflexión artística sobre las dudas, las máscaras y la búsqueda de nuestro "yo" auténtico en un mundo lleno de ruido. https://www.youtube.com/watch?v=AzdD2ThboHE
+- **🎬 Para ver (Cine y Series)**:
+    - **El club de los poetas muertos (Carpe Diem)**: El llamado a ser dueños de nuestra vida y a encontrar nuestra propia voz antes de que el tiempo pase. https://www.youtube.com/watch?v=sgwFs2BCOFg
+    - **Billy Elliot (Escena de la audición)**: El momento en que alguien defiende su verdadera pasión e identidad frente a los prejuicios y expectativas de los demás. https://www.youtube.com/watch?v=xBxgNypjbk4
 - **Para conversar**: Pregúntale a un amigo: "¿Qué es lo que más valoras de nuestra amistad?". Verás que lo que más importa no son las cosas materiales.
 
 ## 🏆 Reto Final

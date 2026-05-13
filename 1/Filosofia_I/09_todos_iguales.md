@@ -91,8 +91,12 @@ Tú eres un ciudadano activo cada vez que no te callas ante un acto de "bullying
 
 - **Dato curioso 1**: La Declaración Universal de Derechos Humanos es el documento más traducido del planeta (¡está en más de 500 idiomas!).
 - **Dato curioso 2**: La idea de que "todos somos iguales" era considerada una locura hace apenas 300 años. ¡Hemos avanzado mucho!
-- **Para ver**: Busca "La historia de los derechos humanos en dibujos" para ver cómo pasamos de reyes y esclavos a ciudadanos libres.
-- **Para explorar**: Revisa los 30 artículos de la Declaración. ¡Sabías que tienes derecho al descanso y al tiempo libre (ocio)!
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Historia de los Derechos Humanos**: Un recorrido visual desde el Cilindro de Ciro hasta la Declaración Universal para entender cómo ganamos nuestro "escudo". https://www.youtube.com/watch?v=iSi_w2KslK8
+    - **Introducción a los Derechos Humanos**: Una explicación animada de por qué estos 30 artículos son la base de la dignidad en todo el mundo. https://www.youtube.com/watch?v=xMXQpbOriF0
+- **🎬 Para ver (Cine y Series)**:
+    - **La Vida es Bella (Traducir las reglas)**: Una lección conmovedora sobre cómo proteger la dignidad y la esperanza incluso en el lugar más oscuro de la historia. https://www.youtube.com/watch?v=IhOHGVAn4-4
+    - **La Lista de Schindler (Quien salva una vida)**: El poderoso mensaje de que un solo individuo tiene el poder de defender la humanidad frente a la injusticia masiva. https://www.youtube.com/watch?v=Dpbp6KZDRZE
 - **Para conversar**: Pregúntale a un adulto mayor: "¿Cómo eran los derechos cuando ellos tenían tu edad?". Te sorprenderá ver cómo han cambiado las cosas.
 
 ## 🏆 Reto Final

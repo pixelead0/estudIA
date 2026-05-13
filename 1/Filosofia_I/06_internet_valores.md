@@ -83,8 +83,12 @@ Tú practicas la ética ambiental cada vez que decides no comprar algo que no ne
 
 - **Dato curioso 1**: Si todos los humanos viviéramos como vive alguien en una ciudad muy rica, ¡necesitaríamos 5 planetas Tierra para que nos alcanzaran los recursos!
 - **Dato curioso 2**: La primera vez que se usó la palabra "Bioética" fue para advertir que la ciencia sin valores podía destruirnos a todos.
-- **Para ver**: Busca "Nuestra Huella Digital" en YouTube para entender que lo que haces en internet también gasta energía y recursos reales.
-- **Para explorar**: Entra a un sitio de "Calculadora de Huella Ecológica" y ve cuántos planetas necesitas para mantener tu ritmo de vida actual.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **El Peligro de la Burbuja (Filter Bubbles)**: ¿Por qué internet nos muestra solo lo que queremos ver? Una explicación sobre cómo los algoritmos pueden encerrarnos en nuestras propias ideas. https://www.youtube.com/watch?v=R0EKu3vxDts
+    - **Stop Silencio (Ciberbullying)**: Un clip necesario para entender que nuestras palabras en la red tienen consecuencias reales en la vida de los demás. https://www.youtube.com/watch?v=cPuT1KLYhQE
+- **🎬 Para ver (Cine y Series)**:
+    - **El Dilema de las Redes Sociales**: Un resumen de cómo las plataformas digitales están diseñadas para capturar nuestra atención y moldear nuestra conducta. https://www.youtube.com/watch?v=Pl3IS7Yq_Rk
+    - **Black Mirror (Nosedive - Caída en Picado)**: ¿Qué pasaría si nuestra vida dependiera de los "likes" y puntos que otros nos dan? Una advertencia sobre el futuro de la identidad digital. https://www.youtube.com/watch?v=6d5GVwonuZk
 - **Para conversar**: Pregúntale a alguien: "¿Es ético crear robots que parezcan y sientan como humanos?". ¡Prepárate para el debate!
 
 ## 🏆 Reto Final

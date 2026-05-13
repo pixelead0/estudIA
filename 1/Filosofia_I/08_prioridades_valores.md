@@ -80,8 +80,12 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
 
 - **Dato curioso 1**: Max Scheler, un filósofo famoso, decía que los valores "superiores" son los que no se gastan cuando se comparten. Por ejemplo, si compartes tu alegría, ¡hay más alegría! Si compartes tu dinero, tienes menos.
 - **Dato curioso 2**: Se ha descubierto que las personas que tienen sus valores claros sufren menos estrés cuando tienen que tomar decisiones difíciles.
-- **Para ver**: Busca "Cortometrajes sobre valores" en YouTube. Fíjate cuál es el valor que el protagonista pone por encima de todo al final.
-- **Para explorar**: Intenta pasar todo un día defendiendo tu valor #1 (ej. la honestidad) pase lo que pase. ¡Verás que es un gran reto!
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Las 6 Etapas del Desarrollo Moral (Kohlberg)**: ¿Por qué nos portamos bien? Un video para entender cómo nuestra razón moral evoluciona desde el miedo al castigo hasta los principios universales. https://www.youtube.com/watch?v=eWoP3OHqzF8
+    - **¿Quién decide qué está bien?**: Una reflexión sobre si la moral es algo que inventamos o algo que descubrimos a través de la razón y la empatía. https://www.youtube.com/watch?v=SBYJbnUCTQE
+- **🎬 Para ver (Cine y Series)**:
+    - **Matar a un ruiseñor (Discurso de Atticus Finch)**: Un ejemplo magistral de integridad y de poner la justicia y la verdad como los cimientos inamovibles de la vida. https://www.youtube.com/watch?v=GpJWiNmpLDs
+    - **Milagros Inesperados (La ejecución de John Coffey)**: Un momento desgarrador que nos obliga a cuestionar nuestros juicios morales y la fragilidad de la justicia humana frente a la inocencia. https://www.youtube.com/watch?v=WzLZxx7pae4
 - **Para conversar**: Pregúntale a un profesor o a tus papás: "¿Cuál es el valor que consideran el cimiento de su vida?". Te sorprenderá lo que puedes aprender de ellos.
 
 ## 🏆 Reto Final

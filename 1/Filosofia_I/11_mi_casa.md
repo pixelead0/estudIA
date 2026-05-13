@@ -84,8 +84,12 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 
 - **Dato curioso 1**: ¿Sabías que el lema "La Técnica al Servicio de la Patria" lo inventó un estudiante como tú en 1937? ¡Él quería recordar que el conocimiento es para ayudar!
 - **Dato curioso 2**: Los colores guinda y blanco del IPN fueron propuestos por el equipo de fútbol americano. El guinda por la sangre y el blanco por la pureza de ideales.
-- **Para ver**: Busca "Himno del IPN" y presta atención a la letra; habla de volar alto y de ser constructores del futuro.
-- **Para explorar**: Investiga qué significa cada parte del escudo del IPN (el engrane, el rayo, el matraz). ¡Todo tiene un sentido científico!
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
+    - **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
+- **🎬 Para ver (Cine y Series)**:
+    - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=bLKjZQfL1ZQ
+    - **Patch Adams (Trato humanizado)**: La importancia de ver a la persona detrás del paciente (o del ciudadano) y cómo el amor y el humor pueden transformar una institución. https://www.youtube.com/watch?v=eEwoH-M4jqE
 - **Para conversar**: Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
 
 ## 🏆 Reto Final

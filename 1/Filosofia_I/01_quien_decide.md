@@ -98,8 +98,12 @@ La filosofía en tu mundo es el botón de **PAUSA**. Es detenerte antes de segui
 
 - **Dato curioso 1**: Tales de Mileto predijo un eclipse solar total hace más de 2,500 años sin computadoras, ¡solo observando patrones y usando su lógica!
 - **Dato curioso 2**: Pitágoras fue el primero en llamarse a sí mismo "filósofo". Antes, la gente se hacía llamar "sofista" (sabio), pero él decía que nadie es sabio del todo, solo podemos ser "amantes" de la sabiduría.
-- **Para ver**: Busca "El paso del mito al logos" en YouTube para ver animaciones cortas sobre cómo los griegos cambiaron la historia.
-- **Para explorar**: El "Dilema de la Caverna" de Platón. Busca un video que lo explique; es la mejor forma de entender cómo la filosofía te saca de la oscuridad.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **El paso del Mito al Logos**: Una explicación dinámica sobre cómo la humanidad decidió "encender la luz" de la razón por primera vez. https://www.youtube.com/watch?v=40CKR6_PYxk
+    - **El Origen de la Filosofía**: ¿Por qué en Grecia y por qué en ese momento? Descubre el contexto que cambió nuestra forma de pensar. https://www.youtube.com/watch?v=flOJubw6SG0
+- **🎬 Para ver (Cine y Series)**:
+    - **The Matrix (La pastilla roja)**: El momento en que Neo decide ver la realidad tal como es, rompiendo con el "Mito" de la simulación. https://www.youtube.com/watch?v=Ndw7HDys648
+    - **The Truman Show (Escena final)**: Truman llega al límite de su mundo artificial y decide cruzar la puerta hacia lo desconocido, buscando la verdad. https://www.youtube.com/watch?v=jrxDDlDdCDI
 - **Para conversar**: Pregúntale a tus amigos: "¿Qué pasaría si descubriéramos que todo lo que creemos sobre la realidad es falso?". ¡Se va a armar un gran debate!
 
 ## 🏆 Reto Final
