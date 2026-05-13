@@ -1,28 +1,46 @@
-# Módulo 08: Despierta tu creatividad e imaginación
-
 ![Creatividad](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/08_DHP_concepts_creativity.png)
 
 ## 🎯 El Reto
+
 Imagina que te entregan un simple clip de metal para papel. Si solo piensas de forma lógica y rígida, dirás que su único fin es sujetar hojas. Pero, ¿qué ocurre si lo observas con los ojos de un creador? Podría transformarse en un anzuelo para pescar, un arete moderno, un pasador para el cabello, una herramienta para resetear tu celular o incluso una pequeña escultura abstracta.
 
-La **Creatividad** no es un don exclusivo de pintores o músicos famosos; es la capacidad humana de encontrar soluciones valiosas donde otros solo ven problemas insuperables(1). Es el motor imparable de la innovación: todo lo que utilizas hoy, desde tu cómoda cama hasta tu avanzado celular, empezó como una idea considerada "loca" en la mente de alguien que se atrevió a ver el mundo de una forma diferente. ¿Estás listo para despertar tu potencial creador?
+> "La creatividad es la inteligencia divirtiéndose". — Albert Einstein.
+
+La **Creatividad** no es un don exclusivo de pintores o músicos famosos; es la capacidad humana de encontrar soluciones valiosas donde otros solo ven problemas insuperables(1). Es el motor imparable de la innovación: todo lo que utilizas hoy, desde tu cómoda cama hasta tu avanzado celular, empezó como una idea considerada "loca" en la mente de alguien que se atrevió a ver el mundo de una forma diferente. 
+
+En este módulo, te convertirás en un **Alquimista de Ideas**. Vamos a aprender a transformar lo ordinario en extraordinario. ¿Estás listo para despertar tu potencial creador?
+
+> "La creatividad requiere tener el valor de desprenderse de las certezas". — Erich Fromm.
+
+> "No puedes agotar la creatividad. Cuanto más la usas, más tienes". — Maya Angelou.
+
 
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. El Músculo Mental
-La creatividad funciona exactamente como un **Músculo Mental** que se puede entrenar y fortalecer con la práctica diaria. Entre más te atrevas a pensar de forma diferente y a cuestionar lo establecido, más fácil te resultará generar ideas brillantes en cualquier situación(5). Un científico, por ejemplo, usa la creatividad para diseñar experimentos totalmente nuevos que resuelvan problemas complejos de forma original(6).
+La creatividad funciona exactamente como un **Músculo Mental** que se puede entrenar y fortalecer con la práctica diaria. Entre más te atrevas a pensar de forma diferente y a cuestionar lo establecido, más fácil te resultará generar ideas brillantes en cualquier situación(5). Un científico, por ejemplo, usa la creatividad para diseñar experimentos totalmente nuevos(6).
+
+> "La creatividad es ver lo que otros ven y pensar lo que nadie más ha pensado". — Albert Szent-Györgyi.
+
 
 ### 2. Técnicas de Expansión
 Para potenciar este músculo, existen herramientas probadas por los expertos:
-- **Lluvia de Ideas**: Consiste en soltar todas las ideas que se te ocurran sin juzgarlas de inmediato. Es vital no criticarlas al principio porque a veces una idea que parece tonta es el puente necesario hacia la solución genial(2).
-- **Analogías**: Consiste en conectar tu problema actual con algo totalmente diferente para buscar nuevas perspectivas(4). ¿En qué se parece organizar un equipo de futbol a organizar una biblioteca? Esa conexión puede darte una idea ganadora.
-- **Curiosidad**: Es la chispa inicial. Al preguntarnos el "porqué" de las cosas, descubrimos oportunidades de mejora que el resto del mundo ignora(3).
+- **Lluvia de Ideas (Brainstorming)**: Consiste en soltar todas las ideas que se te ocurran sin juzgarlas de inmediato. Es vital no criticarlas al principio(2).
+- **Analogías**: Consiste en conectar tu problema actual con algo totalmente diferente para buscar nuevas perspectivas(4).
+- **Curiosidad Activa**: Al preguntarnos el "porqué" de las cosas, descubrimos oportunidades de mejora que el resto ignora(3).
+
+> "Un aspecto esencial de la creatividad es no tener miedo a fallar". — Edwin Land.
+
 
 ### 3. El Valor de la Mezcla
 La creatividad no aparece por "magia". Es el resultado de observar mucho tu entorno, guardar ricas experiencias en tu memoria y luego tener la valentía de mezclarlas de formas nuevas y sorprendentes. Lo que hoy llamamos genio, ayer fue solo curiosidad aplicada.
 
+> "La creatividad es la facultad de los seres humanos de hacer que las cosas sucedan". — Desconocido.
+
+
 > [!TIP]
 > **Atrévete a Errar**: El mayor enemigo de la creatividad es el miedo a equivocarse. En el mundo de las ideas, un error es simplemente un experimento que te dice por dónde no es el camino.
+
 
 ## ✍️ Manos a la obra
 
@@ -34,9 +52,16 @@ Desafía tu flexibilidad mental encontrando usos alternativos para objetos comun
 | **Un calcetín viejo.** | Cubrir y proteger el pie. | Títere de mano, funda protectora, trapo ecológico. |
 | **Botella de plástico.** | Contener líquidos. | Sistema de riego, maceta colgante, pesas caseras. |
 | **Un cepillo dental.** | Limpieza de los dientes. | Cepillo para teclados, peine de cejas, pincel artístico. |
+| **Decorar tu cuarto.** | Poner posters. | Lámparas con botes, cuadros con telas, muebles únicos. |
+| **Crear contenido.** | Copiar un reto. | Crear tu propia coreografía o contar una historia única. |
+| **Regalo especial.** | Comprar algo caro. | Escribir rimas o crear un álbum de recuerdos digital. |
+| **Solucionar conflicto.** | Enojarse y gritar. | Buscar un acuerdo creativo donde ambos ganen algo. |
+
 
 ## 🌍 En tu mundo
-La creatividad es tu mejor aliada cuando te falta un recurso o enfrentas un obstáculo inesperado. Te ayuda cuando tienes que hacer un regalo especial sin dinero o cuando debes explicar un tema difícil de forma que todos tus compañeros te entiendan. Ser una persona creativa significa aprender a usar con ingenio lo que tienes para lograr lo que deseas. En el mundo laboral del futuro, la capacidad de generar soluciones originales será la habilidad más valorada por encima de cualquier título académico(1).
+
+La creatividad es tu mejor aliada cuando te falta un recurso o enfrentas un obstáculo inesperado. Te ayuda cuando tienes que hacer un regalo especial sin dinero o cuando debes explicar un tema difícil de forma que todos tus compañeros te entiendan. Ser una persona creativa significa aprender a usar con ingenio lo que tienes para lograr lo que deseas. En el mundo del futuro, la capacidad de generar soluciones originales será la habilidad más valorada(1).
+
 
 ## 🏆 Reto Final
 
@@ -76,22 +101,31 @@ La creatividad es tu mejor aliada cuando te falta un recurso o enfrentas un obst
    - C) Para tener la capacidad de pintar cuadros hermosos durante sus ratos libres.
    - D) Realmente no le sirve de nada, ya que la ciencia se basa exclusivamente en la lógica rígida.
 
+
 ## 🏁 Pausa para pensar
+
 1. ¿Cuál ha sido, hasta el día de hoy, la idea más creativa u original que has tenido en tu vida personal?
 2. ¿Por qué crees que a menudo nos da miedo expresar nuestras ideas más "locas" en voz alta frente a los demás?
 3. ¿Cómo crees que sería el mundo actual si nadie en la historia se hubiera atrevido a tener "ideas fuera de lo común"?
 
+
 ## 📚 Glosario Maestro
+
 - **Creatividad**: Capacidad de dar luz a ideas originales y útiles(1).
 - **Imaginación**: Facultad mental de representar objetos o ideas irreales.
 - **Innovación**: El acto de convertir una idea creativa en una solución real.
 - **Fluidez**: La capacidad de producir muchas ideas en un tiempo muy breve.
 - **Originalidad**: El rasgo que hace que una idea sea única y poco común.
 
+
 ## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: El inventor del velcro se inspiró en cómo se pegaban las semillas en el pelo de su perro. ¡Eso es observación creativa en acción!
+- **Dato curioso 2**: Walt Disney dividía su proceso en tres salas: El Soñador (ideas locas), El Realista (cómo hacerlo) y El Crítico (qué falta mejorar).
 - **Para ver**: *Ratatouille*. Una historia que demuestra que la creatividad surge de la pasión y de atreverse a mezclar ingredientes de forma diferente.
-- **Para explorar**: Intenta dibujar un animal usando solo triángulos. Verás cómo tu mente busca formas originales bajo reglas nuevas.
-- **Dato curioso**: El inventor del velcro se inspiró en cómo se pegaban las semillas en el pelo de su perro. ¡Eso es observación creativa en acción!
+- **Para explorar**: Intenta dibujar un animal usando solo círculos y líneas rectas. Verás cómo tu mente busca formas originales bajo nuevas reglas.
+- **Para conversar**: Pregúntale a alguien que cocine muy bien: "¿Qué receta inventaste por accidente y qué ingrediente 'loco' le pusiste?".
+
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B

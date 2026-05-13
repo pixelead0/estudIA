@@ -1,26 +1,43 @@
-# Módulo 02: Diferentes formas de ver el mundo (Tipos de pensamiento)
-
 ![Tipos de Pensamiento](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/02_DHP_concepts_thought_types.png)
 
 ## 🎯 El Reto
+
 Imagina que te entregan una caja cerrada con un candado de alta seguridad y te dicen que adentro hay un tesoro invaluable. Para abrirla, tienes a tu disposición varias herramientas: una lupa potente, un martillo pesado, un manual de instrucciones detallado y tu propia imaginación. 
 
-Si solo usas el martillo, podrías romper el tesoro al intentar abrir la caja. Si solo usas la lupa, quizás veas el candado muy cerca pero no logres descifrar la combinación. Para tener éxito real, necesitas saber qué herramienta usar en cada momento preciso. En tu cabeza ocurre lo mismo: no siempre pensamos de la misma forma. A veces necesitamos ser lógicos, a veces creativos y otras veces muy críticos. ¿Sabes qué tipo de "lente mental" traes puesto hoy?
+> "La imaginación es más importante que el conocimiento". — Albert Einstein.
+
+Si solo usas el martillo, podrías romper el tesoro al intentar abrir la caja. Si solo usas la lupa, quizás veas el candado muy cerca pero no logres descifrar la combinación. Para tener éxito real, necesitas saber qué herramienta usar en cada momento preciso. En tu cabeza ocurre lo mismo: no siempre pensamos de la misma forma. A veces necesitamos ser lógicos, a veces creativos y otras veces muy críticos. 
+
+En este módulo, vamos a descubrir tu **Caja de Herramientas Mental**. El reto no es solo pensar, sino saber elegir el "lente" correcto para cada situación. ¿Estás listo para convertirte en un experto multitasque del pensamiento?
+
+> "Aprender sin reflexionar es malgastar la energía". — Confucio.
+
+> "La lógica te llevará de A a B. La imaginación te llevará a todas partes". — Albert Einstein.
+
 
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. El Abanico del Pensamiento
 Nuestra mente tiene diferentes "modos" o estilos de trabajar según el reto que necesitemos resolver. Una persona puede usar varios tipos de pensamiento para un mismo problema complejo; de hecho, es la mejor estrategia para ser efectivo(6). Estos son los principales:
 - **Pensamiento Lógico**: Es preciso, directo y sigue reglas estrictas. Se utiliza para seguir pasos y reglas que nos lleven a una conclusión correcta e irrefutable(1).
-- **Pensamiento Creativo**: Es el que nos permite "pensar fuera de la caja", buscando soluciones que no son obvias o comunes(5). Es fundamental si estás tratando de inventar algo totalmente nuevo, como un sabor de helado que nadie haya probado jamás(2).
+- **Pensamiento Creativo**: Es el que nos permite "pensar fuera de la caja", buscando soluciones que no son obvias o comunes(5). Es fundamental si estás tratando de inventar algo totalmente nuevo(2).
 - **Pensamiento Crítico**: Funciona como una lupa mental. Sirve para analizar la información de forma razonable y decidir qué creer o qué hacer basándonos en pruebas reales(3).
 - **Pensamiento Sistémico**: Es el que nos ayuda a entender que una pequeña acción puede afectar a todo un grupo o sistema completo, viendo cómo todo está conectado entre sí(4).
 
+> "Sapere aude: Atrévete a pensar por ti mismo". — Immanuel Kant.
+
+> "Todo lo que se puede imaginar es real". — Pablo Picasso.
+
+
 ### 2. El Pensador Maestro
-Ningún tipo de pensamiento es intrínsecamente mejor que otro. El secreto de un "Pensador Maestro" es la flexibilidad: tener la capacidad de cambiar de modo según el desafío que tenga enfrente. No usas la misma lógica para resolver un examen de física que para escribir un poema de amor; cada reto requiere un balance diferente de tus habilidades mentales.
+Ningún tipo de pensamiento es intrínsecamente mejor que otro. El secreto de un "Pensador Maestro" es la **Flexibilidad Cognitiva**: tener la capacidad de cambiar de modo según el desafío que tenga enfrente. No usas la misma lógica para resolver un examen de física que para escribir un poema; cada reto requiere un balance diferente de tus habilidades mentales.
+
+> "El genio es la capacidad de ver semejanzas donde otros ven diferencias". — Desconocido.
+
 
 > [!IMPORTANT]
 > **Flexibilidad Cognitiva**: Es la habilidad de cambiar tu forma de pensar cuando las reglas o el entorno cambian. Es como el "superpoder" de adaptarte a cualquier situación imprevista.
+
 
 ## ✍️ Manos a la obra
 
@@ -32,9 +49,16 @@ Identifica qué tipo de pensamiento es el más adecuado para cada misión:
 | **Crear un nuevo videojuego.** | Pensamiento Creativo. | Necesitas imaginar mundos que no existen(2). |
 | **Detectar una noticia falsa.** | Pensamiento Crítico. | Debes analizar las fuentes y buscar pruebas(3). |
 | **Planear una ciudad ecológica.** | Pensamiento Sistémico. | Debes ver cómo interactúan todas las piezas(4). |
+| **Diseñar una campaña de reciclaje.** | Pensamiento Sistémico. | Evalúas el impacto en toda la escuela. |
+| **Escribir un ensayo sobre la justicia.** | Pensamiento Crítico. | Evalúas diferentes argumentos y leyes. |
+| **Cocinar un platillo nuevo con sobras.** | Pensamiento Creativo. | Usas lo que tienes para crear algo delicioso. |
+| **Programar el código de una página web.** | Pensamiento Lógico. | El código debe seguir una sintaxis exacta. |
+
 
 ## 🌍 En tu mundo
+
 Cuando eliges qué carrera quieres estudiar en el futuro o qué regalo comprarle a alguien especial, utilizas una mezcla de todos estos pensamientos de forma inconsciente. Analizas cuánto dinero tienes (Lógico), imaginas qué le haría más ilusión (Creativo), evalúas si el objeto es de buena calidad (Crítico) y piensas si ese regalo afectará a otros (Sistémico). Al hacer conscientes estos tipos de pensamiento, te vuelves mucho más eficaz al tomar decisiones importantes para tu vida(6).
+
 
 ## 🏆 Reto Final
 
@@ -74,22 +98,31 @@ Cuando eliges qué carrera quieres estudiar en el futuro o qué regalo comprarle
    - C) Solo es posible para aquellas personas que son consideradas genios o muy inteligentes.
    - D) Solo es útil y permitido hacerlo durante las clases de matemáticas avanzadas.
 
+
 ## 🏁 Pausa para pensar
+
 1. De los tipos de pensamiento vistos, ¿cuál consideras que es tu "fortaleza" natural o el que más usas a diario?
 2. ¿Cómo le explicarías a un amigo, con tus propias palabras, qué significa realmente "pensar fuera de la caja"?
 3. ¿Por qué crees que a la mayoría de las personas nos cuesta tanto trabajo ser creativos cuando estamos bajo mucha presión o estrés?
 
+
 ## 📚 Glosario Maestro
+
 - **Lógico**: Razonamiento que sigue una estructura coherente y con reglas(1).
 - **Creativo**: Capacidad de generar ideas que son originales y al mismo tiempo útiles(2).
 - **Crítico**: Proceso de dudar razonablemente de lo que se nos presenta para verificar su verdad(3).
 - **Sistémico**: Mirada que observa el bosque completo y no solo un árbol individual(4).
 - **Inferencia**: El acto de llegar a una conclusión lógica a partir de datos conocidos.
 
+
 ## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Sabías que el invento del microondas fue gracias a un "error" creativo; un científico notó que un chocolate en su bolsillo se derritió por accidente cerca de un radar.
+- **Dato curioso 2**: Los grandes maestros del ajedrez no solo usan la lógica, sino que "ven" patrones creativos en el tablero que el resto ignoramos.
 - **Para ver**: *El Origen* (Inception). Una película que explora cómo se construyen las ideas y cómo los diferentes niveles de pensamiento crean mundos.
 - **Para explorar**: Busca ejercicios de "Pensamiento Lateral". Son acertijos que te obligan a cambiar tu punto de vista para encontrar la respuesta.
-- **Dato curioso**: Sabías que el invento del microondas fue gracias a un error creativo; un científico notó que un chocolate en su bolsillo se derritió por accidente cerca de un radar.
+- **Para conversar**: Pregúntale a alguien que admires: "¿Cuál es el problema más difícil que has resuelto y qué 'herramienta mental' usaste para lograrlo?".
+
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B

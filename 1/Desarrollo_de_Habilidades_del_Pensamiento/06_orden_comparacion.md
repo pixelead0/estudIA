@@ -1,28 +1,44 @@
-# Módulo 06: Ordenar y comparar para entender mejor
-
 ![Orden y Comparación](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/06_DHP_concepts_order_comparison.png)
 
 ## 🎯 El Reto
+
 Imagina que te regalan una colección de 1,000 cartas de tu juego favorito, pero están todas revueltas en una bolsa de plástico. Para saber cuáles son las más valiosas, cuáles te faltan o cuáles tienes repetidas, es imposible simplemente mirarlas todas al mismo tiempo.
 
-Necesitas urgentemente **ordenar** y **comparar**. El orden es el enemigo natural del caos, y la comparación es la base de todas las decisiones inteligentes que tomamos. Si sabes en qué se parecen y en qué son diferentes dos opciones, puedes elegir siempre la que más te conviene(4). ¿Sabes cómo usa tu mente estas herramientas para que no te engañen con falsas ofertas o noticias dudosas?
+> "El orden es la primera ley del cielo". — Alexander Pope.
+
+Necesitas urgentemente **ordenar** y **comparar**. El orden es el enemigo natural del caos, y la comparación es la base de todas las decisiones inteligentes que tomamos. Si sabes en qué se parecen y en qué son diferentes dos opciones, puedes elegir siempre la que más te conviene(4). 
+
+¿Sabes cómo usa tu mente estas herramientas para que no te engañen con falsas ofertas o noticias dudosas? En este módulo, te convertirás en el **Arquitecto del Orden Universal** de tu propia información.
+
+> "Para entender una cosa, hay que ver en qué se parece y en qué se diferencia de otra". — Aristóteles.
+
+> "Comparar es el principio de la sabiduría". — Desconocido.
+
 
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. Las Manos de la Mente
 Ordenar y comparar son como las manos invisibles de tu mente que acomodan el mundo para que tenga sentido:
-- **Comparación (El Espejo)**: Es poner dos cosas frente a frente para identificar sus **Semejanzas** (características compartidas)(4) y sus **Diferencias** (rasgos que las distinguen). Para que una comparación sea correcta y técnica, lo primero que debemos elegir es una **Variable**, que es la característica específica que vamos a medir en ambos objetos(1).
+- **Comparación (El Espejo)**: Es poner dos cosas frente a frente para identificar sus **Semejanzas** (características compartidas)(4) y sus **Diferencias** (rasgos que las distinguen). Para que una comparación sea correcta, lo primero que debemos elegir es una **Variable**(1).
 - **Clasificación (Las Etiquetas)**: Es el proceso de agrupar elementos que tienen características comunes para poder entenderlos y encontrarlos mucho mejor cuando los necesitemos(2).
 - **Ordenamiento (La Fila)**: Es organizar los elementos siguiendo una regla lógica (como el precio, la fecha o el orden alfabético)(3).
+
+> "Un lugar para cada cosa y cada cosa en su lugar". — Benjamin Franklin.
+
 
 ### 2. El Valor de la Variable
 No puedes comparar el color de una manzana con el sabor de una naranja de forma lógica. Un pensador experto elige variables claras. Por ejemplo, si comparas dos celulares, una variable válida sería el **Precio**(6). Si ordenas tus libros por el nombre del autor, estás usando precisamente la variable del nombre para poner orden en tu biblioteca(3).
 
+
 ### 3. Paz Mental y Eficiencia
 ¿Por qué nos esforzamos en ordenar? Porque el ordenamiento reduce drásticamente el esfuerzo mental necesario para encontrar cosas y para tomar decisiones rápidas en la vida diaria(5). Una mente ordenada es una mente que puede enfocarse en lo que realmente importa en lugar de perderse en el caos.
 
+> "El genio es la capacidad de ver semejanzas donde otros ven diferencias". — Desconocido.
+
+
 > [!TIP]
 > **Variable Maestra**: Antes de comprar cualquier cosa, elige tres variables (ej: precio, calidad, duración) y compara tus opciones. ¡Te sorprenderá lo fácil que es decidir así!
+
 
 ## ✍️ Manos a la obra
 
@@ -34,9 +50,16 @@ Aplica el orden y la comparación para entender mejor tu entorno:
 | **Computadora y Celular.** | Portabilidad. | Ambos tienen acceso a internet. | El celular es de bolsillo(6). |
 | **Examen y Tarea.** | Tipo de evaluación. | Demuestran lo que aprendiste. | El examen tiene tiempo límite. |
 | **Marca A y Marca B.** | Precio por gramo. | Son el mismo producto. | Una es más económica que otra. |
+| **Separar la ropa.** | Color. | Ambas son prendas de vestir. | Una es blanca y la otra oscura. |
+| **Comparar dos tenis.** | Durabilidad. | Ambos sirven para caminar. | Unos tienen mejor suela que otros. |
+| **Ordenar tus apps.** | Función (Juegos, Social). | Todas son software útil. | Unas son para diversión, otras estudio. |
+| **Gato vs Tigre.** | Especie / Peligro. | Ambos son felinos. | Uno es mascota y el otro salvaje. |
+
 
 ## 🌍 En tu mundo
+
 Cada vez que vas al supermercado y comparas dos marcas de cereal para ver cuál tiene menos azúcar o cuál es más barata, estás poniendo en práctica estas habilidades de alto nivel(6). Ser un consumidor inteligente requiere ser un gran comparador. Al organizar tus archivos en la computadora por carpetas (Clasificación) o tus tareas por fecha de entrega (Ordenamiento), estás liberando espacio en tu cerebro para que pueda ser más creativo y eficiente(5). El orden exterior genera claridad interior.
+
 
 ## 🏆 Reto Final
 
@@ -76,22 +99,31 @@ Cada vez que vas al supermercado y comparas dos marcas de cereal para ver cuál 
    - C) El estado del clima en el momento de la compra.
    - D) La hora exacta a la que se sirve la comida ese día.
 
+
 ## 🏁 Pausa para pensar
+
 1. ¿Cuál es tu forma favorita de ordenar tus pertenencias personales (por color, por frecuencia de uso o por tamaño)?
 2. ¿Por qué crees que nos resulta tan difícil tomar una decisión cuando tenemos demasiadas opciones para comparar al mismo tiempo?
 3. ¿De qué manera consideras que el orden físico en tu lugar de estudio ayuda a que tu cerebro aprenda más rápido?
 
+
 ## 📚 Glosario Maestro
+
 - **Variable**: Propiedad que puede variar y cuya variación es susceptible de medirse(1).
 - **Semejanza**: Aquello en lo que dos objetos son idénticos o muy parecidos(4).
 - **Diferencia**: El rasgo que hace único a un objeto frente a otro.
 - **Clasificación**: Organizar por categorías según propiedades comunes(2).
 - **Criterio**: La regla o norma que usamos para realizar el ordenamiento.
 
+
 ## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Los científicos usan la "Taxonomía" para organizar a todos los seres vivos. Gracias a este orden universal, un experto en cualquier país sabe exactamente de qué especie se está hablando.
+- **Dato curioso 2**: El algoritmo de búsqueda de Google es, en esencia, un gigantesco sistema de ordenamiento que compara miles de millones de páginas para darte la mejor respuesta.
 - **Para ver**: *Zootopia*. Observa cómo la ciudad está organizada por distritos climáticos (clasificación) para que todos los animales convivan en orden.
 - **Para explorar**: Observa Spotify o Netflix. Analiza cómo clasifican su contenido por género o estado de ánimo. ¡Esa es la aplicación práctica del orden!
-- **Dato curioso**: Los científicos usan la "Taxonomía" para organizar a todos los seres vivos. Gracias a este orden universal, un experto en cualquier país sabe exactamente de qué especie se está hablando.
+- **Para conversar**: Pregúntale a un bibliotecario o a un encargado de tienda: "¿Cuál es el sistema de orden que usa y qué pasaría si alguien cambiara una sola variable?".
+
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. A

@@ -1,11 +1,19 @@
-# Módulo 01: ¿Qué pasa en tu cabeza cuando piensas?
-
 ![Procesos de Pensamiento](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/01_DHP_concepts_basic_processes.png)
 
 ## 🎯 El Reto
+
 Estás por iniciar un viaje fascinante hacia el interior de la herramienta más potente que posees: **tu propia mente**. Muchas veces creemos que "pensar" es un acto automático que no requiere esfuerzo alguno, pero en realidad es un proceso complejo que realizas cada segundo para decidir desde qué ropa ponerte hasta cómo resolver un problema matemático difícil.
 
-¿Alguna vez te ha pasado que alguien te pregunta algo y te quedas en silencio un momento, como si estuvieras buscando una pieza perdida en un rompecabezas? **Eso es tu mente trabajando a máxima potencia**. Pensar es lo que nos permite entender el mundo, aprender cosas nuevas y generar respuestas inteligentes ante cualquier reto que se nos presente(1). En este módulo, descubrirás los secretos de ese "centro de mando" que llevas contigo a todas partes.
+> "La mente no es un recipiente que deba ser llenado, sino un fuego que debe ser encendido". — Plutarco.
+
+¿Alguna vez te ha pasado que alguien te pregunta algo y te quedas en silencio un momento, como si estuvieras buscando una pieza perdida en un rompecabezas? **Eso es tu mente trabajando a máxima potencia**. Pensar es lo que nos permite entender el mundo, aprender cosas nuevas y generar respuestas inteligentes ante cualquier reto que se nos presente(1). 
+
+En este módulo, vamos a hackear ese "centro de mando" que llevas contigo a todas partes. No solo se trata de tener un cerebro, sino de aprender a usarlo como un verdadero **maestro de la estrategia**.
+
+> "El pensamiento es el ensayo de la acción". — Sigmund Freud.
+
+> "La medida de la inteligencia es la capacidad de cambiar". — Albert Einstein.
+
 
 ## 💡 ¿Cómo funciona esto?
 
@@ -15,14 +23,26 @@ Pensar es como tener un centro de operaciones de alta tecnología en tu cabeza d
 - **Analizar y Conectar**: Tu mente traduce lo que percibes y lo une con lo que ya sabes por experiencia. Conectar ideas es lo que nos permite entender realmente lo que ocurre y estar listos para resolver problemas(3).
 - **Decidir (Actuar)**: Es el resultado final del pensamiento donde eliges la mejor acción posible, como buscar un paraguas antes de salir de casa(5).
 
+> "Vivir es pensar". — Cicerón.
+
+> "Pienso, luego existo". — René Descartes.
+
+
 ### 2. Tu Simulador Mental
 Una de las capacidades más asombrosas del cerebro es que funciona como un **Simulador**. Antes de hacer algo en la vida real, tu mente puede imaginar rápidamente qué pasaría si tomas una decisión u otra(6). Si imaginas algo que no existe todavía o una solución nueva a un problema, estás utilizando tu capacidad de **Creatividad**(4).
+
+> "La lógica te llevará de A a B. La imaginación te llevará a todas partes". — Albert Einstein.
+
 
 ### 3. La Velocidad del Pensamiento
 Tu cerebro procesa señales mucho más rápido de lo que tardas en parpadear. En lo que tú haces un simple "clic", tu mente ya conectó miles de neuronas para interpretar colores, sonidos y recuerdos, permitiéndote reaccionar al instante ante cualquier situación del entorno(1).
 
+> "No vemos las cosas como son, las vemos como somos". — Anaïs Nin.
+
+
 > [!TIP]
 > **Metacognición**: Es la capacidad de "pensar sobre tu propio pensamiento". Al entender cómo aprendes, te vuelves dueño de tu propia inteligencia.
+
 
 ## ✍️ Manos a la obra
 
@@ -32,11 +52,18 @@ Identifica qué proceso mental utilizas en cada situación de tu vida diaria:
 | :--- | :--- | :--- |
 | **Ver nubes grises y buscar paraguas.** | Relación y Acción(5). | Evitas mojarte al salir. |
 | **Imaginar un invento que no existe.** | Creatividad e Imaginación(4). | Generas una idea original. |
-| **Escuchar un ruido y buscar de dónde viene.** | Percepción y Observación(2). | Identificas la fuente del sonido. |
-| **Decidir qué estudiar para el examen.** | Toma de decisiones. | Optimizas tu tiempo de aprendizaje. |
+| **Escuchar un ruido y buscar su fuente.** | Percepción y Observación(2). | Identificas si hay peligro o curiosidad. |
+| **Decidir qué estudiar para el examen.** | Toma de decisiones y Priorización. | Optimizas tu tiempo de aprendizaje. |
+| **Leer un mapa y encontrar la ruta.** | Análisis y Decisión Espacial. | Llegas a tu destino sin perderte. |
+| **Recordar un cumpleaños y elegir un regalo.** | Memoria y Empatía. | Fortaleces tus relaciones personales. |
+| **Oler comida quemada y apagar la estufa.** | Percepción Sensorial y Reacción. | Evitas un accidente en el hogar. |
+| **Ver un problema matemático y elegir fórmula.** | Análisis, Lógica y Aplicación. | Obtienes el resultado correcto. |
+
 
 ## 🌍 En tu mundo
+
 Hoy, en un momento cualquiera de tu rutina, trata de notar conscientemente cuántas cosas pensaste antes de realizar una acción simple. Cruzas la calle porque **observaste** que no vienen autos, **relacionaste** el semáforo en rojo con la seguridad y **decidiste** avanzar(3). Al hacer consciente este proceso, dejas de actuar por impulso y empiezas a actuar con inteligencia. Este es el primer paso para convertirte en un pensador crítico y exitoso en la preparatoria y en tu vida futura.
+
 
 ## 🏆 Reto Final
 
@@ -76,22 +103,31 @@ Hoy, en un momento cualquiera de tu rutina, trata de notar conscientemente cuán
    - C) Porque su única función importante es procesar y ejecutar videojuegos de alta resolución.
    - D) Porque los pensamientos que genera no tienen ninguna relación con la realidad física.
 
+
 ## 🏁 Pausa para pensar
+
 1. ¿En qué momento específico de tu día sientes que tu mente está más despierta, activa y lista para aprender?
 2. Si tuvieras que explicarle a un niño pequeño qué significa "pensar" usando un ejemplo de la calle, ¿cuál usarías?
 3. ¿De qué manera crees que entender cómo funciona tu mente te puede dar ventaja en tus clases más difíciles?
 
+
 ## 📚 Glosario Maestro
+
 - **Pensamiento**: El arte de procesar información para crear conocimiento nuevo(1).
 - **Percepción**: La puerta de entrada de la información a través de tus sentidos(2).
 - **Análisis**: El proceso de desarmar una idea compleja en partes pequeñas para entenderla.
 - **Relación**: El "puente" mental que une un dato nuevo con un recuerdo anterior(3).
 - **Creatividad**: La capacidad de generar ideas originales y soluciones valiosas(4).
 
+
 ## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Tu cerebro es el objeto más complejo del universo conocido. ¡Tiene más conexiones posibles que todas las estrellas que podemos ver en nuestra galaxia!
+- **Dato curioso 2**: El cerebro no siente dolor. Aunque procesa las señales de dolor de todo el cuerpo, el tejido cerebral en sí mismo no tiene receptores de dolor.
 - **Para ver**: *Intensamente* (Disney/Pixar). Una película que muestra de forma brillante cómo funcionan los procesos mentales y las emociones en el centro de mando de nuestra cabeza.
 - **Para explorar**: Busca "Cómo funciona el cerebro" en YouTube (Canal: CuriosaMente) para descubrir las asombrosas conexiones eléctricas de tus neuronas.
-- **Dato curioso**: Tu cerebro es el objeto más complejo del universo conocido. ¡Tiene más conexiones posibles que todas las estrellas que podemos ver en nuestra galaxia!
+- **Para conversar**: Pregúntale a un adulto: "¿Cuál es la decisión más rápida que has tenido que tomar en tu vida y qué proceso mental crees que usaste?". ¡Te sorprenderás con sus historias!
+
 
 ## 🔑 Respuestas Correctas
 1. B | 2. C | 3. B | 4. B | 5. B | 6. B
