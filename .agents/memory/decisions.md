@@ -14,4 +14,5 @@ Este documento registra los acuerdos fundamentales sobre la dirección del proye
 | 2026-05-13 | **Estrategia de Citas Maestras** | Se eleva la densidad obligatoria a 4-6 citas por módulo para aumentar el valor pedagógico e inspirador. |
 | 2026-05-13 | **Densidad de Ejemplos Prácticos** | La sección "Manos a la obra" debe contener un mínimo de 6-8 ejemplos diversificados para evitar la repetitividad y cubrir más contextos. |
 | 2026-05-13 | **Guía de Navegación 00_** | Se establece como obligatorio crear un archivo resumen de temario para cada materia que facilite la visión global del alumno. |
+| 2026-05-13 | **Automatización de Formato PDF** | Los títulos de módulos y saltos de página se generan dinámicamente durante la exportación para garantizar consistencia visual total. |
 - **[2026-04-24] - Migración a Estándar 2.0**: Se decidió unificar la estructura de todos los módulos bajo un esquema de 9 secciones obligatorias (Glosario, Respuestas, etc.) y un mínimo de 6 preguntas por reto. Se implementó `audit_modules.py` para garantizar el cumplimiento.

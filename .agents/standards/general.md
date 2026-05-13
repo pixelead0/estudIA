@@ -20,7 +20,7 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 Cada módulo debe estar contenido en un archivo Markdown.
 
 **Nomenclatura**:
-- Guía General del Curso: `00_resumen_temario.md` (Obligatorio para cada materia).
+- Guía General del Curso: `00_resumen_temario.md` (Obligatorio para cada materia). No debe contener las 9 secciones estándar, sino un resumen de los bloques.
 - Módulo Simple: `XX_[nombre].md`
 - Sub-módulos (para temas densos): `XX.YY_[nombre].md` (ej. `03.01_doctrinas_griegas.md`)
 
@@ -61,6 +61,12 @@ Cada módulo debe estar contenido en un archivo Markdown.
 - **Fluidez y Párrafos**: Evitar muros de texto. Separar los párrafos de manera que cada uno trate una idea clara. Usar conectores de transición (Por consiguiente, No obstante, En consecuencia) para asegurar la fluidez.
 - **Obligatorio**: Al menos una imagen clara y atractiva por módulo que refuerce el concepto.
 - **Formato**: Uso de `alerts` de Markdown, tablas y listas para facilitar la lectura.
+
+## 6. Estándares de Exportación (PDF)
+Para garantizar una experiencia de lectura fluida y profesional en los archivos descargables:
+- **Títulos Automáticos**: El generador de PDF añade un encabezado `H1` con el nombre del módulo (ej. "Módulo 01: [Título]"). NO añadir títulos `H1` manuales dentro de los archivos `.md`.
+- **Salto de Página**: Cada módulo debe comenzar en una página nueva. Esto es gestionado por la clase `.page-break` en el CSS de exportación.
+- **Paginación**: El pie de página debe mostrar siempre el número de página actual y el total del documento.
 
 ---
 > [!IMPORTANT]

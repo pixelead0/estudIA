@@ -87,15 +87,26 @@ async function generatePDF(semester, subject) {
     </div>\n\n`;
 
     for (const file of files) {
-        console.log(`📄 Processing ${path.basename(file)}...`);
-        let content = await fs.readFile(file, 'utf8');
+        const filename = path.basename(file, '.md');
+        let displayTitle = filename
+            .replace(/^(\d+(?:\.\d+)?)/, 'Módulo $1:')
+            .replace(/_/g, ' ');
         
-        // Fix image paths: file:///home/kubrick/www/estudIA/ -> relative or handled by Playwright
-        // Playwright can handle absolute paths if we allow it.
+        // Capitalize each word safely
+        displayTitle = displayTitle.split(' ').map(word => {
+            if (word.toLowerCase().startsWith('módulo')) return word;
+            return word.charAt(0).toUpperCase() + word.slice(1);
+        }).join(' ');
+
+        console.log(`📄 Processing ${filename}...`);
+        let content = await fs.readFile(file, 'utf8');
         
         content = await transformImages(content);
         content = transformAlerts(content);
-        fullMarkdown += content + '\n\n';
+        
+        // Add Module Title
+        fullMarkdown += `# ${displayTitle}\n\n`;
+        fullMarkdown += content + '\n\n<div class="page-break"></div>\n\n';
     }
 
     const bodyHtml = md.render(fullMarkdown);

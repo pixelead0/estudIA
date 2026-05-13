@@ -165,3 +165,7 @@ blockquote {
     color: var(--muted-color);
     margin-top: 10px;
 }
+
+.page-break {
+    page-break-after: always;
+}
