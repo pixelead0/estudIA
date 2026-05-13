@@ -56,6 +56,9 @@ Aprende a distinguir cuándo estás usando tu libertad y cuándo te estás dejan
 | **Insultar a alguien "porque soy libre de decir lo que sea".** | Libertinaje. | Es un abuso que daña la dignidad de la otra persona(4). |
 | **Elegir tus propios valores aunque tus amigos no estén de acuerdo.** | Libertad Interna. | Es ser fiel a ti mismo por encima de la presión del grupo(5). |
 | **Hacer un reto peligroso solo por ganar seguidores.** | Libertinaje. | Estás arriesgando tu bienestar por un impulso pasajero. |
+| **Respetar el turno de palabra de alguien aunque no estés de acuerdo.** | Libertad (Respeto). | Eliges reconocer la dignidad del otro sobre tu impulso de gritar. |
+| **Ahorrar tu dinero en lugar de gastarlo en algo que no necesitas.** | Libertad (Autocontrol). | Eres dueño de tus deseos y no esclavo del consumismo. |
+| **Decir que no a algo que te hace sentir incómodo.** | Libertad Interna. | Ejerces tu autonomía para proteger tu integridad personal. |
 
 ## 🌍 En tu mundo
 

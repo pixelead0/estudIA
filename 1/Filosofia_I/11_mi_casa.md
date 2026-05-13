@@ -56,6 +56,9 @@ Identifica los símbolos que forman tu identidad hoy:
 | **Escudo del IPN** | Mi escuela y mi esfuerzo. | Estudiando de verdad y no haciendo trampa. |
 | **Territorio (Tu colonia)** | Mi hogar real. | No tirando basura y cuidando los parques. |
 | **Código de Ética** | Mi mapa para ser buena persona. | Siendo honesto con mis maestros y amigos. |
+| **Himno Nacional** | La unión de todos los mexicanos. | Entonándolo con fuerza y respeto en las ceremonias. |
+| **El "Huélum" (Porra)** | El sentido de comunidad y alegría. | Gritándolo con orgullo pero sin insultar a otros. |
+| **El Lema Institucional** | Mi compromiso con el progreso. | Aplicando mis conocimientos para resolver problemas reales. |
 
 ## 🌍 En tu mundo
 

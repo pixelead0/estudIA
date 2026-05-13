@@ -67,6 +67,9 @@ Identifica si estas situaciones son Mito, Magia o Logos, y piensa cómo afectan 
 | **"Investigo por qué mi teléfono se calienta tanto usando tutoriales."** | Logos / Ciencia. | Te da control técnico y conocimiento real. |
 | **"Creo que los eclipses son señales del fin del mundo."** | Mito. | Te genera miedo innecesario por falta de lógica. |
 | **"Me pregunto si la libertad es solo una ilusión."** | Logos / Filosofía. | Te obliga a pensar en quién eres y qué decides. |
+| **"Consultar el horóscopo para decidir si hoy hablo con alguien."** | Magia / Mito. | Entregas tu poder de decisión a fuerzas externas(2). |
+| **"Llevar una dieta equilibrada porque entiendo cómo funciona mi cuerpo."** | Logos / Ciencia. | Usas la razón para mejorar tu salud y bienestar. |
+| **"Respetar las leyes porque entiendo que son necesarias para la paz."** | Logos / Filosofía. | Comprendes el sentido profundo de la convivencia social. |
 
 ## 🌍 En tu mundo
 

@@ -55,6 +55,9 @@ Empieza a trazar tus rutas principales. Define tus objetivos para el futuro:
 | **Amigos / Familia** | Tener relaciones basadas en la verdad. | Lealtad y Honestidad. |
 | **Mi Comunidad** | Ser un ciudadano que ayuda y no ensucia. | Justicia y Solidaridad. |
 | **Yo mismo (Salud)** | Cuidar mi cuerpo y mis pensamientos. | Respeto propio y Templanza. |
+| **Finanzas Personales** | Ser independiente y ayudar a mi familia. | Prudencia y Ahorro. |
+| **Hobbies / Talentos** | Aprender algo nuevo cada año (música, arte). | Curiosidad y Constancia. |
+| **Uso de Tecnología** | Usar las redes para inspirar y no para odiar. | Integridad y Empatía. |
 
 ## 🌍 En tu mundo
 

@@ -64,6 +64,9 @@ Aprende a usar tu escudo. ¿Es un Derecho (algo que pides) o un Deber (algo que 
 | **No rayar las bancas ni las paredes.** | Deber. | Es tu obligación cuidar lo que es de todos. |
 | **Tener un médico si te enfermas.** | Derecho. | Protege tu vida, que es el valor más importante. |
 | **Escuchar a los demás sin burlarte.** | Deber. | Es tu obligación respetar la libertad de opinión. |
+| **Vivir en un ambiente limpio y sin basura.** | Derecho. | Tienes derecho a un entorno sano para crecer(3). |
+| **Pagar tus impuestos o cuotas cuando trabajes.** | Deber. | Ayudas a que el Estado pueda dar servicios a todos. |
+| **Expresar tu opinión libremente en redes.** | Derecho. | Es parte de tu libertad de pensamiento(5). |
 
 ## 🌍 En tu mundo
 

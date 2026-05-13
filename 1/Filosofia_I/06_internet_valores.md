@@ -55,6 +55,9 @@ Mira cómo los avances tecnológicos pueden ser geniales o peligrosos según có
 | **Inteligencia Artificial** | Ayuda a resolver problemas rápidos. | Que los algoritmos tomen decisiones injustas(5). |
 | **Energía Nuclear** | Mucha energía sin humo. | Residuos peligrosos que duran miles de años. |
 | **Edición Genética** | Curar enfermedades raras. | "Diseñar" humanos al gusto de los padres (Bioética)(6). |
+| **Drones** | Ayuda en rescates y entrega de medicinas. | Uso para vigilancia invasiva o ataques bélicos. |
+| **Bioplásticos** | Reducen la contaminación por plástico. | Pueden usar tierras de cultivo que se necesitan para comida. |
+| **Cámaras de Vigilancia** | Aumentan la seguridad en las calles. | Pueden usarse para control social y pérdida de libertad. |
 
 ## 🌍 En tu mundo
 

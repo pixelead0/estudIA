@@ -49,6 +49,9 @@ Diseña tu rascacielos. Organiza estos valores del 1 (cimiento/más importante) 
 | **Amistad / Lealtad** | | |
 | **Éxito / Dinero** | | |
 | **Honestidad / Verdad** | | |
+| **Justicia / Igualdad** | | |
+| **Diversión / Ocio** | | |
+| **Fe / Espiritualidad** | | |
 
 > "Tu actitud, no tu aptitud, determinará tu altitud". — Zig Ziglar.
 
