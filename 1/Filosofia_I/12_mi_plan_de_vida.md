@@ -1,48 +1,70 @@
-# Módulo 12: Mi Plan de Vida (Proyecto Final)
-
-![Proyecto Final](../../assets/1/Filosofia_I/12_FI_concepts_final_project.png)
-
 ## 🎯 El Reto
-Has llegado al final de este emocionante viaje a través de la Filosofía y la Ética. Pero, en realidad, este no es un final, sino el comienzo del viaje más importante de tu existencia: tu propia vida. En este módulo final, el filósofo no soy yo, ni tampoco los grandes pensadores del pasado; hoy el filósofo eres tú. 
 
-El gran reto es diseñar tu propio **Plan de Vida**, integrando de manera creativa todo lo que has aprendido sobre libertad, valores, dignidad y responsabilidad. Es hora de trazar el mapa de tu destino.
+¡Felicidades! Has llegado al final de este viaje a través de la Filosofía. Pero, en realidad, este no es el final, sino el "banderazo de salida" para el viaje más importante de tu existencia: tu propia vida. En este módulo, el filósofo ya no soy yo, ni los libros; hoy el filósofo eres **tú**.
+
+¿Qué quieres que diga la gente de ti dentro de 20 años? ¿Cómo vas a usar lo que aprendiste para no ser una "hoja al viento" que se lleva cualquier moda? ¿Cuál es la huella que quieres dejar en México y en las personas que amas?
+
+En este módulo final, el reto es diseñar el "GPS de tu Alma" o tu **Plan de Vida**. Vamos a unir todas las piezas (libertad, valores, dignidad y responsabilidad) para que traces el mapa de tu destino. Es hora de dejar de ser un pasajero y convertirte en el capitán de tu propio barco. ¡El futuro empieza con el primer trazo que hagas hoy!
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. El Arquitecto de su Destino
-Un plan de vida no es simplemente una lista de deseos o fantasías; por el contrario, se define como un compromiso ético contigo mismo para orientar tu libertad con plena responsabilidad(1). Para diseñarlo de manera sólida, debes considerar los siguientes pilares:
-- **Tus Valores**: Son los auténticos cimientos que determinarán cada una de tus decisiones futuras y, en última instancia, qué tipo de persona llegarás a ser(2).
-- **Tu Vocación**: ¿Cómo vas a aplicar "la técnica al servicio de la patria"? Debes visualizar cómo tus conocimientos técnicos y científicos buscarán el bienestar de tu sociedad y de México(3).
-- **Tu Responsabilidad**: ¿Qué huella o consecuencia quieres dejar en el mundo que te rodea?
+### 1. La Metáfora: El Arquitecto de su Destino
+Un plan de vida no es una lista de deseos a Santa Claus; es un compromiso ético contigo mismo para usar tu libertad con responsabilidad(1). Para que tu edificio aguante, necesita:
+- **Tus Valores**: Los cimientos que deciden qué tipo de persona serás(2).
+- **Tu Vocación**: Cómo vas a poner "la técnica al servicio de la patria"(3).
+- **Tu Responsabilidad**: La huella que quieres dejar en el mundo.
 
-### 2. Integrando los Saberes para el Futuro
-Para que tu plan sea verdaderamente resistente, debes hacer uso de tu **Conciencia Crítica**(4). Esta herramienta te permitirá evaluar tus opciones con claridad, evitando dejarte llevar por simples impulsos momentáneos o presiones sociales. Tu plan debería intentar responder, a su manera, las 4 preguntas fundamentales de Kant:
-1.  **¿Qué puedo conocer?**: Relacionado con tu continua preparación académica y técnica.
-2.  **¿Qué debo hacer?**: Tu firme compromiso ético con el bien común.
-3.  **¿Qué me es permitido esperar?**: El alcance de tus metas, sueños y aspiraciones.
-4.  **¿Qué es el hombre?**: Tu visión personal de quién quieres llegar a ser como ser humano íntegro.
+### 2. El Mapa de las 4 Preguntas
+Para que tu GPS no falle, usa tu **Conciencia Crítica**(4) para responder a las preguntas de un filósofo llamado Kant:
+1. **¿Qué puedo conocer?**: Seguir estudiando y preparándote.
+2. **¿Qué debo hacer?**: Tu compromiso con hacer el bien.
+3. **¿Qué me es permitido esperar?**: Tus sueños y metas reales.
+4. **¿Qué es el hombre?**: Quién quieres llegar a ser tú como ser humano íntegro.
 
-### 3. La Brújula de la Integridad
-No debemos olvidar que la ética es, ante todo, el "arte de vivir" bien. En consecuencia, lo contrario de ser un "imbécil moral" es desarrollar una conciencia clara y una disposición constante a fijarte si lo que haces es realmente lo que quieres y lo que te humaniza(6). Al final del camino, la recompensa más alta de actuar con integridad y justicia es la **Alegría** profunda de saber que estás construyendo tu ser de forma digna(5).
+### 3. La Brújula de la Alegría
+La ética es el "arte de vivir bien". Lo contrario de ser un "imbécil moral" es tener la conciencia despierta para fijarte si lo que haces es realmente lo que quieres y lo que te hace mejor(6). La recompensa de vivir con integridad es la **Alegría** profunda de saber que eres una persona digna(5).
 
 > [!TIP]
-> **Dato Maestro**: Tu plan de vida es un documento vivo. Cámbialo, ajústalo y hazlo crecer conforme tú también vayas descubriendo nuevas maravillas en el mundo.
+> **Plan Vivo**: Tu plan de vida no está escrito en piedra. Cámbialo, ajústalo y hazlo crecer conforme vayas descubriendo nuevas maravillas en el mundo. ¡Es tu mapa, tú lo dibujas!
 
 ## ✍️ Manos a la obra
 
-Define hoy mismo los pilares que sostendrán tu futuro:
+Empieza a trazar tus rutas principales. Define tus objetivos para el futuro:
 
-| Área de tu Vida | Tu Objetivo Ético Principal | ¿Qué valor aplicarás para lograrlo? |
+| Área de tu Vida | Tu Sueño o Meta Ética | ¿Qué valor usarás para llegar? |
 | :--- | :--- | :--- |
-| **Estudios / Carrera Técnica.** | Usar mis conocimientos para ayudar a otros(3). | Responsabilidad y Excelencia. |
-| **Relaciones / Familia.** | Construir vínculos basados en el respeto mutuo. | Lealtad y Honestidad. |
-| **Sociedad / Comunidad.** | Ser un ciudadano íntegro y participativo. | Justicia y Solidaridad. |
-| **Personal / Salud.** | Cuidar mi cuerpo y cultivar mi mente. | Templanza y Respeto propio. |
+| **Estudios / Carrera** | Usar mi técnica para ayudar a México(3). | Responsabilidad y Disciplina. |
+| **Amigos / Familia** | Tener relaciones basadas en la verdad. | Lealtad y Honestidad. |
+| **Mi Comunidad** | Ser un ciudadano que ayuda y no ensucia. | Justicia y Solidaridad. |
+| **Yo mismo (Salud)** | Cuidar mi cuerpo y mis pensamientos. | Respeto propio y Templanza. |
 
 ## 🌍 En tu mundo
-Tu plan de vida no es un ejercicio teórico que se deba quedar guardado en un cajón; es la herramienta que te ayuda a decidir hoy mismo si vas a dedicar tiempo al estudio o si vas a ayudar a un vecino que lo necesita(1). 
 
-En tu comunidad, una persona con un propósito claro es alguien que inspira confianza y motiva a los demás a ser mejores. Recuerda siempre que tú eres el único autor de la gran historia que México necesita leer y que tu técnica debe estar siempre iluminada por tu ética(3).
+Tu plan de vida te ayuda a decidir **hoy** cosas importantes: ¿estudias para el examen o te vas de fiesta sin haber terminado? ¿Ayudas a un amigo o te quedas viendo videos en el cel?(1). Tener un propósito te hace una persona que inspira confianza y que sabe decir "no" a lo que le quita libertad. Recuerda: México necesita jóvenes con técnica, pero sobre todo con mucha ética(3). ¡Tú eres el autor de la historia más importante que jamás se haya escrito: la tuya!
+
+## 🏁 Pausa para pensar
+
+1. Si hoy fuera el año 2040 y fueras una persona muy exitosa y feliz, ¿qué le dirías a tu "yo" de hoy?
+2. ¿Cuál es el valor que crees que más te va a ayudar a no rendirte cuando las cosas se pongan difíciles?
+3. ¿Qué parte de tu "identidad" actual te gustaría conservar para siempre?
+4. ¿Crees que tener un plan te quita libertad o te da más libertad?
+5. ¿Qué acción pequeña (un "micropaso") vas a dar mañana mismo para acercarte a tu meta principal?
+
+## 📚 Glosario Maestro
+
+- **Vocación**: El llamado interno para servir a los demás con lo que sabes hacer.
+- **Proyecto de Vida**: El mapa que dibujas para no perderte en el camino de la vida.
+- **Integridad**: Ser la misma persona por fuera y por dentro, siempre fiel a tus valores.
+- **Imbécil Moral**: Alguien que no usa su conciencia y se deja llevar por los impulsos.
+- **Autenticidad**: El valor de ser tú mismo sin máscaras ni copias.
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Muchos genios como Leonardo da Vinci escribían sus metas todos los días en un diario para no olvidar hacia dónde iban. ¡Tú también puedes empezar tu diario de sueños!
+- **Dato curioso 2**: Se ha descubierto que las personas que tienen un propósito claro viven más años y son más felices. ¡Tener un plan es saludable!
+- **Para ver**: Busca "El discurso de Steve Jobs en Stanford" sobre cómo conectar los puntos de tu vida. Te inspirará a confiar en tu propio camino.
+- **Para explorar**: Escríbete una carta a ti mismo dentro de 10 años. Guárdala en un lugar secreto y pon una alarma en tu cel para leerla en el futuro.
+- **Para conversar**: Pregúntale a alguien que admires: "¿Cuál era su sueño cuando tenía 15 años y cómo cambió su plan de vida?". ¡Aprenderás mucho de su experiencia!
 
 ## 🏆 Reto Final
 
@@ -81,22 +103,6 @@ En tu comunidad, una persona con un propósito claro es alguien que inspira conf
    - B) Tener conciencia y disposición a fijarse en que si lo que se hace es realmente lo que se quiere.
    - C) No tener sentimientos.
    - D) Seguir siempre las órdenes de otros.
-
-## 🏁 Pausa para pensar
-1. ¿Cuál es ese sueño o meta tan grande que quieres haber logrado dentro de los próximos 5 años?
-2. ¿Qué obstáculo para tu libertad consideras que debes empezar a superar desde hoy mismo?
-3. ¿Cómo te gustaría que tus amigos y tu familia describieran la huella que has dejado en ellos dentro de diez años?
-
-## 📚 Glosario Maestro
-- **Vocación**: La inclinación o el llamado interno hacia una actividad o profesión con sentido social.
-- **Proyecto**: Un plan estructurado que se tiene para realizar una meta importante.
-- **Integridad**: La calidad de ser honesto, coherente y tener principios éticos firmes.
-- **Eudemonismo**: Doctrina ética que sitúa la felicidad virtuosa como la meta suprema de la conducta.
-
-## 🌟 Zona de Descubrimiento
-- **Dato curioso**: Muchos de los grandes genios y líderes de la historia, como Leonardo da Vinci o Marie Curie, escribían sus metas y sus planes de vida todos los días para no perder su rumbo.
-- **Para ver**: Busca "Cómo diseñar un proyecto de vida con propósito" en YouTube para obtener herramientas prácticas que te ayuden a aterrizar tus sueños.
-- **Para explorar**: Escribe una carta dirigida a tu "yo" del futuro (dentro de 10 años). Cuéntale qué valores estás practicando hoy para que él pueda ser una persona feliz y realizada mañana.
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B

@@ -1,52 +1,72 @@
-# Módulo 06: El Futuro y el Planeta (Tecnología y Medio Ambiente)
-
-![Ciencia y Tecnología](../../assets/1/Filosofia_I/06_FI_concepts_science_eco.png)
-
 ## 🎯 El Reto
-Imagina que tienes en tus manos un control remoto capaz de cambiar el clima, crear vida en un laboratorio o conectar tu mente a una red global. Suena a ciencia ficción, pero es la realidad que la humanidad está construyendo hoy. 
 
-El gran dilema es: ¿el hecho de que "podamos" hacer algo significa que "debamos" hacerlo? En este módulo, exploraremos la relación entre el avance científico y nuestra responsabilidad con la vida y el planeta, descubriendo por qué la ética es el freno de emergencia que necesitamos para no chocar contra nuestro propio progreso.
+Imagina que tienes un control remoto que puede crear vida en un laboratorio, conectar tu cerebro a internet o cambiar el clima del mundo. Suena a película, pero es lo que la humanidad está haciendo hoy mismo.
+
+¿El hecho de que "podamos" hacer algo significa que "debamos" hacerlo? ¿Quién es el responsable si una Inteligencia Artificial comete un error? ¿Es posible seguir progresando sin destruir el único planeta que tenemos? ¿Qué marca estás dejando tú en la Tierra con cada click y cada compra que haces?
+
+En este módulo, el reto es descubrir por qué la ética es el "Freno de Emergencia" que necesitamos para no chocar contra nuestro propio progreso. Vamos a entender la diferencia entre saber cosas (Ciencia) y hacer cosas (Tecnología), y cómo nuestras decisiones afectan a la "Nave Espacial Tierra". El objetivo es que te conviertas en un ciudadano consciente, capaz de usar la tecnología con responsabilidad y de cuidar la vida en todas sus formas.
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. El Motor del Cambio: Ciencia y Tecnología
-Para entender nuestro presente, primero debemos distinguir las herramientas que utilizamos. Por un lado, la **Ciencia** es el conjunto de conocimientos sistemáticos y verificables sobre la realidad, obtenidos mediante la observación y la experimentación(1). Su objetivo principal es comprender cómo funciona el universo. 
+### 1. La Metáfora: El Mapa y la Herramienta
+Para navegar el futuro, hay que distinguir dos cosas:
+- **Ciencia**: Es el **Mapa**. Son los conocimientos que obtenemos observando y experimentando para entender cómo funciona el universo(1). Su meta es el "saber".
+- **Tecnología**: Es la **Herramienta**. Es usar ese mapa para resolver problemas o inventar cosas (celulares, medicinas, robots)(2). Su meta es el "hacer" y transformar el mundo(3).
 
-Por otro lado, la **Tecnología** es la aplicación práctica de ese conocimiento científico para resolver problemas específicos o satisfacer necesidades humanas(2). En consecuencia, mientras la ciencia busca el "saber", la tecnología busca el "hacer" y transformar el entorno(3).
+### 2. El Freno de Emergencia: Responsabilidad y Bioética
+Tener mucho poder requiere mucha **Responsabilidad**(4). Hoy tenemos dilemas gigantes: vigilancia masiva, fake news o robots que deciden cosas(5). Aquí aparece la **Bioética**: la rama que pone límites para proteger la vida en avances como la clonación o la edición de genes humanos(6).
 
-### 2. El Límite Ético del Poder
-No obstante, el avance tecnológico no es neutral. El **valor ético** fundamental en la ciencia y la tecnología es la **Responsabilidad**(4); esto implica prever las consecuencias de nuestras invenciones antes de lanzarlas al mundo. 
+### 3. ¿Dueños o Invitados? (Nuestra visión del planeta)
+Hay dos formas de ver la naturaleza(7):
+- **Antropocentrismo**: Creer que el humano es el dueño de todo y el planeta está a su servicio.
+- **Biocentrismo**: Entender que toda forma de vida es valiosa y nosotros somos parte del equipo Tierra.
 
-En la actualidad, nos enfrentamos a graves **problemas éticos**, como la manipulación genética, la vigilancia masiva o el uso de la Inteligencia Artificial sin control(5). Aquí es donde entra la **Bioética**, una rama que estudia los problemas éticos surgidos de los avances en biología y medicina, como es el caso de la clonación o la edición de embriones humanos(6).
+Por la visión de "dueños", hoy sufrimos el **Calentamiento Global**(9). Para saber cuánto daño hacemos, medimos nuestra **Huella Ecológica**: cuántos recursos gastas tú para vivir(10).
 
-### 3. Nuestra Relación con la Naturaleza
-A lo largo de la historia, hemos visto el mundo desde dos perspectivas opuestas(7):
-- **Antropocentrismo**: Considera que el ser humano es el centro del universo y que la naturaleza está a su servicio incondicional.
-- **Biocentrismo**: Sostiene que todas las formas de vida tienen el mismo valor intrínseco y merecen respeto, poniendo a la vida en el centro.
-
-Debido a la visión antropocéntrica extrema, hoy enfrentamos el **Calentamiento Global**, causado principalmente por la emisión excesiva de gases de efecto invernadero derivados de la actividad industrial(9). Para medir nuestro impacto personal en este proceso, utilizamos el concepto de **Huella Ecológica**(10): la cantidad de recursos naturales que consumimos para mantener nuestro estilo de vida.
-
-### 4. El Camino a la Supervivencia
-Por consiguiente, la única vía para garantizar el futuro es el **Desarrollo Sustentable**(8). Este concepto propone un modelo de progreso que satisfaga nuestras necesidades actuales sin comprometer la capacidad de las futuras generaciones para satisfacer las suyas. Se trata de aprender a vivir en equilibrio, entendiendo que somos parte de un ecosistema frágil que debemos proteger.
+### 4. La Misión: Desarrollo Sustentable
+La única forma de sobrevivir es el **Desarrollo Sustentable**(8): progresar de forma que hoy estemos bien, pero sin dejar sin recursos a los niños que nazcan en 50 años. Es aprender a vivir en equilibrio.
 
 > [!IMPORTANT]
-> **Dato Clave**: La ética ambiental nos enseña que no somos dueños del planeta, sino sus cuidadores. Cada decisión tecnológica debe pasar por el filtro de la justicia social y el respeto a la vida.
+> **Ética Ambiental**: No somos los dueños de la Tierra, somos sus cuidadores. Cada invento tecnológico debe ser evaluado no solo por si funciona, sino por si respeta la vida y la justicia.
 
 ## ✍️ Manos a la obra
 
-Analiza el impacto de la tecnología en tu entorno:
+Mira cómo los avances tecnológicos pueden ser geniales o peligrosos según cómo los usemos:
 
-| Avance Tecnológico | Beneficio Humano | Posible Problema Ético |
+| Tecnología | Lado Bueno (Beneficio) | Lado Oscuro (Dilema Ético) |
 | :--- | :--- | :--- |
-| **Redes Sociales.** | Comunicación instantánea global. | Invasión de la privacidad y noticias falsas(5). |
-| **Energía Nuclear.** | Gran cantidad de electricidad sin CO2. | Riesgo de accidentes y residuos tóxicos. |
-| **Inteligencia Artificial.** | Automatización de tareas complejas. | Pérdida de empleos y sesgos algorítmicos(5). |
-| **Edición Genética.** | Cura de enfermedades hereditarias. | Creación de seres "diseñados" (Bioética)(6). |
+| **Redes Sociales** | Estar conectados con todos. | Adicción, chismes y pérdida de privacidad(5). |
+| **Inteligencia Artificial** | Ayuda a resolver problemas rápidos. | Que los algoritmos tomen decisiones injustas(5). |
+| **Energía Nuclear** | Mucha energía sin humo. | Residuos peligrosos que duran miles de años. |
+| **Edición Genética** | Curar enfermedades raras. | "Diseñar" humanos al gusto de los padres (Bioética)(6). |
 
 ## 🌍 En tu mundo
-Tú aplicas el desarrollo sustentable cada vez que decides reducir tu consumo de plásticos, cuando prefieres caminar en lugar de usar el auto o cuando exiges que los productos que compras sean amigables con el ambiente(8). 
 
-En tu comunidad, esto se traduce en participar en proyectos de reciclaje o en proteger las áreas verdes. Recuerda que tu "huella ecológica" es la marca que dejas en la Tierra; depende de ti que esa marca sea una de cuidado y respeto, asegurando que los que vengan después también puedan disfrutar de la belleza de nuestro mundo(10).
+Tú practicas la ética ambiental cada vez que decides no comprar algo que no necesitas, cuando reciclas o cuando apagas las luces que no usas(8). En el mundo digital, eres responsable cuando no compartes noticias falsas y cuando tratas a los demás con respeto en los juegos en línea. Tu "huella" no es solo física, también es digital. Depende de ti que el futuro sea un lugar donde valga la pena vivir.
+
+## 🏁 Pausa para pensar
+
+1. Si pudieras prohibir un invento tecnológico para salvar el planeta, ¿cuál sería?
+2. ¿Te sientes más "dueño" (antropocentrista) o "invitado" (biocentrista) en la Tierra?
+3. ¿Qué avance tecnológico te da más esperanza para el futuro de la humanidad?
+4. ¿Crees que las empresas de tecnología deberían ser responsables de lo que la gente publica en sus redes?
+5. ¿Qué acción pequeña vas a hacer hoy para reducir tu huella ecológica?
+
+## 📚 Glosario Maestro
+
+- **Bioética**: Las reglas morales aplicadas a la vida y la salud.
+- **Huella Ecológica**: El rastro de basura y consumo que dejas en el planeta.
+- **Desarrollo Sustentable**: Avanzar sin destruir el futuro.
+- **Antropocentrismo**: La idea de que el hombre es lo único que importa.
+- **Ciencia vs. Tecnología**: Saber cómo funcionan las cosas vs. fabricar cosas con ese saber.
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Si todos los humanos viviéramos como vive alguien en una ciudad muy rica, ¡necesitaríamos 5 planetas Tierra para que nos alcanzaran los recursos!
+- **Dato curioso 2**: La primera vez que se usó la palabra "Bioética" fue para advertir que la ciencia sin valores podía destruirnos a todos.
+- **Para ver**: Busca "Nuestra Huella Digital" en YouTube para entender que lo que haces en internet también gasta energía y recursos reales.
+- **Para explorar**: Entra a un sitio de "Calculadora de Huella Ecológica" y ve cuántos planetas necesitas para mantener tu ritmo de vida actual.
+- **Para conversar**: Pregúntale a alguien: "¿Es ético crear robots que parezcan y sientan como humanos?". ¡Prepárate para el debate!
 
 ## 🏆 Reto Final
 
@@ -109,22 +129,6 @@ En tu comunidad, esto se traduce en participar en proyectos de reciclaje o en pr
     - B) Medida del impacto humano sobre la naturaleza (recursos que consumimos vs. lo que la Tierra puede regenerar).
     - C) Un tipo de bosque.
     - D) Un camino para caminar.
-
-## 🏁 Pausa para pensar
-1. ¿Cuál de los avances tecnológicos actuales te genera más miedo y cuál te da más esperanza?
-2. ¿Te consideras una persona más "antropocéntrica" o "biocéntrica"? ¿Por qué?
-3. ¿Qué pequeñas acciones diarias podrías cambiar hoy para reducir tu huella ecológica?
-
-## 📚 Glosario Maestro
-- **Bioética**: Ética aplicada a la vida y la salud.
-- **Sustentabilidad**: Equilibrio entre lo económico, social y ambiental.
-- **Gases de Efecto Invernadero**: Gases que atrapan el calor en la atmósfera.
-- **Biocentrismo**: Filosofía que valora toda forma de vida por igual.
-
-## 🌟 Zona de Descubrimiento
-- **Dato curioso**: Sabías que si todos los seres humanos viviéramos como un ciudadano promedio de Estados Unidos, necesitaríamos el equivalente a 5 planetas Tierra para sobrevivir. ¡Nuestra huella ecológica cuenta!
-- **Para ver**: Busca "Nuestro planeta" en plataformas de streaming para entender la urgencia de proteger la biodiversidad.
-- **Para explorar**: Calcula tu propia huella ecológica en sitios web especializados. ¡Te sorprenderá ver cuántos planetas necesitas para tu estilo de vida actual!
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B

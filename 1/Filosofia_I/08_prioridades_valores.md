@@ -1,45 +1,69 @@
-# Módulo 08: Mi edificio de valores (Jerarquías y prioridades)
-
-![Jerarquía de Valores](../../assets/1/Filosofia_I/08_FI_concepts_values_hierarchy.png)
-
 ## 🎯 El Reto
-Imagina que tu vida es un edificio en construcción. Cada piso representa algo que te importa: tus amigos, tu familia, tu carrera, el dinero o la honestidad. Ahora, piensa con cuidado: ¿qué pondrías en los cimientos para que el edificio no se caiga ante un terremoto y qué pondrías en el penthouse para disfrutar de la vista? 
 
-El gran desafío de la vida no es solo tener valores, sino saber organizarlos. En este módulo, aprenderemos a construir nuestra propia **Jerarquía de Valores** para que, cuando la vida se ponga difícil, sepas exactamente qué proteger primero.
+Imagina que tu vida es un rascacielos que tú mismo estás construyendo. Cada piso representa algo que te importa: tus amigos, tu familia, tus hobbies, el dinero o la honestidad. Ahora, piensa con cuidado: ¿qué pondrías en los cimientos para que el edificio no se caiga cuando llegue un terremoto? ¿Y qué pondrías en el penthouse para disfrutar de la vista?
+
+¿Por qué a veces elegimos cosas que nos divierten un momento pero nos hacen sentir mal después? ¿Qué vale más: una amistad de años o un like en una foto? ¿Es posible tenerlo todo o a veces hay que elegir qué va primero?
+
+En este módulo, el reto es diseñar tu propio "Edificio de Valores". Vamos a aprender a organizar tus prioridades para que, cuando la vida se ponga difícil, sepas exactamente qué proteger primero. No se trata solo de tener valores, sino de saber cuáles son tus "vigas maestras". ¡Es hora de convertirte en el ingeniero de tu propio carácter!
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. El Orden de la Importancia (Jerarquía)
-No todos los valores valen lo mismo en todas las circunstancias. La **Jerarquía de Valores** es el orden de importancia o preferencia que les otorgamos según su calidad y profundidad(1). 
-
-Por consiguiente, un **valor superior** se distingue de uno inferior porque es más duradero en el tiempo, es indivisible (no se puede repartir como el dinero) y sirve de base o fundamento para que otros valores existan(5). Por ejemplo, la salud suele estar por encima de la diversión en una jerarquía bien estructurada, ya que sin salud no podrías disfrutar de nada más.
+### 1. La Metáfora: El Orden de los Pisos (Jerarquía)
+No todos los valores valen lo mismo. La **Jerarquía de Valores** es el orden de importancia que les das según su calidad y cuánto duran(1). 
+- Un **Valor Superior** es como un cimiento: es duradero, no se puede "repartir" como el dinero y sirve de base para los demás(5).
+- Por ejemplo, la salud suele estar arriba de la diversión, porque sin salud no hay diversión que valga.
 
 ### 2. El Mapa de los Opuestos (Bipolaridad)
-Una característica fascinante de los valores es su **Bipolaridad**(2). Esto significa que cada valor tiene siempre un polo positivo y un polo negativo (u opuesto). Si existe la justicia, necesariamente existe la injusticia; si valoramos la belleza, identificamos la fealdad. Aprender a valorar implica elegir conscientemente el polo que nos humaniza y rechazar aquel que nos degrada o nos hace daño.
+Los valores tienen **Bipolaridad**(2). Esto significa que siempre tienen un "villano" u opuesto:
+- Justicia vs. Injusticia.
+- Belleza vs. Fealdad.
+- Honestidad vs. Mentira.
+Valorar es tener la valentía de elegir siempre el polo que te hace ser mejor humano.
 
-### 3. ¿Cómo decidir qué va primero?
-Para construir tu jerarquía de manera correcta, necesitas una brújula. El principio fundamental que debe orientar siempre tu toma de decisiones es buscar el **bienestar de todos los seres humanos** y el respeto absoluto a la dignidad propia y ajena(3). 
-
-En consecuencia, una jerarquía sana no se copia de internet, sino que se construye a través de la **reflexión personal, la experiencia vivida y el compromiso** constante con el bien humano(6). No obstante, cuando perdemos esta brújula y comenzamos a confundir los valores inferiores (como el placer momentáneo o el dinero) con los superiores (como la integridad), caemos en lo que llamamos una **Crisis de Valores**(4).
+### 3. ¿Cómo decidir el orden?
+Tu brújula para construir el edificio debe ser siempre el **bienestar de todos** y el respeto a la **Dignidad Humanas**(3). Una jerarquía sana nace de tu propia **reflexión y experiencia**, no de copiar lo que otros hacen(6). Cuando confundimos lo importante (como la integridad) con lo pasajero (como el dinero), caemos en una **Crisis de Valores**(4).
 
 > [!TIP]
-> **Dato Clave**: Tu jerarquía de valores es como tu huella digital ética: es única y define quién eres realmente cuando nadie te está viendo.
+> **Tu Huella Digital Ética**: Tu jerarquía de valores es única. Nadie tiene el mismo edificio que tú, y eso es lo que te hace especial y auténtico.
 
 ## ✍️ Manos a la obra
 
-Organiza estos valores de lo más importante (1) a lo menos importante (4) para ti hoy:
+Diseña tu rascacielos. Organiza estos valores del 1 (cimiento/más importante) al 4 (penthouse/importante pero no vital):
 
-| Valor | Nivel de importancia | ¿Por qué es prioritario para ti? |
+| Valor | Nivel (1 al 4) | ¿Por qué es tu prioridad? |
 | :--- | :--- | :--- |
-| **Salud física y mental.** | | |
-| **Amistad y Lealtad.** | | |
-| **Éxito académico / Profesional.** | | |
-| **Honestidad e Integridad.** | | |
+| **Salud (Física y Mental)** | | |
+| **Amistad / Lealtad** | | |
+| **Éxito / Dinero** | | |
+| **Honestidad / Verdad** | | |
 
 ## 🌍 En tu mundo
-Tú aplicas la jerarquía de valores cada vez que decides decir la verdad aunque eso signifique una mala nota, o cuando decides ayudar a un amigo en lugar de ver una serie de televisión. En esos momentos, estás poniendo la **Honestidad** o la **Lealtad** por encima del placer inmediato o el éxito fácil(1). 
 
-En tu comunidad, esto se traduce en elegir líderes que valoren el bien común por encima de su propio beneficio económico. Tu "edificio de valores" es lo que te mantiene firme y con la cabeza en alto ante las presiones de grupo o las tormentas de la vida.
+Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te vas a meter en un problema, o cuando dejas de jugar para ayudar a alguien que lo necesita. En esos momentos, estás poniendo la **Honestidad** o la **Solidaridad** por encima de tu comodidad. Tu edificio es lo que te mantiene de pie cuando todos los demás parecen estar cayendo en las "modas" o presiones del grupo.
+
+## 🏁 Pausa para pensar
+
+1. Si tu edificio solo pudiera tener 3 pisos, ¿cuáles serían los valores que JAMÁS quitarías?
+2. ¿Qué valor crees que es el que más "se derrumba" en las redes sociales hoy en día?
+3. ¿Cuál es el "polo opuesto" (antivalor) que más te molesta de las personas?
+4. ¿Crees que tu jerarquía de valores será la misma cuando tengas 40 años?
+5. ¿Qué valor pondrías en la "puerta de entrada" de tu vida para que todos lo vieran al conocerte?
+
+## 📚 Glosario Maestro
+
+- **Jerarquía**: El ranking de lo que más te importa en la vida.
+- **Bipolaridad**: La idea de que cada valor tiene su "gemelo malvado" (opuesto).
+- **Crisis de Valores**: Cuando tu edificio se tambalea porque pusiste cosas pasajeras como cimientos.
+- **Dignidad**: El valor base de cualquier ser humano que nunca debe ser pisoteado.
+- **Reflexión**: El tiempo que te tomas para pensar si estás eligiendo bien.
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Max Scheler, un filósofo famoso, decía que los valores "superiores" son los que no se gastan cuando se comparten. Por ejemplo, si compartes tu alegría, ¡hay más alegría! Si compartes tu dinero, tienes menos.
+- **Dato curioso 2**: Se ha descubierto que las personas que tienen sus valores claros sufren menos estrés cuando tienen que tomar decisiones difíciles.
+- **Para ver**: Busca "Cortometrajes sobre valores" en YouTube. Fíjate cuál es el valor que el protagonista pone por encima de todo al final.
+- **Para explorar**: Intenta pasar todo un día defendiendo tu valor #1 (ej. la honestidad) pase lo que pase. ¡Verás que es un gran reto!
+- **Para conversar**: Pregúntale a un profesor o a tus papás: "¿Cuál es el valor que consideran el cimiento de su vida?". Te sorprenderá lo que puedes aprender de ellos.
 
 ## 🏆 Reto Final
 
@@ -78,22 +102,6 @@ En tu comunidad, esto se traduce en elegir líderes que valoren el bien común p
    - B) A través de la reflexión, la experiencia y el compromiso con el bien humano.
    - C) Siguiendo los impulsos.
    - D) No se construye, se nace con ella.
-
-## 🏁 Pausa para pensar
-1. Si tu edificio de valores tuviera solo 3 pisos, ¿cuáles serían los cimientos?
-2. ¿Qué valor crees que es el más "bipolar" (que tiene el opuesto más fuerte)?
-3. ¿Por qué crees que a veces es difícil mantener nuestra jerarquía de valores ante la presión de los amigos?
-
-## 📚 Glosario Maestro
-- **Jerarquía**: Orden de niveles de importancia.
-- **Bipolaridad**: Existencia necesaria de opuestos.
-- **Preferencia**: Acto libre de elegir un valor sobre otro.
-- **Valor Superior**: Valor con mayor peso ético y durabilidad.
-
-## 🌟 Zona de Descubrimiento
-- **Dato curioso**: El filósofo Max Scheler propuso una jerarquía que iba desde los valores de "lo agradable" (comida, comodidad) hasta los valores "espirituales" (justicia, verdad) y "religiosos".
-- **Para ver**: Busca "Jerarquía de valores" en YouTube para ver diferentes ejemplos de cómo organizar tus prioridades personales.
-- **Para explorar**: Trata de identificar cuál es el valor que está en la base de todas tus decisiones importantes durante esta semana.
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. A | 5. B | 6. B

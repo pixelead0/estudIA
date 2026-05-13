@@ -1,53 +1,71 @@
-# Módulo 11: Mi casa y mi orgullo (Identidad Nacional e IPN)
-
-![Identidad Nacional](../../assets/1/Filosofia_I/11_FI_concepts_national_identity.png)
-
 ## 🎯 El Reto
-¿Qué sientes en el pecho cuando escuchas las primeras notas del Himno Nacional o cuando ves el escudo de tu escuela brillando en tu uniforme? Esa emoción profunda tiene un nombre: **Identidad Nacional**. 
 
-En este módulo, vamos a descubrir qué es lo que nos une como mexicanos y qué significa realmente ser parte de la gran familia del **Instituto Politécnico Nacional (IPN)**. Prepárate para comprender que pertenecer a algo grande no es solo un privilegio, sino también una noble responsabilidad.
+¿Qué sientes en el pecho cuando escuchas las primeras notas del Himno Nacional o cuando ves el escudo de tu escuela brillando en tu uniforme? Esa emoción profunda que te hace sentir parte de algo más grande que tú mismo se llama **Identidad**.
+
+¿Qué nos hace ser "mexicanos" más allá de haber nacido aquí? ¿Por qué es importante tener un gobierno y leyes que nos organicen? ¿Qué significa realmente el lema "La Técnica al Servicio de la Patria" ahora que eres un estudiante del Politécnico?
+
+En este módulo, el reto es descubrir las raíces de tu orgullo. Vamos a explorar nuestra "Casa Común" (México) y la "Tribu de la Ciencia" a la que ahora perteneces (el IPN). Prepárate para entender que ser parte de estas instituciones no es solo un regalo, sino una noble responsabilidad para construir un futuro mejor para todos. ¡Ponte la camiseta y descubre tu identidad!
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. El Orgullo de nuestras Raíces (Identidad Nacional)
-La **Identidad Nacional** se define como el conjunto de valores, símbolos, historia compartida y tradiciones que nos otorgan un fuerte sentido de pertenencia a una nación y cultura propia(1). Como bien dice el dicho popular: "quien no ama a su tierra, no ama a su madre"(6). 
+### 1. La Metáfora: Las Raíces de tu Casa (Identidad Nacional)
+La **Identidad Nacional** es el conjunto de historias, valores y símbolos que nos hacen sentir que México es nuestro hogar(1). No es solo fútbol o comida; es el respeto a nuestra Bandera, Escudo e Himno Nacional(3). Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6).
 
-Esta identidad se nutre del respeto a nuestros **Símbolos Patrios**, los cuales son la Bandera Nacional, el Escudo y el Himno Nacional(3). Ellos representan nuestra libertad y nuestra unidad frente al mundo.
+### 2. Las Reglas de la Casa (El Estado)
+Para que 130 millones de personas vivamos en paz, formamos un **Estado**, que tiene tres piezas clave(2):
+1. **Población**: Todos nosotros.
+2. **Territorio**: Nuestra tierra, mares y cielos.
+3. **Gobierno (Soberanía)**: Nuestra capacidad de decidir cómo vivir sin que otros países nos manden.
 
-### 2. El Equipo que nos organiza (El Estado)
-Para poder vivir juntos en armonía, los mexicanos formamos una estructura política llamada **Estado**. Este posee tres elementos indispensables para funcionar(2):
-1.  **Población**: Integrada por todos nosotros, los ciudadanos.
-2.  **Territorio**: El espacio físico de tierra, mar y aire que habitamos.
-3.  **Gobierno / Soberanía**: El poder colectivo para decidir nuestro propio destino sin intervenciones externas.
+Nuestro gobierno se divide en tres poderes: **Ejecutivo**, **Legislativo** (quienes hacen las leyes) y **Judicial**(4).
 
-Nuestro gobierno se organiza a través de tres **Poderes Políticos**: el **Ejecutivo**, el **Legislativo** y el **Judicial**(4). Específicamente, el Poder Legislativo se integra por el Congreso de la Unión, conformado por la Cámara de Diputados y la Cámara de Senadores(5).
+### 3. Tu Nueva Familia: El Orgullo Politécnico
+Al entrar al **IPN**, te unes a una historia de excelencia(7). Tus nuevos colores son el guinda y el blanco, y tu misión es usar lo que aprendes para ayudar a México. Para eso tenemos un **Código de Ética** basado en la honestidad, el respeto y la justicia social(8).
 
-### 3. El Orgullo Guinda y Blanco (Identidad IPN)
-Como estudiante del **IPN**, ahora formas parte de una institución con una identidad única y trascendente(7). Sus pilares son su lema: "La Técnica al Servicio de la Patria", sus emblemáticos colores guinda y blanco, y un profundo compromiso social. 
-
-Para orientar nuestra conducta, contamos con el **Código de Ética del IPN**, el cual se basa en principios fundamentales como la honestidad, la responsabilidad, el respeto, la justicia social y la integridad(8).
-
-### 4. Valores para la Vida Ciudadana
-Los valores de la identidad nacional no son piezas de museo, sino **Valores Aprendidos**(10). Estos son principios que adquirimos de nuestra cultura y familia, y que nos permiten orientar nuestro comportamiento cada día para ser mejores ciudadanos. 
-
-Sin embargo, es vital recordar la diferencia: mientras que los valores de Identidad Nacional nos vinculan a una patria específica, la **Dignidad Humana** es universal y compartida por todas las personas del mundo por igual(9).
+### 4. Valores que se siembran
+Estos son **Valores Aprendidos**(10): principios que recibes de tu familia y cultura para ser un buen ciudadano. Recuerda: tu identidad nacional te hace mexicano, pero tu **Dignidad Humana** te hace igual a cualquier persona del planeta(9).
 
 > [!IMPORTANT]
-> **Reflexión**: Ser parte del Politécnico significa poner tu inteligencia y tu esfuerzo al servicio del progreso de México. ¡Tú eres la técnica que transforma a la patria!
+> **El Lema**: "La Técnica al Servicio de la Patria". Significa que todo lo que estudies (computación, física, química) debe servir para que México sea un lugar más justo y avanzado. ¡Tú eres el futuro del país!
 
 ## ✍️ Manos a la obra
 
-Identifica y valora los símbolos que nos dan identidad:
+Identifica los símbolos que forman tu identidad hoy:
 
-| Elemento de Identidad | ¿Qué representa para ti? | ¿Cómo lo proteges? |
+| Símbolo | ¿Qué significa para ti? | ¿Cómo lo respetas? |
 | :--- | :--- | :--- |
-| **La Bandera Nacional.** | Unidad e historia de México. | Respetándola en las ceremonias civiles. |
-| **El Escudo del IPN.** | Ciencia y técnica con propósito. | Estudiando con dedicación y honestidad. |
-| **El Territorio Nacional.** | Nuestro hogar y recursos. | Cuidando el medio ambiente de mi colonia. |
-| **El Lema del IPN.** | Nuestra vocación de servicio. | Ayudando a otros con lo que aprendo en clase. |
+| **Bandera de México** | Nuestra historia y libertad. | Saludándola con respeto y cuidando sus valores. |
+| **Escudo del IPN** | Mi escuela y mi esfuerzo. | Estudiando de verdad y no haciendo trampa. |
+| **Territorio (Tu colonia)** | Mi hogar real. | No tirando basura y cuidando los parques. |
+| **Código de Ética** | Mi mapa para ser buena persona. | Siendo honesto con mis maestros y amigos. |
 
 ## 🌍 En tu mundo
-Tú vives la identidad nacional cada vez que respetas una ley de convivencia, cuando cuidas un monumento histórico o cuando apoyas el talento de otros mexicanos(1). En el IPN, vives tu identidad cada vez que realizas tus prácticas de taller o laboratorio con excelencia y usas tus conocimientos para resolver un problema de tu comunidad(7). No eres solo un estudiante más; eres parte de la fuerza intelectual que construye el futuro de México desde el aula y con el corazón guinda y blanco.
+
+Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, cuando ayudas a un vecino o cuando te sientes orgulloso de un logro científico mexicano(1). En el IPN, eres un "burro blanco" de corazón cuando usas tus proyectos escolares para resolver un problema de tu comunidad o cuando defiendes el prestigio de tu escuela con tus buenas acciones. No eres solo un alumno, eres parte del motor que mueve a México(7).
+
+## 🏁 Pausa para pensar
+
+1. ¿Qué es lo que más te hace decir "¡Qué orgullo ser mexicano!"?
+2. Si tuvieras que explicarle a un extranjero qué significa el IPN, ¿qué le dirías?
+3. ¿Cómo crees que el "respeto" ayuda a que el Estado funcione mejor?
+4. ¿Cuál de los tres poderes de gobierno crees que es el más difícil de ejercer?
+5. ¿Qué acción pequeña vas a hacer esta semana para poner "la técnica al servicio de tu patria"?
+
+## 📚 Glosario Maestro
+
+- **Soberanía**: El poder de un pueblo para decidir su propio destino.
+- **Estado**: La forma en que nos organizamos en un territorio con leyes.
+- **Lema**: Una frase que resume el sueño o la misión de una institución.
+- **Identidad**: Sentirte parte de un grupo y compartir sus valores.
+- **Poder Legislativo**: El grupo de personas (Diputados y Senadores) que crean nuestras leyes.
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: ¿Sabías que el lema "La Técnica al Servicio de la Patria" lo inventó un estudiante como tú en 1937? ¡Él quería recordar que el conocimiento es para ayudar!
+- **Dato curioso 2**: Los colores guinda y blanco del IPN fueron propuestos por el equipo de fútbol americano. El guinda por la sangre y el blanco por la pureza de ideales.
+- **Para ver**: Busca "Himno del IPN" y presta atención a la letra; habla de volar alto y de ser constructores del futuro.
+- **Para explorar**: Investiga qué significa cada parte del escudo del IPN (el engrane, el rayo, el matraz). ¡Todo tiene un sentido científico!
+- **Para conversar**: Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
 
 ## 🏆 Reto Final
 
@@ -110,22 +128,6 @@ Tú vives la identidad nacional cada vez que respetas una ley de convivencia, cu
     - B) Principios que adquirimos de nuestra cultura y familia que nos permiten orientar nuestro comportamiento como ciudadanos.
     - C) Solo los que se enseñan en el kínder.
     - D) No existen esos valores.
-
-## 🏁 Pausa para pensar
-1. ¿Qué es aquello que más te hace sentir orgulloso de haber nacido en México?
-2. ¿Cómo podrías poner "la técnica al servicio de la patria" desde tus actividades actuales?
-3. ¿Cuál de los principios del código de ética del IPN consideras que es el más valioso para la convivencia escolar?
-
-## 📚 Glosario Maestro
-- **Soberanía**: El poder supremo que tiene un pueblo para autodeterminarse.
-- **Estado**: La organización política y jurídica de una sociedad establecida en un territorio.
-- **Identidad**: La conciencia de ser uno mismo y, al mismo tiempo, parte de un grupo social.
-- **Lema**: Frase corta que resume la misión o el ideal supremo de una institución.
-
-## 🌟 Zona de Descubrimiento
-- **Dato curioso**: Sabías que el lema del IPN fue elegido a través de un concurso realizado entre los mismos estudiantes en 1937. ¡Fue la idea de un alumno con la misma visión que tú!
-- **Para ver**: Busca "Historia y orgullo del IPN" en plataformas de video para conocer el origen y la importancia de nuestra gran casa de estudios.
-- **Para explorar**: Investiga el significado profundo de cada elemento que compone el escudo del IPN. ¡Descubrirás que cada engrane y cada rayo tiene una razón de ser!
 
 ## 🔑 Respuestas Correctas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B
