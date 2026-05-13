@@ -14,12 +14,13 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 - **PERMITIDO**: Tono de "Mentor Amigo", analogías de la vida diaria variadas, segunda persona ("Tú").
 - **OBLIGATORIO**: Explicar siempre *por qué* importa el tema (el sentido y la utilidad práctica). Conectar los conceptos abstractos directamente con la toma de decisiones cotidianas del adolescente mediante el uso de **metáforas originales y diversas**; NO repetir las mismas analogías entre módulos.
 - **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto. Usa comparaciones actuales pero **asegúrate de variar los contextos** (deportes, arte, ciencia, convivencia, etc.) para mantener siempre la frescura y evitar la repetitividad.
-- **FRASES CÉLEBRES**: Integrar frases famosas de los personajes o expertos relacionados con el tema. Estas frases deben resaltar o resumir la idea central y ser visualmente atractivas (por ejemplo, usando citas `>`).
+- **FRASES CÉLEBRES (OBLIGATORIO)**: Integrar una **alta densidad de citas** (mínimo 4-6 frases por módulo) de filósofos, científicos o figuras históricas relevantes. Estas deben actuar como "puntos de anclaje" visuales y conceptuales usando el formato de cita `>`.
 
 ## 3. Estructura Obligatoria (Versión 2.0)
 Cada módulo debe estar contenido en un archivo Markdown.
 
 **Nomenclatura**:
+- Guía General del Curso: `00_resumen_temario.md` (Obligatorio para cada materia).
 - Módulo Simple: `XX_[nombre].md`
 - Sub-módulos (para temas densos): `XX.YY_[nombre].md` (ej. `03.01_doctrinas_griegas.md`)
 
@@ -30,11 +31,11 @@ Cada módulo debe estar contenido en un archivo Markdown.
     - **Conexión de Valor**: Presentar el tema como una "caja de herramientas", "manual" o "mapa" para navegar situaciones similares en la vida real.
 2.  **💡 ¿Cómo funciona esto?**: Explicación clara y profunda del núcleo del tema. Debe incluir:
     - **Analogía Universal**: Uso de una comparación con procesos conocidos (deportes, tecnología, naturaleza, vida cotidiana) para simplificar conceptos complejos.
-    - **Cita Maestra**: Integrar una frase célebre del autor o personaje central del módulo que capture la esencia del tema.
+    - **Citas Maestras (Múltiples)**: Integrar diversas frases célebres a lo largo del texto que capturen la esencia de los subtemas tratados.
     - **Desglose de Conceptos**: Explicar los términos técnicos o abstractos de forma amigable y directa.
     - **Etiquetas de Referencia**: Uso obligatorio de `(N)` para conectar los párrafos con las preguntas del Reto Final.
 3.  **✍️ Manos a la obra**: Actividad práctica para aplicar lo aprendido de forma inmediata.
-    - **Ejercicio Guiado**: Relacionar casos o ejemplos reales con los conceptos teóricos del módulo.
+    - **Ejercicio Guiado**: Relacionar casos o ejemplos reales con los conceptos teóricos. Se requiere una **alta densidad de ejemplos** (mínimo 6-8 filas por tabla o ítems por ejercicio) para cubrir diversos escenarios de la vida del estudiante.
     - **Estructuración de Ideas**: Uso de tablas, listas o diagramas para organizar el pensamiento y las justificaciones.
 4.  **🌍 En tu mundo**: Sección dedicada a la aplicación del conocimiento en el entorno cercano del adolescente.
     - **Contexto Práctico**: Ejemplos de aplicación en la escuela, la familia, la comunidad o el entorno digital.
