@@ -8,28 +8,46 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 - **Inclusión**: No asumas que son expertos en videojuegos o tecnología avanzada. El contenido debe ser accesible para todos.
 
 ## 2. Reglas de Oro del Lenguaje
-- **PROHIBIDO**: 
+- **PROHIBIDO**:
   - Nombres institucionales (IPN, CECyT, etc.) y jerga pedagógica (RAP, Competencia).
   - Jerga técnica excesiva o "gamer" (Boss Fight, Loot, Spawn, Glitch) que pueda confundir a quienes no juegan.
-- **PERMITIDO**: Tono de "Mentor Amigo", analogías de vida diaria (la cocina, el transporte, el deporte, el mercado, la escuela), segunda persona ("Tú").
-- **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto.
+- **PERMITIDO**: Tono de "Mentor Amigo", analogías de la vida diaria variadas, segunda persona ("Tú").
+- **OBLIGATORIO**: Explicar siempre *por qué* importa el tema (el sentido y la utilidad práctica). Conectar los conceptos abstractos directamente con la toma de decisiones cotidianas del adolescente mediante el uso de **metáforas originales y diversas**; NO repetir las mismas analogías entre módulos.
+- **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto. Usa comparaciones actuales pero **asegúrate de variar los contextos** (deportes, arte, ciencia, convivencia, etc.) para mantener siempre la frescura y evitar la repetitividad.
 
 ## 3. Estructura Obligatoria (Versión 2.0)
-Cada módulo debe estar contenido en un archivo Markdown. 
+Cada módulo debe estar contenido en un archivo Markdown.
 
 **Nomenclatura**:
 - Módulo Simple: `XX_[nombre].md`
 - Sub-módulos (para temas densos): `XX.YY_[nombre].md` (ej. `03.01_doctrinas_griegas.md`)
 
 **Secciones Obligatorias (en orden)**:
-1.  **🎯 El Reto**: Gancho inicial basado en un dilema o situación cotidiana.
-2.  **💡 ¿Cómo funciona esto?**: Explicación lógica con analogías claras.
-3.  **✍️ Manos a la obra**: Actividad práctica o ejercicio guiado.
-4.  **🌍 En tu mundo**: Aplicación del concepto a la comunidad o vida social.
-5.  **🏆 Reto Final**: Cuestionario de opción múltiple (mínimo 6 preguntas). **IMPORTANTE**: Las preguntas deben ser VERBATIM (exactas) de la guía original en cuanto a fondo y contenido. Sin embargo, es OBLIGATORIO corregir errores de ortografía, acentuación y puntuación (especialmente los signos de apertura ¿ y ¡) para mantener el estándar de calidad premium.
-6.  **🏁 Pausa para pensar**: Preguntas de reflexión profunda.
-7.  **📚 Glosario Maestro**: Definiciones sencillas de términos clave.
-8.  **🌟 Zona de Descubrimiento**: Recomendaciones (ver, explorar) y dato curioso.
+1.  **🎯 El Reto**: Gancho inicial que debe plantear un **desafío, encrucijada o problema práctico** que el estudiante pueda reconocer en su realidad. Debe incluir:
+    - **Situación Detonadora**: Un escenario real o hipotético donde se aplique el conocimiento del módulo.
+    - **Preguntas Críticas**: Cuestionamientos que despierten la curiosidad y la necesidad de encontrar una solución o respuesta.
+    - **Conexión de Valor**: Presentar el tema como una "caja de herramientas", "manual" o "mapa" para navegar situaciones similares en la vida real.
+2.  **💡 ¿Cómo funciona esto?**: Explicación clara y profunda del núcleo del tema. Debe incluir:
+    - **Analogía Universal**: Uso de una comparación con procesos conocidos (deportes, tecnología, naturaleza, vida cotidiana) para simplificar conceptos complejos.
+    - **Desglose de Conceptos**: Explicar los términos técnicos o abstractos de forma amigable y directa.
+    - **Etiquetas de Referencia**: Uso obligatorio de `(N)` para conectar los párrafos con las preguntas del Reto Final.
+3.  **✍️ Manos a la obra**: Actividad práctica para aplicar lo aprendido de forma inmediata.
+    - **Ejercicio Guiado**: Relacionar casos o ejemplos reales con los conceptos teóricos del módulo.
+    - **Estructuración de Ideas**: Uso de tablas, listas o diagramas para organizar el pensamiento y las justificaciones.
+4.  **🌍 En tu mundo**: Sección dedicada a la aplicación del conocimiento en el entorno cercano del adolescente.
+    - **Contexto Práctico**: Ejemplos de aplicación en la escuela, la familia, la comunidad o el entorno digital.
+    - **Impacto y Acción**: Reflexión sobre cómo este conocimiento cambia la forma en que el alumno interactúa con su entorno.
+5.  **🏁 Pausa para pensar**: Momento de reflexión personal y conexión con el estudiante.
+    - **Interiorización**: Preguntas que inviten al alumno a relacionar el tema con su propia identidad, valores o planes futuros.
+    - **Proyección**: Escenarios sobre cómo aplicar lo aprendido en situaciones futuras o retos globales.
+6.  **📚 Glosario Maestro**: Definiciones precisas pero accesibles.
+    - **Claridad Total**: Explicar los términos esenciales sin lenguaje innecesariamente complejo.
+7.  **🌟 Zona de Descubrimiento**: Recursos adicionales para profundizar de forma entretenida:
+    - **Dato curioso 1** y **Dato curioso 2**: Hechos poco conocidos o sorprendentes sobre el tema o sus aplicaciones.
+    - **Para ver**: Recomendaciones multimedia (videos cortos, documentales, contenido visual educativo).
+    - **Para explorar**: Enlaces a herramientas, experimentos, noticias o casos de estudio relacionados.
+    - **Para conversar**: Un punto de partida sugerido para debatir el tema con amigos, familiares o mentores.
+8.  **🏆 Reto Final**: Cuestionario de opción múltiple (mínimo 6 preguntas). **IMPORTANTE**: Las preguntas deben ser VERBATIM (exactas) de la guía original en cuanto a fondo y contenido. Sin embargo, es OBLIGATORIO corregir errores de ortografía, acentuación y puntuación (especialmente los signos de apertura ¿ y ¡) para mantener el estándar de calidad premium.
 9.  **🔑 Respuestas Correctas**: Clave de respuestas del Reto Final.
 
 ## 4. Sistema de Referencia de Autoaprendizaje
