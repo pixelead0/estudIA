@@ -1,99 +1,122 @@
-# Módulo 11: Dale vida a tus ideas con animaciones
-
 ![Animaciones y Transiciones](../../assets/1/Computacion_Basica_I/11_CBI_concepts_animations.png)
 
 ## 🎯 El Reto
-¿Has notado cómo en las películas de acción o en tus videojuegos favoritos nada aparece de golpe? Las cosas entran con estilo, se mueven para resaltar y luego desaparecen de forma suave y natural. Ese movimiento controlado es precisamente lo que mantiene nuestra atención despierta.
 
-En una presentación electrónica, las **Transiciones** y las **Animaciones** son los efectos que le dan ritmo y "vida" a tu exposición. Sin embargo, debes tener mucho cuidado: usar demasiados efectos o ruidos puede hacer que tu público se distraiga por completo del tema central. ¿Sabes identificar cuándo un movimiento ayuda a explicar una idea y cuándo solo se convierte en un estorbo visual?
+¿Has notado cómo en las películas de acción o en tus videojuegos favoritos nada aparece de golpe? Las cosas entran con estilo, se mueven para resaltar y luego desaparecen de forma suave. Ese movimiento controlado es precisamente lo que mantiene nuestra atención despierta.
+
+En una presentación, las **Transiciones** y las **Animaciones** son los efectos que le dan ritmo y "vida" a tu exposición. Pero ten mucho cuidado: usar demasiados efectos o ruidos puede distraer a tu público y hacer que olviden de qué estás hablando. 
+
+> "La simplicidad es la máxima sofisticación". — Leonardo da Vinci.
+
+¿Sabes identificar cuándo un movimiento ayuda a explicar una idea y cuándo solo es un estorbo visual? El reto de hoy es que te conviertas en un **Director de Efectos Especiales** y aprendas a usar el movimiento para guiar la mirada de tus compañeros sin marearlos.
 
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. Transiciones vs. Animaciones
-Para darle dinamismo a tus diapositivas, existen dos herramientas que a menudo se confunden, pero tienen funciones distintas:
-- **Transiciones (El Cambio de Escena)**: Es el efecto visual que ocurre únicamente cuando pasas de una diapositiva a la siguiente(1). Sirve para avisar al público que vamos a un tema nuevo. Un consejo profesional es usar la misma transición sencilla (como "Desvanecer") en todo el documento para mantener la elegancia y coherencia(5).
-- **Animaciones (El Movimiento Interno)**: Es el efecto que aplicas a un objeto individual (como un texto o una imagen) dentro de una misma diapositiva(1).
+Aunque se parecen, tienen trabajos distintos:
+- **Transiciones (El Cambio de Escena)**: Es el efecto visual que ocurre cuando pasas de una hoja a otra(1). Sirve para avisar al público que vamos a un tema nuevo. El secreto de un experto es usar la misma transición sencilla (como "Desvanecer") en todo el trabajo para que se vea elegante(5).
+- **Animaciones (El Movimiento Interno)**: Es el efecto que le pones a una foto o a un título dentro de la misma diapositiva(1).
 
-### 2. Los Tres Momentos de la Animación
-Existen tres tipos principales de animaciones según lo que quieras lograr:
-- **Entrada**: Define cómo aparece el objeto en la pantalla; ideal para mostrar puntos clave conforme vas hablando(3).
-- **Énfasis**: Sirve para hacer que un objeto resalte o llame la atención (girando o cambiando de color) mientras ya está visible en la diapositiva(4).
-- **Salida**: Determina cómo se va el objeto de la pantalla para dejar espacio a nueva información.
+### 2. Los Tres Momentos Mágicos
+Existen tres tipos principales de movimientos según lo que quieras lograr:
+- **Entrada**: Define cómo aparece un objeto en la pantalla. Es ideal para ir mostrando tus puntos clave poco a poco mientras hablas(3).
+- **Énfasis**: Sirve para hacer que algo que ya está en la pantalla se mueva o cambie de color para llamar la atención(4).
+- **Salida**: Determina cómo se va un objeto de la pantalla para dejar espacio a algo nuevo.
+
+> "El movimiento atrae la atención, y la quietud la mantiene". — Desconocido.
 
 ### 3. El Control del Tiempo
-Para que todo ocurra en el momento exacto, los programas cuentan con un **Panel de Animación**. Esta herramienta te permite ver el orden preciso en que ocurrirán todos los movimientos y ajustar su tiempo de duración para que coincidan con tu explicación oral(6).
+Para que todo pase en el momento exacto, los programas tienen un **Panel de Animación**. Esta herramienta te permite ver el orden de los movimientos y ajustar su velocidad para que coincidan con lo que vas diciendo(6).
+
+> "La tecnología por sí sola no basta. Es la tecnología casada con las artes lo que hace que nuestro corazón cante". — Steve Jobs.
+
+> "Un efecto especial es solo un efecto si no ayuda a contar la historia". — Desconocido.
 
 > [!CAUTION]
-> **Contaminación Auditiva**: Evita poner efectos de sonido (como aplausos o explosiones) en cada animación. Esto suele distraer totalmente al público y hace que pierdas la atención sobre el tema que realmente importa(2).
+> **No uses ruidos ruidosos**: Evita poner sonidos de aplausos o explosiones en cada movimiento. Eso distrae muchísimo al público y hace que tu presentación pierda seriedad(2). ¡Quédate con el silencio elegante!
 
 ## ✍️ Manos a la obra
 
-Elige el efecto correcto para guiar la atención de tu audiencia:
+Aprende a elegir el efecto correcto para que tu audiencia no se pierda ningún detalle:
 
-| Objetivo de la exposición | Herramienta recomendada | ¿Qué efecto causa? |
+| Tu objetivo en la exposición | ¿Qué herramienta usar? | ¿Qué efecto logras? |
 | :--- | :--- | :--- |
-| **Pasar de la introducción al desarrollo.** | Transición (Desvanecer). | Un cambio de tema elegante y fluido(5). |
-| **Que un dato importante brille.** | Animación de Énfasis. | Resalta el objeto sin que desaparezca(4). |
-| **Presentar una foto nueva.** | Animación de Entrada. | La imagen aparece suavemente en pantalla(3). |
-| **Organizar los tiempos de efectos.** | Panel de Animación. | Control total sobre el orden y la velocidad(6). |
+| **Pasar de un tema a otro.** | Transición (Desvanecer). | Un cambio de tema suave y profesional(5). |
+| **Que un dato importante resalte.** | Animación de Énfasis. | El objeto brilla o se mueve para que lo vean(4). |
+| **Mostrar una imagen nueva.** | Animación de Entrada. | La foto aparece poco a poco en la pantalla(3). |
+| **Ordenar tus efectos.** | Panel de Animación. | Controlas quién se mueve primero y a qué velocidad(6). |
+| **Limpiar la pantalla de ideas.** | Animación de Salida. | El texto desaparece para que entre lo nuevo. |
+| **Hacer que un título gire.** | Animación de Énfasis. | Una forma divertida de marcar un inicio(4). |
+| **Cambio de sección rápido.** | Transición (Empuje). | Da la sensación de que las páginas se deslizan. |
+| **Sincronizar con tu voz.** | Retraso o Duración. | Los efectos aparecen justo cuando tú lo dices. |
 
 ## 🌍 En tu mundo
-Observa los comerciales en la televisión o las presentaciones de productos tecnológicos. Utilizan animaciones sutiles para guiar tus ojos hacia lo que ellos quieren que veas: el precio, el nombre del producto o una característica especial. Tú puedes aplicar esta misma psicología para que tus profesores se fijen exactamente en la parte de tu tarea que requiere más atención. Recuerda que una buena animación debe ser casi "invisible"; si la gente nota más el efecto que la información, es que usaste demasiado(2).
+
+Fíjate en los comerciales de la tele. Usan movimientos sutiles para guiar tus ojos hacia el precio del producto o hacia el nombre de la marca. Tú puedes usar esa misma psicología para que tus maestros se fijen exactamente en la parte más importante de tu tarea. Recuerda que una buena animación debe ser casi "invisible": si la gente nota más el efecto que la información, es que usaste demasiado(2).
+
+> "Menos es más, especialmente cuando se trata de efectos visuales". — Desconocido.
+
+## 🏁 Pausa para pensar
+
+1. ¿Te ha pasado que un compañero pone tantos efectos que te mareas o dejas de poner atención a lo que dice?
+2. ¿Cuál es tu transición favorita y por qué crees que se ve mejor que las demás?
+3. ¿Por qué crees que en las presentaciones de gente muy importante casi nunca se oyen ruidos de "explosión" o "aplausos"?
+4. Si tuvieras que usar una sola animación para resaltar tu nombre, ¿cuál elegirías?
+
+## 📚 Glosario Maestro
+
+- **Transición**: Movimiento visual al cambiar de una diapositiva a otra(1).
+- **Animación**: Movimiento de elementos (texto, fotos) dentro de la misma hoja(1).
+- **Entrada**: Cómo aparece un objeto por primera vez en la pantalla(3).
+- **Énfasis**: Un movimiento para resaltar algo que ya está visible(4).
+- **Panel de Animación**: La ventana donde controlas el orden de todos los efectos(6).
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: El primer "GIF" animado se inventó en 1987 y era solo un pequeño avión moviéndose. ¡Hoy los usamos para todo!
+- **Dato curioso 2**: En las películas, los efectos especiales se llaman "FX". En tus presentaciones, las animaciones son tus propios efectos especiales.
+- **Para ver**: *Monsters Inc.* Fíjate en cómo se mueven los personajes; usan los mismos principios de entrada y énfasis para que se vean naturales.
+- **Para explorar**: Abre PowerPoint y busca la pestaña de "Transiciones". Intenta usar la llamada "Transformación" (Morph). ¡Es el efecto más moderno y suave que existe!
+- **Para conversar**: Pregúntale a un adulto: "¿Qué es lo que más te distrae cuando alguien hace una presentación con muchas animaciones?".
 
 ## 🏆 Reto Final
 
-1. ¿Cuál es la diferencia fundamental entre una Transición y una Animación en una presentación?
-   - A) No existe ninguna diferencia técnica; ambas palabras se refieren exactamente a lo mismo.
-   - B) La transición es el paso entre diapositivas; la animación es el movimiento de un objeto dentro de la diapositiva.
-   - C) La transición se utiliza únicamente para fotos y la animación es exclusiva para textos largos.
-   - D) Las transiciones son herramientas gratuitas y las animaciones se deben comprar por separado.
+1. ¿Cuál es la diferencia real entre una Transición y una Animación?
+   - A) No hay ninguna diferencia, se puede usar cualquier palabra para lo mismo.
+   - B) La transición es el paso entre hojas; la animación es el movimiento dentro de la hoja(1).
+   - C) La transición solo sirve para fotos y la animación es solo para letras.
+   - D) Las transiciones son gratis y las animaciones cuestan dinero bajarlas.
 
-2. ¿Cuál es el principal peligro de utilizar efectos de sonido (como disparos o campanas) en cada animación?
-   - A) Que la computadora se quede sin memoria de audio y deje de sonar por completo.
-   - B) Que distraigan totalmente al público y se pierda la atención sobre el tema principal de la exposición.
-   - C) Que el profesor se impresione tanto que te ponga una calificación mayor a la permitida.
-   - D) Realmente no existe ningún peligro; entre más sonidos y ruidos tenga la presentación, mejor será.
+2. ¿Cuál es el peligro de usar sonidos ruidosos (como campanas) en tus animaciones?
+   - A) Que la computadora se quede sin batería muy rápido por el ruido.
+   - B) Que distraigan al público y se pierda la atención sobre el tema importante(2).
+   - C) Que el profesor crea que la computadora se está descomponiendo.
+   - D) No hay peligro, de hecho, entre más ruidos pongas es mucho mejor.
 
-3. Si deseas que una fotografía aparezca de forma suave y elegante en la pantalla mientras estás hablando, ¿qué tipo de animación debes aplicar?
+3. Si quieres que una foto aparezca de forma suave en la pantalla mientras hablas, ¿qué usas?
    - A) Animación de Salida.
-   - B) Animación de Entrada.
+   - B) Animación de Entrada(3).
    - C) Animación de Énfasis.
-   - D) Aplicar una Transición de página.
+   - D) Una Transición de página muy rápida.
 
-4. En el diseño de diapositivas, ¿para qué sirve específicamente el efecto denominado "Énfasis"?
-   - A) Para borrar definitivamente un objeto de la pantalla de forma rápida.
-   - B) Para hacer que un objeto resalte o llame la atención visual mientras ya se encuentra visible.
-   - C) Para cambiar automáticamente de una diapositiva a la siguiente.
-   - D) Para insertar un video externo desde una plataforma como YouTube.
+4. ¿Para qué sirve el efecto de "Énfasis" en una diapositiva?
+   - A) Para borrar una palabra que ya no quieres que nadie vea.
+   - B) Para hacer que un objeto resalte o llame la atención mientras ya está visible(4).
+   - C) Para cambiar automáticamente a la hoja que sigue en la presentación.
+   - D) Para poner un video musical de fondo en toda la exposición.
 
-5. ¿Qué consejo darían los expertos para utilizar las transiciones de forma profesional y elegante?
-   - A) Utilizar una transición diferente y muy llamativa en cada diapositiva para que sea divertido.
-   - B) Usar la misma transición sencilla (como Desvanecer) en todo el documento para mantener la elegancia.
-   - C) No utilizar transiciones bajo ninguna circunstancia porque se ven informales.
-   - D) Configurar transiciones muy lentas que duren más de 10 segundos cada una.
+5. ¿Cuál es el mejor consejo para usar transiciones de forma profesional?
+   - A) Usar una transición diferente y muy loca en cada hoja para que no se aburran.
+   - B) Usar la misma transición sencilla (como Desvanecer) en todo el trabajo(5).
+   - C) No usar nunca ninguna transición porque eso quita mucho tiempo.
+   - D) Hacer que las transiciones duren mucho tiempo para que la gente descanse.
 
-6. ¿Cuál es la utilidad del "Panel de Animación" en el software de presentaciones?
-   - A) Sirve para realizar dibujos artísticos directamente sobre la diapositiva proyectada.
-   - B) Permite visualizar el orden en que ocurrirán los movimientos y ajustar su tiempo y velocidad.
-   - C) Se utiliza para cambiar el color de fondo de todas las hojas de forma simultánea.
-   - D) Es el botón principal que sirve para guardar el archivo final en el disco duro.
-
-## 🏁 Pausa para pensar
-1. ¿Cuál es el efecto de animación que te parece más molesto cuando eres parte del público en una exposición?
-2. ¿Cómo crees que el movimiento estratégico ayuda a que la audiencia no se distraiga o se duerma?
-3. ¿Por qué crees que en las presentaciones de empresas muy serias casi nunca se utilizan animaciones ruidosas o locas?
-
-## 📚 Glosario Maestro
-- **Transición**: Movimiento visual al cambiar de una "página" a otra(1).
-- **Animación**: Movimiento de elementos individuales (texto, fotos) dentro de una hoja.
-- **Entrada**: Cómo "nace" el objeto en la pantalla(3).
-- **Énfasis**: Movimiento para resaltar algo que ya está ahí(4).
-- **Panel**: Ventana de control para organizar todos los tiempos de la diapositiva(6).
-
-## 🌟 Zona de Descubrimiento
-- **Para ver**: *Monsters Inc.* (Disney/Pixar). Fíjate en cómo se mueven los personajes; se basan en los mismos principios de entrada y énfasis que tus diapositivas.
-- **Para explorar**: Busca "Los 12 principios de la animación" en YouTube para entender por qué algunos movimientos se ven naturales y otros no.
-- **Dato curioso**: El primer GIF animado (1987) era solo un pequeño avión moviéndose. ¡Hoy son el lenguaje visual de internet!
+6. ¿Para qué sirve el "Panel de Animación" de tu programa?
+   - A) Para dibujar flores y nubes directamente sobre las fotos que pusiste.
+   - B) Para ver el orden de los movimientos y ajustar su velocidad y tiempo(6).
+   - C) Para cambiar el color de todas las letras de la presentación al mismo tiempo.
+   - D) Para guardar el archivo final en una carpeta segura de tu computadora.
 
 ## 🔑 Respuestas Correctas
+
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B

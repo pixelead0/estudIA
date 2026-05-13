@@ -1,101 +1,120 @@
-# Módulo 03: Organiza tus archivos y carpetas sin perder nada
-
 ![Gestión de Archivos](../../assets/1/Computacion_Basica_I/03_CBI_concepts_file_management.png)
 
 ## 🎯 El Reto
+
 Imagina que tienes una colección de 500 fotos, 20 canciones y 30 documentos de la escuela, pero **todo está guardado en una sola carpeta llamada "Varios"**. Si mañana tu profesor te pide la tarea que entregaste hace dos meses, **¿cuánto tiempo tardarías en encontrarla?** 
 
-En el mundo digital, ser organizado es la diferencia entre terminar rápido y relajarte, o pasar horas buscando un archivo que "jurabas que estaba aquí". Organizar tu computadora es como organizar tu mochila: si sabes exactamente dónde está cada cosa, todo fluye mejor. En este módulo, aprenderás a dominar el arte de la organización digital para que nunca vuelvas a perder un trabajo importante.
+En el mundo digital, ser organizado es la diferencia entre terminar rápido y relajarte, o pasar horas buscando un archivo que "jurabas que estaba aquí". Organizar tu computadora es como organizar tu mochila escolar: si sabes exactamente dónde está cada cuaderno y cada pluma, todo fluye mejor.
+
+> "El orden es la clave de la libertad". — Desconocido.
+
+El reto de hoy es que aprendas a dominar el arte de la organización digital para que nunca vuelvas a perder un trabajo importante. Vamos a convertir tu "mochila digital" en un sistema perfecto donde encuentres todo en menos de 10 segundos.
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. La Dirección Digital (Estructura de Árbol)
-Para que nada se te pierda, el sistema operativo utiliza lo que llamamos una **Estructura de Árbol**. Imagina un árbol donde cada parte tiene un nivel diferente:
-- **Las Raíces (Unidades)**: Es el disco duro principal, normalmente identificado como Disco C:.
-- **El Tronco (Carpetas Principales)**: Son las carpetas base del sistema, como "Documentos", "Imágenes" o el "Escritorio".
-- **Las Ramas (Subcarpetas)**: Son simplemente carpetas que están guardadas dentro de otras carpetas para subdividir temas(6). Por ejemplo: `Documentos > Escuela > Informatica`.
-- **Las Hojas (Archivos)**: Son tus documentos reales, fotos o canciones.
+### 1. La Dirección Digital (El Árbol de Carpetas)
+Para que nada se te pierda, el sistema operativo utiliza una **Estructura de Árbol**. Imagina un árbol donde cada parte tiene un nivel diferente:
+- **Las Raíces (Unidades)**: Es el lugar principal donde vive todo, como el Disco Local (C:).
+- **El Tronco (Carpetas Principales)**: Son las carpetas base, como "Documentos" o "Imágenes".
+- **Las Ramas (Subcarpetas)**: Son carpetas guardadas dentro de otras carpetas para separar los temas (ejemplo: `Documentos > Escuela > Computación`)(6).
+- **Las Hojas (Archivos)**: Son tus trabajos, fotos o canciones reales.
 
-### 2. Identificando los Archivos
-Cada "hoja" o archivo tiene un nombre descriptivo y una **extensión** que le indica a la computadora qué tipo de información contiene. Por ejemplo, si encuentras un archivo que termina en **.pdf**, lo más probable es que se trate de un documento de lectura diseñado para verse igual en cualquier dispositivo(1). Para mantener el orden, el nombre de un archivo siempre debe ser descriptivo y claro(5), evitando nombres confusos como "final_v2.docx".
+### 2. El Nombre del Archivo
+Cada archivo tiene un nombre y una **extensión** que le dice a la computadora qué tipo de información tiene. Por ejemplo, si termina en **.pdf**, es un documento que se verá igual en cualquier dispositivo(1). Para mantener el orden, siempre debes usar nombres que describan el contenido(5). Evita nombres como "tarea_final_finalísima.docx".
 
-### 3. Herramientas de Mantenimiento
-El sistema te ofrece herramientas vitales para gestionar tu información:
-- **Papelera de Reciclaje**: Si arrastras un archivo aquí, no se borra para siempre de inmediato, sino que se mueve a un lugar temporal desde donde puedes recuperarlo si te arrepientes(2).
-- **Compresión (ZIP/RAR)**: Sirve para reducir el tamaño de uno o varios archivos, facilitando enormemente su envío a través de internet(4).
-- **Buscador (Lupa)**: Es la forma más inteligente y rápida de encontrar un archivo cuando no recuerdas exactamente en qué carpeta lo dejaste guardado(3).
+> "Una buena organización es como un mapa: te ahorra tiempo y esfuerzo". — Desconocido.
+
+### 3. Tus Herramientas de Limpieza
+El sistema te da tres herramientas vitales:
+- **Papelera de Reciclaje**: Si borras algo por error, se queda aquí un tiempo para que lo puedas recuperar(2).
+- **Compresión (Archivos ZIP)**: Sirve para "apretar" tus archivos y que pesen menos, facilitando mucho su envío por Internet(4).
+- **Buscador (Lupa)**: Es la forma más rápida de encontrar algo cuando olvidaste en qué carpeta lo guardaste(3).
+
+> "Organizar es lo que haces antes de hacer algo, para que cuando lo hagas, no sea un caos". — A.A. Milne.
 
 > [!TIP]
-> **Regla de Oro**: Una carpeta bien organizada es aquella que te permite encontrar cualquier archivo en menos de 10 segundos. Si tardas más, ¡necesitas una mejor estructura de subcarpetas!
+> **La Prueba del Tiempo**: Si tardas más de 10 segundos en encontrar un archivo, tu organización falló. Intenta crear subcarpetas por año y por materia para que tu búsqueda sea inmediata.
 
 ## ✍️ Manos a la obra
 
-Aplica acciones inteligentes para mantener tu "mochila digital" en orden:
+Aplica acciones inteligentes para mantener tu "mochila digital" en perfecto orden:
 
-| Situación problemática | Acción de mejora | Herramienta a utilizar |
+| Situación problemática | Acción de mejora | Herramienta del sistema |
 | :--- | :--- | :--- |
-| **Tienes tareas de 5 materias mezcladas.** | Crear carpetas temáticas para cada asignatura. | Nueva Carpeta. |
-| **Borraste un trabajo que ibas a entregar.** | Revisar el depósito temporal de archivos eliminados. | Papelera de Reciclaje. |
-| **Tu video pesa mucho para enviarlo por correo.** | Procesar el archivo para reducir su peso digital. | Archivo comprimido (.zip). |
-| **El archivo se llama "12345.docx" y no sabes qué es.** | Asignar un nombre que describa el contenido real. | Cambiar nombre (F2). |
+| **Tienes 10 tareas de diferentes materias mezcladas.** | Crear carpetas con el nombre de cada materia. | Nueva Carpeta. |
+| **Borraste una foto por error hace un minuto.** | Buscar en el depósito temporal de borrados. | Papelera de Reciclaje(2). |
+| **Tu archivo de video pesa mucho para enviarlo.** | "Apretar" el archivo para reducir su tamaño. | Comprimir en .ZIP(4). |
+| **El archivo se llama "AAAAA.docx" y no sabes qué es.** | Poner un nombre claro (ej. "Tarea_Historia"). | Cambiar nombre (F2)(5). |
+| **Buscas una tarea de enero pero no la ves.** | Escribir el nombre en el cuadro de búsqueda. | Buscador / Lupa(3). |
+| **Quieres separar tus fotos por meses.** | Crear carpetas como "Enero", "Febrero", etc. | Nueva Carpeta(6). |
+| **Te pasaron un documento que no puedes editar.** | Abrirlo con un visor de documentos universales. | Archivo .PDF(1). |
+| **Tu escritorio está lleno de iconos estorbando.** | Mover los archivos a la carpeta de Documentos. | Cortar y Pegar. |
 
 ## 🌍 En tu mundo
-Tu propia mochila escolar es un sistema de archivos físico: tienes carpetas para hojas sueltas, un lugar para los libros y quizás un estuche para tus plumas. En el mundo digital, trasladar este orden a tu computadora te permitirá ser mucho más eficiente y reducir el estrés de última hora al buscar tus proyectos(5). Una persona organizada digitalmente tiene más tiempo libre para disfrutar.
+
+Tu vida diaria ya usa sistemas de archivos. Tienes un lugar para la ropa limpia, otro para los trastes de la cocina y otro para tus cuadernos. En la computadora, trasladar este orden te hará sentir más tranquilo y seguro de tu trabajo(5). Ser una persona organizada digitalmente es una de las habilidades que más valoran las empresas y escuelas hoy en día.
+
+## 🏁 Pausa para pensar
+
+1. ¿Cómo se ve tu "Escritorio" de la computadora ahora mismo? ¿Refleja orden o caos?
+2. ¿Qué ventaja tiene usar nombres claros en lugar de nombres cortos como "1" o "a"?
+3. ¿Cuál es el archivo más valioso que tienes guardado y qué harías si lo perdieras hoy?
+4. Si tuvieras que organizar tu cuarto usando la lógica de "Carpetas y Archivos", ¿cómo lo harías?
+
+## 📚 Glosario Maestro
+
+- **Archivo**: La unidad básica de información (foto, canción, tarea).
+- **Carpeta**: Contenedor virtual para organizar archivos y otras carpetas.
+- **Extensión**: Las letras al final del nombre (.jpg, .pdf) que dicen qué tipo de archivo es(1).
+- **Subcarpeta**: Una carpeta que vive dentro de otra para subdividir información(6).
+- **Papelera**: Almacén temporal de archivos borrados que permite recuperarlos(2).
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: Antes de las memorias USB, la gente usaba "Disquetes" que solo podían guardar el equivalente a una sola foto de mala calidad. ¡Eran muy frágiles!
+- **Dato curioso 2**: El icono de la carpeta de Windows es de color amarillo porque está inspirado en los folders de papel que se usaban antiguamente en las oficinas.
+- **Para ver**: *Toy Story*. Imagina que cada juguete es un archivo y el cuarto de Andy es el disco duro. El orden de los juguetes permite que la historia fluya.
+- **Para explorar**: Abre una carpeta cualquiera y presiona la tecla `F2` sobre un archivo. ¡Es el atajo más rápido para cambiarle el nombre!
+- **Para conversar**: Pregúntale a un adulto: "¿Cómo guardaban sus archivos antes de que existieran las computadoras o el Internet?".
 
 ## 🏆 Reto Final
 
-1. Si encuentras en tu computadora un archivo que termina con la extensión ".pdf", ¿qué es lo más probable que contenga en su interior?
-   - A) Una canción en formato digital que se puede bailar.
-   - B) Un documento de lectura que mantiene su formato y se ve igual en cualquier equipo.
-   - C) Una aplicación ejecutable para instalar un videojuego nuevo.
-   - D) Un video de alta definición con efectos especiales.
+1. Si encuentras un archivo que termina con la extensión ".pdf", ¿qué es lo más seguro que contenga?
+   - A) Una canción que se puede escuchar y bailar.
+   - B) Un documento de lectura que se ve igual en cualquier equipo(1).
+   - C) Un virus peligroso que va a descomponer el monitor.
+   - D) Un video de alta resolución con efectos especiales.
 
-2. ¿Qué sucede realmente con un archivo si decides seleccionarlo y arrastrarlo directamente a la Papelera de Reciclaje?
-   - A) Se borra de forma instantánea y permanente para siempre.
-   - B) Se mueve a un lugar de almacenamiento temporal desde donde puedes recuperarlo si te arrepientes.
-   - C) Se guarda una copia de seguridad en la nube automáticamente.
-   - D) El archivo se renombra con caracteres aleatorios.
+2. ¿Qué sucede realmente si seleccionas un archivo y lo arrastras a la Papelera de Reciclaje?
+   - A) Se borra de forma permanente y ya no hay forma de recuperarlo.
+   - B) Se mueve a un almacén temporal por si te arrepientes y quieres recuperarlo(2).
+   - C) Se crea una copia de seguridad en Internet automáticamente.
+   - D) El archivo cambia de nombre por una serie de números aleatorios.
 
-3. ¿Cuál es la forma más inteligente de buscar un archivo si sabes que existe pero no recuerdas en qué carpeta lo dejaste guardado?
-   - A) Abrir todas las carpetas del disco duro una por una hasta encontrarlo visualmente.
-   - B) Usar la barra de búsqueda (icono de la lupa) y escribir una palabra clave que forme parte del nombre.
-   - C) Apagar la computadora y volverla a encender para que el sistema lo ordene.
-   - D) Volver a crear el archivo desde cero para no perder tiempo buscando.
+3. ¿Cuál es la forma más rápida de encontrar un archivo si no recuerdas en qué carpeta lo guardaste?
+   - A) Abrir todas las carpetas del disco duro una por una hasta verlo.
+   - B) Usar la barra de búsqueda (icono de lupa) y escribir una palabra del nombre(3).
+   - C) Apagar el equipo y prenderlo para que el sistema lo encuentre solo.
+   - D) Volver a crear el archivo desde cero para no perder el tiempo.
 
-4. ¿Para qué sirve técnicamente la función de "comprimir" archivos (crear un archivo .zip o .rar)?
-   - A) Para que el icono del archivo se vea más pequeño y elegante.
-   - B) Para reducir el tamaño digital del archivo y que sea mucho más fácil enviarlo por internet.
-   - C) Para proteger el archivo de cualquier tipo de virus informático de forma permanente.
-   - D) Para cambiar automáticamente el formato de una imagen a un documento de texto.
+4. ¿Para qué sirve comprimir archivos (crear un archivo .zip o .rar)?
+   - A) Para que el dibujo del icono se vea más pequeño y elegante.
+   - B) Para reducir el tamaño del archivo y que sea más fácil enviarlo por Internet(4).
+   - C) Para que el archivo no pueda ser visto por ninguna otra persona.
+   - D) Para cambiar automáticamente el formato de un video a un texto.
 
-5. Según las buenas prácticas de organización, el nombre de un archivo digital siempre debe ser:
-   - A) Lo más corto posible y sin sentido para ahorrar espacio en el disco duro.
-   - B) Descriptivo y claro para saber exactamente qué contiene sin necesidad de abrirlo.
-   - C) Exactamente el nombre que la computadora o el programa le asigne por defecto.
-   - D) Una serie de números aleatorios para que nadie más sepa de qué se trata.
+5. Según las buenas reglas de orden, ¿cómo debe ser el nombre de un archivo digital?
+   - A) Muy corto y con números para ahorrar espacio en la memoria.
+   - B) Descriptivo y claro para saber qué contiene sin necesidad de abrirlo(5).
+   - C) Exactamente el nombre raro que el programa le ponga por defecto.
+   - D) El nombre de tu mejor amigo para que sea fácil de recordar.
 
-6. En la estructura de organización de una computadora, ¿qué es exactamente una "Subcarpeta"?
-   - A) Una carpeta que se encuentra guardada dentro de otra carpeta principal.
-   - B) Un archivo dañado que el sistema operativo no puede abrir.
+6. En la organización de una computadora, ¿qué es exactamente una "Subcarpeta"?
+   - A) Una carpeta que se encuentra guardada dentro de otra carpeta principal(6).
+   - B) Un archivo que está dañado y ya no se puede abrir más.
    - C) El nombre técnico que se le da a la papelera de reciclaje.
-   - D) El botón principal que abre el menú de inicio del sistema.
-
-## 🏁 Pausa para pensar
-1. ¿Te consideras una persona organizada con tus pertenencias físicas (cuarto, mochila) o prefieres el orden solo en lo digital?
-2. ¿Qué ventaja principal crees que tiene usar carpetas bien nombradas en lugar de dejar todos tus archivos en el escritorio?
-3. ¿Cómo te sientes emocionalmente cuando no encuentras algo que necesitas con mucha urgencia?
-
-## 📚 Glosario Maestro
-- **Carpeta**: Un contenedor virtual utilizado para organizar archivos y otras subcarpetas.
-- **Archivo**: La unidad básica de información almacenada (foto, video, documento).
-- **Extensión**: Las letras finales del nombre (.jpg, .pdf) que indican el tipo de archivo.
-- **Papelera**: Espacio de seguridad donde se guardan archivos eliminados temporalmente.
-- **Comprimir**: Acción de empaquetar archivos para reducir su tamaño y facilitar su transporte.
-
-## 🌟 Zona de Descubrimiento
-- **Para ver**: *Toy Story* (Disney). Fíjate cómo Andy tiene sus juguetes organizados en diferentes niveles (cama, baúl, estantes). Es la misma lógica que usamos en las carpetas.
-- **Para explorar**: Abre tu explorador de archivos y observa la "Ruta de acceso" en la parte superior. Te dirá exactamente "en qué rama" del árbol estás parado.
-- **Dato curioso**: Antes de las memorias USB, usábamos "Disquetes" que solo guardaban el equivalente a una foto de baja calidad. ¡Hoy una memoria pequeña guarda miles de veces más!
+   - D) El botón redondo que abre el menú principal del sistema.
 
 ## 🔑 Respuestas Correctas
+
 1. B | 2. B | 3. B | 4. B | 5. B | 6. A

@@ -1,97 +1,120 @@
-# Módulo 10: Crea presentaciones claras y atractivas
-
 ![Presentaciones Electrónicas](../../assets/1/Computacion_Basica_I/10_CBI_concepts_presentations_basics.png)
 
 ## 🎯 El Reto
-¿Alguna vez te ha tocado una exposición donde el compañero se dedica a leer una diapositiva saturada de texto pequeño mientras todos en el salón se aburren? ¡Qué pesadilla! Una presentación electrónica no es un libro que se proyecta en la pared; es una poderosa herramienta visual diseñada para que **tú** brilles mientras explicas un tema(3).
 
-El software de presentaciones (como PowerPoint o Google Slides) te permite contar una historia impactante. En este módulo aprenderás a diseñar diapositivas que atrapen la mirada de tu público y ayuden a que entiendan tu mensaje de un solo vistazo. ¿Sabes cuál es el error número uno que arruina el 90% de las presentaciones escolares?
+¿Alguna vez te ha tocado una exposición donde un compañero se dedica a leer una diapositiva llena de texto chiquito mientras todos en el salón se aburren? ¡Qué pesadilla! Una presentación electrónica no es un libro proyectado en la pared; es una poderosa herramienta visual diseñada para que **tú** brilles mientras explicas un tema(3).
+
+El software de presentaciones (como PowerPoint o Canva) te permite contar una historia que se quede grabada en la mente de los demás. 
+
+> "La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir". — Maya Angelou.
+
+En este módulo aprenderás a diseñar diapositivas que atrapen la mirada de tu público y ayuden a que entiendan tu mensaje de un solo vistazo. El reto de hoy es que dejes de "leer diapositivas" y empieces a **Narrar Historias** con impacto visual.
 
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. La Regla de Oro: Menos es Más
-El error más común y grave es llenar la diapositiva de texto y dedicarse a leerlo palabra por palabra durante la exposición(1). Para evitar esto, los expertos utilizan la **Regla del 6x6**: cada diapositiva no debe tener más de 6 líneas de texto, y cada línea no debe tener más de 6 palabras(2). Esto obliga a usar solo palabras clave y frases cortas que refuercen tu discurso.
+El error más común es llenar la pantalla de letras y leerlas palabra por palabra(1). Para evitar esto, los expertos usan la **Regla del 6x6**: cada diapositiva no debe tener más de 6 renglones, y cada renglón no más de 6 palabras(2). Esto te obliga a usar solo lo más importante y a explicar el resto con tus propias palabras.
 
-### 2. Diseño e Imagen
-Para que tu trabajo se vea profesional, debes cuidar el **Soporte Visual**. Esto implica usar imágenes de alta calidad; las imágenes borrosas o pixeladas distraen al público y restan credibilidad a tu mensaje(6). También puedes usar diseños predefinidos, como el de **"Dos objetos"**, que es ideal para comparar dos conceptos diferentes o colocar una imagen justo al lado de un texto explicativo(5).
+### 2. El Poder de la Imagen
+Para que tu trabajo se vea profesional, usa imágenes que se vean claritas. Las fotos borrosas distraen a la gente y hacen que tu trabajo se vea descuidado(6). Un truco genial es usar el diseño de **"Dos objetos"**: pones una imagen de un lado y un texto corto del otro para comparar ideas(5).
+
+> "Una buena presentación es como un mapa: debe guiar al público, no confundirlo". — Desconocido.
 
 ### 3. La Estructura de tu Historia
-Toda gran presentación debe tener una secuencia lógica:
-- **Portada**: Es la primera impresión. Nunca deben faltar el título del tema y el nombre del expositor(4).
-- **Cuerpo**: El desarrollo del tema con una idea principal por diapositiva.
-- **Cierre**: Conclusiones, agradecimientos y un espacio para preguntas del público.
+Toda gran presentación tiene tres partes clave:
+- **La Portada**: Es tu carta de presentación. Debe tener el título del tema y tu nombre completo(4).
+- **El Cuerpo**: Aquí desarrollas tus ideas, usando una diapositiva para cada idea principal.
+- **El Cierre**: Un resumen rápido, un agradecimiento y el momento para que tus compañeros te hagan preguntas.
+
+> "Habla de tal manera que otros amen escucharte. Escucha de tal manera que otros amen hablarte". — Desconocido.
+
+> "El diseño es el embajador silencioso de tu mensaje". — Paul Rand.
 
 > [!TIP]
-> **Tú eres el protagonista**: La diapositiva es tu mapa, no tu guion. Practica lo que vas a decir para que no necesites leer la pantalla.
+> **Tú eres el protagonista**: La diapositiva es tu apoyo, no tu guion. Practica lo que vas a decir para que no necesites mirar la pantalla todo el tiempo. ¡Confía en lo que sabes!
 
 ## ✍️ Manos a la obra
 
-Organiza el contenido de tu próxima gran exposición:
+Aprende a organizar tu próxima gran exposición para que sea todo un éxito visual:
 
-| Sección | Elementos sugeridos | Objetivo visual |
+| Sección de tu trabajo | ¿Qué elementos debe llevar? | ¿Cuál es el objetivo visual? |
 | :--- | :--- | :--- |
-| **Portada** | Título potente y datos personales(4). | Captar la atención inmediata del grupo. |
-| **Definiciones** | Una palabra clave y una imagen de alta calidad(6). | Reforzar el concepto que estás explicando(3). |
-| **Comparativa** | Uso del diseño de "Dos objetos"(5). | Mostrar diferencias claras entre dos temas. |
-| **Conclusión** | Frase corta que resuma todo el tema. | Dejar un mensaje recordable en el público. |
+| **Portada del tema.** | Título potente y tus datos personales(4). | Captar la atención del grupo desde el segundo uno. |
+| **Concepto difícil.** | Una palabra clave y una imagen clarita(6). | Reforzar lo que estás explicando con la voz(3). |
+| **Comparación de ideas.** | Uso del diseño de "Dos objetos"(5). | Mostrar las diferencias de forma muy sencilla. |
+| **Resumen final.** | Una frase corta que resuma todo. | Dejar un mensaje que todos recuerden al salir. |
+| **Gráfica de datos.** | Una tabla o gráfica de SmartArt. | Hacer que los números se entiendan rápido. |
+| **Espacio de dudas.** | Un icono de signo de interrogación. | Invitar a tus compañeros a participar. |
+| **Agradecimiento.** | "¡Gracias por su atención!". | Cerrar con amabilidad y profesionalismo. |
+| **Fuentes de consulta.** | Una lista corta de tus sitios de confianza. | Demostrar que tu investigación es real. |
 
 ## 🌍 En tu mundo
-Los grandes líderes y comunicadores del mundo no usan mucho texto en sus presentaciones. Utilizan imágenes gigantescas y frases cortas que se quedan grabadas en la mente de las personas. Tú puedes aplicar estas mismas técnicas para tus tareas de la preparatoria. Al diseñar diapositivas limpias y profesionales, demuestras que dominas el tema y que respetas el tiempo de quienes te escuchan(3). Una buena presentación puede ser la diferencia entre una calificación ordinaria y una excelente.
+
+Los líderes más importantes del mundo no llenan sus pantallas de texto. Usan imágenes gigantes y frases cortas que emocionan a la gente. Tú puedes hacer lo mismo en tus tareas de la escuela. Al diseñar diapositivas limpias, demuestras que eres un experto en el tema y que te importa que tus compañeros aprendan algo nuevo(3). Una buena presentación puede ser la llave para una calificación excelente.
+
+> "El éxito en la vida no se mide por lo que logras, sino por los obstáculos que superas". — Desconocido.
+
+## 🏁 Pausa para pensar
+
+1. ¿Qué te aburre más de una exposición: que el compañero lea todo o que no use imágenes?
+2. ¿Por qué crees que nos da miedo no poner mucho texto en las diapositivas?
+3. Si solo pudieras usar una foto para representar tu tema favorito, ¿cuál elegirías?
+4. ¿Cómo te sientes cuando alguien te explica algo con pasión sin mirar la pantalla?
+
+## 📚 Glosario Maestro
+
+- **Diapositiva**: La unidad básica de tu presentación (como una página digital).
+- **Diseño**: La forma en que acomodas el texto y las imágenes en la pantalla.
+- **Apoyo Visual**: Todo lo que ayuda a que el público entienda mejor lo que dices(3).
+- **6x6**: Regla para no saturar de texto tus diapositivas(2).
+- **Cierre**: La parte final donde resuelves dudas y terminas tu exposición.
+
+## 🌟 Zona de Descubrimiento
+
+- **Dato curioso 1**: El programa PowerPoint se iba a llamar originalmente "Presenter" y fue creado para computadoras de la marca Apple.
+- **Dato curioso 2**: La presentación más famosa del mundo probablemente fue la del lanzamiento del primer iPhone. ¡Casi no tenía texto!
+- **Para ver**: Busca presentaciones de "TED Talks" en YouTube. Fíjate cómo los expositores usan sus diapositivas solo para mostrar cosas interesantes.
+- **Para explorar**: Abre PowerPoint y busca el botón de "Ideas de diseño". ¡Te sugerirá formas increíbles de acomodar tus fotos automáticamente!
+- **Para conversar**: Pregúntale a un profesor: "¿Cuál es la mejor presentación que ha visto de un alumno y por qué le gustó tanto?".
 
 ## 🏆 Reto Final
 
-1. Según los expertos en comunicación, ¿cuál es el error más común y grave que se comete al crear una diapositiva?
-   - A) Utilizar imágenes de muy alta resolución que se ven demasiado claras.
-   - B) Llenar la diapositiva de texto excesivo y dedicarse a leerlo durante toda la exposición.
-   - C) Incluir el nombre del autor y la fecha actual en la diapositiva de portada.
-   - D) Usar colores que combinan armónicamente con el fondo del salón.
+1. Según los expertos, ¿cuál es el error más grande que se comete al hacer una presentación?
+   - A) Usar fotos de alta calidad que se ven muy nítidas y claras.
+   - B) Llenar la pantalla de texto y leerlo todo durante la exposición(1).
+   - C) Poner el nombre de la escuela y la fecha en la primera hoja.
+   - D) Usar un fondo de color blanco o gris muy claro.
 
-2. ¿Qué significa técnicamente la "regla del 6x6" en el diseño de presentaciones electrónicas?
-   - A) Que la presentación completa debe durar exactamente 6 minutos con 6 segundos.
-   - B) Que no debe haber más de 6 líneas de texto con 6 palabras cada una por diapositiva.
-   - C) Que es obligatorio utilizar al menos 6 colores diferentes en cada una de las hojas.
-   - D) Que el tamaño de la letra debe medir exactamente 6 centímetros de altura.
+2. ¿Qué significa la "regla del 6x6" en el diseño de tus diapositivas?
+   - A) Que tu presentación debe tener exactamente 6 hojas de duración.
+   - B) Que no debe haber más de 6 líneas de texto con 6 palabras cada una(2).
+   - C) Que es obligatorio usar 6 colores diferentes en cada dibujo.
+   - D) Que la letra debe ser de un tamaño de 6 milímetros exactamente.
 
-3. ¿Cuál es la función principal y más importante de una diapositiva durante una exposición oral?
-   - A) Sustituir completamente al expositor para que este no tenga la necesidad de hablar.
-   - B) Servir exclusivamente como un apoyo visual que refuerza lo que el expositor está explicando.
-   - C) Ofrecer un texto largo para que el profesor tenga algo que leer mientras califica.
-   - D) Gastar la mayor cantidad de energía posible del proyector del salón de clases.
+3. ¿Cuál es la función más importante de una diapositiva en una clase?
+   - A) Que el expositor no tenga que hablar y todos lean la pantalla.
+   - B) Servir como un apoyo visual para reforzar lo que estás explicando(3).
+   - C) Darle al maestro mucho texto para que se entretenga leyendo.
+   - D) Gastar toda la luz posible del proyector de la escuela.
 
-4. ¿Qué información es fundamental y NO debería faltar nunca en tu diapositiva de Portada?
-   - A) Toda la bibliografía y fuentes de consulta detalladas de tu investigación.
-   - B) El título claro del tema a tratar y el nombre completo del expositor.
-   - C) Una lista exhaustiva de todas las tareas realizadas durante el año escolar.
-   - D) Un poema largo o un pensamiento filosófico de más de diez renglones.
+4. ¿Qué información NO debe faltar nunca en tu diapositiva de Portada?
+   - A) Toda la lista de libros y páginas web que consultaste para la tarea.
+   - B) El título claro del tema y tu nombre completo como expositor(4).
+   - C) Una lista de todos los compañeros que no te ayudaron en el trabajo.
+   - D) Un cuento largo de más de veinte renglones de texto.
 
-5. En los programas de presentaciones, el diseño predefinido de "Dos objetos" es ideal para:
-   - A) Escribir un cuento o ensayo largo que ocupe toda la pantalla de lado a lado.
-   - B) Comparar dos conceptos o colocar una imagen junto a un texto que la explique.
-   - C) Reproducir un video musical a pantalla completa sin ningún tipo de texto.
-   - D) Borrar automáticamente los archivos antiguos que ya no se utilizan en el equipo.
+5. El diseño de "Dos objetos" en los programas de presentación sirve para:
+   - A) Escribir un ensayo muy largo que ocupe todo el espacio de la hoja.
+   - B) Comparar dos ideas o poner una imagen junto a un texto que la explique(5).
+   - C) Poner música de fondo sin que aparezca nada en la pantalla.
+   - D) Borrar los archivos que ya no sirven de tu memoria USB.
 
-6. ¿Por qué es fundamental para un estudiante utilizar imágenes de alta calidad en sus presentaciones?
-   - A) Para que el archivo final sea mucho más pesado y difícil de compartir.
-   - B) Para que el público no se distraiga con imágenes borrosas y el trabajo se vea profesional.
-   - C) Porque los buscadores como Google obligan a usar únicamente ese tipo de archivos.
-   - D) Realmente no es importante la calidad; cualquier imagen bajada de internet funciona igual.
-
-## 🏁 Pausa para pensar
-1. ¿Qué prefieres tú como espectador: escuchar a alguien que sabe mucho o ver diapositivas con muchos efectos?
-2. ¿Por qué crees que el exceso de texto en pantalla suele cansar o aburrir al público muy rápido?
-3. Si solo tuvieras permiso de usar una imagen para explicar quién eres tú, ¿qué imagen elegirías?
-
-## 📚 Glosario Maestro
-- **Diapositiva**: La unidad básica de una presentación (una "página" digital).
-- **Diseño**: La organización estructural de los elementos en la diapositiva.
-- **Apoyo Visual**: Cualquier elemento gráfico que facilite la comprensión del tema.
-- **6x6**: Estándar de legibilidad para no saturar de texto las diapositivas.
-- **Cierre**: La etapa final donde se resumen las ideas y se resuelven dudas.
-
-## 🌟 Zona de Descubrimiento
-- **Para ver**: Busca presentaciones de Steve Jobs en YouTube. Observa cómo manejaba el espacio en blanco y las imágenes gigantes.
-- **Para explorar**: "Storytelling para estudiantes". Aprenderás que exponer es como contar una historia emocionante.
-- **Dato curioso**: El programa que hoy llamamos PowerPoint se llamaba originalmente "Presenter" y fue creado para computadoras Apple.
+6. ¿Por qué es muy importante que uses imágenes de alta calidad en tus tareas?
+   - A) Para que el archivo final sea muy pesado y difícil de abrir en el salón.
+   - B) Para que el público no se distraiga con fotos borrosas y te veas profesional(6).
+   - C) Porque Google te quita puntos si usas imágenes de baja resolución.
+   - D) No importa la calidad de las fotos, lo único que vale es el texto.
 
 ## 🔑 Respuestas Correctas
+
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B
