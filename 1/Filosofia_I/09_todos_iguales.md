@@ -22,7 +22,7 @@ Todo el edificio de tus derechos se sostiene en tres ideas que nacieron en la **
 
 
 ### 2. ¿Qué son los Derechos Humanos? (Tu Escudo)
-Son las protecciones que aseguran que siempre seas tratado con respeto en cualquier parte del mundo(2). 
+Son las protecciones que aseguran que siempre seas tratado con respeto en cualquier parte del mundo(2).
 
 > "Negar a la gente sus derechos humanos es desafiar su propia humanidad". — Nelson Mandela.
 

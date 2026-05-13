@@ -78,7 +78,7 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 - **Estado**: La forma en que nos organizamos en un territorio con leyes.
 - **Lema**: Una frase que resume el sueño o la misión de una institución.
 - **Identidad**: Sentirte parte de un grupo y compartir sus valores.
-- **Poder Legislativo**: El grupo de personas (Diputados y Senadores) que crean nuestras leyes.
+- **Poder Legislativo**: El grupo de personas (Diputados y Senadores) que crean nuestras leyes(5).
 
 ## 🌟 Zona de Descubrimiento
 
