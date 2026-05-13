@@ -13,18 +13,34 @@ Para navegar el futuro, hay que distinguir dos cosas:
 - **Ciencia**: Es el **Mapa**. Son los conocimientos que obtenemos observando y experimentando para entender cómo funciona el universo(1). Su meta es el "saber".
 - **Tecnología**: Es la **Herramienta**. Es usar ese mapa para resolver problemas o inventar cosas (celulares, medicinas, robots)(2). Su meta es el "hacer" y transformar el mundo(3).
 
+> "El aspecto más triste de la vida actual es que la ciencia gana en conocimiento más rápidamente de lo que la sociedad gana en sabiduría". — Isaac Asimov.
+
+
+> "Se ha vuelto terriblemente obvio que nuestra tecnología ha superado nuestra humanidad". — Albert Einstein.
+
 ### 2. El Freno de Emergencia: Responsabilidad y Bioética
 Tener mucho poder requiere mucha **Responsabilidad**(4). Hoy tenemos dilemas gigantes: vigilancia masiva, fake news o robots que deciden cosas(5). Aquí aparece la **Bioética**: la rama que pone límites para proteger la vida en avances como la clonación o la edición de genes humanos(6).
+
+> "No puedes pasar un solo día sin tener un impacto en el mundo que te rodea. Tienes que decidir qué tipo de diferencia quieres marcar". — Jane Goodall.
+
 
 ### 3. ¿Dueños o Invitados? (Nuestra visión del planeta)
 Hay dos formas de ver la naturaleza(7):
 - **Antropocentrismo**: Creer que el humano es el dueño de todo y el planeta está a su servicio.
 - **Biocentrismo**: Entender que toda forma de vida es valiosa y nosotros somos parte del equipo Tierra.
 
+> "En la naturaleza nada existe solo". — Rachel Carson.
+
+
+> "La tierra no pertenece al hombre; el hombre pertenece a la tierra". — Jefe Seattle.
+
 Por la visión de "dueños", hoy sufrimos el **Calentamiento Global**(9). Para saber cuánto daño hacemos, medimos nuestra **Huella Ecológica**: cuántos recursos gastas tú para vivir(10).
 
 ### 4. La Misión: Desarrollo Sustentable
 La única forma de sobrevivir es el **Desarrollo Sustentable**(8): progresar de forma que hoy estemos bien, pero sin dejar sin recursos a los niños que nazcan en 50 años. Es aprender a vivir en equilibrio.
+
+> "La Tierra es un regalo que nos han dado para que lo cuidemos". — Wangari Maathai.
+
 
 > [!IMPORTANT]
 > **Ética Ambiental**: No somos los dueños de la Tierra, somos sus cuidadores. Cada invento tecnológico debe ser evaluado no solo por si funciona, sino por si respeta la vida y la justicia.

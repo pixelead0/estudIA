@@ -18,8 +18,18 @@ Todo el edificio de tus derechos se sostiene en tres ideas que nacieron en la **
 - **Igualdad**: Que las leyes valgan igual para todos.
 - **Fraternidad**: Recordar que todos somos parte de la misma familia humana y debemos apoyarnos(12).
 
+> "Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales". — Thomas Jefferson.
+
+
 ### 2. ¿Qué son los Derechos Humanos? (Tu Escudo)
-Son las protecciones que aseguran que siempre seas tratado con respeto en cualquier parte del mundo(2). El **10 de diciembre de 1948** se firmó la **Declaración Universal** en París(4), la cual tiene **30 artículos** con las reglas básicas de justicia para todos(5).
+Son las protecciones que aseguran que siempre seas tratado con respeto en cualquier parte del mundo(2). 
+
+> "Negar a la gente sus derechos humanos es desafiar su propia humanidad". — Nelson Mandela.
+
+El **10 de diciembre de 1948** se firmó la **Declaración Universal** en París(4), la cual tiene **30 artículos** con las reglas básicas de justicia para todos(5).
+
+> "Injusticia en cualquier lugar es una amenaza a la justicia en todas partes". — Martin Luther King Jr.
+
 
 ### 3. Las Tres Oleadas (Generaciones)
 Los derechos no llegaron todos al mismo tiempo, han ido surgiendo por "oleadas"(3):
@@ -27,14 +37,22 @@ Los derechos no llegaron todos al mismo tiempo, han ido surgiendo por "oleadas"(
 2. **2ª Generación**: Derechos para estar bien (estudiar, tener salud, trabajar).
 3. **3ª Generación**: Derechos para todos (paz mundial, cuidar el planeta).
 
+> "Un niño, un profesor, un libro y una pluma pueden cambiar el mundo". — Malala Yousafzai.
+
+
 ### 4. Los Enemigos del Escudo
 Para que los derechos funcionen, debemos combatir:
 - **Discriminación**: Tratar mal a alguien por ser "diferente"(6).
 - **Racismo/Clasismo**: Despreciar por origen o dinero(7).
 - **Corrupción**: Abusar del poder para ganar dinero o favores(9).
 
+> "Nuestra capacidad para alcanzar la unidad en la diversidad será la belleza y el reto de nuestra civilización". — Mahatma Gandhi.
+
+
 > [!IMPORTANT]
 > **La Regla de Oro**: Todo derecho tiene un **Deber**(8). Si tienes derecho a que te respeten, tienes el deber de respetar a los demás. Necesitas una **Conciencia Crítica** para darte cuenta cuando algo está mal y tratar de mejorarlo(11).
+
+> "¿Dónde comienzan los derechos humanos universales? En pequeños lugares, cerca de casa". — Eleanor Roosevelt.
 
 ## ✍️ Manos a la obra
 

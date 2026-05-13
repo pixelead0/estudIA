@@ -9,7 +9,14 @@ En este módulo, el reto es descubrir tu "Valor Infinito". Vamos a entender qué
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. La Metáfora: El Valor Infinito (Dignidad)
-La **Dignidad** es la regla de oro: cada ser humano es valioso por el simple hecho de existir(1). No importa cuánto dinero tengas o qué tan inteligente seas, tu valor es infinito. Cuando tratas a alguien con dignidad, lo que recibes de vuelta naturalmente es **Respeto y Amor**(2).
+La **Dignidad** es la regla de oro: cada ser humano es valioso por el simple hecho de existir(1). No importa cuánto dinero tengas o qué tan inteligente seas, tu valor es infinito. 
+
+> "Lo que tiene precio puede ser sustituido por algo equivalente; lo que es superior a todo precio, tiene dignidad". — Immanuel Kant.
+
+Cuando tratas a alguien con dignidad, lo que recibes de vuelta naturalmente es **Respeto y Amor**(2).
+
+> "Sé tú mismo; todos los demás ya están ocupados". — Oscar Wilde.
+
 
 ### 2. El Volante de la Vida: Libertad vs. Libertinaje
 Para construir quién eres, usas tu libertad, pero hay que saber manejarla:
@@ -17,11 +24,24 @@ Para construir quién eres, usas tu libertad, pero hay que saber manejarla:
 - **Libertad Interna**: Es el poder de decidir sobre tus pensamientos y valores, algo que nadie puede encerrar(5).
 - **Libertinaje**: Es el abuso de la libertad. Es manejar sin frenos, dañándote a ti o a otros por seguir impulsos sin pensar(4).
 
+> "El hombre es lo que él hace de sí mismo". — Jean-Paul Sartre.
+
+
 ### 3. Construyendo tu "Yo" Auténtico
-Tu identidad se construye con la **Reflexión**(10). El "núcleo" de ser responsable es saber que cada cosa que eliges va poniendo un ladrillo en la construcción de quién eres(7). La **Dignidad** nos hace iguales a todos, pero tu **Identidad** te hace único en tu cultura e historia(9).
+Tu identidad se construye con la **Reflexión**(10). El "núcleo" de ser responsable es saber que cada cosa que eliges va poniendo un ladrillo en la construcción de quién eres(7). 
+
+> "Ser uno mismo en un mundo que trata de convertirte en otra cosa es el mayor logro". — Ralph Waldo Emerson.
+
+La **Dignidad** nos hace iguales a todos, pero tu **Identidad** te hace único en tu cultura e historia(9).
+
+> "Conocerse a uno mismo es el principio de toda sabiduría". — Aristóteles.
+
 
 ### 4. Los Baches en el Camino
 A veces, nuestra libertad se queda "atrapada" por **Obstáculos**(6) como el miedo al qué dirán, la ignorancia, la violencia o el dejarnos llevar por impulsos ciegos. Vivir sin reflexionar es como ser un prisionero de las opiniones de los demás(8).
+
+> "No importa lo lento que vayas, siempre y cuando no te detengas". — Confucio.
+
 
 > [!NOTE]
 > **Dato Maestro**: Las cosas tienen un precio (se pueden cambiar por dinero), pero las personas tienen dignidad (no tienen precio, son únicas). ¡Nunca dejes que nadie te ponga una etiqueta de precio!

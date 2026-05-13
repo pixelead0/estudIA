@@ -13,22 +13,36 @@ En este módulo, el reto es aprender a usar la herramienta más poderosa que exi
 ### 1. El Gran Despertar: Dejar de creer por inercia
 La Filosofía no nació en un salón de clases, sino en las calles de Grecia (Mileto, siglo VI a.C.)(1). Su nombre significa literalmente **"amor apasionado por la sabiduría"** (Philos = Amor, Sophia = Sabiduría)(2). Pero no es un amor de "tener la respuesta", sino de **buscarlas sin descanso**(8).
 
-Este "clic" mental ocurrió gracias al asombro y la curiosidad por los misterios del mundo(6). Tales de Mileto fue el primero en decir: "Pensemos por nosotros mismos"(3). A este cambio lo llamamos el **"Paso del Mito al Logos"**(12): dejar de usar la magia y la fantasía para empezar a usar la reflexión racional(9)(10).
+> "La filosofía es la ciencia que estudia las causas últimas de todas las cosas". — Aristóteles.
+
+Este "clic" mental ocurrió gracias al asombro y la curiosidad por los misterios del mundo(6). Tales de Mileto fue el primero en decir: "Pensemos por nosotros mismos"(3). 
+
+> "La duda es el principio de la sabiduría". — Sócrates.
+
+A este cambio lo llamamos el **"Paso del Mito al Logos"**(12): dejar de usar la magia y la fantasía para empezar a usar la reflexión racional(9)(10).
+
 
 ### 2. La Metáfora del "Hackeo" Mental
 Imagina que tu mente es una computadora que viene con un sistema operativo preinstalado: tu **programación biológica** (instintos de supervivencia)(20) y tu **programación cultural** (lo que aprendiste de tu sociedad)(20). La mayoría de las personas viven con esa configuración de fábrica.
 
-Hacer filosofía es como **"hackear"** ese sistema. El filósofo investiga las causas últimas de la realidad(4), cuestiona los hechos fácticos(23) y no se conforma con lo que "todo el mundo dice". Sus herramientas son la crítica, el método y la razón(5). Se enfoca en los grandes problemas: el ser, la verdad y nuestra propia existencia(15).
+Hacer filosofía es como **"hackear"** ese sistema. El filósofo investiga las causas últimas de la realidad(4), cuestiona los hechos fácticos(23) y no se conforma con lo que "todo el mundo dice". Sus herramientas son la crítica, el método y la razón(5). 
+
+> "Pienso, luego existo". — René Descartes.
+
+Se enfoca en los grandes problemas: el ser, la verdad y nuestra propia existencia(15).
+
 
 ### 3. La Búsqueda del "Ingrediente Original" (El Arjé)
 Los primeros "hackers" fueron los **Presocráticos**(7). Ellos buscaban el **Arjé**: el principio o elemento original del que todo está hecho(11). Después llegaron los **Sofistas**, que eran maestros de la retórica (el arte de convencer aunque no digas la verdad)(7), pero los grandes pilares como **Sócrates, Platón y Aristóteles**(13) prefirieron buscar la verdad real por encima de la fama.
 
 ### 4. ¿Qué te hace Humano?
 Lo que nos diferencia de otros animales no es solo caminar erguidos, sino nuestra **autoconciencia y reflexión racional**(16). Somos capaces de vernos a nosotros mismos y decidir quiénes queremos ser. Existen varias visiones sobre esto:
-- **Animal Político (Aristóteles)**: Somos seres sociales que buscamos la felicidad a través de la razón(17).
+- **Animal Político (Aristóteles)**: Somos seres sociales que buscamos la felicidad a través de la razón(17). 
+  > "El hombre es, por naturaleza, un animal político". — Aristóteles.
 - **Homo Faber**: Somos seres que fabrican herramientas y transforman la naturaleza(14).
 - **Transformador Social (Marx)**: Nos definimos por nuestro trabajo y capacidad de cambiar la sociedad(18).
 - **Proyecto Libre (Sartre)**: No somos algo "terminado", somos lo que decidimos ser cada día.
+  > "El hombre está condenado a ser libre". — Jean-Paul Sartre.
 
 ### 5. Tus Cuatro Sensores (Tipos de Conocimiento)
 Para entender el mundo, usas cuatro tipos de "sensores" o conocimientos(19):
@@ -36,6 +50,9 @@ Para entender el mundo, usas cuatro tipos de "sensores" o conocimientos(19):
 2. **Religioso**: Basado en la fe y dogmas que no se cuestionan.
 3. **Filosófico**: Busca el "por qué" profundo de las cosas usando la razón pura.
 4. **Científico**: Usa métodos rigurosos y experimentos para validar la realidad.
+
+> "El que aprende y aprende y no practica lo que sabe, es como el que ara y ara y no siembra". — Platón.
+
 
 > [!TIP]
 > **Recuerda**: La filosofía te libera de las cadenas de tus prejuicios(21). Al buscar entender el mundo, te transformas en alguien más libre y consciente(22).

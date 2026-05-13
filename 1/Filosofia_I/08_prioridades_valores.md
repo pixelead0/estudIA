@@ -11,6 +11,12 @@ En este módulo, el reto es diseñar tu propio "Edificio de Valores". Vamos a ap
 ### 1. La Metáfora: El Orden de los Pisos (Jerarquía)
 No todos los valores valen lo mismo. La **Jerarquía de Valores** es el orden de importancia que les das según su calidad y cuánto duran(1). 
 - Un **Valor Superior** es como un cimiento: es duradero, no se puede "repartir" como el dinero y sirve de base para los demás(5).
+
+> "Si dices la verdad, no tienes que recordar nada". — Mark Twain.
+
+
+> "Lo más importante es que lo más importante sea lo más importante". — Stephen Covey.
+
 - Por ejemplo, la salud suele estar arriba de la diversión, porque sin salud no hay diversión que valga.
 
 ### 2. El Mapa de los Opuestos (Bipolaridad)
@@ -20,8 +26,15 @@ Los valores tienen **Bipolaridad**(2). Esto significa que siempre tienen un "vil
 - Honestidad vs. Mentira.
 Valorar es tener la valentía de elegir siempre el polo que te hace ser mejor humano.
 
+> "He aprendido que la gente olvidará lo que dijiste y lo que hiciste, pero nunca olvidará cómo los hiciste sentir". — Maya Angelou.
+
+
 ### 3. ¿Cómo decidir el orden?
-Tu brújula para construir el edificio debe ser siempre el **bienestar de todos** y el respeto a la **Dignidad Humanas**(3). Una jerarquía sana nace de tu propia **reflexión y experiencia**, no de copiar lo que otros hacen(6). Cuando confundimos lo importante (como la integridad) con lo pasajero (como el dinero), caemos en una **Crisis de Valores**(4).
+Tu brújula para construir el edificio debe ser siempre el **bienestar de todos** y el respeto a la **Dignidad Humanas**(3). Una jerarquía sana nace de tu propia **reflexión y experiencia**, no de copiar lo que otros hacen(6). 
+
+> "Las cosas que más importan nunca deben estar a merced de las cosas que menos importan". — Johann Wolfgang von Goethe.
+
+Cuando confundimos lo importante (como la integridad) con lo pasajero (como el dinero), caemos en una **Crisis de Valores**(4).
 
 > [!TIP]
 > **Tu Huella Digital Ética**: Tu jerarquía de valores es única. Nadie tiene el mismo edificio que tú, y eso es lo que te hace especial y auténtico.
@@ -36,6 +49,9 @@ Diseña tu rascacielos. Organiza estos valores del 1 (cimiento/más importante) 
 | **Amistad / Lealtad** | | |
 | **Éxito / Dinero** | | |
 | **Honestidad / Verdad** | | |
+
+> "Tu actitud, no tu aptitud, determinará tu altitud". — Zig Ziglar.
+
 
 ## 🌍 En tu mundo
 

@@ -4,7 +4,14 @@
 
 ¿Qué quieres que diga la gente de ti dentro de 20 años? ¿Cómo vas a usar lo que aprendiste para no ser una "hoja al viento" que se lleva cualquier moda? ¿Cuál es la huella que quieres dejar en México y en las personas que amas?
 
-En este módulo final, el reto es diseñar el "GPS de tu Alma" o tu **Plan de Vida**. Vamos a unir todas las piezas (libertad, valores, dignidad y responsabilidad) para que traces el mapa de tu destino. Es hora de dejar de ser un pasajero y convertirte en el capitán de tu propio barco. ¡El futuro empieza con el primer trazo que hagas hoy!
+En este módulo final, el reto es diseñar el "GPS de tu Alma" o tu **Plan de Vida**. Vamos a unir todas las piezas (libertad, valores, dignidad y responsabilidad) para que traces el mapa de tu destino. 
+
+> "Tu tiempo es limitado, así que no lo desperdicies viviendo la vida de alguien más". — Steve Jobs.
+
+Es hora de dejar de ser un pasajero y convertirte en el capitán de tu propio barco. ¡El futuro empieza con el primer trazo que hagas hoy!
+
+> "Un viaje de mil millas comienza con el primer paso". — Lao Tse.
+
 
 ## 💡 ¿Cómo funciona esto?
 
@@ -14,6 +21,11 @@ Un plan de vida no es una lista de deseos a Santa Claus; es un compromiso ético
 - **Tu Vocación**: Cómo vas a poner "la técnica al servicio de la patria"(3).
 - **Tu Responsabilidad**: La huella que quieres dejar en el mundo.
 
+> "La vida nunca se vuelve insoportable por las circunstancias, sino solo por falta de significado y propósito". — Viktor Frankl.
+
+> "Si un hombre no sabe a qué puerto se dirige, ningún viento le es favorable". — Séneca.
+
+
 ### 2. El Mapa de las 4 Preguntas
 Para que tu GPS no falle, usa tu **Conciencia Crítica**(4) para responder a las preguntas de un filósofo llamado Kant:
 1. **¿Qué puedo conocer?**: Seguir estudiando y preparándote.
@@ -21,11 +33,17 @@ Para que tu GPS no falle, usa tu **Conciencia Crítica**(4) para responder a las
 3. **¿Qué me es permitido esperar?**: Tus sueños y metas reales.
 4. **¿Qué es el hombre?**: Quién quieres llegar a ser tú como ser humano íntegro.
 
+> "Todos nuestros sueños se pueden hacer realidad si tenemos el coraje de perseguirlos". — Walt Disney.
+
+
 ### 3. La Brújula de la Alegría
 La ética es el "arte de vivir bien". Lo contrario de ser un "imbécil moral" es tener la conciencia despierta para fijarte si lo que haces es realmente lo que quieres y lo que te hace mejor(6). La recompensa de vivir con integridad es la **Alegría** profunda de saber que eres una persona digna(5).
 
 > [!TIP]
 > **Plan Vivo**: Tu plan de vida no está escrito en piedra. Cámbialo, ajústalo y hazlo crecer conforme vayas descubriendo nuevas maravillas en el mundo. ¡Es tu mapa, tú lo dibujas!
+
+> "El futuro pertenece a quienes creen en la belleza de sus sueños". — Eleanor Roosevelt.
+
 
 ## ✍️ Manos a la obra
 

@@ -14,6 +14,7 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 - **PERMITIDO**: Tono de "Mentor Amigo", analogías de la vida diaria variadas, segunda persona ("Tú").
 - **OBLIGATORIO**: Explicar siempre *por qué* importa el tema (el sentido y la utilidad práctica). Conectar los conceptos abstractos directamente con la toma de decisiones cotidianas del adolescente mediante el uso de **metáforas originales y diversas**; NO repetir las mismas analogías entre módulos.
 - **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto. Usa comparaciones actuales pero **asegúrate de variar los contextos** (deportes, arte, ciencia, convivencia, etc.) para mantener siempre la frescura y evitar la repetitividad.
+- **FRASES CÉLEBRES**: Integrar frases famosas de los personajes o expertos relacionados con el tema. Estas frases deben resaltar o resumir la idea central y ser visualmente atractivas (por ejemplo, usando citas `>`).
 
 ## 3. Estructura Obligatoria (Versión 2.0)
 Cada módulo debe estar contenido en un archivo Markdown.
@@ -29,6 +30,7 @@ Cada módulo debe estar contenido en un archivo Markdown.
     - **Conexión de Valor**: Presentar el tema como una "caja de herramientas", "manual" o "mapa" para navegar situaciones similares en la vida real.
 2.  **💡 ¿Cómo funciona esto?**: Explicación clara y profunda del núcleo del tema. Debe incluir:
     - **Analogía Universal**: Uso de una comparación con procesos conocidos (deportes, tecnología, naturaleza, vida cotidiana) para simplificar conceptos complejos.
+    - **Cita Maestra**: Integrar una frase célebre del autor o personaje central del módulo que capture la esencia del tema.
     - **Desglose de Conceptos**: Explicar los términos técnicos o abstractos de forma amigable y directa.
     - **Etiquetas de Referencia**: Uso obligatorio de `(N)` para conectar los párrafos con las preguntas del Reto Final.
 3.  **✍️ Manos a la obra**: Actividad práctica para aplicar lo aprendido de forma inmediata.

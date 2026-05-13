@@ -9,7 +9,14 @@ En este módulo, el reto es descubrir las raíces de tu orgullo. Vamos a explora
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. La Metáfora: Las Raíces de tu Casa (Identidad Nacional)
-La **Identidad Nacional** es el conjunto de historias, valores y símbolos que nos hacen sentir que México es nuestro hogar(1). No es solo fútbol o comida; es el respeto a nuestra Bandera, Escudo e Himno Nacional(3). Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6).
+La **Identidad Nacional** es el conjunto de historias, valores y símbolos que nos hacen sentir que México es nuestro hogar(1). No es solo fútbol o comida; es el respeto a nuestra Bandera, Escudo e Himno Nacional(3). 
+
+> "La identidad es un descubrimiento que se hace en comunidad". — Octavio Paz.
+
+Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6).
+
+> "La patria es comunidad de intereses, unidad de tradiciones, unidad de fines, fusión de almas y fortunas". — José Martí.
+
 
 ### 2. Las Reglas de la Casa (El Estado)
 Para que 130 millones de personas vivamos en paz, formamos un **Estado**, que tiene tres piezas clave(2):
@@ -17,10 +24,21 @@ Para que 130 millones de personas vivamos en paz, formamos un **Estado**, que ti
 2. **Territorio**: Nuestra tierra, mares y cielos.
 3. **Gobierno (Soberanía)**: Nuestra capacidad de decidir cómo vivir sin que otros países nos manden.
 
+> "No quiero que mi casa tenga murallas por todos lados, ni que mis ventanas estén selladas. Quiero que las culturas de todas las tierras soplen por mi casa libremente". — Mahatma Gandhi.
+
+
+> "Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz". — Benito Juárez.
+
 Nuestro gobierno se divide en tres poderes: **Ejecutivo**, **Legislativo** (quienes hacen las leyes) y **Judicial**(4).
+
+> "La moral es el arte de vivir, es el tratado de los deberes y derechos del hombre". — Alfonso Reyes.
+
 
 ### 3. Tu Nueva Familia: El Orgullo Politécnico
 Al entrar al **IPN**, te unes a una historia de excelencia(7). Tus nuevos colores son el guinda y el blanco, y tu misión es usar lo que aprendes para ayudar a México. Para eso tenemos un **Código de Ética** basado en la honestidad, el respeto y la justicia social(8).
+
+> "La educación es el arma más poderosa que puedes usar para cambiar el mundo". — Nelson Mandela.
+
 
 ### 4. Valores que se siembran
 Estos son **Valores Aprendidos**(10): principios que recibes de tu familia y cultura para ser un buen ciudadano. Recuerda: tu identidad nacional te hace mexicano, pero tu **Dignidad Humana** te hace igual a cualquier persona del planeta(9).
