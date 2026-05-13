@@ -1,4 +1,3 @@
-# Módulo 09: Todos somos iguales (Ciudadanía y Derechos)
 
 ![Derechos Humanos](../../assets/1/Filosofia_I/09_FI_concepts_human_rights.png)
 

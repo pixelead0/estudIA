@@ -1,30 +1,32 @@
 ![DHP Temario](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/00_DHP_concepts_overview.png)
 
-¡Bienvenido al gimnasio de tu cerebro! En este curso no vamos a memorizar fechas ni fórmulas, vamos a aprender a **entrenar tu mente** para que seas capaz de resolver cualquier problema, aprender más rápido y tomar decisiones como un experto. Aquí tienes el mapa de tu entrenamiento:
+¡Bienvenido al entrenamiento más importante de tu vida! En este curso no vas a memorizar fechas ni fórmulas aburridas; vas a aprender a **manejar tu propia mente**. Imagina que tu cerebro es la computadora más potente del mundo y nosotros vamos a enseñarte a usar su manual de instrucciones para que aprendas más rápido, convivas mejor y resuelvas cualquier reto. 
+
+Aquí tienes el mapa de tu entrenamiento:
 
 > "La mente es como un paracaídas: solo funciona si se abre". — Albert Einstein.
 
 ---
 
-## 🟢 Bloque 1: Los Cimientos de tu Mente
-*   **01. Procesos Básicos**: Descubre los "engranajes" ocultos que hacen que tu cerebro funcione y cómo activarlos a voluntad.
-*   **02. Tipos de Pensamiento**: Aprende que no todos pensamos igual y descubre cómo usar diferentes "modos" mentales según lo que necesites.
-*   **03. El Camino de una Idea**: Sigue el rastro de un pensamiento desde que nace como una chispa hasta que se convierte en una acción real.
+## 🟢 Bloque 1: El Manual de Operación
+*   **01. Procesos Básicos**: Descubre los engranajes de tu "centro de mando" y aprende a pasar del piloto automático al control manual.
+*   **02. Tipos de Pensamiento**: Conoce tu "cinturón de herramientas mental" y elige la mejor forma de pensar según el problema que tengas enfrente.
+*   **03. El Camino de una Idea**: Entra en tu "fábrica mental" y sigue el rastro de un pensamiento desde que nace hasta que se convierte en una gran acción.
 
 ## 🟡 Bloque 2: Herramientas de Precisión
-*   **04. Observación y Atención**: Convierte tus ojos en microscopios. Aprende a ver lo que los demás ignoran y a concentrarte como un rayo láser.
-*   **05. La Memoria**: Deja de olvidar las cosas importantes. Descubre los trucos para guardar información en tu "disco duro" mental para siempre.
-*   **06. Orden y Comparación**: Aprende a organizar el caos. Cómo clasificar información y encontrar diferencias clave entre las cosas.
-*   **07. Razonamiento Lógico**: El arte de no dejarse engañar. Construye argumentos sólidos y detecta cuando algo simplemente no tiene sentido.
+*   **04. Observación y Atención**: Enciende tu "linterna mental". Aprende a ver lo que otros ignoran y a concentrarte donde realmente importa.
+*   **05. La Memoria**: Conviértete en el "maestro bibliotecario" de tu mente. Aprende trucos para guardar y encontrar información sin esfuerzo.
+*   **06. Orden y Comparación**: El arte de organizar el caos. Cómo clasificar tus ideas y encontrar patrones ocultos en todo lo que te rodea.
+*   **07. Razonamiento Lógico**: Conviértete en un "detective de la verdad". Aprende a construir puentes de ideas sólidos y a detectar engaños o trampas.
 
 ## 🔵 Bloque 3: Creatividad y Decisión
-*   **08. Creatividad**: Despierta al genio que llevas dentro. Aprende que ser creativo no es un don, sino una técnica que cualquiera puede dominar.
-*   **09. Pensamiento Lateral**: El arte de pensar "fuera de la caja". Resuelve acertijos imposibles buscando caminos que nadie más se atreve a ver.
-*   **10. Expansión de Ideas**: Aprende a abrir tu mente para ver miles de posibilidades donde otros solo ven una pared.
-*   **11. Contracción de Ideas**: El momento de la verdad. Aprende a filtrar tus ideas y a elegir la mejor opción con la cabeza fría.
-*   **12. Proyecto Final**: ¡El reto máximo! Aplica todas tus nuevas habilidades para resolver un problema real de tu mundo.
+*   **08. Creatividad**: Conviértete en un "chef de ideas". Aprende que ser creativo no es un don mágico, sino una técnica de mezclar ingredientes mentales.
+*   **09. Pensamiento Lateral**: El arte de encontrar "pasadizos ocultos". Resuelve acertijos buscando caminos que nadie más se atreve a ver.
+*   **10. Expansión de Ideas**: Aprende a "mirar desde la azotea". Abre tu mente para ver miles de posibilidades donde otros solo ven una pared.
+*   **11. Contracción de Ideas**: "La mochila de viaje". Aprende a filtrar tus opciones y a elegir la mejor solución renunciando a lo que no te sirve.
+*   **12. Proyecto Final**: ¡Tu vuelo de graduación! Aplica todas tus nuevas herramientas para resolver un reto real de tu mundo.
 
 ---
 
 > [!TIP]
-> **Consejo del Mentor**: Tu cerebro es como un músculo. Al principio, algunas herramientas te parecerán difíciles de usar, pero con la práctica, pensar bien se volverá tu nuevo superpoder natural. ¡A darle!
+> **Consejo del Mentor**: Tu mente es como un músculo. Al principio, algunas herramientas te parecerán pesadas, pero con la práctica, pensar con inteligencia se volverá tu nuevo superpoder natural. ¡A por ello!

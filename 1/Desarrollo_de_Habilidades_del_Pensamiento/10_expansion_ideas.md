@@ -1,125 +1,119 @@
-![Expansión de Ideas](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/10_DHP_concepts_idea_expansion.png)
+![Expansión de Ideas](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/10_DHP_concepts_expansion_ideas.png)
 
 ## 🎯 El Reto
 
-Imagina que eres un intrépido explorador que acaba de desembarcar en un continente totalmente nuevo y desconocido. Tienes dos opciones frente a ti: quedarte sentado en la arena de la playa donde llegaste o subir a la montaña más alta del lugar para observar qué tan inmenso es el territorio que tienes por descubrir.
+Imagina que estás en la calle, frente a una barda muy alta que no te deja ver qué hay del otro lado. No sabes si hay un parque, una calle transitada o un perro enojado. Solo puedes ver una pequeña parte de la realidad. Pero, ¿qué pasa si subes a una azotea o a lo alto de una escalera? De repente, puedes verlo todo.
 
-> "La mejor manera de tener una buena idea es tener muchas ideas". — Linus Pauling.
+Eso es lo que pasa cuando usamos la **Visión Panorámica**. Si solo miramos nuestros pies, tomaremos la primera decisión que veamos, aunque sea la más peligrosa. Pero si aprendemos a "subir a la azotea mental", podremos ver todas las opciones antes de actuar.
 
-La **Expansión de Ideas** es precisamente ese viaje a la cima de la montaña. A menudo, cuando enfrentamos un problema, nos conformamos con la primera idea que llega a nuestra mente (la playa)(1). Pero si logramos abrir nuestra mente y explorar todas las posibilidades, variables y perspectivas, descubriremos que el universo de soluciones es gigantesco. 
+> "El hombre que no tiene ojos en la nuca es solo la mitad de un hombre". — Proverbio.
 
-En este módulo, aprenderás a activar tu **Visión Panorámica**. ¿Sabes cómo transformar una pequeña chispa de pensamiento en un incendio de creatividad imparable?
-
-> "El pensamiento divergente es la base de la creatividad". — Ken Robinson.
-
-> "Si buscas resultados distintos, no hagas siempre lo mismo". — Albert Einstein.
-
+En nuestra vida diaria, muchas veces decidimos con una visión muy "chiquita". Elegimos lo primero que se nos ocurre o lo que todos los demás están haciendo. El reto de este módulo es que aprendas a usar tu **Visión de Futuro** para practicar la **Expansión de Ideas**. Vamos a aprender a abrir el abanico de posibilidades para que nunca más te sientas atrapado en una sola opción.
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. El Pensamiento Divergente
-Expandir ideas significa activar tu **Pensamiento Divergente**, que es aquel que se abre en muchas direcciones para buscar diferentes alternativas en lugar de cerrarse en una sola respuesta "correcta"(4). Para lograrlo, los expertos utilizan estas herramientas:
-- **Considerar Variables**: Se trata de identificar meticulosamente todos los factores o elementos que influyen en una situación determinada(2).
-- **Otros Puntos de Vista**: Consiste en preguntarse: "¿Qué pensaría mi profesor? ¿Qué pensaría un niño? ¿Qué pensaría mi mejor amigo?". Esto nos ayuda a ver detalles que solemos ignorar(3).
-- **Análisis de Consecuencias**: No te quedes solo en el presente. Analizar las consecuencias te permite prever qué pasará en el futuro y tomar decisiones responsables(6).
+### 1. ¿Qué es la Expansión de Ideas?
+Expandir ideas es el acto de abrir tu mente para ver múltiples soluciones, lo que pasará después y cómo lo ven los demás(1). Es lo contrario a ser impulsivo. Cuando expandes, buscas tener la mayor **cantidad** de opciones posible, porque entre más tengas, es más probable que elijas la mejor(2).
 
-> "Abre tu mente antes que tu boca". — Proverbio.
+> "La mejor manera de tener una buena idea es tener muchas ideas". — Linus Pauling.
 
+### 2. Las Herramientas de la Visión Panorámica
+Para ver el panorama completo, los expertos usan estas técnicas:
+- **Considerar Variables**: Antes de decidir, piensa en todo lo que influye: ¿Cuánto cuesta?, ¿Tengo tiempo?, ¿Quién más participa?(4)
+- **Ver las Consecuencias**: Piensa en el futuro. ¿Qué pasará mañana si hago esto? ¿Qué pasará en un mes?(4)
+- **Buscar Alternativas**: Oblígate a pensar en al menos 3 formas diferentes de resolver el mismo problema(1).
+- **P.A.O. (Puntos de Vista de Otros)**: Detente a pensar: "¿Qué pensaría mi mamá de esto?", "¿Qué diría mi mejor amigo?", "¿Cómo lo vería mi maestro?"(3)(5). Ver las cosas con los ojos de otros te da información que tú no tienes.
 
-### 2. La Regla de la Apertura Total
-En la fase de expansión, existe una **Regla de Oro** inquebrantable: está estrictamente **prohibido juzgar o criticar** ninguna idea, por más loca o absurda que parezca en un inicio(5). El objetivo es que las ideas fluyan libremente; ya llegará el momento posterior para filtrarlas y elegir las mejores.
+> "No vemos el mundo como es, sino como somos". — Immanuel Kant.
 
-> "No escuches a nadie que te diga que no puedes hacer algo". — Desconocido.
+### 3. El Valor de la Pausa
+Expandir ideas requiere un momento de calma. En un mundo donde todos quieren que respondas "¡ya!", el poder de decir "déjame pensarlo y ver mis opciones" es tu mayor ventaja. Quien expande sus ideas, expande sus oportunidades de éxito(6).
 
-
-> [!IMPORTANT]
-> **Exploración Total**: Una expansión de ideas de calidad es aquella que no deja ningún cabo suelto. Entre más variables consideres al principio, menos sorpresas desagradables tendrás al final.
-
+> [!TIP]
+> **La Regla de las 3 Opciones**: Nunca tomes una decisión importante si solo tienes una o dos opciones. Busca siempre una tercera opción diferente. A veces esa tercera opción es la que combina lo mejor de las otras dos.
 
 ## ✍️ Manos a la obra
 
-Practica la expansión mental analizando un proyecto importante para tu vida:
+Usa tu visión panorámica para explorar estas situaciones y buscar opciones diferentes:
 
-| Reto: Elegir mi preparatoria | Variables a considerar(2) | Otros puntos de vista(3) | Consecuencias a futuro(6) |
+| Situación / Problema | Opción A (La obvia) | Opción B (Otra forma) | Opción C (La creativa) |
 | :--- | :--- | :--- | :--- |
-| **Paso 1: Explorar.** | Distancia, plan de estudios, talleres, costo. | Mis padres (quieren seguridad). Mis amigos (quieren estar juntos). | Elegir bien me facilitará la entrada a la universidad. |
-| **Paso 2: Profundizar.** | Horarios, transporte público, nivel de inglés. | Un estudiante actual (me dirá la verdad sobre los profes). | Si elijo una prepa muy lejos, tendré menos tiempo de descanso. |
-| **¿Qué hacer con una llanta?** | Material, resistencia, forma. | Un niño (columpio). Un jardinero (maceta). | Dura muchos años pero contamina si se quema. |
-| **Menos plástico escolar.** | Costo, bebederos, limpieza. | Cafetería (prefiere envases rápidos). | Reducimos basura y ahorramos dinero a largo plazo. |
-| **Ideas de negocio.** | Localización, menú, clientela. | Un chef (comida rica). Un contador (que deje dinero). | Puede ser el éxito de tu vida o un aprendizaje valioso. |
-| **Organizar viaje escolar.** | Presupuesto, permisos, fechas. | Profesores (quieren orden). Alumnos (quieren diversión). | Un viaje bien planeado crea recuerdos para siempre. |
-| **Mejorar mi cuarto.** | Espacio, luz, colores, presupuesto. | Interiorista (estética). Tú mismo (comodidad). | Tendrás un lugar donde te guste pasar el tiempo. |
-| **Elegir una mascota.** | Tiempo disponible, espacio, gastos. | Vecinos (que no haga ruido). Veterinario (salud animal). | Tendrás un amigo fiel pero mucha responsabilidad. |
-
+| **Quieres un juego pero no tienes dinero.** | Pedir prestado a tus papás. | Ahorrar de lo que te dan diario. | Vender cosas que ya no uses. |
+| **Tienes una pelea fuerte con un amigo.** | Dejarle de hablar por un tiempo. | Pedirle una disculpa sincera. | Buscar a alguien que los ayude a hablar. |
+| **No entiendes nada de la clase de matemáticas.** | Rendirte y sacar mala nota. | Pedirle ayuda al maestro. | Buscar tutoriales sencillos en Internet. |
+| **Quieres ir a una fiesta pero tienes tarea.** | Ir a la fiesta y no hacer nada. | No ir y terminar todo solo. | Hacer la tarea con amigos antes de ir. |
+| **Se rompió algo valioso en tu casa.** | Esconderlo y no decir nada. | Decir la verdad y pedir perdón. | Buscar cómo repararlo tú mismo. |
+| **Quieres invitar a alguien a salir.** | Mandar un mensaje de texto. | Decirlo en persona con nervios. | Invitarle a un plan con más amigos. |
+| **Elegir qué hacer el fin de semana.** | Quedarte viendo videos solo. | Salir a caminar al parque. | Organizar un juego en equipo. |
+| **Mejorar tus calificaciones.** | Estudiar mucho más tiempo. | Cambiar tu forma de estudiar. | Hacer un grupo de estudio con amigos. |
 
 ## 🌍 En tu mundo
 
-Cada vez que eliges qué celular comprar o qué ropa ponerte para una fiesta importante, estás realizando una expansión de ideas. Si solo consideras el color del celular, tu expansión es muy pobre y corres el riesgo de arrepentirte. Pero si analizas la batería, el procesador, el precio, las reseñas de otros usuarios y la garantía, estás actuando como un pensador experto que domina el universo de lo posible(1). La expansión te da libertad porque te da opciones.
+La expansión de ideas es vital cuando te sientes encerrado. Si crees que "solo hay una forma de ser feliz" o "solo hay una carrera para mí", estás viviendo en un cuarto sin ventanas. 
 
-
-## 🏆 Reto Final
-
-1. En el estudio de las habilidades del pensamiento, ¿cómo definimos correctamente la "Expansión de Ideas"?
-   - A) El acto de lograr que una imagen digital se vea mucho más grande en la pantalla.
-   - B) El proceso de abrir la mente para considerar múltiples posibilidades, variables y puntos de vista.
-   - C) El requisito de escribir un texto extremadamente largo para que parezca importante.
-   - D) El acto de olvidar intencionalmente lo que estábamos pensando para descansar.
-
-2. Dentro de las técnicas de pensamiento, ¿qué significa exactamente la frase "Considerar Variables"?
-   - A) Cambiar de opinión constantemente para confundir a las demás personas.
-   - B) Identificar todos los factores, elementos o circunstancias que influyen en una situación o problema.
-   - C) Utilizar letras del abecedario en lugar de números en un problema de matemáticas.
-   - D) Evitar tomar cualquier tipo de decisión importante hasta que pase el tiempo.
-
-3. ¿Por qué resulta sumamente útil para un estudiante considerar "Otros puntos de vista" ante un conflicto?
-   - A) Únicamente para evitar que las demás personas se enojen con nosotros.
-   - B) Porque nos ayuda a descubrir detalles y soluciones que desde nuestra propia posición ignoramos.
-   - C) Para poder copiar fielmente lo que piensan los demás y no tener que pensar nosotros.
-   - D) Realmente no es útil, ya que lo único que debe importar es nuestra propia opinión.
-
-4. ¿A qué nos referimos técnicamente cuando hablamos del "Pensamiento Divergente"?
-   - A) Al tipo de pensamiento que busca obsesivamente una sola respuesta que sea la correcta.
-   - B) Al pensamiento que se abre en muchas direcciones para buscar diferentes alternativas y opciones.
-   - C) Al pensamiento que carece de cualquier tipo de lógica o sentido común.
-   - D) Al estado mental que el cerebro utiliza exclusivamente para poder dormir profundamente.
-
-5. Durante la fase inicial de expansión de ideas, ¿cuál se considera la regla más importante de todas?
-   - A) Permitir únicamente la expresión de ideas que sean consideradas muy inteligentes.
-   - B) No juzgar ni criticar ninguna idea, permitiendo que todas fluyan libremente sin censura.
-   - C) Intentar terminar el proceso de pensamiento en menos de un minuto para ser eficientes.
-   - D) Escribir absolutamente todas las ocurrencias utilizando una pluma de color rojo.
-
-6. ¿De qué manera práctica nos ayuda el hábito de considerar las "Consecuencias" de nuestros actos?
-   - A) Generando un miedo intenso que nos impide actuar o tomar cualquier tipo de decisión.
-   - B) Permitiéndonos prever qué pasará en el futuro y tomar decisiones más responsables y completas.
-   - C) Ayudándonos a adivinar la suerte o el destino de las personas de forma mágica.
-   - D) Realmente no sirve para nada práctico en la resolución de problemas reales.
-
+Aprender a expandir tu mente te permite ver que siempre hay una salida, que siempre hay otra forma de resolver un pleito y que el mundo es mucho más grande de lo que parece. Expandir tus ideas es el primer paso para ser libre de elegir lo que realmente quieres(1).
 
 ## 🏁 Pausa para pensar
 
-1. ¿Sueles quedarte con la primera idea que se te ocurre ante un problema o te gusta dedicar tiempo a explorar más opciones?
-2. ¿De quién es el "punto de vista" que más valoras y respetas cuando tienes que resolver un dilema difícil?
-3. ¿Por qué crees que a la mayoría de las personas nos cuesta tanto trabajo pensar en las consecuencias a largo plazo de nuestras decisiones actuales?
-
+1. ¿En qué situación de tu vida sientes que decidiste algo con una visión muy "chiquita" o limitada?
+2. Si pudieras ver tu vida hoy con los ojos de tu "yo de 80 años", ¿qué consejo crees que te daría?
+3. ¿Por qué crees que a veces nos da flojera buscar más opciones y preferimos elegir la primera que aparece?
+4. ¿Cuál es el punto de vista de otra persona (P.A.O.) que más te cuesta trabajo tomar en cuenta?
 
 ## 📚 Glosario Maestro
 
-- **Expansión**: Acción de ampliar el campo de visión de un problema(1).
-- **Variable**: Cualquier factor que puede cambiar o influir en un resultado final(2).
-- **Consecuencia**: El efecto que se sigue necesariamente de una acción previa(6).
-- **Divergente**: Que se separa de un punto común para buscar nuevos horizontes(4).
-- **Empatía**: Capacidad de entender el punto de vista de otra persona(3).
-
+- **Expansión**: Ampliar nuestra mente para ver más opciones y posibilidades(1).
+- **P.A.O.**: Técnica para tomar en cuenta lo que piensan los demás(3).
+- **Consecuencias**: Lo que pasará en el futuro debido a nuestras acciones hoy(4).
+- **Variables**: Los factores que influyen en una situación (dinero, tiempo, personas).
+- **Alternativas**: Las diferentes opciones que tenemos para resolver un reto.
 
 ## 🌟 Zona de Descubrimiento
 
-- **Dato curioso 1**: La técnica de la Lluvia de Ideas fue creada en 1939 por Alex Osborn. Él descubrió que las ideas fluyen mejor cuando no hay miedo a ser juzgado.
-- **Dato curioso 2**: Leonardo da Vinci solía expandir sus ideas observando las manchas de humedad en las paredes; su mente veía en ellas mapas, batallas y paisajes enteros.
-- **Para ver**: *Los Mitchell contra las Máquinas*. Observa cómo cada miembro de la familia aporta un punto de vista único para salvar el planeta.
-- **Para explorar**: Crea un "Mapa Mental" de tu próximo gran proyecto. Al centro pon tu meta y saca ramas para cada variable. ¡Eso es expansión pura!
-- **Para conversar**: Pregúntale a un experto en cualquier tema (ej. un mecánico o un cocinero): "¿Qué es lo más raro que considera al hacer su trabajo y qué pasaría si lo ignorara?".
+- **Dato curioso 1**: Los jugadores profesionales de ajedrez no solo piensan en su siguiente jugada, sino que expanden su mente para ver hasta 15 jugadas a futuro de su oponente.
+- **Dato curioso 2**: La técnica de "Lluvia de Ideas" se inventó para obligar a las personas a decir muchas ideas locas antes de elegir una, evitando quedarse con la primera.
+- **Para ver**: *Doctor Strange*. Observa la escena donde el héroe explora millones de futuros posibles para encontrar el único donde ganan. ¡Eso es expansión extrema!
+- **Para explorar**: Prueba la técnica de "Pensar con otros zapatos". Imagina cómo resolvería tu problema tu superhéroe favorito o tu abuelo.
+- **Para conversar**: Pregúntale a un líder que admires: "¿Cuántas opciones piensa usted antes de tomar una decisión importante?".
 
+## 🏆 Reto Final
+
+1. ¿Cómo se define técnicamente el proceso de "Expansión de Ideas"?
+   - A) El acto de olvidar todas las opciones para no tener que decidir.
+   - B) Ampliar el campo de pensamiento para considerar múltiples opciones y consecuencias antes de actuar.
+   - C) Repetir la misma idea muchas veces hasta que todos estén de acuerdo.
+   - D) Cerrar los ojos para no ver los problemas que nos rodean.
+
+2. ¿Cuál es el principal riesgo de NO practicar la expansión de ideas antes de tomar una decisión?
+   - A) Que el cerebro se vuelva demasiado inteligente y no podamos dormir.
+   - B) Tomar decisiones impulsivas, incompletas o basadas en una visión limitada.
+   - C) Que todas las personas del grupo se vuelvan nuestras amigas.
+   - D) No hay ningún riesgo, ya que la primera idea siempre es la mejor.
+
+3. ¿En qué consiste la técnica denominada "P.A.O." (Puntos de Vista de Otros)?
+   - A) En obligar a los demás a que piensen exactamente igual que nosotros.
+   - B) En considerar cómo ven y sienten el problema las demás personas involucradas.
+   - C) En ignorar las opiniones de los adultos para decidir por nuestra cuenta.
+   - D) En tomar fotos de las personas sin que se den cuenta.
+
+4. ¿Para qué nos sirve considerar las "Consecuencias" (I.S.E.) antes de elegir una opción?
+   - A) Para saber si lo que vamos a hacer nos traerá beneficios o problemas a largo plazo.
+   - B) Para perder el tiempo y no tener que hacer la tarea nunca.
+   - C) Para asustarnos tanto que decidamos no hacer absolutamente nada.
+   - D) No tiene utilidad, ya que el futuro es imposible de predecir.
+
+5. ¿Cuál es la regla de oro de la expansión de ideas en cuanto a la cantidad de opciones?
+   - A) Entre menos opciones tengamos, más fácil será la vida.
+   - B) Entre más opciones generemos, más probable es encontrar una solución excelente.
+   - C) Siempre debemos elegir la opción más difícil para demostrar valor.
+   - D) Solo debemos considerar la opción que nos dé dinero rápido.
+
+6. ¿Por qué se afirma que la expansión de ideas es lo contrario a la impulsividad?
+   - A) Porque nos obliga a detenernos, reflexionar y ver el panorama completo antes de actuar.
+   - B) Porque la impulsividad es una habilidad mucho más moderna y tecnológica.
+   - C) Porque la expansión de ideas se hace solo con los ojos cerrados.
+   - D) Realmente no hay relación entre ambos conceptos.
 
 ## 🔑 Respuestas Correctas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+
+1. B | 2. B | 3. B | 4. A | 5. B | 6. A

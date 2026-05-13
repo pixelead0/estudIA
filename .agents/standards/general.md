@@ -9,8 +9,9 @@ Este documento consolida el perfil, lenguaje y diseño para todo contenido en la
 
 ## 2. Reglas de Oro del Lenguaje
 - **PROHIBIDO**:
-  - Nombres institucionales (IPN, CECyT, etc.) y jerga pedagógica (RAP, Competencia).
-  - Jerga técnica excesiva o "gamer" (Boss Fight, Loot, Spawn, Glitch) que pueda confundir a quienes no juegan.
+  - Nombres institucionales (IPN, CECyT, etc.) y jerga pedagógica (RAP, Competencia, Metacognición).
+  - Jerga técnica excesiva (Prospectiva, Costo de Oportunidad) o "gamer" (Boss Fight, Loot, Spawn, Glitch) que no sea universal.
+- **PRINCIPIO DE ACCESIBILIDAD**: No asumas que el estudiante conoce conceptos de economía, historia avanzada o tecnología. Explica todo con analogías de la vida diaria (comida, deportes, familia).
 - **PERMITIDO**: Tono de "Mentor Amigo", analogías de la vida diaria variadas, segunda persona ("Tú").
 - **OBLIGATORIO**: Explicar siempre *por qué* importa el tema (el sentido y la utilidad práctica). Conectar los conceptos abstractos directamente con la toma de decisiones cotidianas del adolescente mediante el uso de **metáforas originales y diversas**; NO repetir las mismas analogías entre módulos.
 - **ESTILO**: Frases cortas, directas y motivadoras. Evita los muros de texto. Usa comparaciones actuales pero **asegúrate de variar los contextos** (deportes, arte, ciencia, convivencia, etc.) para mantener siempre la frescura y evitar la repetitividad.
@@ -30,7 +31,7 @@ Cada módulo debe estar contenido en un archivo Markdown.
     - **Preguntas Críticas**: Cuestionamientos que despierten la curiosidad y la necesidad de encontrar una solución o respuesta.
     - **Conexión de Valor**: Presentar el tema como una "caja de herramientas", "manual" o "mapa" para navegar situaciones similares en la vida real.
 2.  **💡 ¿Cómo funciona esto?**: Explicación clara y profunda del núcleo del tema. Debe incluir:
-    - **Analogía Universal**: Uso de una comparación con procesos conocidos (deportes, tecnología, naturaleza, vida cotidiana) para simplificar conceptos complejos.
+    - **Analogía Universal**: Uso de una comparación con procesos conocidos por cualquier adolescente (cocina, herramientas de casa, transporte, escuela) para simplificar conceptos complejos. Evitar comparaciones de nicho (gaming, finanzas, ciencia ficción).
     - **Citas Maestras (Múltiples)**: Integrar diversas frases célebres a lo largo del texto que capturen la esencia de los subtemas tratados.
     - **Desglose de Conceptos**: Explicar los términos técnicos o abstractos de forma amigable y directa.
     - **Etiquetas de Referencia**: Uso obligatorio de `(N)` para conectar los párrafos con las preguntas del Reto Final.

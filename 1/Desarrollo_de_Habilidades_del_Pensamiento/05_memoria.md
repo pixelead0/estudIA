@@ -1,130 +1,122 @@
-![Memoria y Aprendizaje](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/05_DHP_concepts_memory_retention.png)
+![La Memoria](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/05_DHP_concepts_memory.png)
 
 ## 🎯 El Reto
 
-Imagina que posees una biblioteca mágica con la capacidad de guardar todos los libros del mundo. Sin embargo, hay un inconveniente: el bibliotecario es un poco distraído y, si no le indicas exactamente en qué estante poner cada libro, lo deja tirado en el suelo y se le olvida por completo que existe.
+Imagina que eres el encargado de la biblioteca más grande del mundo. Cada día llegan camiones llenos de libros, fotos, videos y mapas. Si simplemente arrojas todo al suelo en una montaña gigante, cuando alguien te pida un dato específico, jamás podrás encontrarlo. Sería como no tener nada.
 
-> "La memoria es el diario que todos cargamos con nosotros". — Oscar Wilde.
+Tu mente tiene una **Biblioteca Gigante**: la **Memoria**. Recordar no es solo "guardar" datos; es saber cómo organizarlos para poder encontrarlos cuando los necesites. 
 
-Tu **Memoria** no es un baúl estático donde simplemente echas cosas; es una red viva y dinámica de conexiones neuronales. Muchas veces decimos erróneamente "tengo mala memoria", cuando lo que realmente sucede es que no conocemos las técnicas para guardar la información de forma que podamos encontrarla después. 
+> "La memoria es el diario que todos llevamos con nosotros". — Oscar Wilde.
 
-¿Sabías que tu mente tiene un espacio virtualmente infinito pero necesita "etiquetas" inteligentes para no perderse en el caos?(1) En este módulo, aprenderás a ser el **Director de tu propia Biblioteca Mental**.
-
-> "El hombre no olvida nada, solo no sabe dónde lo guardó". — Sigmund Freud.
-
-> "La memoria es el centinela del cerebro". — Shakespeare.
-
+¿Alguna vez has tenido esa sensación de "lo tengo en la punta de la lengua" pero no sale? **Tuviste un error en tu sistema de archivo**. El reto de este módulo es que aprendas a ser el **Maestro Bibliotecario** de tu propia mente. Vamos a descubrir cómo funciona tu memoria y qué trucos puedes usar para que nada importante se pierda en el olvido.
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. Los Tres Almacenes Mentales
-Tu memoria trabaja organizadamente en tres niveles o "almacenes" diferentes:
-- **Memoria Sensorial (La Puerta)**: Dura apenas unos segundos. Es la información fugaz que captas mientras caminas (colores, ruidos). Si no le prestas atención inmediata, desaparece sin dejar rastro.
-- **Memoria a Corto Plazo (La Mesa de Trabajo)**: Es donde guardas lo que estás usando *ahora mismo*. Es temporal y se borra rápido si la información no se procesa o se usa(2). Solo puede manejar unas 7 unidades de información a la vez.
-- **Memoria a Largo Plazo (La Biblioteca)**: Aquí guardas tus recuerdos de infancia y lo que aprendes en la escuela. Lo asombroso es que no tiene un límite real conocido; entre más aprendes, más conexiones generas y más espacio creas(1).
+### 1. El Sistema de Archivo (Pasos de la Memoria)
+Para que un recuerdo se guarde bien, debe pasar por tres pasos:
+- **Registrar (Codificar)**: Es cuando la información entra. Si no pones atención, el libro llega con las hojas en blanco y no se guarda nada(1).
+- **Guardar (Almacenar)**: Es cuando pones el libro en el estante correcto de tu biblioteca mental(2).
+- **Encontrar (Recuperar)**: Es el acto de ir a buscar el libro y traerlo al presente. ¡Aquí es donde ocurren la mayoría de los olvidos!
 
-> "Una buena memoria es aquella que olvida lo irrelevante". — Aristóteles.
+### 2. Las Salas de la Biblioteca (Tipos de Memoria)
+Tu biblioteca tiene diferentes secciones según cuánto tiempo necesites guardar la información:
+- **Memoria de Instante (Sensorial)**: Dura solo unos segundos. Es lo que captas al momento (un olor, un color rápido)(3).
+- **Mesa de Trabajo (Memoria a Corto Plazo)**: Solo puedes tener unas 7 cosas a la vez aquí. Si no las guardas pronto en un estante, se borrarán muy rápido(4).
+- **Archivo Permanente (Memoria a Largo Plazo)**: Es el lugar definitivo. Aquí guardas tu nombre, cómo andar en bici o lo que aprendiste para el examen(5). Se divide en:
+    - **Datos**: Nombres, fechas, capitales.
+    - **Historias**: Tus recuerdos personales y vivencias.
+    - **Habilidades**: Cosas que tu cuerpo ya sabe hacer solo (nadar, escribir).
 
+### 3. ¿Por qué olvidamos?
+A veces olvidamos porque un recuerdo nuevo "tapa" a uno viejo, o porque dejamos de usar la información y el camino hacia ese estante se llena de polvo y ya no podemos llegar(6). 
 
-### 2. El Poder del Significado
-Es mucho más fácil recordar una canción favorita que una lista de números al azar porque la música tiene ritmo, rima y un fuerte significado emocional que ayuda al cerebro a conectarla con lo que ya sabe(3). Para que un conocimiento se quede en tu "Biblioteca" permanente, lo mejor es comprender el tema profundamente y repasarlo en sesiones cortas durante varios días(5).
-
-> "Recordar es volver a vivir". — Proverbio popular.
-
-
-### 3. Técnicas de un Maestro de la Memoria
-Existen trucos probados para ayudar a tu bibliotecario mental:
-- **Agrupación (Chunking)**: Consiste en dividir una información grande en pedazos pequeños y manejables(4).
-- **Acrónimos**: Crear una palabra nueva usando las iniciales de una lista de términos para recordarlos todos con facilidad(6).
+> "Recordar es fácil para el que tiene memoria. Olvidar es difícil para quien tiene corazón". — Gabriel García Márquez.
 
 > [!TIP]
-> **Asociación**: Conecta un dato nuevo con un recuerdo que ya tengas. Es como ponerle pegamento a la información para que no se caiga del estante.
-
+> **Repasa con tiempo**: No intentes memorizar todo un día antes del examen. La memoria funciona mejor si repasas un poco hoy, un poco mañana y otro poco en unos días. ¡Así el camino a tu recuerdo será una autopista libre!
 
 ## ✍️ Manos a la obra
 
-Aplica estas técnicas de alto rendimiento para entrenar tu retención:
+Identifica qué sección de tu biblioteca mental estás usando en cada situación del día:
 
-| Técnica Maestra | ¿Cómo se aplica? | Objetivo principal |
+| Situación del día | Tipo de Memoria que usas | ¿Para qué sirve?(3) |
 | :--- | :--- | :--- |
-| **Agrupación (Chunking).** | Divide series largas (ej. 55-12-34-88)(4). | Recordar números o listas extensas. |
-| **Visualización.** | Crea una imagen mental exagerada y loca. | Asociar nombres con rostros u objetos. |
-| **Repetición Espaciada.** | Repasa hoy, en dos días y en una semana(5). | Pasar info a la memoria de largo plazo. |
-| **Acrónimos.** | Usa iniciales para formar una palabra(6). | Memorizar pasos o listas de conceptos. |
-| **Recordar una canción.** | Memoria Auditiva y Ritmo. | Puedes cantarla en el karaoke. |
-| **Acordarte de una cara.** | Memoria Visual y Contexto. | Reconoces a las personas en la calle. |
-| **Saber sabor de un limón.** | Memoria Sensorial. | Tu boca reacciona solo de pensarlo. |
-| **Aprender las tablas.** | Memoria Semántica y Lógica. | Resuelves problemas matemáticos rápido. |
-
+| **Recordar un código que te enviaron por 10 segundos.** | Memoria a Corto Plazo. | Solo necesitas el dato para escribirlo ahora. |
+| **Saber andar en bicicleta sin caerte.** | Memoria de Habilidades. | Tu cuerpo "aprendió" el equilibrio para siempre(5). |
+| **Saber quién ganó el último partido de fútbol.** | Memoria de Datos. | Es un hecho o información del mundo. |
+| **Recordar tu fiesta de cumpleaños pasada.** | Memoria de Historias. | Es una experiencia personal con emociones. |
+| **Sentir el olor de tu comida favorita y recordar algo.** | Memoria de Instante. | El sentido dispara un recuerdo antiguo. |
+| **Seguir los pasos de una receta mientras cocinas.** | Memoria de Trabajo. | Mantienes los pasos activos mientras actúas. |
+| **Saberte la letra de tu canción preferida.** | Memoria a Largo Plazo. | Se guardó después de oírla muchas veces. |
+| **Saber que "2 + 2 = 4" sin pensarlo.** | Memoria de Datos. | Es un conocimiento básico ya archivado. |
 
 ## 🌍 En tu mundo
 
-A veces pasamos noches enteras estudiando para un examen y, al recibir la hoja, sentimos que se nos olvidó todo. Esto ocurre porque saturamos la "Mesa de Trabajo" y nunca le dimos tiempo a la información de viajar a la "Biblioteca". El sueño es vital para este proceso: mientras duermes, tu cerebro acomoda los libros importantes en su lugar definitivo. Al entender cómo funciona tu memoria, dejas de ser un estudiante que "memoriza" para convertirte en uno que realmente **aprende** para la vida(5).
+La memoria no es para repetir como perico; es para construir quién eres. Todo lo que sabes, las personas que quieres y tus habilidades existen gracias a que puedes recordar.
 
-
-## 🏆 Reto Final
-
-1. Según las investigaciones neurocientíficas, ¿cuál es el límite real de capacidad de nuestra Memoria a Largo Plazo?
-   - A) Tiene un límite estricto de aproximadamente 100 libros de texto.
-   - B) No tiene un límite real conocido; entre más aprendes, más espacio de almacenamiento generas.
-   - C) El almacenamiento se llena por completo al cumplir los 20 años de edad.
-   - D) Solo tiene la capacidad física de guardar 7 cosas importantes a la vez.
-
-2. ¿Qué sucede técnicamente con la información que se encuentra en la Memoria a Corto Plazo (Mesa de Trabajo)?
-   - A) Se queda guardada ahí para siempre de forma automática y segura.
-   - B) Es información temporal y se borra rápidamente si no se procesa o se utiliza.
-   - C) Es el lugar específico donde el cerebro guarda todos nuestros sueños.
-   - D) Es una memoria que solo funciona durante la realización de exámenes escolares.
-
-3. ¿Por qué resulta mucho más sencillo para el cerebro recordar la letra de una canción que una lista de números al azar?
-   - A) Porque el sonido de la música es mucho más ruidoso que el silencio de los números.
-   - B) Porque tiene ritmo, rima y un significado emocional que ayuda al cerebro a conectarla con otros recuerdos.
-   - C) Porque los números son considerados aburridos por naturaleza para el cerebro humano.
-   - D) Realmente no es más fácil, ambos tipos de información se guardan exactamente igual.
-
-4. ¿En qué consiste específicamente la técnica de memoria denominada "Agrupación" o Chunking?
-   - A) En olvidar intencionalmente las cosas en grupos grandes para liberar espacio mental.
-   - B) En dividir una información grande o compleja en pedazos pequeños y manejables para el cerebro.
-   - C) En escribir absolutamente todo lo que queremos recordar en un trozo de papel.
-   - D) En repetir la misma palabra mil veces seguidas hasta que se quede grabada.
-
-5. Para asegurar que un conocimiento nuevo se quede grabado permanentemente en la memoria a largo plazo, ¿cuál es la mejor estrategia?
-   - A) Estudiar durante 10 horas seguidas sin descanso la noche anterior al examen.
-   - B) Entender profundamente el tema y repasarlo en sesiones cortas durante varios días seguidos.
-   - C) Evitar dormir por completo para que el cerebro no se apague y pierda la información.
-   - D) Copiar el mismo texto cientos de veces sin detenerse a pensar en su significado.
-
-6. En el estudio de las habilidades del pensamiento, ¿qué es exactamente un "Acrónimo"?
-   - A) Es el nombre de una medicina moderna diseñada para mejorar la memoria.
-   - B) Es una palabra formada por las iniciales de otras palabras para recordarlas mucho mejor.
-   - C) Es el nombre técnico que recibe un tipo de neurona encargada del olvido.
-   - D) Es un pequeño dispositivo electrónico que se utiliza para grabar audio.
-
+En tu vida escolar, usar trucos como los **Mapas con dibujos** o **Asociaciones** (conectar un dato aburrido con algo divertido) ayuda a que tu mente trabaje menos y encuentre todo más rápido(6). Una buena memoria no es la que guarda todo, sino la que sabe qué es lo importante y cómo encontrarlo cuando hay presión.
 
 ## 🏁 Pausa para pensar
 
-1. ¿Cuál es el recuerdo más antiguo que conservas en tu mente y por qué crees que se quedó guardado con tanta fuerza?
-2. ¿Qué técnica personal utilizas tú para aprenderte las letras de tus canciones favoritas en un idioma diferente?
-3. ¿Crees que el hecho de tener toda la información disponible en internet está debilitando nuestra capacidad de memoria natural?
-
+1. ¿Cuál es el recuerdo más antiguo que tienes en tu mente y por qué crees que se quedó ahí tanto tiempo?
+2. ¿Qué técnica usas para estudiar cuando tienes que aprenderte muchas cosas difíciles?
+3. ¿Por qué crees que a veces olvidamos cosas importantes (como la tarea) pero recordamos cosas que no sirven (como un comercial)?
+4. Si pudieras borrar un solo recuerdo de tu mente, ¿lo harías o crees que hasta los malos recuerdos nos enseñan algo?
 
 ## 📚 Glosario Maestro
 
-- **Memoria**: Capacidad de registrar, conservar y recuperar experiencias pasadas(1).
-- **Codificación**: El proceso de etiquetar la información para que el cerebro la entienda.
-- **Evocación**: El acto de "llamar" a un recuerdo cuando lo necesitamos.
-- **Olvido**: La pérdida de acceso a una información que no se usó o no se guardó bien.
-- **Mnemonotecnia**: Cualquier truco o técnica que facilite el acto de recordar.
-
+- **Memoria**: Capacidad de registrar, guardar y encontrar información(1).
+- **Registro (Codificación)**: El momento en que la información entra a la mente(2).
+- **Corto Plazo**: Memoria que dura pocos segundos y guarda poca información(4).
+- **Largo Plazo**: Almacén permanente de recuerdos y habilidades(5).
+- **Evocación**: El acto de traer un recuerdo al presente.
 
 ## 🌟 Zona de Descubrimiento
 
-- **Dato curioso 1**: Sabías que dormir bien es fundamental. Mientras duermes, tu cerebro "limpia" tu mesa de trabajo y acomoda los conocimientos importantes en la biblioteca.
-- **Dato curioso 2**: Existen campeonatos mundiales de memoria donde personas logran recordar el orden de 52 barajas de cartas en menos de 20 segundos.
-- **Para ver**: *Memento*. Una película sobre un hombre que no puede crear nuevos recuerdos y tiene que usar fotos y tatuajes como su "memoria externa".
-- **Para explorar**: Investiga cómo crear un "Palacio de la Memoria". Es una técnica milenaria para recordar listas enormes de información.
-- **Para conversar**: Pregúntale a un abuelo o adulto mayor: "¿Cuál es el consejo o enseñanza que ha guardado con más cariño en su memoria durante toda su vida?".
+- **Dato curioso 1**: Tu cerebro tiene una capacidad gigante. ¡Podría guardar millones de horas de tus series favoritas sin llenarse!
+- **Dato curioso 2**: Dormir bien es clave para la memoria. Mientras duermes, tu mente aprovecha para organizar todos los libros que llegaron en el día.
+- **Para ver**: *Intensamente*. Mira cómo se guardan los recuerdos en esferas de colores y cómo algunos se van olvidando.
+- **Para explorar**: Intenta memorizar una lista de 10 palabras inventando una historia loca que las una. Verás que es mucho más fácil.
+- **Para conversar**: Pregúntale a un abuelo: "¿Cuál es el secreto para no olvidar las historias importantes de la familia?".
 
+## 🏆 Reto Final
+
+1. ¿Cuáles son los tres pasos indispensables de la memoria según la psicología?
+   - A) Leer, escribir y repetir en voz alta muchas veces.
+   - B) Registro (codificación), Guardar (almacenar) y Encontrar (recuperar).
+   - C) Olvidar, recordar y volver a olvidar de forma selectiva.
+   - D) Dormir, comer y hacer ejercicio mental diariamente.
+
+2. ¿Cuál es la característica principal de la "Memoria a Corto Plazo"?
+   - A) Que puede guardar una cantidad infinita de datos durante toda la vida.
+   - B) Que tiene una capacidad limitada (unos 7 elementos) y dura pocos segundos.
+   - C) Que solo funciona cuando estamos bajo mucha presión o estrés.
+   - D) Que se encarga de guardar únicamente los nombres de nuestros familiares.
+
+3. ¿A qué nos referimos con la "Memoria de Habilidades" (procedimental)?
+   - A) Al recuerdo de datos históricos y fechas de batallas importantes.
+   - B) A la capacidad de recordar eventos emocionales de nuestra infancia.
+   - C) Al aprendizaje de habilidades físicas, como andar en bici o escribir.
+   - D) Al proceso de olvidar intencionalmente las reglas de un juego.
+
+4. ¿Qué es técnicamente "Recuperar" en el proceso de la memoria?
+   - A) El momento en que la información entra por primera vez a los sentidos.
+   - B) El acto de localizar y traer al presente la información que ya estaba guardada.
+   - C) El proceso de borrar los recuerdos que ya no nos sirven.
+   - D) La capacidad de inventar recuerdos nuevos que nunca pasaron.
+
+5. ¿Cuál es una causa del olvido llamada "Interferencia"?
+   - A) Cuando un recuerdo nuevo o muy parecido impide que encontremos uno viejo.
+   - B) Cuando el cerebro se apaga por completo por el cansancio.
+   - C) Cuando decidimos no estudiar por flojera.
+   - D) Realmente la interferencia no tiene relación con el olvido.
+
+6. ¿Por qué es importante dormir bien para tener una buena memoria en la escuela?
+   - A) Porque durante el sueño el cerebro organiza y guarda lo que aprendimos.
+   - B) Porque así se gasta menos energía y el cerebro descansa de pensar.
+   - C) Porque es una regla de salud que no afecta realmente a la inteligencia.
+   - D) Porque la mente solo trabaja cuando hay luz de sol.
 
 ## 🔑 Respuestas Correctas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+
+1. B | 2. B | 3. C | 4. B | 5. A | 6. A
