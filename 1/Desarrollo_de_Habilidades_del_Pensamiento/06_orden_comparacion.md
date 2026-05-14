@@ -25,6 +25,11 @@ Clasificar es juntar las cosas en grupos según una regla(4). Para que tu organi
 ### 3. La Característica Clave (Variable)
 Para organizar bien, debes elegir qué vas a observar: ¿el tamaño?, ¿el precio?, ¿el color?, ¿la utilidad?(6). A esto le llamamos **Variable**. Si cambias la variable, el orden de todas tus cosas cambiará por completo.
 
+### 4. Desarmar y Volver a Armar (Análisis y Síntesis)
+A veces, los problemas o los temas que tenemos que estudiar parecen imposibles de entender por lo grandes que son. Para dominar lo complejo, tu mente usa dos trucos maestros que funcionan en equipo:
+- **Análisis (Desarmar)**: Imagina que quieres saber cómo funciona un motor. No basta con verlo por fuera; tienes que abrirlo y separar cada pieza. Analizar es exactamente eso: dividir un problema enorme o un texto largo en partes pequeñas para entender cada detalle por separado. Si un tema es muy largo, analízalo dividiéndolo por subtemas.
+- **Síntesis (Armar)**: Una vez que entiendes las piezas sueltas, no puedes dejarlas tiradas. La síntesis es volver a armar el motor, pero quedándote solo con lo esencial. Tomas las partes principales que encontraste en tu análisis y las unes para crear un resumen corto, un mapa mental o una conclusión clara que puedas explicar fácilmente a otros.
+
 > "Un lugar para cada cosa y cada cosa en su lugar". — Benjamin Franklin.
 
 > [!TIP]
@@ -41,9 +46,9 @@ Entrena tu capacidad de organizar clasificando estas situaciones de tu vida:
 | **Tu música favorita.** | Género o ritmo. | Trap / Pop / Para estudiar. | Eliges la canción según tu humor. |
 | **La ropa en tu cuarto.** | Tipo de prenda. | Camisetas / Pantalones / Tenis. | Te vistes más rápido. |
 | **Tus gastos de la semana.** | Importancia. | Necesario / Capricho. | Ahorras para lo que quieres. |
-| **Tus contactos de chat.** | Cercanía. | Mejores amigos / Grupos. | Sabes a quién responder primero. |
 | **Los temas de este curso.** | Dificultad. | Fácil / Para repasar más. | Estudias de forma inteligente. |
-| **Tus metas para el año.** | Tiempo. | Pronto / En vacaciones. | Mantienes el enfoque en tus sueños. |
+| **Dividir la historia de México por siglos.** | Análisis (Desarmar). | Romper en partes para estudiar mejor. | Entiendes cada detalle por separado. |
+| **Hacer un mapa mental de todo un libro.** | Síntesis (Armar). | Unir las ideas principales en una sola. | Creas un resumen claro y fácil. |
 
 ## 🌍 En tu mundo
 
@@ -64,7 +69,9 @@ En la escuela, organizar los temas de un examen te ayuda a estudiar sin estrés.
 - **Semejanza**: Lo que tienen en común o igual dos elementos(2).
 - **Diferencia**: Lo que distingue a una cosa de otra(3).
 - **Clasificación**: Agrupar cosas en categorías según una regla o criterio(4).
-- **Variable**: La característica que eliges para comparar o clasificar (color, tamaño, etc.)(6).
+- **Variable**: La característica que eliges para clasificar (color, tamaño, etc.)(6).
+- **Análisis**: Dividir un problema complejo en partes pequeñas para entenderlo.
+- **Síntesis**: Volver a armar las partes importantes para crear una conclusión o resumen.
 
 ## 🌟 Zona de Descubrimiento
 
@@ -108,18 +115,18 @@ En la escuela, organizar los temas de un examen te ayuda a estudiar sin estrés.
    - C) Separar a los alumnos en grupos de amigos para que puedan platicar más.
    - D) No tiene ningún objetivo, ya que el orden no influye en el aprendizaje.
 
-5. ¿Qué significa que una clasificación deba ser "Excluyente"?
-   - A) Que un elemento no puede pertenecer a dos categorías al mismo tiempo bajo la misma regla.
-   - B) Que debemos dejar fuera de la clase a los alumnos que no tengan sus materiales listos.
-   - C) Que solo las personas más inteligentes pueden participar en el proceso de orden.
-   - D) Que las cosas deben ser destruidas después de haber sido clasificadas una vez.
+5. Si un maestro te pide que estudies cómo funciona un motor separando y entendiendo cada una de sus piezas, ¿qué proceso estás usando?
+   - A) Síntesis.
+   - B) Olvido selectivo.
+   - C) Análisis.
+   - D) Comparación de colores.
 
-6. ¿Por qué se afirma que el orden externo (en tu cuarto o mochila) ayuda al orden interno (en tus pensamientos)?
-   - A) Porque es una regla de limpieza que todos los adultos repiten siempre.
-   - B) Porque reduce las distracciones y ayuda a que el cerebro se enfoque en lo importante.
-   - C) Porque las cosas ordenadas tienen una energía especial que te hace más listo.
-   - D) Realmente no existe ninguna relación entre el orden físico y el pensamiento.
+6. ¿En qué consiste exactamente el proceso de "Síntesis" en el aprendizaje?
+   - A) En olvidar por completo los detalles de una lectura.
+   - B) En desarmar un problema en miles de pedacitos para siempre.
+   - C) En unir las piezas o ideas principales que analizaste para crear un resumen claro o conclusión.
+   - D) En clasificar la ropa de tu cuarto por colores.
 
 ## 🔑 Respuestas Correctas
 
-1. B | 2. B | 3. B | 4. A | 5. A | 6. B
+1. B | 2. B | 3. B | 4. A | 5. C | 6. C

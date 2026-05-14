@@ -29,6 +29,10 @@ Un pensador experto sabe cuándo "cambiar de chip". No se trata de ser solo lóg
 
 > "La medida de la inteligencia es la capacidad de cambiar". — Albert Einstein.
 
+### 4. ¿Qué es la Inteligencia?
+Por mucho tiempo se creyó que la inteligencia era sacar puros dieces o saber muchos datos de memoria. Hoy la ciencia nos dice que es mucho más que eso. La verdadera inteligencia es tu capacidad para **adaptarte a los cambios, aprender de tus errores y resolver problemas** en diferentes situaciones. 
+Imagina que la inteligencia es como ser un buen capitán de barco: no se trata de saberse todo el mapa de memoria, sino de saber qué hacer cuando te sorprende una tormenta. Eres inteligente cuando sabes qué herramienta mental sacar de tu cinturón para enfrentar un reto nuevo con éxito. ¡Por eso la inteligencia no es un talento fijo, es un músculo que todos podemos entrenar!
+
 > [!TIP]
 > **Cambia el modo**: Antes de rendirte con un problema, pregúntate: "¿Qué herramienta estoy usando?". Si la lógica no funciona para entender a un amigo, prueba con la empatía o la creatividad. ¡Tú eliges el modo de tu mente!
 
@@ -44,6 +48,7 @@ Identifica qué herramienta mental es la mejor para cada misión:
 | **Organizar un torneo con muchos equipos.** | Pensamiento de Conjunto. | Debes ver cómo cada parte afecta al resto. |
 | **Elegir qué carrera o prepa estudiar.** | Pensamiento Crítico y Lógico. | Analizas tus gustos y la realidad futura. |
 | **Arreglar una fuga de agua en casa.** | Pensamiento Lógico. | Sigues la ruta del agua y las piezas. |
+| **Te cambian las reglas del juego y logras ganar.** | Inteligencia (Adaptabilidad). | Ajustas tu estrategia rápido ante el cambio. |
 | **Escribir una canción o un poema.** | Pensamiento Creativo. | Buscas emocionar con ideas originales. |
 | **Debatir un tema difícil en clase.** | Pensamiento Crítico. | Buscas argumentos sólidos y pruebas reales. |
 
@@ -66,6 +71,7 @@ En tu vida personal, el pensamiento **de Conjunto** te ayuda a entender que una 
 - **Creativo**: Capacidad de generar ideas originales y diferentes(2).
 - **Crítico**: Pensamiento que cuestiona y analiza la información antes de creerla(3).
 - **Sistémico (de Conjunto)**: Ver cómo se conectan todas las partes de un problema(4).
+- **Inteligencia**: Capacidad de adaptarse a los cambios, aprender de los errores y resolver problemas.
 - **Inducción**: Buscar una regla general a partir de casos pequeños.
 
 ## 🌟 Zona de Descubrimiento
@@ -116,12 +122,12 @@ En tu vida personal, el pensamiento **de Conjunto** te ayuda a entender que una 
    - C) Para no tener que estudiar ninguna materia nunca más.
    - D) Realmente no sirve de nada, con un solo tipo es suficiente.
 
-6. ¿Por qué se dice que el pensamiento es una habilidad que se puede entrenar?
-   - A) Porque el cerebro se fortalece con nuevos retos y prácticas.
-   - B) Porque es una regla de los maestros para que trabajemos más.
-   - C) Porque se ha descubierto que pensar es un deporte olímpico.
-   - D) Realmente no se puede entrenar; uno nace pensando bien o mal.
+6. Según la ciencia actual, ¿qué es verdaderamente la "Inteligencia"?
+   - A) Únicamente la capacidad de sacar calificaciones perfectas en los exámenes.
+   - B) La capacidad de memorizar libros enteros sin olvidar ninguna palabra.
+   - C) La capacidad de adaptarte a los cambios, aprender de tus errores y resolver problemas.
+   - D) Un talento fijo y mágico con el que solo nacen los genios.
 
 ## 🔑 Respuestas Correctas
 
-1. B | 2. B | 3. A | 4. B | 5. B | 6. A
+1. B | 2. B | 3. A | 4. B | 5. B | 6. C

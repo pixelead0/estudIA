@@ -18,13 +18,19 @@ Para que una idea sea buena, debe recorrer este camino sin bloqueos:
 - **Proceso**: Es el taller de transformación. Aquí es donde tu cerebro compara, analiza, organiza y usa su memoria para darle sentido a la información(2). Es el "corazón" del pensamiento.
 - **Salida (Output)**: Es el producto final. Es tu respuesta, tu decisión o tu acción en el mundo(3). Si el proceso fue bueno, tu salida será inteligente y clara.
 
-### 2. Los Enemigos del Proceso
+### 2. Las Formas del Pensamiento
+En tu fábrica mental, la materia prima no se queda igual; va subiendo de nivel hasta convertirse en algo poderoso. Para los expertos de la lógica, el pensamiento tiene tres formas principales:
+- **Idea o Concepto**: Es el nivel más básico. Es simplemente la imagen de algo en tu mente, sin decir si es bueno o malo, verdadero o falso. Por ejemplo, pensar en la palabra "teléfono" o "manzana". Solo tienes el concepto puro.
+- **Juicio**: Aquí es donde empieza la acción. Es cuando tomas dos o más conceptos y los unes para afirmar o negar algo. Por ejemplo: "Este teléfono es rápido" o "La manzana no está madura". Al hacer un juicio, ya estás tomando una postura.
+- **Razonamiento**: Es el nivel de los expertos. Ocurre cuando conectas varios juicios que ya conoces para descubrir una verdad nueva que no sabías. Por ejemplo: "Si todas las manzanas son frutas (Juicio 1) y esto es una manzana (Juicio 2), entonces esto tiene que ser una fruta (Conclusión)". ¡Es como construir una escalera mental!
+
+### 3. Los Enemigos del Proceso
 Existen factores que pueden arruinar tu producción de ideas:
 - **El Ruido**: Cualquier distracción (sonidos, mensajes, preocupaciones) que ensucie tu fase de Entrada.
 - **La Falta de Datos**: Si no tienes información guardada en tu memoria(4), el Proceso no tendrá con qué trabajar.
 - **La Impulsividad**: Saltar directamente de la Entrada a la Salida sin pasar por el Proceso. ¡Es la receta perfecta para el error!
 
-### 3. Evaluar el Resultado (Retroalimentación)
+### 4. Evaluar el Resultado (Retroalimentación)
 Un buen pensador no solo actúa y se olvida. Al terminar una tarea o una plática, se pregunta: "¿Salió como esperaba?", "¿Qué puedo mejorar la próxima vez?". A esto se le llama **Retroalimentación**(5). Es el control de calidad de tu mente.
 
 > "La vida es un proceso de aprendizaje constante". — Desconocido.
@@ -41,10 +47,10 @@ Supervisa el camino de una idea en estas situaciones comunes:
 | **Lees una pregunta de un examen.** | Analizas las palabras y buscas en tu memoria(4). | Escribes la respuesta correcta. |
 | **Ves que un amigo está triste.** | Comparas su cara con tus recuerdos de tristeza. | Le ofreces tu apoyo o ayuda. |
 | **Escuchas un chisme en la escuela.** | Dudas de si es cierto y buscas pruebas. | Decides no creerlo ni repetirlo. |
-| **Ves una oferta increíble en Internet.** | Evalúas si es real o un engaño. | Decides si es una oportunidad o un riesgo. |
+| **Piensas: "Esta manzana es roja".** | Juicio. | Tomas una postura uniendo dos conceptos. |
 | **Recibes un mensaje pesado en redes.** | Controlas el enojo y piensas las consecuencias. | Respondes con calma o ignoras. |
 | **Aprendes una nueva técnica en un deporte.** | Relacionas el movimiento con lo que ya sabes. | Ejecutas el movimiento con éxito. |
-| **Ves un semáforo en amarillo.** | Calculas la distancia y la velocidad. | Decides frenar o avanzar con cuidado. |
+| **Deduces: "Si todos los perros ladran y esto es un perro, entonces ladra".** | Razonamiento. | Creas una verdad nueva conectando juicios. |
 | **Sientes olor a humo en tu casa.** | Identificas el peligro y buscas de dónde viene. | Avisas a un adulto y te pones a salvo. |
 
 ## 🌍 En tu mundo
@@ -65,7 +71,9 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
 - **Entrada (Input)**: Recibir información a través de los sentidos(1).
 - **Proceso**: Analizar y organizar la información en el cerebro(2).
 - **Salida (Output)**: La respuesta final en forma de decisión o acción(3).
-- **Retroalimentación**: Evaluar el resultado para mejorar en el futuro(5).
+- **Idea o Concepto**: La imagen pura de algo en tu mente, sin afirmar ni negar nada.
+- **Juicio**: La unión de dos o más conceptos para afirmar o negar algo.
+- **Razonamiento**: Conectar juicios conocidos para descubrir una verdad nueva.
 - **Impulsividad**: El error de actuar sin procesar la información.
 
 ## 🌟 Zona de Descubrimiento
@@ -104,17 +112,17 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
    - C) Se genera un ruido blanco que nos impide pensar con claridad.
    - D) Es el momento en que nos quedamos dormidos profundamente.
 
-4. ¿Cuál de los siguientes es un ejemplo de una "Salida" (Output) del pensamiento?
-   - A) Ver una luz roja en el semáforo.
-   - B) Escuchar el sonido de una campana.
-   - C) Decidir frenar el auto ante un obstáculo en el camino.
-   - D) Tener hambre después de oler comida deliciosa.
+4. En las formas del pensamiento, ¿qué es un "Juicio"?
+   - A) La imagen básica y pura de algo en la mente sin afirmar nada.
+   - B) Unir dos o más conceptos para afirmar o negar algo (ej. "el auto es rojo").
+   - C) La acción de actuar por puro impulso sin pensar.
+   - D) Es la primera fase del acto mental donde usamos los sentidos.
 
-5. ¿Qué es la "Retroalimentación" y por qué es vital para el desarrollo del pensamiento?
-   - A) Es comer alimentos sanos para que el cerebro tenga más energía.
-   - B) Es evaluar nuestra respuesta final para corregir y mejorar procesos futuros.
-   - C) Es repetir de memoria exactamente lo mismo que nos dijeron otros.
-   - D) Realmente no tiene ninguna utilidad práctica en el mundo real.
+5. ¿Cuál es el nivel más alto del pensamiento según la lógica, donde conectas juicios para descubrir una verdad nueva?
+   - A) La idea.
+   - B) El concepto.
+   - C) El razonamiento.
+   - D) La distracción visual.
 
 6. ¿Cuál es la consecuencia principal de ser una persona "impulsiva" en términos de este modelo?
    - A) Que la fase de Entrada es demasiado lenta y aburrida.
@@ -124,4 +132,4 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
 
 ## 🔑 Respuestas Correctas
 
-1. B | 2. B | 3. A | 4. C | 5. B | 6. B
+1. B | 2. B | 3. A | 4. B | 5. C | 6. B

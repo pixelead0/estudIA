@@ -25,8 +25,8 @@ Un científico, por ejemplo, no solo usa fórmulas; usa la creatividad para inve
 Para los expertos, la creatividad tiene cuatro características que puedes desarrollar paso a paso:
 - **Fluidez**: Tu capacidad de soltar muchísimas ideas en muy poco tiempo(2).
 - **Flexibilidad**: La habilidad de cambiar de plan y ver el problema desde muchos lados (como si le dieras vueltas a un objeto).
-- **Originalidad**: Crear algo que sea único y que no sea una copia de lo que ya existe(3).
-- **Elaboración**: Ponerle detalle y cuidado a tu idea para que funcione de verdad en la realidad(4).
+- **Originalidad**: Crear algo que tenga un toque único o una firma tuya, asegurando que no sea una simple copia de lo que ya existe(3).
+- **Viabilidad**: Este es el paso que separa a los soñadores de los inventores. Tener una idea increíble es fácil, pero la viabilidad significa analizar con honestidad si esa idea es posible de construir en la vida real. ¿Tienes los materiales? ¿Cuánto tiempo tomará? La verdadera creatividad consiste en asegurar que la idea funcione en el mundo físico(4).
 
 ### 3. Mezclar para Crear
 La creatividad no aparece de la nada. Es el resultado de observar tu entorno, guardar experiencias en tu memoria y luego tener la valentía de mezclarlas. Crear es como cocinar: tomas ingredientes que ya existen (tus recuerdos, tus gustos, lo que ves) y los unes para crear un platillo nuevo.

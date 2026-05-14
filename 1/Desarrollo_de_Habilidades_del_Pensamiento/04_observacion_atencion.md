@@ -12,18 +12,26 @@ Tu mente funciona exactamente como esa **Linterna Mental**. En tu vida diaria, r
 
 ## 💡 ¿Cómo funciona esto?
 
-### 1. Ver vs. Observar (Percepción vs. Observación)
-Para los expertos, estas dos acciones son diferentes:
-- **Percepción**: Es el acto automático de recibir información (escuchar un ruido, ver una luz)(1). Pasa aunque no quieras.
-- **Observación**: Es cuando decides enfocar tu luz en algo específico para entenderlo(2). Es ver con un propósito claro.
+### 1. Sensopercepción: Cuando el cerebro interpreta
+Tus ojos, oídos y piel actúan como antenas que captan señales del exterior (Sensación). Sin embargo, es tu cerebro quien recibe esas señales y les da un significado lógico (Percepción). A este increíble trabajo en equipo se le conoce como **Sensopercepción**(1). Pero debes tener cuidado, porque el cerebro a veces usa "atajos" rápidos que nos engañan:
+- **Las Leyes de la Gestalt**: En psicología, "Gestalt" significa forma o patrón. Tu mente odia el caos visual, así que agrupa automáticamente las cosas para darles sentido rápido. Por ejemplo:
+    - *Ley de Cierre*: Si a un dibujo de un círculo le falta un pedazo, tu mente "cierra" el espacio imaginando la línea que falta.
+    - *Ley de Proximidad*: Si ves muchos puntos juntos, tu cerebro los agrupa y los ve como una sola línea en lugar de ver puntos sueltos.
+- **La Ilusión**: Ocurre cuando percibes mal un objeto que *sí es real*. Un ejemplo clásico es ver un suéter oscuro en una silla y, por un segundo en la oscuridad, pensar que es un monstruo. ¡El objeto existe, pero la interpretación falla!
+- **La Alucinación**: Esto es un cortocircuito en el sistema. Ocurre cuando tu mente inventa o ve algo que *no existe en absoluto* en la realidad física (como escuchar una voz en una habitación vacía).
 
-### 2. Los Modos de tu Linterna (Tipos de Atención)
+### 2. Observar: El Control Manual
+Mientras que la percepción es automática, la **Observación** es voluntaria(2). Es cuando decides enfocar tu luz mental en un objetivo claro para estudiarlo a fondo. Los expertos la dividen en dos tipos:
+- **Directa**: Cuando tú mismo estás en contacto con lo que observas (ej. ver un experimento de química con tus propios ojos).
+- **Indirecta**: Cuando aprendes a través de lo que otros observaron (ej. leer sobre el experimento en un libro o verlo en un video).
+
+### 3. Los Modos de tu Linterna (Tipos de Atención)
 Tu linterna mental tiene tres modos según lo que necesites:
 - **Atención de Enfoque (Selectiva)**: Cuando decides iluminar solo una cosa e ignorar todo lo demás (como leer un libro en un lugar ruidoso).
 - **Atención Firme (Sostenida)**: Cuando logras mantener la luz quieta durante mucho tiempo en la misma tarea (como estudiar para un examen difícil)(3).
 - **Atención Dividida**: Cuando intentas iluminar dos cosas a la vez (como escuchar música mientras haces tarea). ¡Cuidado! Este modo gasta mucha energía y puedes cometer errores.
 
-### 3. El Límite de tus Sentidos
+### 4. El Límite de tus Sentidos
 No todo lo que pasa entra en tu mente. Existen los **Límites Sensoriales**: si un sonido es muy bajito o una luz muy débil, no la percibes. Además, nuestro cerebro se acostumbra a las cosas (como el ruido de un ventilador) y deja de notarlas para ahorrar energía(6).
 
 > "Saber observar es saber descubrir". — Desconocido.
@@ -42,6 +50,8 @@ Entrena tu linterna mental identificando qué tipo de atención o percepción ne
 | **Tomar notas mientras el maestro habla.** | Atención Dividida. | Procesas lo que oyes y lo que escribes a la vez. |
 | **Buscar una palabra en el diccionario.** | Observación y Búsqueda. | No lees todo, solo buscas tu objetivo(2). |
 | **Notar un error de escritura en un mensaje.** | Percepción Detallada. | Tu luz detecta lo que "no encaja" en el patrón. |
+| **Ver un círculo incompleto pero saber qué es.** | Gestalt (Ley de Cierre). | Tu cerebro "rellena" lo que falta para dar sentido. |
+| **Asustarte con una chamarra creyendo que es alguien.** | Ilusión. | Tu cerebro interpretó mal algo real en la oscuridad. |
 | **Cruzar una calle con mucho tráfico.** | Atención Dividida y Enfoque. | Debes ver autos, semáforos y personas. |
 | **Leer un libro que te encanta en tu cama.** | Atención Firme (Sostenida). | Te sumerges en la historia sin distracciones. |
 | **Escuchar que dicen tu nombre en una fiesta.** | Percepción Automática. | Tu cerebro detecta señales importantes aun en el caos. |
@@ -61,8 +71,11 @@ Cuando decides apagar las notificaciones para estudiar o cuando miras a los ojos
 
 ## 📚 Glosario Maestro
 
-- **Percepción**: Recibir información del mundo de forma automática(1).
-- **Observación**: Enfocar la atención de forma voluntaria para entender algo(2).
+- **Percepción**: Recibir e interpretar información del mundo de forma automática(1).
+- **Observación**: Enfocar la atención de forma voluntaria para entender algo a fondo(2).
+- **Leyes de Gestalt**: Atajos del cerebro para agrupar y dar sentido rápido a lo que vemos.
+- **Ilusión**: Percibir o interpretar de forma equivocada un objeto que sí es real.
+- **Alucinación**: Cortocircuito donde la mente percibe algo que no existe en absoluto.
 - **Atención de Enfoque**: Capacidad de concentrarse en una sola cosa ignorando distracciones(3).
 - **Atención Firme**: Mantener el enfoque en una tarea por mucho tiempo.
 - **Atención Dividida**: Intentar procesar dos o más cosas al mismo tiempo.
@@ -109,18 +122,18 @@ Cuando decides apagar las notificaciones para estudiar o cuando miras a los ojos
    - C) A dividir el grupo en dos equipos para realizar un concurso de atención.
    - D) A cuando la atención se corta a la mitad debido a un sonido muy fuerte.
 
-5. ¿Qué importancia tiene el proceso de "Observación" para el aprendizaje?
-   - A) Es el paso inicial que nos permite recopilar datos precisos y descubrir cómo funciona el mundo.
-   - B) No tiene ninguna importancia, ya que lo más valioso es siempre la opinión personal.
-   - C) Sirve únicamente para que los dibujos en los cuadernos queden mucho más bonitos.
-   - D) Es un proceso que solo deben realizar las personas que trabajan en laboratorios.
+5. Según las Leyes de la Gestalt, ¿qué hace tu cerebro si a la silueta de un perro le falta un pedazo?
+   - A) Sufre una alucinación y ve un gato en su lugar.
+   - B) "Cierra" el espacio imaginando la línea que falta para que tenga sentido.
+   - C) Deja de funcionar y se reinicia por completo.
+   - D) Ve los puntos por separado sin lograr entender el dibujo.
 
-6. ¿Por qué se dice que el celular es un "hacker" de nuestra atención?
-   - A) Porque emite ondas que borran físicamente los recuerdos del cerebro.
-   - B) Porque sus notificaciones y colores están diseñados para atraer nuestra atención y robársela.
-   - C) Porque todos los celulares tienen virus que afectan la vista de los estudiantes.
-   - D) Realmente el celular ayuda a que la atención sea mucho más profunda y duradera.
+6. ¿Cuál es la diferencia exacta entre una "Ilusión" y una "Alucinación"?
+   - A) En la ilusión el objeto es real pero se interpreta mal; en la alucinación el objeto no existe en absoluto.
+   - B) La ilusión es un problema de los oídos y la alucinación es un problema de los ojos.
+   - C) Son exactamente lo mismo, dos formas de nombrar la falta de atención.
+   - D) La ilusión ocurre de día y la alucinación solo ocurre de noche.
 
 ## 🔑 Respuestas Correctas
 
-1. B | 2. B | 3. A | 4. B | 5. A | 6. B
+1. B | 2. B | 3. A | 4. B | 5. B | 6. A
