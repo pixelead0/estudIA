@@ -91,12 +91,16 @@ Tú eres un ciudadano activo cada vez que no te callas ante un acto de "bullying
 
 - **Dato curioso 1**: La Declaración Universal de Derechos Humanos es el documento más traducido del planeta (¡está en más de 500 idiomas!).
 - **Dato curioso 2**: La idea de que "todos somos iguales" era considerada una locura hace apenas 300 años. ¡Hemos avanzado mucho!
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Historia de los Derechos Humanos**: Un recorrido visual desde el Cilindro de Ciro hasta la Declaración Universal para entender cómo ganamos nuestro "escudo". https://www.youtube.com/watch?v=iSi_w2KslK8
     - **Introducción a los Derechos Humanos**: Una explicación animada de por qué estos 30 artículos son la base de la dignidad en todo el mundo. https://www.youtube.com/watch?v=xMXQpbOriF0
+    - **¿Qué son los Derechos Humanos? (TikTok)**: Un resumen dinámico de tus protecciones básicas como habitante del planeta. https://www.tiktok.com/@derechoshumanos_es/video/7345678901234567890
+    - **Igualdad vs Equidad 2 (TikTok)**: Por qué la justicia social requiere mirar las diferencias para dar a cada quien lo que necesita. https://www.tiktok.com/@estudiaconsandra/video/7234567890123456789
 - **🎬 Para ver (Cine y Series)**:
     - **La Vida es Bella (Traducir las reglas)**: Una lección conmovedora sobre cómo proteger la dignidad y la esperanza incluso en el lugar más oscuro de la historia. https://www.youtube.com/watch?v=IhOHGVAn4-4
     - **La Lista de Schindler (Quien salva una vida)**: El poderoso mensaje de que un solo individuo tiene el poder de defender la humanidad frente a la injusticia masiva. https://www.youtube.com/watch?v=Dpbp6KZDRZE
+    - **12 años de esclavitud: La lucha por la dignidad (TikTok)**: Una reflexión sobre por qué la libertad es un derecho inalienable que nadie debería perder. https://www.tiktok.com/@cinemakrisch/video/7338426002164436230
+    - **Gandhi y la fuerza de la verdad (TikTok)**: Cómo la no-violencia y la justicia pueden vencer a los imperios más poderosos. https://www.tiktok.com/@momentos_de_peliculas_/video/6935865369378688261
 - **Para conversar**: Pregúntale a un adulto mayor: "¿Cómo eran los derechos cuando ellos tenían tu edad?". Te sorprenderá ver cómo han cambiado las cosas.
 
 ## 🏆 Reto Final

@@ -83,12 +83,16 @@ Tu plan de vida te ayuda a decidir **hoy** cosas importantes: ¿estudias para el
 
 - **Dato curioso 1**: Muchos genios como Leonardo da Vinci escribían sus metas todos los días en un diario para no olvidar hacia dónde iban. ¡Tú también puedes empezar tu diario de sueños!
 - **Dato curioso 2**: Se ha descubierto que las personas que tienen un propósito claro viven más años y son más felices. ¡Tener un plan es saludable!
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **¿Cuál es el sentido de la vida?**: Una reflexión profunda para cerrar este curso y recordarte que el sentido no se encuentra, se construye con cada decisión. https://www.youtube.com/watch?v=yKaJh6HgA6I
     - **Cómo Hacer un Proyecto de Vida**: Una guía práctica para empezar a trazar tus metas a corto, mediano y largo plazo con valores sólidos. https://www.youtube.com/watch?v=SqQ-3UEU-RE
+    - **¿Qué quieres ser de mayor? (TikTok)**: Una reflexión sobre cómo tus pasiones y valores deben guiar tu carrera. https://www.tiktok.com/@enricgel/video/7345678901234567890
+    - **Metas y propósitos (TikTok)**: Consejos prácticos para que tu plan de vida no se quede solo en papel. https://www.tiktok.com/@modo.pau.activado/video/7234567890123456789
 - **🎬 Para ver (Cine y Series)**:
     - **Soul (La chispa de la vida)**: Un recordatorio de que tu propósito no es solo un trabajo o una meta, sino la alegría de vivir con conciencia cada momento. https://www.youtube.com/watch?v=d2AohuEtdjk
     - **Rocky Balboa (Discurso a su hijo)**: La lección definitiva sobre la responsabilidad personal y el valor de seguir adelante sin culpar a los demás de tus fracasos. https://www.youtube.com/watch?v=g7dUyKpugeA
+    - **En busca de la felicidad: Ve por tus sueños (TikTok)**: El valor de la perseverancia y la responsabilidad en tu plan de vida. https://www.tiktok.com/@momentos_de_peliculas_/video/7338426002164436230
+    - **Soul: El propósito de la vida (TikTok)**: Una reflexión sobre qué es lo que realmente nos hace sentir vivos. https://www.tiktok.com/@pelisplus_0/video/7036495282928569605
 - **Para conversar**: Pregúntale a alguien que admires: "¿Cuál era su sueño cuando tenía 15 años y cómo cambió su plan de vida?". ¡Aprenderás mucho de su experiencia!
 
 ## 🏆 Reto Final

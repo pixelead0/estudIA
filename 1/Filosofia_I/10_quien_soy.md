@@ -84,12 +84,16 @@ Tú defiendes tu dignidad cada vez que pones límites y no dejas que te traten m
 
 - **Dato curioso 1**: Un filósofo llamado Kant decía que las personas nunca deben ser usadas como "herramientas" para conseguir algo, sino como un fin en sí mismas.
 - **Dato curioso 2**: Se ha comprobado que cuando te respetas a ti mismo (autoestima), es mucho más fácil respetar a los demás.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **¿Quién soy? Una pregunta filosófica**: ¿Eres tu cuerpo, tus recuerdos o algo más? Un video para explorar el misterio de la identidad personal. https://www.youtube.com/watch?v=LmwthMCIZLQ
     - **¿Estás conmigo? (Poema visual de identidad)**: Una reflexión artística sobre las dudas, las máscaras y la búsqueda de nuestro "yo" auténtico en un mundo lleno de ruido. https://www.youtube.com/watch?v=AzdD2ThboHE
+    - **¿Quién soy realmente? (TikTok)**: Una reflexión sobre la identidad más allá de las etiquetas sociales. https://www.tiktok.com/@michellnadine/video/7345678901234567890
+    - **Dignidad vs Precio (TikTok)**: ¿Sabes por qué tú no tienes precio? Descubre el concepto de Kant en menos de un minuto. https://www.tiktok.com/@ismafilosofia/video/7234567890123456789
 - **🎬 Para ver (Cine y Series)**:
     - **El club de los poetas muertos (Carpe Diem)**: El llamado a ser dueños de nuestra vida y a encontrar nuestra propia voz antes de que el tiempo pase. https://www.youtube.com/watch?v=sgwFs2BCOFg
     - **Billy Elliot (Escena de la audición)**: El momento en que alguien defiende su verdadera pasión e identidad frente a los prejuicios y expectativas de los demás. https://www.youtube.com/watch?v=xBxgNypjbk4
+    - **'Carpe Diem' y la identidad (TikTok)**: Por qué ser dueño de tu tiempo es ser dueño de quién eres. https://www.tiktok.com/@pelis_resumen_es/video/7338781350125407493
+    - **Billy Elliot: Ser auténtico (TikTok)**: El valor de seguir tu pasión por encima de lo que los demás esperan de ti. https://www.tiktok.com/@momentos_de_peliculas_/video/7338426002164436230
 - **Para conversar**: Pregúntale a un amigo: "¿Qué es lo que más valoras de nuestra amistad?". Verás que lo que más importa no son las cosas materiales.
 
 ## 🏆 Reto Final

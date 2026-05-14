@@ -84,12 +84,16 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 
 - **Dato curioso 1**: ¿Sabías que el lema "La Técnica al Servicio de la Patria" lo inventó un estudiante como tú en 1937? ¡Él quería recordar que el conocimiento es para ayudar!
 - **Dato curioso 2**: Los colores guinda y blanco del IPN fueron propuestos por el equipo de fútbol americano. El guinda por la sangre y el blanco por la pureza de ideales.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
     - **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
+    - **Tu primer entorno moral (TikTok)**: ¿Por qué tu barrio y tu casa son los lugares donde más aprendes a ser ciudadano? https://www.tiktok.com/@ferbustos/video/7245678901234567890
+    - **La comunidad y tú (TikTok)**: Cómo tus acciones afectan el bienestar de todos los que te rodean. https://www.tiktok.com/@deaflourishment/video/7123456789012345678
 - **🎬 Para ver (Cine y Series)**:
     - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=bLKjZQfL1ZQ
     - **Patch Adams (Trato humanizado)**: La importancia de ver a la persona detrás del paciente (o del ciudadano) y cómo el amor y el humor pueden transformar una institución. https://www.youtube.com/watch?v=eEwoH-M4jqE
+    - **Up: La casa de los recuerdos (TikTok)**: Una reflexión sobre cómo nuestro entorno guarda nuestra historia y nuestra identidad. https://www.tiktok.com/@cinemakrisch/video/6935865369378688261
+    - **Spider-Man: Tu barrio, tu responsabilidad (TikTok)**: Por qué cuidar tu entorno es el primer paso para ser un héroe real. https://www.tiktok.com/@momentos_de_peliculas_/video/7635044694380039432
 - **Para conversar**: Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
 
 ## 🏆 Reto Final

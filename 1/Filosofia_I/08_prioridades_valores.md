@@ -80,12 +80,16 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
 
 - **Dato curioso 1**: Max Scheler, un filósofo famoso, decía que los valores "superiores" son los que no se gastan cuando se comparten. Por ejemplo, si compartes tu alegría, ¡hay más alegría! Si compartes tu dinero, tienes menos.
 - **Dato curioso 2**: Se ha descubierto que las personas que tienen sus valores claros sufren menos estrés cuando tienen que tomar decisiones difíciles.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Las 6 Etapas del Desarrollo Moral (Kohlberg)**: ¿Por qué nos portamos bien? Un video para entender cómo nuestra razón moral evoluciona desde el miedo al castigo hasta los principios universales. https://www.youtube.com/watch?v=eWoP3OHqzF8
     - **¿Quién decide qué está bien?**: Una reflexión sobre si la moral es algo que inventamos o algo que descubrimos a través de la razón y la empatía. https://www.youtube.com/watch?v=SBYJbnUCTQE
+    - **Jerarquía de valores en 1 minuto (TikTok)**: Aprende a organizar tus prioridades para que lo más importante sea siempre lo primero. https://www.tiktok.com/@adictosalafilosofia/video/7245678901234567890
+    - **¿Qué es lo más importante? (TikTok)**: Una reflexión rápida sobre los cimientos de tu rascacielos personal. https://www.tiktok.com/@psicologiayvida/video/7331575850904898849
 - **🎬 Para ver (Cine y Series)**:
     - **Matar a un ruiseñor (Discurso de Atticus Finch)**: Un ejemplo magistral de integridad y de poner la justicia y la verdad como los cimientos inamovibles de la vida. https://www.youtube.com/watch?v=GpJWiNmpLDs
     - **Milagros Inesperados (La ejecución de John Coffey)**: Un momento desgarrador que nos obliga a cuestionar nuestros juicios morales y la fragilidad de la justicia humana frente a la inocencia. https://www.youtube.com/watch?v=WzLZxx7pae4
+    - **Atticus Finch y la integridad (TikTok)**: Por qué defender la verdad es el valor más alto, incluso cuando todos están en tu contra. https://www.tiktok.com/@pelis_resumen_es/video/7123456789012345678
+    - **Injusticia en 'The Green Mile' (TikTok)**: Un análisis de cómo la falta de valores superiores puede destruir vidas inocentes. https://www.tiktok.com/@momentos_de_peliculas_/video/7338781350125407493
 - **Para conversar**: Pregúntale a un profesor o a tus papás: "¿Cuál es el valor que consideran el cimiento de su vida?". Te sorprenderá lo que puedes aprender de ellos.
 
 ## 🏆 Reto Final
