@@ -50,6 +50,7 @@ Entrena tu creatividad encontrando usos diferentes para objetos que todos conoce
 | **Periódico o papel viejo.** | Leer o escribir. | Papel de regalo original, protector de pisos, avión de papel. |
 | **Un clip de metal.** | Sujetar hojas. | Herramienta para resetear el cel, anzuelo de emergencia, marcapáginas. |
 | **Palitos de helado.** | Sostener el helado. | Marco para una foto, separador de libros, abanico casero. |
+| **Tienes una idea gigante pero no hay dinero.** | Cancelar el proyecto. | Viabilidad: Adaptas la idea para hacerla con cartón y pegamento. |
 
 ## 🌍 En tu mundo
 
@@ -70,7 +71,7 @@ Ser creativo significa aprender a usar con ingenio lo que tienes. En el futuro, 
 - **Fluidez**: Producir muchas ideas en poco tiempo.
 - **Originalidad**: El rasgo que hace que una idea sea única y no una copia.
 - **Flexibilidad**: Ver el problema desde muchos ángulos diferentes.
-- **Innovación**: Convertir una idea creativa en algo útil que todos puedan usar.
+- **Viabilidad**: Analizar si una idea creativa es posible de construir y hacer funcionar en el mundo real.
 
 ## 🌟 Zona de Descubrimiento
 
@@ -108,11 +109,11 @@ Ser creativo significa aprender a usar con ingenio lo que tienes. En el futuro, 
    - C) Realmente la curiosidad no tiene nada que ver con el proceso creativo.
    - D) Hace que el cerebro se canse mucho más rápido de lo normal.
 
-4. ¿En qué consiste la técnica creativa de usar "Analogías" (comparaciones)?
-   - A) En repetir exactamente la misma solución que hemos usado durante años.
-   - B) En conectar nuestro problema con algo totalmente diferente para buscar nuevas ideas.
-   - C) En usar solo las matemáticas para resolver problemas de dibujo o música.
-   - D) En comprar las ideas que otras personas ya inventaron.
+4. Dentro de los "Cuatro Poderes del Creador", ¿en qué consiste exactamente la "Viabilidad"?
+   - A) En crear miles de ideas por minuto sin que ninguna tenga sentido.
+   - B) En analizar con honestidad si la idea se puede construir y hacer funcionar en el mundo real.
+   - C) En robarse una idea que ya existe pero cambiarle el nombre.
+   - D) En dejar que otras personas resuelvan el problema por nosotros.
 
 5. ¿Qué significa la frase "la creatividad se comporta como un músculo"?
    - A) Que se refleja en la fuerza física de los brazos de la persona creativa.
