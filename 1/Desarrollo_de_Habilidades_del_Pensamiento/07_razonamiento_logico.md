@@ -74,12 +74,16 @@ Cuando discutes con tus amigos o con tus padres, un argumento bien razonado (con
 
 - **Dato curioso 1**: Hace miles de años, un pensador llamado Aristóteles inventó las reglas de la lógica que todavía usamos hoy para programar las computadoras más avanzadas.
 - **Dato curioso 2**: La Inteligencia Artificial no tiene "sentimientos"; lo que hace es un razonamiento matemático súper rápido para adivinar la respuesta más lógica.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Silogismos: Explicación y ejemplos**: Aprende a construir el argumento perfecto. Si tus premisas son sólidas, tu conclusión será inatacable. https://www.youtube.com/watch?v=IB2V7TPqGhI
-    - **¿Cómo detectar mentiras? Las Falacias**: Un guía práctica para identificar los trucos de razonamiento que la gente usa para manipular en debates y redes sociales. https://www.youtube.com/watch?v=qYxeSGMw7t0
+    - **¿Cómo detectar mentiras? Las Falacias**: Un guía práctica para identificar los trucos de razonamiento que la gente usa para manipular. https://www.youtube.com/watch?v=qYxeSGMw7t0
+    - **Manual de falacias lógicas (TikTok)**: Identificar falacias es el primer paso para no dejarse engañar por argumentos que parecen válidos pero carecen de sustento. https://www.tiktok.com/@srpollito07/video/7380777810878663941
+    - **El impacto de las falacias (TikTok)**: Una buena lógica no solo sirve para ganar debates, sino para construir verdades más sólidas y evitar manipulaciones. https://www.tiktok.com/@anaideiafm/video/7078741561688870149
 - **🎬 Para ver (Cine y Series)**:
-    - **Doce Hombres sin Piedad (Análisis jurídico)**: Una obra maestra del razonamiento lógico donde una sola persona usa la lógica para desmontar las premisas falsas de todos los demás. https://www.youtube.com/watch?v=KftB_ZfcAo8
-    - **Mente Indomable (El talento matemático)**: La escena en que Will resuelve el problema de matemáticas demuestra que el razonamiento lógico puede ser una forma de ver el mundo de forma radicalmente diferente. https://www.youtube.com/watch?v=8MFoPtvWGYE
+    - **Doce Hombres sin Piedad (Análisis jurídico)**: Una obra maestra del razonamiento lógico donde una sola persona usa la lógica para desmontar premisas falsas. https://www.youtube.com/watch?v=KftB_ZfcAo8
+    - **Mente Indomable (El talento matemático)**: La escena en que Will resuelve el problema demuestra que el razonamiento lógico puede ser una forma radical de ver el mundo. https://www.youtube.com/watch?v=8MFoPtvWGYE
+    - **Sherlock Holmes: El Arte de la Deducción (TikTok)**: El pensamiento lógico se alimenta de la observación meticulosa; lo que para otros es invisible, para una mente entrenada es obvio. https://www.tiktok.com/@daniel.bond.007/video/7607306076341521671
+    - **Dr. House: Lógica y Mentiras (TikTok)**: La lógica requiere cuestionar lo obvio y buscar la evidencia oculta; en el razonamiento, los datos no mienten. https://www.tiktok.com/@papelypiedra/video/7390954430079732998
 - **Para conversar**: Pregúntale a un adulto: "¿Cómo te das cuenta cuando alguien te está intentando engañar con una mentira que suena lógica?".
 
 ## 🏆 Reto Final

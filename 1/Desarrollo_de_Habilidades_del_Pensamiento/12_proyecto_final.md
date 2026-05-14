@@ -75,12 +75,16 @@ La habilidad más importante hoy no es saber muchas cosas de memoria (que ya est
 
 - **Dato curioso 1**: Los astronautas de la NASA entrenan miles de horas para saber tomar decisiones en segundos cuando algo falla. Usan los mismos pasos que aprendiste aquí.
 - **Dato curioso 2**: Tu cerebro no termina de crecer por completo hasta los 25 años. ¡Estás en la mejor edad para entrenarlo y hacerlo súper potente!
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Cómo presentar tu Proyecto en Público**: Tips prácticos de presentación oral para que tu proyecto final sea claro, convincente y memorable. https://www.youtube.com/watch?v=E6StRLc38VU
-    - **Design Thinking (Proceso de Innovación)**: El método que usan las empresas más innovadoras del mundo para resolver problemas reales: el mismo que estás aplicando ahora. https://www.youtube.com/watch?v=_H33tA2-j0s
+    - **Design Thinking (Proceso de Innovación)**: El método que usan las empresas más innovadoras del mundo para resolver problemas reales. https://www.youtube.com/watch?v=_H33tA2-j0s
+    - **6 Básicos para presentar un proyecto (TikTok)**: El éxito de un proyecto depende de cómo se comunica; la claridad y el profesionalismo son fundamentales. https://www.tiktok.com/@sergio_viniegra/video/7374210497324846342
+    - **Material de apoyo y estructura (TikTok)**: La organización visual refleja el orden mental; jerarquizar la información demuestra dominio del análisis. https://www.tiktok.com/@laylavictoriap/video/7272529039011695878
 - **🎬 Para ver (Cine y Series)**:
-    - **En Busca de la Felicidad (Final)**: El momento en que un hombre que usó todas sus herramientas mentales —lógica, perseverancia y creatividad— ve los resultados de sus decisiones. https://www.youtube.com/watch?v=Xn5zgZgqZvs
-    - **Figuras Ocultas (El Cálculo que todo lo une)**: Cuando cada herramienta aprendida converge en un solo acto de brillantez. La culminación perfecta de un proceso de pensamiento de élite. https://www.youtube.com/watch?v=d6ELGRkI3gc
+    - **En Busca de la Felicidad (Final)**: El momento en que un hombre que usó todas sus herramientas mentales ve los resultados de sus decisiones. https://www.youtube.com/watch?v=Xn5zgZgqZvs
+    - **Figuras Ocultas (El Cálculo que todo lo une)**: Cuando cada herramienta aprendida converge en un solo acto de brillantez. https://www.youtube.com/watch?v=d6ELGRkI3gc
+    - **En busca de la felicidad: Tu sueño (TikTok)**: El pensamiento crítico y la perseverancia son la clave para proteger tu visión frente a la adversidad. https://www.tiktok.com/@sonychannellat/video/7595730341403446540
+    - **Iron Man: Mejora Continua (TikTok)**: El éxito se basa en la observación, la experimentación y el pensamiento lógico aplicado a la mejora constante. https://www.tiktok.com/@clips_202_/@clips_202_/video/7523081534358768903
 - **Para conversar**: Pregúntale a un líder de tu familia o comunidad: "¿Cuál ha sido el problema más difícil que has resuelto y cómo lo hiciste?".
 
 ## 🏆 Reto Final

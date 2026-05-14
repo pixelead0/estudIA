@@ -72,12 +72,16 @@ En tu vida personal, el pensamiento **de Conjunto** te ayuda a entender que una 
 
 - **Dato curioso 1**: Tenemos miles de pensamientos al día, ¡pero casi todos son los mismos que ayer! Aprender nuevos tipos de pensamiento te ayuda a romper ese ciclo.
 - **Dato curioso 2**: Leonardo da Vinci era un maestro de la versatilidad: usaba la lógica para sus inventos y la creatividad para sus pinturas famosas.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Teoría de la Diversión (Las escaleras piano)**: Un brillante ejemplo de Pensamiento Creativo aplicado para cambiar el comportamiento humano y resolver un problema común. https://www.youtube.com/watch?v=2lXh2n0aPyw
     - **¿Cómo desarrollar el Pensamiento Crítico?**: Una animación que te muestra por qué dudar, preguntar y analizar es tu mejor escudo contra la desinformación. https://www.youtube.com/watch?v=i-htv81L04g
+    - **Diferencia entre Pensamiento Reactivo y Proactivo (TikTok)**: Ser proactivo significa tomar el control y planificar antes de que los problemas lleguen. https://www.tiktok.com/@magazinemanagement/video/7566025386077752587
+    - **El Efecto Dunning-Kruger (TikTok)**: Reconocer nuestras propias limitaciones cognitivas es el primer paso hacia un pensamiento crítico real. https://www.tiktok.com/@candeliousfang/video/7618317683519409430
 - **🎬 Para ver (Cine y Series)**:
     - **Sherlock Holmes (El arte de la deducción)**: Observa cómo el Pensamiento Lógico conecta detalles aparentemente invisibles para llegar a una conclusión irrefutable. https://www.youtube.com/watch?v=WSOfMYXal_M
     - **El Código Enigma (La máquina de Turing)**: Una lección sobre cómo el Pensamiento Sistémico y Lógico logró descifrar lo indescifrable y cambiar el curso de la historia. https://www.youtube.com/watch?v=JS4k00Jj4z0
+    - **Sherlock Holmes: El Arte de la Deducción (TikTok)**: La observación minuciosa precede a la conclusión lógica; Sherlock conecta los puntos que otros pasan por alto. https://www.tiktok.com/@daniel.bond.007/video/7607306076341521671
+    - **Análisis Crítico de "El Club de la Pelea" (TikTok)**: Cuestionar las normas establecidas y las narrativas impuestas es un ejercicio fundamental de pensamiento crítico. https://www.tiktok.com/@faridieck/video/7576695398941740300
 - **Para conversar**: Pregúntale a un artista y a un ingeniero: "¿Cómo le hacen para resolver un problema nuevo?". Verás que usan herramientas diferentes.
 
 ## 🏆 Reto Final

@@ -72,12 +72,16 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
 
 - **Dato curioso 1**: Tu cerebro procesa las imágenes mucho más rápido que el texto. Por eso ver un dibujo ayuda más a entender que solo leer palabras.
 - **Dato curioso 2**: El "Déjà Vu" es un pequeño error en tu fábrica mental donde el cerebro guarda un dato antes de terminar de procesarlo, haciéndote sentir que ya lo viviste.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **¿De dónde vienen las buenas ideas?**: Una animación brillante de Steven Johnson que explica por qué las ideas no son "chispazos" mágicos, sino una red de conexiones. https://www.youtube.com/watch?v=kmrxSBpiHWA
     - **El proceso creativo de Pixar**: Un vistazo real a cómo una idea se transforma pasando por un ciclo de retroalimentación y crítica constructiva constante. https://www.youtube.com/watch?v=97sJ3reJNQU
+    - **Técnicas de Brainstorming (TikTok)**: La creatividad no es un chispazo de suerte, sino un proceso que puede entrenarse y construirse colectivamente. https://www.tiktok.com/@danigoico/video/7268720591270612256
+    - **Guía para Lluvia de Ideas (TikTok)**: Para que una lluvia de ideas sea efectiva, es vital separar la fase de generación de la de evaluación. https://www.tiktok.com/@aprendizdemercadotecnia/video/7188298463480696069
 - **🎬 Para ver (Cine y Series)**:
     - **El Origen (Plantar una idea)**: Una fascinante explicación de cómo una idea simple, una vez que entra y es procesada por la mente, puede reescribir toda una identidad. https://www.youtube.com/watch?v=uKvfAJc3e_E
     - **Steve Jobs (Conectando los puntos)**: El famoso discurso que demuestra cómo las ideas y el propósito de vida se forman al unir las piezas del pasado (input) hacia el futuro (output). https://www.youtube.com/watch?v=lC6SRuGtIJ4
+    - **Steve Jobs: Visión e Innovación (TikTok)**: La visión de un innovador consiste en ver el potencial donde otros ven limitaciones, conectando experiencias pasadas. https://www.tiktok.com/@cyb3rh4ck_v2/video/7515881210602589445
+    - **Inception: El poder de una idea (TikTok)**: Una idea es el agente más resistente y contagioso; una vez que echa raíces, transforma la realidad. https://www.tiktok.com/@discursoganador/video/7215681965335350534
 - **Para conversar**: Pregúntale a un experto en computadoras: "¿Cómo funciona el ciclo de Input-Proceso-Output y en qué se parece a nosotros?".
 
 ## 🏆 Reto Final

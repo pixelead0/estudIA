@@ -71,12 +71,16 @@ Esta habilidad te servirá para los juegos, para la escuela y para llevarte mejo
 
 - **Dato curioso 1**: El término "Pensamiento Lateral" fue inventado en 1967. Se dice que el cerebro crea "caminos" y que necesitamos saltar de un camino a otro para ser creativos.
 - **Dato curioso 2**: Muchos inventos famosos, como las notas adhesivas, nacieron de accidentes que alguien supo ver con pensamiento lateral en lugar de tirarlos a la basura.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **6 Sombreros para Pensar (De Bono)**: Una técnica animada para salirte de tu único punto de vista y explorar un problema desde 6 perspectivas radicalmente distintas. https://www.youtube.com/watch?v=TsKqe1FXAmI
     - **5 Acertijos que Sacuden la Mente**: Pon a prueba tus suposiciones. La mente resuelve mejor cuando deja ir lo que "da por hecho". https://www.youtube.com/watch?v=SOCg9vow-_I
+    - **El Acertijo de las Velas (TikTok)**: Para resolver retos complejos debemos dejar de lado la lógica lineal y observar el contexto completo del problema. https://www.tiktok.com/@tupildoramental/video/7244885384897793307
+    - **El Acertijo de Edward de Bono (TikTok)**: El pensamiento lateral es una técnica estructurada para cambiar percepciones y encontrar nuevos caminos. https://www.tiktok.com/@edrian.exe/video/7433894810064407840
 - **🎬 Para ver (Cine y Series)**:
-    - **Experimento Social de Creatividad**: Un estudio en vivo sobre cómo el pensamiento desinhibido genera ideas brillantes que el pensamiento "correcto" jamás habría encontrado. https://www.youtube.com/watch?v=7YSeeyV7DsA
-    - **La Profesora de Química (Decisiones Extremas)**: Un caso donde un personaje debe resolver una situación crítica con los recursos que tiene, improvisando una solución completamente inesperada. https://www.youtube.com/watch?v=JIXIjH4KHbk
+    - **Experimento Social de Creatividad**: Un estudio en vivo sobre cómo el pensamiento desinhibido genera ideas brillantes. https://www.youtube.com/watch?v=7YSeeyV7DsA
+    - **La Profesora de Química (Decisiones Extremas)**: Un caso donde un personaje debe resolver una situación crítica improvisando una solución inesperada. https://www.youtube.com/watch?v=JIXIjH4KHbk
+    - **Sherlock Holmes: Ver vs Mirar (TikTok)**: La observación de detalles que otros ignoran es la base para encontrar soluciones ingeniosas. Pensar fuera de la caja empieza por ver. https://www.tiktok.com/@lugen.detodo/video/7074393059626061062
+    - **The Martian: Resolver problemas (TikTok)**: Cuando los recursos son limitados, la creatividad y el ingenio técnico se fusionan para crear soluciones de supervivencia. https://www.tiktok.com/@moviedailyquote/video/7349638055168429345
 - **Para conversar**: Pregúntale a alguien creativo: "¿Cuál ha sido la solución más extraña que has encontrado para un problema difícil?".
 
 ## 🏆 Reto Final

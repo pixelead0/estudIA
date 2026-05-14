@@ -68,12 +68,16 @@ Saber decir "no" a las opciones que no te sirven es lo que te permite decir un "
 
 - **Dato curioso 1**: Mark Zuckerberg (el creador de Facebook) siempre usa la misma playera gris para no gastar energía mental eligiendo ropa y usar esa "contracción" en decisiones más importantes.
 - **Dato curioso 2**: El cerebro humano toma unas 35,000 decisiones al día. La mayoría son automáticas, pero las importantes requieren que uses tus filtros conscientemente.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Haz cualquier Resumen en 5 minutos**: Una técnica práctica de contracción de información para quedarte con lo esencial y eliminar lo irrelevante. https://www.youtube.com/watch?v=cAymSDqeHXs
-    - **Cómo tomar decisiones bajo presión**: ¿Qué pasa en tu cerebro cuando debes elegir rápido? Una guía para contraer opciones sin dejarte llevar por el pánico. https://www.youtube.com/watch?v=-TL-SJuwJEw
+    - **Cómo tomar decisiones bajo presión**: ¿Qué pasa en tu cerebro cuando debes elegir rápido? Una guía para contraer opciones. https://www.youtube.com/watch?v=-TL-SJuwJEw
+    - **Santi Bilinkis: El secreto de las decisiones (TikTok)**: Entender los sesgos que influyen en nuestra mente es clave para tomar decisiones más conscientes y efectivas. https://www.tiktok.com/@urbanaplayfm/video/7582306919273008405
+    - **El problema de la naranja (TikTok)**: La mejor decisión surge de entender las necesidades profundas detrás de un conflicto en lugar de solo dividir recursos. https://www.tiktok.com/@filmpediaorg/video/7490644071615171862
 - **🎬 Para ver (Cine y Series)**:
-    - **Figuras Ocultas (Haz el Cálculo)**: En un momento de máxima presión, un equipo debe contraer toda la información disponible a un solo número correcto del que depende una vida humana. https://www.youtube.com/watch?v=d6ELGRkI3gc
-    - **El Efecto Mariposa (Teoría del Caos)**: Una reflexión sobre cómo cada elección que "contraemos" tiene consecuencias que se ramifican de formas que nunca imaginamos. https://www.youtube.com/watch?v=ji6cRpmpzmc
+    - **Figuras Ocultas (Haz el Cálculo)**: Un equipo debe contraer toda la información disponible a un solo número correcto del que depende una vida. https://www.youtube.com/watch?v=d6ELGRkI3gc
+    - **El Efecto Mariposa (Teoría del Caos)**: Una reflexión sobre cómo cada elección que "contraemos" tiene consecuencias que se ramifican. https://www.youtube.com/watch?v=ji6cRpmpzmc
+    - **La Red Social: El costo de la visión (TikTok)**: Las grandes decisiones implican elegir entre la lealtad y la visión a largo plazo, asumiendo el costo del liderazgo. https://www.tiktok.com/@hernanmartinezl/video/7402820851785157893
+    - **Steve Jobs: Negociación y Claridad (TikTok)**: Una decisión efectiva requiere claridad mental y la capacidad de comunicar con convicción para alinear a otros. https://www.tiktok.com/@zentrapoder/video/7504790354772724998
 - **Para conversar**: Pregúntale a un adulto: "¿Cuál ha sido la decisión más difícil que has tomado y a qué tuviste que renunciar para lograrlo?".
 
 ## 🏆 Reto Final

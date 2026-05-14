@@ -72,12 +72,16 @@ Cruzas la calle porque **observaste** que no vienen autos, **relacionaste** el s
 
 - **Dato curioso 1**: Tu cerebro consume mucha energía, ¡casi la misma que una lámpara pequeña encendida todo el tiempo! Por eso pensar mucho te da hambre.
 - **Dato curioso 2**: El cerebro no siente dolor. Aunque nos avisa cuando nos duele el cuerpo, el tejido del cerebro en sí mismo no tiene sensores de dolor.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **El Test del Gorila Invisible**: Un famoso experimento psicológico que demuestra cómo nuestra "Entrada" (Input) es limitada: solo vemos aquello a lo que le prestamos atención. https://www.youtube.com/watch?v=PbVYH8FCLvo
     - **El Cerebro y la Atención Selectiva**: Una explicación breve de cómo tu cerebro filtra la información del entorno para no sobrecargarse. https://www.youtube.com/watch?v=aNBxH2G_tCw
+    - **La atención selectiva (TikTok)**: Cómo nos volvemos ciegos ante lo evidente si no estamos plenamente presentes. https://www.tiktok.com/@joseastorgaoficial/video/7621550774954265878
+    - **El motor de la curiosidad (TikTok)**: El cerebro no está diseñado solo para sobrevivir, sino para explorar. https://www.tiktok.com/@dr.patricio_ochoa/video/7636954031822245137
 - **🎬 Para ver (Cine y Series)**:
     - **Sin Límites (Escena de la pastilla)**: Una exageración cinematográfica de lo que pasaría si el "Procesamiento" de nuestro cerebro funcionara al 100% todo el tiempo. https://www.youtube.com/watch?v=jFRFoEKQPk8
     - **Intensamente (Islas de la Personalidad)**: Una representación brillante de cómo nuestros recuerdos y emociones forman las conexiones que definen quiénes somos. https://www.youtube.com/watch?v=8UKfrmfEutQ
+    - **Intensamente 2: La Ansiedad (TikTok)**: Cómo la ansiedad influye en nuestra toma de decisiones y moldea nuestros pensamientos. https://www.tiktok.com/@disneyplusla/video/7424892626635214122
+    - **Sin Límites: Información vs Sabiduría (TikTok)**: Tener acceso a la información no garantiza el conocimiento real; requiere análisis profundo. https://www.tiktok.com/@ladoinvisiblepodcast/video/7571657641357888824
 - **Para conversar**: Pregúntale a un adulto que admires: "¿Cuál ha sido la decisión más rápida que has tomado y cómo supo tu mente qué hacer?".
 
 ## 🏆 Reto Final

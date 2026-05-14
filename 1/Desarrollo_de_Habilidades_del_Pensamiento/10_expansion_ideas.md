@@ -72,12 +72,16 @@ Aprender a expandir tu mente te permite ver que siempre hay una salida, que siem
 
 - **Dato curioso 1**: Los jugadores profesionales de ajedrez no solo piensan en su siguiente jugada, sino que expanden su mente para ver hasta 15 jugadas a futuro de su oponente.
 - **Dato curioso 2**: La técnica de "Lluvia de Ideas" se inventó para obligar a las personas a decir muchas ideas locas antes de elegir una, evitando quedarse con la primera.
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Mapa Mental según Tony Buzan**: La herramienta visual más poderosa para expandir una sola idea hacia todas sus ramas, conexiones y posibilidades. https://www.youtube.com/watch?v=DLoyBJAQul0
-    - **Brainstorming: Cómo hacer una Lluvia de Ideas bien**: Aprende a usar la técnica correctamente para abrir el abanico de opciones sin bloquearte ni bloquear a tu equipo. https://www.youtube.com/watch?v=gujEDA_rHTc
+    - **Brainstorming: Cómo hacer una Lluvia de Ideas bien**: Aprende a usar la técnica correctamente para abrir el abanico de opciones sin bloquearte. https://www.youtube.com/watch?v=gujEDA_rHTc
+    - **Pensamiento Difergente y Ventaja Competitiva (TikTok)**: Pensar diferente nos permite romper moldes y encontrar soluciones innovadoras donde otros solo ven límites. https://www.tiktok.com/@metaforica.vida/video/7447732638342761733
+    - **El motor de la creatividad (TikTok)**: El pensamiento divergente permite que nuestra mente explore múltiples caminos sin juicios previos para alcanzar la originalidad. https://www.tiktok.com/@coachfacilitadora/video/7379964516190129414
 - **🎬 Para ver (Cine y Series)**:
-    - **Piratas del Caribe (El plan de rescate)**: El caos creativo de Jack Sparrow como ejemplo extremo de expandir posibilidades antes de actuar, incluso cuando parece una locura. https://www.youtube.com/watch?v=Geq1X0Mnr-4
-    - **Ocean's Eleven (Planificación del robo)**: Un equipo que explora cada variable, consecuencia y punto de vista antes de ejecutar su plan. La expansión de ideas como estrategia maestra. https://www.youtube.com/watch?v=HApBIQ5ZCLk
+    - **Piratas del Caribe (El plan de rescate)**: El caos creativo de Jack Sparrow como ejemplo de expandir posibilidades antes de actuar. https://www.youtube.com/watch?v=Geq1X0Mnr-4
+    - **Ocean's Eleven (Planificación del robo)**: Un equipo que explora cada variable, consecuencia y punto de vista antes de ejecutar su plan. https://www.youtube.com/watch?v=HApBIQ5ZCLk
+    - **Lucy: Expansión mental y Realidad (TikTok)**: Al liberar el potencial de nuestra mente, las reglas lógicas tradicionales se vuelven insuficientes para describir la realidad. https://www.tiktok.com/@estrategic11/video/7599725948040252692
+    - **Lucy: Conciencia y Percepción (TikTok)**: La verdadera expansión de la conciencia comienza con la auto-observación y el control total de nuestra percepción. https://www.tiktok.com/@ladoinvisiblepodcast/video/7617215367672286485
 - **Para conversar**: Pregúntale a un líder que admires: "¿Cuántas opciones piensa usted antes de tomar una decisión importante?".
 
 ## 🏆 Reto Final

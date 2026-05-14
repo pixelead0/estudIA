@@ -70,12 +70,16 @@ En la escuela, organizar los temas de un examen te ayuda a estudiar sin estrés.
 
 - **Dato curioso 1**: Los científicos han organizado a todos los animales del mundo usando características como su esqueleto o su ADN. ¡Es la lista organizada más grande que existe!
 - **Dato curioso 2**: Tu cerebro organiza los rostros de las personas en milésimas de segundo para saber si son conocidos o extraños.
-- **🎥 Para ver (Clips y Casos Reales)**:
-    - **Marie Kondo (Los 10 secretos del orden)**: El método KonMari demuestra que organizar físicamente nuestro espacio es una práctica mental poderosa que reduce el estrés y aclara prioridades. https://www.youtube.com/watch?v=YZEigcihmCg
-    - **¿Cómo nos engañan? Los Sesgos Cognitivos**: Cuando nuestra mente clasifica a las personas o ideas de forma rápida y equivocada, comete sesgos. Un video para volvernos más inteligentes al juzgar. https://www.youtube.com/watch?v=3hG4gwIPwDs
+- **🎥 Para ver (YouTube + TikToks)**:
+    - **Marie Kondo (Los 10 secretos del orden)**: El método KonMari demuestra que organizar físicamente nuestro espacio es una práctica mental poderosa que reduce el estrés. https://www.youtube.com/watch?v=YZEigcihmCg
+    - **¿Cómo nos engañan? Los Sesgos Cognitivos**: Cuando nuestra mente clasifica a las personas o ideas de forma rápida y equivocada, comete sesgos. https://www.youtube.com/watch?v=3hG4gwIPwDs
+    - **4 pasos para ordenar tus ideas (TikTok)**: Organizar nuestros pensamientos es el primer paso para una comunicación clara y efectiva. https://www.tiktok.com/@mayelameo/video/6988633557233110278
+    - **Comparar y contrastar (TikTok)**: La comparación y el contraste nos permiten identificar similitudes y diferencias críticas para entender mejor el mundo. https://www.tiktok.com/@sweetieshome.ec/video/7343364694960360709
 - **🎬 Para ver (Cine y Series)**:
     - **Moneyball (La estrategia de los datos)**: Cómo un equipo de béisbol usó el análisis comparativo de estadísticas para desafiar el orden establecido y ganar. https://www.youtube.com/watch?v=Zlvk6IVBAzs
-    - **Pensar Rápido, Pensar Despacio (Kahneman)**: Una explicación animada de por qué nuestro sistema de clasificación mental falla cuando vamos de prisa, y cómo entrenarlo. https://www.youtube.com/watch?v=m8lyhVIn01w
+    - **Pensar Rápido, Pensar Despacio (Kahneman)**: Una explicación animada de por qué nuestro sistema de clasificación mental falla cuando vamos de prisa. https://www.youtube.com/watch?v=m8lyhVIn01w
+    - **Harry Potter y el Sombrero Seleccionador (TikTok)**: Un ejemplo perfecto de cómo categorizar y clasificar elementos basándose en criterios y valores específicos. https://www.tiktok.com/@harrypotterlat/video/7617181761948093716
+    - **Matrix: La elección de la realidad (TikTok)**: La decisión entre la pastilla roja y la azul es un ejercicio de comparación entre dos realidades opuestas. https://www.tiktok.com/@frases_cinematograficas_/video/7325571171804532001
 - **Para conversar**: Pregúntale a alguien que trabaje en una tienda: "¿Cómo decide dónde poner cada producto para que la gente lo encuentre fácil?".
 
 ## 🏆 Reto Final

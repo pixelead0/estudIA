@@ -71,12 +71,16 @@ Cuando decides apagar las notificaciones para estudiar o cuando miras a los ojos
 
 - **Dato curioso 1**: Existe algo llamado "ceguera por distracción". Si estás muy concentrado en algo, puedes dejar de ver cosas obvias que pasan frente a ti (¡como un oso bailando!).
 - **Dato curioso 2**: Los magos usan la "dirección de la atención" para que mires su mano derecha mientras la izquierda hace el truco. ¡Manejan tu linterna!
-- **🎥 Para ver (Clips y Casos Reales)**:
+- **🎥 Para ver (YouTube + TikToks)**:
     - **Test de Atención (Whodunnit)**: ¿Puedes detectar todos los cambios? Un experimento interactivo para medir tu nivel de observación y atención al detalle. https://www.youtube.com/watch?v=90uFWqjGOUY
     - **Sensación vs. Percepción**: Una explicación clara de por qué dos personas pueden ver lo mismo y entender cosas completamente diferentes. https://www.youtube.com/watch?v=rk9d17fAwB8
+    - **Diferencia entre ver y observar (TikTok)**: La observación es un proceso activo que requiere intención; ver es biológico, observar es pensar. https://www.tiktok.com/@detective_alexander/video/7068080314043600134
+    - **Test de Atención: El Gorila (TikTok)**: Nuestra mente filtra masivamente la información. ¿Eres capaz de ver lo que otros ignoran? https://www.tiktok.com/@carlosalgecira/video/7277720377340497158
 - **🎬 Para ver (Cine y Series)**:
     - **El Caso Bourne (Escena del restaurante)**: Jason Bourne demuestra una observación sobrehumana al memorizar inconscientemente todos los detalles de una habitación. https://www.youtube.com/watch?v=bPNGpHjijXw
     - **Focus (Robo en el carnaval)**: Un maestro estafador explica cómo controlar la atención de una víctima para que no vea lo que realmente está pasando. https://www.youtube.com/watch?v=rSB8Si8-eOQ
+    - **Focus: El poder del subconsciente (TikTok)**: Cómo la atención puede ser manipulada mediante estímulos y patrones para predecir decisiones. https://www.tiktok.com/@elalextelocuenta/video/7331094477395873030
+    - **Los Ilusionistas: Dirigir la mirada (TikTok)**: La magia se basa en dirigir la atención al lugar equivocado; observa más allá de lo obvio. https://www.tiktok.com/@sonychannellat/video/7393801653213859077
 - **Para conversar**: Pregúntale a un fotógrafo o a un guardia de seguridad: "¿Cómo entrenas tu vista para detectar detalles que otros no ven?".
 
 ## 🏆 Reto Final
