@@ -72,8 +72,12 @@ Cruzas la calle porque **observaste** que no vienen autos, **relacionaste** el s
 
 - **Dato curioso 1**: Tu cerebro consume mucha energía, ¡casi la misma que una lámpara pequeña encendida todo el tiempo! Por eso pensar mucho te da hambre.
 - **Dato curioso 2**: El cerebro no siente dolor. Aunque nos avisa cuando nos duele el cuerpo, el tejido del cerebro en sí mismo no tiene sensores de dolor.
-- **Para ver**: *Intensamente* (Película). Es una gran forma de ver cómo funciona un centro de mando mental con las emociones y recuerdos.
-- **Para explorar**: Busca ejercicios de "atención plena" para jóvenes; te ayudan a encender tu "radar" de atención cuando más lo necesitas.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **El Test del Gorila Invisible**: Un famoso experimento psicológico que demuestra cómo nuestra "Entrada" (Input) es limitada: solo vemos aquello a lo que le prestamos atención. https://www.youtube.com/watch?v=PbVYH8FCLvo
+    - **El Cerebro y la Atención Selectiva**: Una explicación breve de cómo tu cerebro filtra la información del entorno para no sobrecargarse. https://www.youtube.com/watch?v=aNBxH2G_tCw
+- **🎬 Para ver (Cine y Series)**:
+    - **Sin Límites (Escena de la pastilla)**: Una exageración cinematográfica de lo que pasaría si el "Procesamiento" de nuestro cerebro funcionara al 100% todo el tiempo. https://www.youtube.com/watch?v=jFRFoEKQPk8
+    - **Intensamente (Islas de la Personalidad)**: Una representación brillante de cómo nuestros recuerdos y emociones forman las conexiones que definen quiénes somos. https://www.youtube.com/watch?v=8UKfrmfEutQ
 - **Para conversar**: Pregúntale a un adulto que admires: "¿Cuál ha sido la decisión más rápida que has tomado y cómo supo tu mente qué hacer?".
 
 ## 🏆 Reto Final

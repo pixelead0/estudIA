@@ -76,8 +76,12 @@ Ser creativo significa aprender a usar con ingenio lo que tienes. En el futuro, 
 
 - **Dato curioso 1**: ¿Sabías que el velcro se inventó viendo cómo se pegaban las semillas de las plantas en el pelo de un perro? ¡Eso es observar con creatividad!
 - **Dato curioso 2**: Walt Disney tenía una técnica especial: primero soñaba la idea más loca, luego pensaba cómo hacerla realidad y al final criticaba lo que faltaba mejorar.
-- **Para ver**: *Ratatouille*. Una historia que enseña que la creatividad nace de la pasión y de atreverse a mezclar cosas de forma diferente.
-- **Para explorar**: Intenta dibujar algo usando solo círculos y líneas. Verás cómo tu mente busca formas nuevas bajo estas reglas.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Las Escuelas Matan la Creatividad (Ken Robinson)**: La charla TED más vista de la historia sobre por qué el sistema actual apaga el potencial creativo de todos los niños. https://www.youtube.com/watch?v=-np-1YQI1xY
+    - **Método SCAMPER (Animado)**: Una técnica práctica de 7 pasos para transformar cualquier idea existente en algo completamente nuevo y original. https://www.youtube.com/watch?v=5ddT0ukzEBs
+- **🎬 Para ver (Cine y Series)**:
+    - **Ratatouille (Ego prueba el platillo de Remy)**: El momento en que una explosión de creatividad y autenticidad derrumba a un crítico implacable y redefine lo que significa ser un verdadero creador. https://www.youtube.com/watch?v=aWrGH35VgoM
+    - **El Código Enigma (Descifrando la máquina)**: La creatividad de Alan Turing para "pensar diferente" a todos los demás fue lo que cambió el resultado de una guerra entera. https://www.youtube.com/watch?v=JS4k00Jj4z0
 - **Para conversar**: Pregúntale a alguien que cocine muy rico: "¿Qué receta inventaste por accidente y qué le pusiste para que supiera tan bien?".
 
 ## 🏆 Reto Final

@@ -75,8 +75,12 @@ La habilidad más importante hoy no es saber muchas cosas de memoria (que ya est
 
 - **Dato curioso 1**: Los astronautas de la NASA entrenan miles de horas para saber tomar decisiones en segundos cuando algo falla. Usan los mismos pasos que aprendiste aquí.
 - **Dato curioso 2**: Tu cerebro no termina de crecer por completo hasta los 25 años. ¡Estás en la mejor edad para entrenarlo y hacerlo súper potente!
-- **Para ver**: *Misión Rescate* (The Martian). Mira cómo el protagonista sobrevive en Marte usando únicamente su capacidad de resolver problemas un paso a la vez.
-- **Para explorar**: Diseña un cartel o un dibujo de tu proyecto final. Ayuda a tu mente a "ver" la meta terminada.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Cómo presentar tu Proyecto en Público**: Tips prácticos de presentación oral para que tu proyecto final sea claro, convincente y memorable. https://www.youtube.com/watch?v=E6StRLc38VU
+    - **Design Thinking (Proceso de Innovación)**: El método que usan las empresas más innovadoras del mundo para resolver problemas reales: el mismo que estás aplicando ahora. https://www.youtube.com/watch?v=_H33tA2-j0s
+- **🎬 Para ver (Cine y Series)**:
+    - **En Busca de la Felicidad (Final)**: El momento en que un hombre que usó todas sus herramientas mentales —lógica, perseverancia y creatividad— ve los resultados de sus decisiones. https://www.youtube.com/watch?v=Xn5zgZgqZvs
+    - **Figuras Ocultas (El Cálculo que todo lo une)**: Cuando cada herramienta aprendida converge en un solo acto de brillantez. La culminación perfecta de un proceso de pensamiento de élite. https://www.youtube.com/watch?v=d6ELGRkI3gc
 - **Para conversar**: Pregúntale a un líder de tu familia o comunidad: "¿Cuál ha sido el problema más difícil que has resuelto y cómo lo hiciste?".
 
 ## 🏆 Reto Final

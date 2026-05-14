@@ -70,8 +70,12 @@ En la escuela, organizar los temas de un examen te ayuda a estudiar sin estrés.
 
 - **Dato curioso 1**: Los científicos han organizado a todos los animales del mundo usando características como su esqueleto o su ADN. ¡Es la lista organizada más grande que existe!
 - **Dato curioso 2**: Tu cerebro organiza los rostros de las personas en milésimas de segundo para saber si son conocidos o extraños.
-- **Para ver**: *Intensamente*. Mira cómo los recuerdos se guardan en estantes de diferentes colores según la emoción. ¡Eso es clasificar!
-- **Para explorar**: Intenta organizar las apps de tu celular por colores o por uso. Verás qué diferente se siente usarlo.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Marie Kondo (Los 10 secretos del orden)**: El método KonMari demuestra que organizar físicamente nuestro espacio es una práctica mental poderosa que reduce el estrés y aclara prioridades. https://www.youtube.com/watch?v=YZEigcihmCg
+    - **¿Cómo nos engañan? Los Sesgos Cognitivos**: Cuando nuestra mente clasifica a las personas o ideas de forma rápida y equivocada, comete sesgos. Un video para volvernos más inteligentes al juzgar. https://www.youtube.com/watch?v=3hG4gwIPwDs
+- **🎬 Para ver (Cine y Series)**:
+    - **Moneyball (La estrategia de los datos)**: Cómo un equipo de béisbol usó el análisis comparativo de estadísticas para desafiar el orden establecido y ganar. https://www.youtube.com/watch?v=Zlvk6IVBAzs
+    - **Pensar Rápido, Pensar Despacio (Kahneman)**: Una explicación animada de por qué nuestro sistema de clasificación mental falla cuando vamos de prisa, y cómo entrenarlo. https://www.youtube.com/watch?v=m8lyhVIn01w
 - **Para conversar**: Pregúntale a alguien que trabaje en una tienda: "¿Cómo decide dónde poner cada producto para que la gente lo encuentre fácil?".
 
 ## 🏆 Reto Final

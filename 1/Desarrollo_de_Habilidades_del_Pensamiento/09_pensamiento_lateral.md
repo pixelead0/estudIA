@@ -71,8 +71,12 @@ Esta habilidad te servirá para los juegos, para la escuela y para llevarte mejo
 
 - **Dato curioso 1**: El término "Pensamiento Lateral" fue inventado en 1967. Se dice que el cerebro crea "caminos" y que necesitamos saltar de un camino a otro para ser creativos.
 - **Dato curioso 2**: Muchos inventos famosos, como las notas adhesivas, nacieron de accidentes que alguien supo ver con pensamiento lateral en lugar de tirarlos a la basura.
-- **Para ver**: *MacGyver*. Un personaje que resuelve problemas imposibles usando objetos comunes de forma muy creativa.
-- **Para explorar**: Busca "acertijos laterales" en Internet y trata de resolver uno al día para entrenar tu mente.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **6 Sombreros para Pensar (De Bono)**: Una técnica animada para salirte de tu único punto de vista y explorar un problema desde 6 perspectivas radicalmente distintas. https://www.youtube.com/watch?v=TsKqe1FXAmI
+    - **5 Acertijos que Sacuden la Mente**: Pon a prueba tus suposiciones. La mente resuelve mejor cuando deja ir lo que "da por hecho". https://www.youtube.com/watch?v=SOCg9vow-_I
+- **🎬 Para ver (Cine y Series)**:
+    - **Experimento Social de Creatividad**: Un estudio en vivo sobre cómo el pensamiento desinhibido genera ideas brillantes que el pensamiento "correcto" jamás habría encontrado. https://www.youtube.com/watch?v=7YSeeyV7DsA
+    - **La Profesora de Química (Decisiones Extremas)**: Un caso donde un personaje debe resolver una situación crítica con los recursos que tiene, improvisando una solución completamente inesperada. https://www.youtube.com/watch?v=JIXIjH4KHbk
 - **Para conversar**: Pregúntale a alguien creativo: "¿Cuál ha sido la solución más extraña que has encontrado para un problema difícil?".
 
 ## 🏆 Reto Final

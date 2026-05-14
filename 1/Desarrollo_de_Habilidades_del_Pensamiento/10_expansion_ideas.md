@@ -72,8 +72,12 @@ Aprender a expandir tu mente te permite ver que siempre hay una salida, que siem
 
 - **Dato curioso 1**: Los jugadores profesionales de ajedrez no solo piensan en su siguiente jugada, sino que expanden su mente para ver hasta 15 jugadas a futuro de su oponente.
 - **Dato curioso 2**: La técnica de "Lluvia de Ideas" se inventó para obligar a las personas a decir muchas ideas locas antes de elegir una, evitando quedarse con la primera.
-- **Para ver**: *Doctor Strange*. Observa la escena donde el héroe explora millones de futuros posibles para encontrar el único donde ganan. ¡Eso es expansión extrema!
-- **Para explorar**: Prueba la técnica de "Pensar con otros zapatos". Imagina cómo resolvería tu problema tu superhéroe favorito o tu abuelo.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Mapa Mental según Tony Buzan**: La herramienta visual más poderosa para expandir una sola idea hacia todas sus ramas, conexiones y posibilidades. https://www.youtube.com/watch?v=DLoyBJAQul0
+    - **Brainstorming: Cómo hacer una Lluvia de Ideas bien**: Aprende a usar la técnica correctamente para abrir el abanico de opciones sin bloquearte ni bloquear a tu equipo. https://www.youtube.com/watch?v=gujEDA_rHTc
+- **🎬 Para ver (Cine y Series)**:
+    - **Piratas del Caribe (El plan de rescate)**: El caos creativo de Jack Sparrow como ejemplo extremo de expandir posibilidades antes de actuar, incluso cuando parece una locura. https://www.youtube.com/watch?v=Geq1X0Mnr-4
+    - **Ocean's Eleven (Planificación del robo)**: Un equipo que explora cada variable, consecuencia y punto de vista antes de ejecutar su plan. La expansión de ideas como estrategia maestra. https://www.youtube.com/watch?v=HApBIQ5ZCLk
 - **Para conversar**: Pregúntale a un líder que admires: "¿Cuántas opciones piensa usted antes de tomar una decisión importante?".
 
 ## 🏆 Reto Final

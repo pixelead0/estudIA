@@ -74,8 +74,12 @@ Cuando discutes con tus amigos o con tus padres, un argumento bien razonado (con
 
 - **Dato curioso 1**: Hace miles de años, un pensador llamado Aristóteles inventó las reglas de la lógica que todavía usamos hoy para programar las computadoras más avanzadas.
 - **Dato curioso 2**: La Inteligencia Artificial no tiene "sentimientos"; lo que hace es un razonamiento matemático súper rápido para adivinar la respuesta más lógica.
-- **Para ver**: *Sherlock Holmes* (Cualquier película o serie). Observa cómo el detective explica sus pistas antes de decir quién es el culpable.
-- **Para explorar**: Busca "acertijos de lógica para jóvenes" en Internet. Son como ir al gimnasio pero para tu cerebro.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Silogismos: Explicación y ejemplos**: Aprende a construir el argumento perfecto. Si tus premisas son sólidas, tu conclusión será inatacable. https://www.youtube.com/watch?v=IB2V7TPqGhI
+    - **¿Cómo detectar mentiras? Las Falacias**: Un guía práctica para identificar los trucos de razonamiento que la gente usa para manipular en debates y redes sociales. https://www.youtube.com/watch?v=qYxeSGMw7t0
+- **🎬 Para ver (Cine y Series)**:
+    - **Doce Hombres sin Piedad (Análisis jurídico)**: Una obra maestra del razonamiento lógico donde una sola persona usa la lógica para desmontar las premisas falsas de todos los demás. https://www.youtube.com/watch?v=KftB_ZfcAo8
+    - **Mente Indomable (El talento matemático)**: La escena en que Will resuelve el problema de matemáticas demuestra que el razonamiento lógico puede ser una forma de ver el mundo de forma radicalmente diferente. https://www.youtube.com/watch?v=8MFoPtvWGYE
 - **Para conversar**: Pregúntale a un adulto: "¿Cómo te das cuenta cuando alguien te está intentando engañar con una mentira que suena lógica?".
 
 ## 🏆 Reto Final

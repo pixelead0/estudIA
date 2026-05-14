@@ -72,8 +72,12 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
 
 - **Dato curioso 1**: Tu cerebro procesa las imágenes mucho más rápido que el texto. Por eso ver un dibujo ayuda más a entender que solo leer palabras.
 - **Dato curioso 2**: El "Déjà Vu" es un pequeño error en tu fábrica mental donde el cerebro guarda un dato antes de terminar de procesarlo, haciéndote sentir que ya lo viviste.
-- **Para ver**: *Redes Sociales*. Busca videos sobre cómo funcionan los algoritmos para atrapar tu fase de Entrada.
-- **Para explorar**: Intenta describir el "camino de una idea" desde que hueles tu comida favorita hasta que decides darle el primer bocado.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **¿De dónde vienen las buenas ideas?**: Una animación brillante de Steven Johnson que explica por qué las ideas no son "chispazos" mágicos, sino una red de conexiones. https://www.youtube.com/watch?v=kmrxSBpiHWA
+    - **El proceso creativo de Pixar**: Un vistazo real a cómo una idea se transforma pasando por un ciclo de retroalimentación y crítica constructiva constante. https://www.youtube.com/watch?v=97sJ3reJNQU
+- **🎬 Para ver (Cine y Series)**:
+    - **El Origen (Plantar una idea)**: Una fascinante explicación de cómo una idea simple, una vez que entra y es procesada por la mente, puede reescribir toda una identidad. https://www.youtube.com/watch?v=uKvfAJc3e_E
+    - **Steve Jobs (Conectando los puntos)**: El famoso discurso que demuestra cómo las ideas y el propósito de vida se forman al unir las piezas del pasado (input) hacia el futuro (output). https://www.youtube.com/watch?v=lC6SRuGtIJ4
 - **Para conversar**: Pregúntale a un experto en computadoras: "¿Cómo funciona el ciclo de Input-Proceso-Output y en qué se parece a nosotros?".
 
 ## 🏆 Reto Final

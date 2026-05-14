@@ -72,8 +72,12 @@ En tu vida personal, el pensamiento **de Conjunto** te ayuda a entender que una 
 
 - **Dato curioso 1**: Tenemos miles de pensamientos al día, ¡pero casi todos son los mismos que ayer! Aprender nuevos tipos de pensamiento te ayuda a romper ese ciclo.
 - **Dato curioso 2**: Leonardo da Vinci era un maestro de la versatilidad: usaba la lógica para sus inventos y la creatividad para sus pinturas famosas.
-- **Para ver**: *Sherlock Holmes*. Mira cómo usa el pensamiento de deducción y el crítico para resolver misterios que parecen imposibles.
-- **Para explorar**: Prueba juegos de acertijos; son la mejor forma de "obligar" a tu mente a cambiar de herramienta a mitad del juego.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Teoría de la Diversión (Las escaleras piano)**: Un brillante ejemplo de Pensamiento Creativo aplicado para cambiar el comportamiento humano y resolver un problema común. https://www.youtube.com/watch?v=2lXh2n0aPyw
+    - **¿Cómo desarrollar el Pensamiento Crítico?**: Una animación que te muestra por qué dudar, preguntar y analizar es tu mejor escudo contra la desinformación. https://www.youtube.com/watch?v=i-htv81L04g
+- **🎬 Para ver (Cine y Series)**:
+    - **Sherlock Holmes (El arte de la deducción)**: Observa cómo el Pensamiento Lógico conecta detalles aparentemente invisibles para llegar a una conclusión irrefutable. https://www.youtube.com/watch?v=WSOfMYXal_M
+    - **El Código Enigma (La máquina de Turing)**: Una lección sobre cómo el Pensamiento Sistémico y Lógico logró descifrar lo indescifrable y cambiar el curso de la historia. https://www.youtube.com/watch?v=JS4k00Jj4z0
 - **Para conversar**: Pregúntale a un artista y a un ingeniero: "¿Cómo le hacen para resolver un problema nuevo?". Verás que usan herramientas diferentes.
 
 ## 🏆 Reto Final

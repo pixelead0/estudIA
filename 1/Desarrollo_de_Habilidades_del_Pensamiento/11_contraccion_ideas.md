@@ -68,8 +68,12 @@ Saber decir "no" a las opciones que no te sirven es lo que te permite decir un "
 
 - **Dato curioso 1**: Mark Zuckerberg (el creador de Facebook) siempre usa la misma playera gris para no gastar energía mental eligiendo ropa y usar esa "contracción" en decisiones más importantes.
 - **Dato curioso 2**: El cerebro humano toma unas 35,000 decisiones al día. La mayoría son automáticas, pero las importantes requieren que uses tus filtros conscientemente.
-- **Para ver**: *Up: Una aventura de altura*. Observa cómo el protagonista tiene que elegir entre sus objetos viejos y salvar a sus amigos. ¡Esa es la contracción máxima!
-- **Para explorar**: Intenta organizar tu mochila escolar para mañana usando el filtro de "Solo lo indispensable". Verás que pesa mucho menos.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Haz cualquier Resumen en 5 minutos**: Una técnica práctica de contracción de información para quedarte con lo esencial y eliminar lo irrelevante. https://www.youtube.com/watch?v=cAymSDqeHXs
+    - **Cómo tomar decisiones bajo presión**: ¿Qué pasa en tu cerebro cuando debes elegir rápido? Una guía para contraer opciones sin dejarte llevar por el pánico. https://www.youtube.com/watch?v=-TL-SJuwJEw
+- **🎬 Para ver (Cine y Series)**:
+    - **Figuras Ocultas (Haz el Cálculo)**: En un momento de máxima presión, un equipo debe contraer toda la información disponible a un solo número correcto del que depende una vida humana. https://www.youtube.com/watch?v=d6ELGRkI3gc
+    - **El Efecto Mariposa (Teoría del Caos)**: Una reflexión sobre cómo cada elección que "contraemos" tiene consecuencias que se ramifican de formas que nunca imaginamos. https://www.youtube.com/watch?v=ji6cRpmpzmc
 - **Para conversar**: Pregúntale a un adulto: "¿Cuál ha sido la decisión más difícil que has tomado y a qué tuviste que renunciar para lograrlo?".
 
 ## 🏆 Reto Final

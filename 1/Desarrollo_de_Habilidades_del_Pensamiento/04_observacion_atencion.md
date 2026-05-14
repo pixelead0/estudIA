@@ -71,8 +71,12 @@ Cuando decides apagar las notificaciones para estudiar o cuando miras a los ojos
 
 - **Dato curioso 1**: Existe algo llamado "ceguera por distracción". Si estás muy concentrado en algo, puedes dejar de ver cosas obvias que pasan frente a ti (¡como un oso bailando!).
 - **Dato curioso 2**: Los magos usan la "dirección de la atención" para que mires su mano derecha mientras la izquierda hace el truco. ¡Manejan tu linterna!
-- **Para ver**: Busca el video del "Gorila Invisible" en Internet. Es la prueba de que ver no es lo mismo que observar.
-- **Para explorar**: Intenta pasar 5 minutos observando un objeto simple (como una fruta). Descubrirás detalles que nunca habías notado.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Test de Atención (Whodunnit)**: ¿Puedes detectar todos los cambios? Un experimento interactivo para medir tu nivel de observación y atención al detalle. https://www.youtube.com/watch?v=90uFWqjGOUY
+    - **Sensación vs. Percepción**: Una explicación clara de por qué dos personas pueden ver lo mismo y entender cosas completamente diferentes. https://www.youtube.com/watch?v=rk9d17fAwB8
+- **🎬 Para ver (Cine y Series)**:
+    - **El Caso Bourne (Escena del restaurante)**: Jason Bourne demuestra una observación sobrehumana al memorizar inconscientemente todos los detalles de una habitación. https://www.youtube.com/watch?v=bPNGpHjijXw
+    - **Focus (Robo en el carnaval)**: Un maestro estafador explica cómo controlar la atención de una víctima para que no vea lo que realmente está pasando. https://www.youtube.com/watch?v=rSB8Si8-eOQ
 - **Para conversar**: Pregúntale a un fotógrafo o a un guardia de seguridad: "¿Cómo entrenas tu vista para detectar detalles que otros no ven?".
 
 ## 🏆 Reto Final

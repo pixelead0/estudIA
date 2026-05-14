@@ -75,8 +75,12 @@ En tu vida escolar, usar trucos como los **Mapas con dibujos** o **Asociaciones*
 
 - **Dato curioso 1**: Tu cerebro tiene una capacidad gigante. ¡Podría guardar millones de horas de tus series favoritas sin llenarse!
 - **Dato curioso 2**: Dormir bien es clave para la memoria. Mientras duermes, tu mente aprovecha para organizar todos los libros que llegaron en el día.
-- **Para ver**: *Intensamente*. Mira cómo se guardan los recuerdos en esferas de colores y cómo algunos se van olvidando.
-- **Para explorar**: Intenta memorizar una lista de 10 palabras inventando una historia loca que las una. Verás que es mucho más fácil.
+- **🎥 Para ver (Clips y Casos Reales)**:
+    - **Memoria a Corto y Largo Plazo**: Una explicación con ejemplos cotidianos sobre la diferencia entre tu "mesa de trabajo" mental y tu "archivo permanente". https://www.youtube.com/watch?v=yqB-9A5Bw48
+    - **El Palacio de la Memoria**: ¿Cómo funciona la técnica que usan los campeones mundiales de memoria? Una guía práctica para usar tu imaginación como sistema de archivo. https://www.youtube.com/watch?v=X_URHlAJ7aA
+- **🎬 Para ver (Cine y Series)**:
+    - **El Hombre que Confundió a su Mujer con un Sombrero**: Un caso clínico fascinante que muestra cómo el cerebro procesa la realidad y qué pasa cuando la memoria falla de forma inesperada. https://www.youtube.com/watch?v=tgBqNOIVbDE
+    - **La Amígdala y las Emociones**: Una explicación de por qué recordamos mejor las cosas que nos generan emociones fuertes; la clave de un aprendizaje que dura. https://www.youtube.com/watch?v=vJjxcrzNpns
 - **Para conversar**: Pregúntale a un abuelo: "¿Cuál es el secreto para no olvidar las historias importantes de la familia?".
 
 ## 🏆 Reto Final
