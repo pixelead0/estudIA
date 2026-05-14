@@ -11,9 +11,10 @@
 ## Estado de Desarrollo
 - **Módulos Totales**: 12
 - **Módulos Completados**: 12
-- **Última Actualización**: 2026-04-25
+- **Última Actualización**: 2026-05-14
 
 ## Estrategia de Contenido
-- **Sin Guía Oficial**: Para esta materia no se cuenta con una guía de reactivos oficial.
-- **Generación de Reactivos**: El agente debe generar reactivos de alta fidelidad (6 por módulo) basados en los objetivos de aprendizaje de los RAPs.
+- **Alineación Oficial**: 100% Alineado con el Programa Temático de D.H.P. (CECyT 6 - IPN).
+- **Cobertura Teórica**: Bases biológicas (Cerebro Triuno, Hemisferios), Lógica (Sensopercepción, Análisis/Síntesis) y Creatividad (Viabilidad).
+- **Generación de Reactivos**: Reactivos de alta fidelidad (6 por módulo) que combinan el rigor técnico institucional con el estándar pedagógico "Premium 2.0".
 - **Tono**: Mentor Experto con analogías de vida diaria.
