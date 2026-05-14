@@ -9,7 +9,7 @@ En este módulo, el reto es descubrir las raíces de tu orgullo. Vamos a explora
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. La Metáfora: Las Raíces de tu Casa (Identidad Nacional)
-La **Identidad Nacional** es el conjunto de historias, valores y símbolos que nos hacen sentir que México es nuestro hogar(1). No es solo fútbol o comida; es el respeto a nuestra Bandera, Escudo e Himno Nacional(3). 
+La **Identidad Nacional** es el conjunto de historias, valores y símbolos que nos hacen sentir que México es nuestro hogar(1). No es solo fútbol o comida; es el respeto a nuestra Bandera, Escudo e Himno Nacional(3).
 
 > "La identidad es un descubrimiento que se hace en comunidad". — Octavio Paz.
 
@@ -87,13 +87,13 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 - **🎥 Para ver (YouTube + TikToks)**:
     - **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
     - **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
-    - **Tu primer entorno moral (TikTok)**: ¿Por qué tu barrio y tu casa son los lugares donde más aprendes a ser ciudadano? https://www.tiktok.com/@ferbustos/video/7245678901234567890
-    - **La comunidad y tú (TikTok)**: Cómo tus acciones afectan el bienestar de todos los que te rodean. https://www.tiktok.com/@deaflourishment/video/7123456789012345678
+    - **Tu primer entorno moral (TikTok)**: El hogar y el barrio son la primera escuela de valores; antes de elegir qué creer, el entorno ya sembró en ti cómo ver el mundo. https://www.tiktok.com/@psicoactivos/video/7287341065004023046
+    - **La comunidad y tú (TikTok)**: Cada pequeña acción tuya tiene un efecto dominó en las personas que te rodean; ser ciudadano empieza en tu cuadra. https://www.tiktok.com/@aprendamos.filosofia/video/7341822914963405061
 - **🎬 Para ver (Cine y Series)**:
     - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=bLKjZQfL1ZQ
     - **Patch Adams (Trato humanizado)**: La importancia de ver a la persona detrás del paciente (o del ciudadano) y cómo el amor y el humor pueden transformar una institución. https://www.youtube.com/watch?v=eEwoH-M4jqE
-    - **Up: La casa de los recuerdos (TikTok)**: Una reflexión sobre cómo nuestro entorno guarda nuestra historia y nuestra identidad. https://www.tiktok.com/@cinemakrisch/video/6935865369378688261
-    - **Spider-Man: Tu barrio, tu responsabilidad (TikTok)**: Por qué cuidar tu entorno es el primer paso para ser un héroe real. https://www.tiktok.com/@momentos_de_peliculas_/video/7635044694380039432
+    - **Up: La casa de los recuerdos (TikTok)**: Es la demostración visual más poderosa de que un hogar no es una estructura física, sino un contenedor de identidad. La casa de Carl no tiene valor por los ladrillos — tiene valor porque cada rincón es un fragmento de quién es él. Eso es exactamente lo que el módulo trabaja: identidad nacional, arraigo y pertenencia https://www.tiktok.com/@tmpilo_/video/7333614704058797318
+    - **Spider-Man: Tu barrio, tu responsabilidad (TikTok)**: Por qué cuidar tu entorno es el primer paso para ser un héroe real. https://www.tiktok.com/@estebandanyl440808/video/7438376859777158456
 - **Para conversar**: Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
 
 ## 🏆 Reto Final
