@@ -75,8 +75,16 @@ async function generatePDF(semester, subject) {
     }
 
     console.log(`🔍 Scanning modules in ${subjectDir}...`);
-    const files = await glob(path.join(subjectDir, '*.md'));
-    files.sort(); // Ensure alphanumeric order (01, 02, etc.)
+    const allFiles = await glob(path.join(subjectDir, '*.md'));
+    allFiles.sort();
+
+    // Split: 00_ files go to appendices at the end; numbered modules come first
+    const APPENDIX_TITLES = {
+        '00_resumen_temario':  'Resumen del Temario',
+        '00_indice_videos':    'Índice de Multimedia',
+    };
+    const moduleFiles    = allFiles.filter(f => !path.basename(f).startsWith('00_'));
+    const appendixFiles  = allFiles.filter(f => path.basename(f).startsWith('00_'));
 
     let fullMarkdown = '';
     
@@ -86,13 +94,13 @@ async function generatePDF(semester, subject) {
         <p class="cover-subtitle">Semestre ${semester} | estudIA</p>
     </div>\n\n`;
 
-    for (const file of files) {
+    // --- Main modules (01–12) ---
+    for (const file of moduleFiles) {
         const filename = path.basename(file, '.md');
         let displayTitle = filename
             .replace(/^(\d+(?:\.\d+)?)/, 'Módulo $1:')
             .replace(/_/g, ' ');
         
-        // Capitalize each word safely
         displayTitle = displayTitle.split(' ').map(word => {
             if (word.toLowerCase().startsWith('módulo')) return word;
             return word.charAt(0).toUpperCase() + word.slice(1);
@@ -100,12 +108,24 @@ async function generatePDF(semester, subject) {
 
         console.log(`📄 Processing ${filename}...`);
         let content = await fs.readFile(file, 'utf8');
-        
         content = await transformImages(content);
         content = transformAlerts(content);
         
-        // Add Module Title
         fullMarkdown += `# ${displayTitle}\n\n`;
+        fullMarkdown += content + '\n\n<div class="page-break"></div>\n\n';
+    }
+
+    // --- Appendices (00_ files at the end) ---
+    for (const file of appendixFiles) {
+        const key = path.basename(file, '.md');
+        const appendixTitle = APPENDIX_TITLES[key] || key.replace(/_/g, ' ');
+
+        console.log(`📎 Appending ${key}...`);
+        let content = await fs.readFile(file, 'utf8');
+        content = await transformImages(content);
+        content = transformAlerts(content);
+
+        fullMarkdown += `# Apéndice: ${appendixTitle}\n\n`;
         fullMarkdown += content + '\n\n<div class="page-break"></div>\n\n';
     }
 

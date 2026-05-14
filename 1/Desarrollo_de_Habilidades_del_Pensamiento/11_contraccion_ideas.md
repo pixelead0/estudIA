@@ -1,4 +1,3 @@
-![Contracción de Ideas](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/11_DHP_concepts_contraction_ideas.png)
 
 ## 🎯 El Reto
 

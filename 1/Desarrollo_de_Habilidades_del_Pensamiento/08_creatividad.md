@@ -1,4 +1,3 @@
-![Creatividad](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/08_DHP_concepts_creativity.png)
 
 ## 🎯 El Reto
 

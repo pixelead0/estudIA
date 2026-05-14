@@ -1,4 +1,3 @@
-![DHP Temario](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/00_DHP_concepts_overview.png)
 
 ¡Bienvenido al entrenamiento más importante de tu vida! En este curso no vas a memorizar fechas ni fórmulas aburridas; vas a aprender a **manejar tu propia mente**. Imagina que tu cerebro es la computadora más potente del mundo y nosotros vamos a enseñarte a usar su manual de instrucciones para que aprendas más rápido, convivas mejor y resuelvas cualquier reto. 
 

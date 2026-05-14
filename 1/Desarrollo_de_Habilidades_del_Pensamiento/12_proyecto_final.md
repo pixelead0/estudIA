@@ -1,4 +1,3 @@
-![Proyecto Final](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/12_DHP_concepts_final_project.png)
 
 ## 🎯 El Reto
 

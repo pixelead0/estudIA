@@ -1,4 +1,3 @@
-![Orden y Comparación](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/06_DHP_concepts_order_comparison.png)
 
 ## 🎯 El Reto
 

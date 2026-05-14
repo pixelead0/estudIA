@@ -1,4 +1,3 @@
-![Expansión de Ideas](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/10_DHP_concepts_expansion_ideas.png)
 
 ## 🎯 El Reto
 

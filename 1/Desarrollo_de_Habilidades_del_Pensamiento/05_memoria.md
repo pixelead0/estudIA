@@ -1,4 +1,3 @@
-![La Memoria](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/05_DHP_concepts_memory.png)
 
 ## 🎯 El Reto
 

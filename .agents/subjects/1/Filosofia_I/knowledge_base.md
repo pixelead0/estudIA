@@ -27,6 +27,28 @@
 - **Evitar**: Definiciones abstractas sin ejemplos de la vida real (redes sociales, familia, amigos).
 - **Preferir**: Dilemas de la cultura pop, cine y situaciones cotidianas de un adolescente de 15 años.
 
+## Estándar Multimedia Premium 2.0 (2+2)
+Cada sección `🌟 Zona de Descubrimiento` debe contener exactamente:
+- **2 recursos YouTube** bajo `🎥 Para ver (YouTube + TikToks)`
+- **2 TikToks en español** bajo el mismo bloque
+- **2 recursos YouTube** bajo `🎬 Para ver (Cine y Series)`
+- **2 TikToks de cine/análisis** bajo el mismo bloque
+
+### Criterios de Curaduría TikTok (Abierto)
+No se restringe a cuentas específicas. Cualquier video es válido si cumple **todos** los siguientes criterios:
+
+| Criterio | Requisito |
+|:---|:---|
+| **Idioma** | Audio o subtítulos en español (no solo texto superpuesto) |
+| **Relevancia** | Temática directamente vinculada al módulo |
+| **Tono** | Educativo, crítico o reflexivo — sin desinformación |
+| **Duración** | Preferiblemente entre 30 segundos y 3 minutos |
+| **Accesibilidad** | El video debe ser público y reproducible sin cuenta |
+| **Diversidad** | Priorizar variedad de creadores por módulo — no repetir la misma cuenta más de una vez por bloque |
+
+### Advertencia de Validación
+TikTok **bloquea la validación server-side** (curl, yt-dlp). Los links deben verificarse **manualmente en el navegador** antes de publicar. Los IDs que terminen en `567890`, `456789` o `345678` son **placeholders ficticios** pendientes de reemplazo.
+
 ## Habilidades de Salida
 - Capacidad para analizar dilemas complejos y justificar decisiones con argumentos sólidos.
 - Habilidad para identificar influencias externas en el propio sistema de valores.

@@ -1,4 +1,3 @@
-![Pensamiento Lateral](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/09_DHP_concepts_lateral_thinking.png)
 
 ## 🎯 El Reto
 

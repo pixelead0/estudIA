@@ -1,4 +1,3 @@
-![El camino de una idea](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/03_DHP_concepts_idea_path.png)
 
 ## 🎯 El Reto
 

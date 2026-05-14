@@ -1,4 +1,3 @@
-![Percepción y Atención](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/04_DHP_concepts_perception_attention.png)
 
 ## 🎯 El Reto
 

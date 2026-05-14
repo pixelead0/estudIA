@@ -1,4 +1,3 @@
-![Tipos de Pensamiento](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/02_DHP_concepts_thinking_types.png)
 
 ## 🎯 El Reto
 

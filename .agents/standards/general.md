@@ -60,14 +60,46 @@ Cada módulo debe estar contenido en un archivo Markdown.
 
 ## 5. Calidad Visual y Redacción
 - **Fluidez y Párrafos**: Evitar muros de texto. Separar los párrafos de manera que cada uno trate una idea clara. Usar conectores de transición (Por consiguiente, No obstante, En consecuencia) para asegurar la fluidez.
-- **Obligatorio**: Al menos una imagen clara y atractiva por módulo que refuerce el concepto.
+- **Sin imágenes embebidas**: Los módulos NO deben incluir links de imagen (`![alt](ruta)`). Los recursos visuales se gestionan exclusivamente desde la sección "🌟 Zona de Descubrimiento" mediante links de YouTube y TikTok.
 - **Formato**: Uso de `alerts` de Markdown, tablas y listas para facilitar la lectura.
 
-## 6. Estándares de Exportación (PDF)
+## 6. Regla de Multimedia (Formato de Ficha con Reflexión)
+
+Cada recurso multimedia de la sección **🌟 Zona de Descubrimiento** debe seguir estrictamente el siguiente formato de ficha. **Prohibido** listar los recursos como simples links sin reflexión.
+
+### Formato obligatorio dentro del módulo
+
+```markdown
+- **Título del Video**: Reflexión pedagógica de una línea que conecta el clip con el objetivo de aprendizaje del módulo. https://url-directa
+```
+
+### Reglas de la Reflexión Pedagógica
+- **Obligatoria**: No se puede publicar un recurso sin reflexión.
+- **Longitud**: Máximo 2 líneas. Debe ser concisa y directa.
+- **Contenido**: Debe conectar explícitamente el clip con un concepto del módulo (no solo describir el video).
+- **Tono**: Mismo tono "Mentor Amigo" del resto del módulo.
+- **Ejemplo correcto**: `> La creatividad no es un chispazo de suerte, sino un proceso que puede entrenarse y construirse colectivamente.`
+- **Ejemplo incorrecto**: `> Un video sobre brainstorming.`
+
+### Índice Maestro de Multimedia
+El archivo `00_indice_videos.md` dentro de cada carpeta de materia consolida **todos** los recursos en formato de fichas navegables:
+
+```markdown
+### Título del Video
+▶️ **YouTube** &nbsp; [Título](https://url)
+> Reflexión pedagógica que conecta el clip con los objetivos de aprendizaje.
+```
+
+Este índice se genera automáticamente con el script `.agents/scratch/extract_videos_v4.py` y debe regenerarse cada vez que se añadan o modifiquen recursos multimedia en los módulos.
+
+---
+
+## 7. Estándares de Exportación (PDF)
 Para garantizar una experiencia de lectura fluida y profesional en los archivos descargables:
 - **Títulos Automáticos**: El generador de PDF añade un encabezado `H1` con el nombre del módulo (ej. "Módulo 01: [Título]"). NO añadir títulos `H1` manuales dentro de los archivos `.md`.
 - **Salto de Página**: Cada módulo debe comenzar en una página nueva. Esto es gestionado por la clase `.page-break` en el CSS de exportación.
 - **Paginación**: El pie de página debe mostrar siempre el número de página actual y el total del documento.
+- **Apéndices al Final**: Los archivos con prefijo `00_` (ej. `00_resumen_temario.md`, `00_indice_videos.md`) se agregan automáticamente **al final del PDF** como apéndices, después de todos los módulos numerados. El título en el PDF será `Apéndice: [Nombre legible]`. No se incluyen al inicio.
 
 ---
 > [!IMPORTANT]

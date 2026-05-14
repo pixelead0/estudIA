@@ -1,4 +1,3 @@
-![Procesos de Pensamiento](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/01_DHP_concepts_basic_processes.png)
 
 ## 🎯 El Reto
 

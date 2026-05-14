@@ -1,4 +1,3 @@
-![Razonamiento Lógico](../../assets/1/Desarrollo_de_Habilidades_del_Pensamiento/07_DHP_concepts_logic_reasoning.png)
 
 ## 🎯 El Reto
 
