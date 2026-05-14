@@ -10,7 +10,7 @@
     - **Reglas de Precisión**:
         - **Mantenimiento de Reactivos**: Las preguntas del "Reto Final" deben ser **idénticas** a las de la guía original. NO se deben "mejorar" ni cambiar.
         - **Referencias Internas**: Inyectar etiquetas `(N)` en la explicación teórica vinculándolas al número de reactivo local.
-    - **Fase de Cierre**: Crea `🏁 Pausa para pensar`, `📚 Glosario Maestro` y `🌟 Zona de Descubrimiento` (incluyendo clips, casos reales y escenas de cine con su respectivo mensaje y link).
+    - **Fase de Cierre**: Crea `🏁 Pausa para pensar`, `📚 Glosario Maestro` y `🌟 Zona de Descubrimiento` (incluyendo **4 referencias** de YouTube + TikToks [2 de cada uno] para Clips/Casos, y **4 referencias** [2 de cada uno] para Cine/Series, con su respectivo mensaje y link).
 4. **Expert Quality Gate**: Ejecuta auditoría final. Si pasa, guarda en: `1/[MATERIA]/##_[nombre].md`.
 
 ---

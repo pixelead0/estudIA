@@ -48,8 +48,8 @@ Cada módulo debe estar contenido en un archivo Markdown.
     - **Claridad Total**: Explicar los términos esenciales sin lenguaje innecesariamente complejo.
 7.  **🌟 Zona de Descubrimiento**: Recursos adicionales para profundizar de forma entretenida:
     - **Dato curioso 1** y **Dato curioso 2**: Hechos poco conocidos o sorprendentes.
-    - **🎥 Para ver (Clips y Casos Reales)**: Inclusión obligatoria de al menos 2 referencias a videos cortos, clips o casos de la vida real que conecten con el tema (estilo "clips de capacitación"). Deben incluir una breve reflexión sobre el mensaje clave del video y su **link directo a YouTube**.
-    - **🎬 Para ver (Cine y Series)**: Inclusión obligatoria de al menos 2 escenas de películas o series que ilustren el tema. Cada referencia debe explicar el mensaje o lección relacionada, con su **link directo a YouTube**.
+    - **🎥 Para ver (YouTube + TikToks)**: Inclusión obligatoria de **4 referencias en total** (2 clips/casos de YouTube + 2 TikToks) que conecten con el tema. Cada uno debe incluir una reflexión sobre el mensaje clave y su **link directo**.
+    - **🎬 Para ver (Cine y Series)**: Inclusión obligatoria de **4 referencias en total** (2 escenas de YouTube + 2 de TikTok) que ilustren el tema. Cada referencia debe explicar el mensaje o lección relacionada, con su **link directo**.
     - **Para conversar**: Un punto de partida sugerido para debatir el tema con amigos, familiares o mentores.
 8.  **🏆 Reto Final**: Cuestionario de opción múltiple (mínimo 6 preguntas). **IMPORTANTE**: Las preguntas deben ser VERBATIM (exactas) de la guía original en cuanto a fondo y contenido. Sin embargo, es OBLIGATORIO corregir errores de ortografía, acentuación y puntuación (especialmente los signos de apertura ¿ y ¡) para mantener el estándar de calidad premium.
 9.  **🔑 Respuestas Correctas**: Clave de respuestas del Reto Final.
