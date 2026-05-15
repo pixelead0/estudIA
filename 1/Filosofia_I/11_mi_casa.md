@@ -13,7 +13,7 @@ La **Identidad Nacional** es el conjunto de historias, valores y símbolos que n
 
 > "La identidad es un descubrimiento que se hace en comunidad". — Octavio Paz.
 
-Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6).
+Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6). La razón es profunda: igual que una madre da vida, identidad y sustento, la tierra que te vio nacer te formó, te nutrió y te dio el idioma, la historia y los valores que eres hoy.
 
 > "La patria es comunidad de intereses, unidad de tradiciones, unidad de fines, fusión de almas y fortunas". — José Martí.
 
@@ -29,13 +29,13 @@ Para que 130 millones de personas vivamos en paz, formamos un **Estado**, que ti
 
 > "Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz". — Benito Juárez.
 
-Nuestro gobierno se divide en tres poderes: **Ejecutivo**, **Legislativo** (quienes hacen las leyes) y **Judicial**(4).
+Nuestro gobierno se divide en tres poderes: **Ejecutivo**, **Legislativo** (quienes hacen las leyes, también llamado **Congreso de la Unión**) y **Judicial**(4).
 
 > "La moral es el arte de vivir, es el tratado de los deberes y derechos del hombre". — Alfonso Reyes.
 
 
 ### 3. Tu Nueva Familia: El Orgullo Politécnico
-Al entrar al **IPN**, te unes a una historia de excelencia(7). Tus nuevos colores son el guinda y el blanco, y tu misión es usar lo que aprendes para ayudar a México. Para eso tenemos un **Código de Ética** basado en la honestidad, el respeto y la justicia social(8).
+Al entrar al **IPN**, te unes a una historia de excelencia. Tu nueva identidad tiene tres pilares(7): el lema **"La Técnica al Servicio de la Patria"**, tus colores guinda y blanco, y el compromiso social de usar tus conocimientos para beneficiar a México. Para eso tenemos un **Código de Ética** basado en cinco principios: la **honestidad**, la **responsabilidad**, el **respeto**, la **justicia social** y la **integridad**(8).
 
 > "La educación es el arma más poderosa que puedes usar para cambiar el mundo". — Nelson Mandela.
 
@@ -78,7 +78,7 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 - **Estado**: La forma en que nos organizamos en un territorio con leyes.
 - **Lema**: Una frase que resume el sueño o la misión de una institución.
 - **Identidad**: Sentirte parte de un grupo y compartir sus valores.
-- **Poder Legislativo**: El grupo de personas (Diputados y Senadores) que crean nuestras leyes(5).
+- **Poder Legislativo**: El Congreso de la Unión, formado por la Cámara de Diputados y la Cámara de Senadores, que crean nuestras leyes(5).
 
 ## 🌟 Zona de Descubrimiento
 
@@ -87,12 +87,12 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 - **🎥 Para ver (YouTube + TikToks)**:
     - **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
     - **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
-    - **Tu primer entorno moral (TikTok)**: El hogar y el barrio son la primera escuela de valores; antes de elegir qué creer, el entorno ya sembró en ti cómo ver el mundo. https://www.tiktok.com/@psicoactivos/video/7287341065004023046
+    - **¿De dónde vienen nuestros valores?**: El hogar y el barrio son la primera escuela moral; mucho antes de elegir qué creer, el entorno ya sembró en ti cómo ver el mundo. https://www.youtube.com/watch?v=XNbaR54Gpj4
     - **La comunidad y tú (TikTok)**: Cada pequeña acción tuya tiene un efecto dominó en las personas que te rodean; ser ciudadano empieza en tu cuadra. https://www.tiktok.com/@aprendamos.filosofia/video/7341822914963405061
 - **🎬 Para ver (Cine y Series)**:
-    - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=bLKjZQfL1ZQ
-    - **Patch Adams (Trato humanizado)**: La importancia de ver a la persona detrás del paciente (o del ciudadano) y cómo el amor y el humor pueden transformar una institución. https://www.youtube.com/watch?v=eEwoH-M4jqE
-    - **Up: La casa de los recuerdos (TikTok)**: Es la demostración visual más poderosa de que un hogar no es una estructura física, sino un contenedor de identidad. La casa de Carl no tiene valor por los ladrillos — tiene valor porque cada rincón es un fragmento de quién es él. Eso es exactamente lo que el módulo trabaja: identidad nacional, arraigo y pertenencia https://www.tiktok.com/@tmpilo_/video/7333614704058797318
+    - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=cVZCHtykTDc
+    - **Orgullo Politécnico (El legado del IPN)**: La historia de por qué el IPN existe: no fue un accidente, fue la decisión de Lázaro Cárdenas de apostarle a su gente más humilde para llevarla a la ciencia y el progreso. https://www.youtube.com/watch?v=e2r0iru3XGQ
+    - **Up: La casa de los recuerdos (TikTok)**: Un hogar no son paredes — es la suma de todo lo que viviste en él; así como la casa de Carl guarda a Ellie, México guarda la historia que nos hace ser quienes somos. https://www.tiktok.com/@tmpilo_/video/7333614704058797318
     - **Spider-Man: Tu barrio, tu responsabilidad (TikTok)**: Por qué cuidar tu entorno es el primer paso para ser un héroe real. https://www.tiktok.com/@estebandanyl440808/video/7438376859777158456
 - **Para conversar**: Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
 
