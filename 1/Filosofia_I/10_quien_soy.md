@@ -9,7 +9,7 @@ En este módulo, el reto es descubrir tu "Valor Infinito". Vamos a entender qué
 ## 💡 ¿Cómo funciona esto?
 
 ### 1. La Metáfora: El Valor Infinito (Dignidad)
-La **Dignidad** es la regla de oro: cada ser humano es valioso por el simple hecho de existir(1). No importa cuánto dinero tengas o qué tan inteligente seas, tu valor es infinito. 
+La **Dignidad** es la regla de oro: cada ser humano es valioso por el simple hecho de existir(1). No importa cuánto dinero tengas o qué tan inteligente seas, tu valor es infinito.
 
 > "Lo que tiene precio puede ser sustituido por algo equivalente; lo que es superior a todo precio, tiene dignidad". — Immanuel Kant.
 
@@ -28,7 +28,7 @@ Para construir quién eres, usas tu libertad, pero hay que saber manejarla:
 
 
 ### 3. Construyendo tu "Yo" Auténtico
-Tu identidad se construye con la **Reflexión**(10). El "núcleo" de ser responsable es saber que cada cosa que eliges va poniendo un ladrillo en la construcción de quién eres(7). 
+Tu identidad se construye con la **Reflexión**(10). El "núcleo" de ser responsable es saber que cada cosa que eliges va poniendo un ladrillo en la construcción de quién eres(7).
 
 > "Ser uno mismo en un mundo que trata de convertirte en otra cosa es el mayor logro". — Ralph Waldo Emerson.
 
@@ -91,8 +91,8 @@ Tú defiendes tu dignidad cada vez que pones límites y no dejas que te traten m
     - **Dignidad vs Precio (TikTok)**: ¿Sabes por qué tú no tienes precio? Descubre el concepto de Kant en menos de un minuto. https://www.tiktok.com/@ismafilosofia/video/7234567890123456789
 - **🎬 Para ver (Cine y Series)**:
     - **El club de los poetas muertos (Carpe Diem)**: El llamado a ser dueños de nuestra vida y a encontrar nuestra propia voz antes de que el tiempo pase. https://www.youtube.com/watch?v=sgwFs2BCOFg
-    - **Billy Elliot (Escena de la audición)**: El momento en que alguien defiende su verdadera pasión e identidad frente a los prejuicios y expectativas de los demás. https://www.youtube.com/watch?v=xBxgNypjbk4
-    - **'Carpe Diem' y la identidad (TikTok)**: Por qué ser dueño de tu tiempo es ser dueño de quién eres. https://www.tiktok.com/@pelis_resumen_es/video/7338781350125407493
+    - **Billy Elliot (Escena de la audición)**: El momento en que alguien defiende su verdadera pasión e identidad frente a los prejuicios y expectativas de los demás. https://www.youtube.com/watch?v=bp_WMFPRswE
+    - **'Carpe Diem' y la identidad (TikTok)**: Por qué ser dueño de tu tiempo es ser dueño de quién eres. https://www.tiktok.com/@jpoz_segundo/video/7360182816597904645
     - **Billy Elliot: Ser auténtico (TikTok)**: El valor de seguir tu pasión por encima de lo que los demás esperan de ti. https://www.tiktok.com/@momentos_de_peliculas_/video/7338426002164436230
 - **Para conversar**: Pregúntale a un amigo: "¿Qué es lo que más valoras de nuestra amistad?". Verás que lo que más importa no son las cosas materiales.
 
