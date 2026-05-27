@@ -251,20 +251,42 @@ function escapeHtml(str) {
 
 const CALLOUT_META = {
   note: { icon: '📌', label: 'Nota' },
-  tip: { icon: '✨', label: 'Tip' },
+  tip: { icon: '✨', label: 'Consejo' },
   important: { icon: '🔥', label: 'Clave' },
   warning: { icon: '⚡', label: 'Ojo' },
+  caution: { icon: '⚡', label: 'Ojo' },
 };
+
+const CALLOUT_TAG_ONLY_RE = /^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]$/i;
+/** marked (GFM) suele fusionar `> [!TIP]` y el cuerpo en un solo <p>. */
+const CALLOUT_TAG_INLINE_RE = /^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*(?:<br\s*\/?>)?\s*/i;
+
+function stripCalloutTagFromParagraph(p) {
+  const exact = p.textContent.trim().match(CALLOUT_TAG_ONLY_RE);
+  if (exact) {
+    p.remove();
+    return exact[1].toLowerCase();
+  }
+  const inline = p.innerHTML.trim().match(CALLOUT_TAG_INLINE_RE);
+  if (!inline) return null;
+  const rest = p.innerHTML.trim().slice(inline[0].length).trim();
+  if (rest) p.innerHTML = rest;
+  else p.remove();
+  return inline[1].toLowerCase();
+}
 
 function enhanceCallouts(container) {
   container.querySelectorAll('.markdown-body blockquote').forEach((bq) => {
-    const p = bq.querySelector('p');
-    if (!p) return;
-    const m = p.textContent.trim().match(/^\[!(NOTE|TIP|IMPORTANT|WARNING)\]$/i);
-    if (!m) return;
-    const kind = m[1].toLowerCase();
-    bq.classList.add('callout', `callout-${kind}`);
-    p.remove();
+    if (bq.classList.contains('callout')) return;
+    const firstP = bq.querySelector(':scope > p');
+    if (!firstP) return;
+
+    const kind = stripCalloutTagFromParagraph(firstP);
+    if (!kind) return;
+
+    const styleKind = kind === 'caution' ? 'warning' : kind;
+    bq.classList.add('callout', `callout-${styleKind}`);
+
     const meta = CALLOUT_META[kind];
     if (!meta || bq.querySelector('.callout-header')) return;
     const hdr = document.createElement('div');
@@ -283,6 +305,7 @@ const SECTION_KIND_BY_EMOJI = {
   '📚': 'glossary',
   '🌟': 'explore',
   '🏆': 'quiz',
+  '🔑': 'answers',
   '📺': 'media',
   '🎬': 'media',
   '🎥': 'media',
@@ -347,10 +370,6 @@ function enhanceModuleSections(article) {
       kick.textContent = kicker;
       titles.appendChild(kick);
     }
-    h2.textContent = headline;
-    h2.classList.add('study-section-title');
-    titles.appendChild(h2);
-
     const body = document.createElement('div');
     body.className = 'study-section-body';
     const nodes = [];
@@ -362,6 +381,9 @@ function enhanceModuleSections(article) {
     }
 
     article.insertBefore(section, h2);
+    h2.textContent = headline;
+    h2.classList.add('study-section-title');
+    titles.appendChild(h2);
     head.appendChild(titles);
     nodes.forEach((node) => body.appendChild(node));
     section.appendChild(head);
@@ -398,6 +420,1065 @@ function enhancePracticeCases(container) {
       body.insertBefore(card, h3);
       nodes.forEach((n) => card.appendChild(n));
     });
+  });
+}
+
+/** Listas numeradas en «Para pensar» → visor paso a paso (una pregunta visible). */
+function enhanceReflectPrompts(container) {
+  container.querySelectorAll('.study-section--reflect .study-section-body').forEach((body) => {
+    if (body.dataset.reflectEnhanced) return;
+    const ol = body.querySelector(':scope > ol');
+    const items = ol ? [...ol.querySelectorAll(':scope > li')] : [];
+    if (items.length < 2) return;
+    body.dataset.reflectEnhanced = '1';
+
+    const total = items.length;
+    let current = 0;
+
+    const stepper = document.createElement('div');
+    stepper.className = 'reflect-stepper';
+
+    const meta = document.createElement('div');
+    meta.className = 'reflect-stepper-meta';
+    meta.innerHTML = `
+      <p class="reflect-stepper-count" aria-live="polite">
+        Pregunta <span class="reflect-stepper-current">1</span> de <span class="reflect-stepper-total">${total}</span>
+      </p>
+      <div class="reflect-stepper-track" aria-hidden="true">
+        <div class="reflect-stepper-fill"></div>
+      </div>`;
+
+    const stage = document.createElement('div');
+    stage.className = 'reflect-stepper-stage';
+
+    items.forEach((li, i) => {
+      const slide = document.createElement('article');
+      slide.className = 'reflect-slide';
+      slide.hidden = i !== 0;
+      slide.innerHTML = `
+        <span class="reflect-slide-num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>
+        <p class="reflect-slide-question"></p>
+        <p class="reflect-slide-hint">Tómate un momento con esta pregunta antes de pasar a la siguiente.</p>`;
+      slide.querySelector('.reflect-slide-question').innerHTML = li.innerHTML;
+      stage.appendChild(slide);
+    });
+
+    const nav = document.createElement('div');
+    nav.className = 'reflect-stepper-nav';
+
+    const prevBtn = document.createElement('button');
+    prevBtn.type = 'button';
+    prevBtn.className = 'reflect-stepper-btn reflect-stepper-btn--prev';
+    prevBtn.textContent = 'Anterior';
+
+    const dots = document.createElement('div');
+    dots.className = 'reflect-stepper-dots';
+    dots.setAttribute('role', 'tablist');
+    dots.setAttribute('aria-label', 'Preguntas');
+
+    const dotButtons = items.map((_, i) => {
+      const dot = document.createElement('button');
+      dot.type = 'button';
+      dot.className = 'reflect-stepper-dot';
+      dot.setAttribute('role', 'tab');
+      dot.setAttribute('aria-label', `Pregunta ${i + 1}`);
+      dot.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+      dots.appendChild(dot);
+      return dot;
+    });
+
+    const nextBtn = document.createElement('button');
+    nextBtn.type = 'button';
+    nextBtn.className = 'reflect-stepper-btn reflect-stepper-btn--next';
+    nextBtn.textContent = 'Siguiente';
+
+    nav.append(prevBtn, dots, nextBtn);
+    stepper.append(meta, stage, nav);
+
+    const countEl = meta.querySelector('.reflect-stepper-current');
+    const fillEl = meta.querySelector('.reflect-stepper-fill');
+    const slides = [...stage.querySelectorAll('.reflect-slide')];
+
+    function syncUi() {
+      countEl.textContent = String(current + 1);
+      fillEl.style.width = `${((current + 1) / total) * 100}%`;
+      slides.forEach((slide, i) => {
+        slide.hidden = i !== current;
+      });
+      dotButtons.forEach((dot, i) => {
+        dot.classList.toggle('is-active', i === current);
+        dot.setAttribute('aria-selected', i === current ? 'true' : 'false');
+      });
+      prevBtn.disabled = current === 0;
+      nextBtn.textContent = current === total - 1 ? 'Listo' : 'Siguiente';
+      nextBtn.disabled = false;
+    }
+
+    function goTo(index) {
+      current = Math.max(0, Math.min(total - 1, index));
+      syncUi();
+    }
+
+    prevBtn.addEventListener('click', () => goTo(current - 1));
+    nextBtn.addEventListener('click', () => {
+      if (current < total - 1) goTo(current + 1);
+      else nextBtn.disabled = true;
+    });
+    dotButtons.forEach((dot, i) => dot.addEventListener('click', () => goTo(i)));
+
+    syncUi();
+    ol.replaceWith(stepper);
+  });
+}
+
+function parseGlossaryListItem(li) {
+  const strong = li.querySelector(':scope > strong');
+  if (!strong) return null;
+  const term = strong.textContent.trim();
+  if (!term) return null;
+  const clone = li.cloneNode(true);
+  clone.querySelector('strong')?.remove();
+  let defHtml = clone.innerHTML.trim().replace(/^:\s*/, '').replace(/^<br\s*\/?>\s*/i, '');
+  if (!defHtml) {
+    const rest = li.textContent.replace(term, '').trim().replace(/^:\s*/, '');
+    defHtml = escapeHtml(rest);
+  }
+  return { term, defHtml };
+}
+
+/** Listas «Palabras clave» → flashcards (término al frente, definición al voltear). */
+function enhanceGlossaryFlashcards(container) {
+  container.querySelectorAll('.study-section--glossary .study-section-body').forEach((body) => {
+    if (body.dataset.glossaryEnhanced) return;
+    const ul = body.querySelector(':scope > ul');
+    if (!ul) return;
+    const entries = [...ul.querySelectorAll(':scope > li')]
+      .map(parseGlossaryListItem)
+      .filter(Boolean);
+    if (entries.length < 2) return;
+    body.dataset.glossaryEnhanced = '1';
+
+    const deck = document.createElement('div');
+    deck.className = 'glossary-deck';
+
+    const hint = document.createElement('p');
+    hint.className = 'glossary-deck-hint';
+    hint.textContent = 'Toca cada tarjeta para voltearla y fijar el concepto.';
+
+    const grid = document.createElement('div');
+    grid.className = 'glossary-grid';
+    grid.setAttribute('role', 'list');
+
+    entries.forEach(({ term, defHtml }, i) => {
+      const card = document.createElement('button');
+      card.type = 'button';
+      card.className = 'glossary-flashcard';
+      card.setAttribute('role', 'listitem');
+      card.setAttribute('aria-expanded', 'false');
+      card.setAttribute('aria-label', `${term}. Toca para ver el significado.`);
+
+      card.innerHTML = `
+        <span class="glossary-flashcard-inner">
+          <span class="glossary-flashcard-face glossary-flashcard-face--front">
+            <span class="glossary-flashcard-index" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>
+            <span class="glossary-term">${escapeHtml(term)}</span>
+            <span class="glossary-flip-cue">Voltear</span>
+          </span>
+          <span class="glossary-flashcard-face glossary-flashcard-face--back">
+            <span class="glossary-term glossary-term--back">${escapeHtml(term)}</span>
+            <span class="glossary-definition">${defHtml}</span>
+          </span>
+        </span>`;
+
+      card.addEventListener('click', () => {
+        const flipped = card.classList.toggle('is-flipped');
+        card.setAttribute('aria-expanded', flipped ? 'true' : 'false');
+        card.setAttribute(
+          'aria-label',
+          flipped ? `${term}. Significado visible.` : `${term}. Toca para ver el significado.`,
+        );
+      });
+
+      grid.appendChild(card);
+    });
+
+    deck.append(hint, grid);
+    ul.replaceWith(deck);
+  });
+}
+
+const EXPLORE_VIDEO_HEADING_RE =
+  /clips y casos|cine y series|para ver|youtube|tiktok|🎥|🎬/i;
+const EXPLORE_FACT_HEADING_RE = /datos que sorprenden|dato curioso/i;
+
+function isExploreVideoHeading(text) {
+  return EXPLORE_VIDEO_HEADING_RE.test(String(text).trim());
+}
+
+function parseExploreFactListItem(li) {
+  const strong = li.querySelector(':scope > strong');
+  if (!strong) return null;
+  const label = strong.textContent.trim();
+  const clone = li.cloneNode(true);
+  clone.querySelector('strong')?.remove();
+  let bodyHtml = clone.innerHTML.trim().replace(/^:\s*/, '').replace(/^<br\s*\/?>\s*/i, '');
+  if (!bodyHtml) return null;
+  return { label, bodyHtml };
+}
+
+/** Separa consigna, pregunta entre comillas y cierre (p. ej. debate). */
+function parseConversationPrompt(html) {
+  const plain = document.createElement('div');
+  plain.innerHTML = html;
+  const text = plain.textContent.trim();
+  const quoteMatch = text.match(/(?:['"«“])(.+?)(?:['"»”])/s);
+  if (quoteMatch) {
+    const question = quoteMatch[1].trim();
+    const lead = text.slice(0, quoteMatch.index).trim().replace(/:?\s*$/, '');
+    const hook = text
+      .slice(quoteMatch.index + quoteMatch[0].length)
+      .trim()
+      .replace(/^[.·]\s*/, '');
+    return { lead, question, hook };
+  }
+  return { lead: '', question: text, hook: '' };
+}
+
+function buildExploreConversationMarkup(convoHtml) {
+  const { lead, question, hook } = parseConversationPrompt(convoHtml);
+  const leadHtml = lead
+    ? `<p class="explore-conversation-lead">${escapeHtml(lead)}</p>`
+    : '';
+  const hookHtml = hook
+    ? `<p class="explore-conversation-hook">${escapeHtml(hook)}</p>`
+    : '';
+  return `
+    <p class="explore-conversation-kicker">Para conversar</p>
+    ${leadHtml}
+    <blockquote class="explore-conversation-question">
+      <span class="explore-conversation-quote" aria-hidden="true">“</span>
+      <span class="explore-conversation-question-text">${escapeHtml(question)}</span>
+    </blockquote>
+    ${hookHtml}`;
+}
+
+/** Explora sin repetir vídeos (ya están en el reproductor del inicio). */
+function enhanceExploreSection(container) {
+  const article = container.querySelector('#module-article') || container;
+  const hub = article.querySelector('.video-playlist-hub');
+  const hubId = hub?.id;
+  const clipCount = hub ? hub.querySelectorAll('.playlist-chip').length : 0;
+
+  container.querySelectorAll('.study-section--explore .study-section-body').forEach((body) => {
+    if (body.dataset.exploreEnhanced) return;
+    body.dataset.exploreEnhanced = '1';
+
+    body.querySelectorAll('.video-playlist-ref').forEach((ref) => ref.remove());
+
+    [...body.querySelectorAll('h3')].forEach((h3) => {
+      if (!isExploreVideoHeading(h3.textContent)) return;
+      let sib = h3.nextElementSibling;
+      while (sib && (sib.tagName === 'UL' || (sib.tagName === 'P' && !/para conversar/i.test(sib.textContent)))) {
+        const next = sib.nextElementSibling;
+        if (sib.tagName === 'UL') sib.remove();
+        sib = next;
+      }
+      h3.remove();
+    });
+
+    [...body.querySelectorAll(':scope > ul > li')].forEach((li) => {
+      const label = li.querySelector(':scope > strong')?.textContent?.trim() || '';
+      if (isExploreVideoHeading(label)) {
+        li.querySelectorAll('ul').forEach((nested) => nested.remove());
+        li.remove();
+      }
+    });
+
+    body.querySelectorAll('ul').forEach((ul) => {
+      if (!ul.querySelector('li')) ul.remove();
+    });
+
+    body.querySelectorAll('li').forEach((li) => {
+      const strong = li.querySelector(':scope > strong');
+      const label = strong?.textContent?.trim() || '';
+      if (/dato curioso|para conversar/i.test(label)) return;
+      if (
+        li.querySelector(
+          'a[href*="youtube"], a[href*="tiktok"], .video-embed-slot, .video-playlist-ref',
+        )
+      ) {
+        li.remove();
+      }
+    });
+
+    body.querySelectorAll('ul').forEach((ul) => {
+      if (!ul.querySelector('li')) ul.remove();
+    });
+
+    const facts = [];
+    const datosH3 = [...body.querySelectorAll('h3')].find((h3) =>
+      EXPLORE_FACT_HEADING_RE.test(h3.textContent),
+    );
+    if (datosH3) {
+      const ul = datosH3.nextElementSibling;
+      if (ul?.tagName === 'UL') {
+        ul.querySelectorAll(':scope > li').forEach((li) => {
+          const parsed = parseExploreFactListItem(li);
+          if (parsed) facts.push(parsed);
+        });
+        ul.remove();
+      }
+      datosH3.remove();
+    }
+
+    body.querySelectorAll('li').forEach((li) => {
+      const strong = li.querySelector(':scope > strong');
+      if (!strong || !/dato curioso/i.test(strong.textContent)) return;
+      const parsed = parseExploreFactListItem(li);
+      if (parsed) facts.push(parsed);
+      li.remove();
+    });
+
+    let convoHtml = '';
+    const convoH3 = [...body.querySelectorAll('h3')].find((h3) =>
+      /para conversar/i.test(h3.textContent),
+    );
+    if (convoH3) {
+      const next = convoH3.nextElementSibling;
+      if (next?.tagName === 'P') {
+        convoHtml = next.innerHTML.trim();
+        next.remove();
+      }
+      convoH3.remove();
+    }
+    body.querySelectorAll('li').forEach((li) => {
+      const strong = li.querySelector(':scope > strong');
+      if (!strong || !/para conversar/i.test(strong.textContent)) return;
+      const clone = li.cloneNode(true);
+      clone.querySelector('strong')?.remove();
+      convoHtml = clone.innerHTML.trim().replace(/^:\s*/, '');
+      li.remove();
+    });
+
+    body.querySelectorAll('ul').forEach((ul) => {
+      if (!ul.querySelector('li')) ul.remove();
+    });
+
+    const layout = document.createElement('div');
+    layout.className = 'explore-layout';
+
+    if (hubId || clipCount > 0) {
+      const banner = document.createElement('div');
+      banner.className = 'explore-playlist-banner';
+      const countLabel = clipCount > 0 ? ` (${clipCount} clips)` : '';
+      banner.innerHTML = `
+        <span class="explore-playlist-banner-icon" aria-hidden="true">🎬</span>
+        <div class="explore-playlist-banner-text">
+          <strong>Ya viste los clips arriba</strong>
+          <p>El reproductor al inicio del módulo incluye todos los vídeos${countLabel}. Aquí van curiosidades y una consigna para conversar.</p>
+        </div>`;
+      if (hubId) {
+        const link = document.createElement('a');
+        link.className = 'explore-playlist-banner-link';
+        link.href = `#${hubId}`;
+        link.textContent = 'Ir al reproductor ↑';
+        link.addEventListener('click', (e) => {
+          e.preventDefault();
+          document.getElementById(hubId)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+        banner.appendChild(link);
+      }
+      layout.appendChild(banner);
+    }
+
+    if (facts.length) {
+      const factsWrap = document.createElement('div');
+      factsWrap.className = 'explore-facts';
+      factsWrap.setAttribute('role', 'list');
+      facts.forEach((fact, i) => {
+        const card = document.createElement('article');
+        card.className = 'explore-fact';
+        card.setAttribute('role', 'listitem');
+        card.innerHTML = `
+          <span class="explore-fact-num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>
+          <div class="explore-fact-body">
+            <h4 class="explore-fact-label">${escapeHtml(fact.label.replace(/:+$/, ''))}</h4>
+            <div class="explore-fact-text">${fact.bodyHtml}</div>
+          </div>`;
+        factsWrap.appendChild(card);
+      });
+      layout.appendChild(factsWrap);
+    }
+
+    if (convoHtml) {
+      const convo = document.createElement('div');
+      convo.className = 'explore-conversation';
+      convo.innerHTML = buildExploreConversationMarkup(convoHtml);
+      layout.appendChild(convo);
+    }
+
+    if (layout.children.length) {
+      body.prepend(layout);
+    }
+
+    body.querySelectorAll(':scope > ul:empty').forEach((ul) => ul.remove());
+    [...body.childNodes].forEach((node) => {
+      if (node.nodeType === Node.ELEMENT_NODE && node !== layout && !layout.contains(node)) {
+        const el = node;
+        if ((el.tagName === 'UL' && !el.querySelector('li')) || el.tagName === 'H3') {
+          el.remove();
+        }
+      }
+    });
+  });
+}
+
+function parseQuizOption(text) {
+  const m = String(text)
+    .trim()
+    .match(/^([A-D])\)\s*(.+)$/is);
+  if (!m) return null;
+  return { letter: m[1].toUpperCase(), text: m[2].trim() };
+}
+
+function parseQuizQuestionItem(li) {
+  const ul = li.querySelector(':scope > ul');
+  if (!ul) return null;
+  const options = [...ul.querySelectorAll(':scope > li')]
+    .map((optLi) => parseQuizOption(optLi.textContent))
+    .filter(Boolean);
+  if (!options.length) return null;
+  const clone = li.cloneNode(true);
+  clone.querySelector('ul')?.remove();
+  const questionHtml = clone.innerHTML.trim();
+  const questionText = clone.textContent.trim();
+  if (!questionText) return null;
+  return { questionHtml, questionText, options };
+}
+
+function findAnswersSection(container) {
+  return [...container.querySelectorAll('.study-section--answers, .study-section')].find(
+    (section) => {
+      const title = section.querySelector('.study-section-title')?.textContent || '';
+      return /respuesta/i.test(title);
+    },
+  );
+}
+
+function lockQuizAnswersSection(container) {
+  const answers = findAnswersSection(container);
+  if (!answers || answers.dataset.answersLocked) return null;
+  answers.dataset.answersLocked = '1';
+  answers.classList.add('quiz-answers--locked');
+  answers.id = 'module-quiz-answers';
+  return answers;
+}
+
+/** Clave del reto: «1. B | 2. A | …» en la sección 🔑 Respuestas. */
+function parseQuizAnswerKey(container) {
+  const section = findAnswersSection(container);
+  if (!section) return new Map();
+  const text = section.querySelector('.study-section-body')?.textContent || '';
+  const map = new Map();
+  text.split('|').forEach((chunk) => {
+    const m = chunk.trim().match(/^(\d+)\s*[.)]\s*([A-D])\b/i);
+    if (m) map.set(Number(m[1]), m[2].toUpperCase());
+  });
+  if (!map.size) {
+    for (const m of text.matchAll(/(\d+)\s*[.)]\s*([A-D])\b/gi)) {
+      map.set(Number(m[1]), m[2].toUpperCase());
+    }
+  }
+  return map;
+}
+
+function quizResultsMessage(perfect, total, totalWrong) {
+  if (perfect === total) return '¡Impresionante! Todas las preguntas a la primera. Ese es el nivel a repetir.';
+  if (perfect >= total * 0.7) {
+    return `Muy bien (${perfect} de ${total} sin errores). En el repaso, intenta dejar en cero los intentos fallidos.`;
+  }
+  if (totalWrong <= total) {
+    return `Buen trabajo. Tienes ${totalWrong} intentos fallidos en total — reta a bajar esa cifra en el repaso.`;
+  }
+  return `Completaste el reto. Repasa las preguntas con más errores e intenta acertar con menos intentos.`;
+}
+
+const THEORY_REF_ZONES =
+  '.study-section--learn .study-section-body, ' +
+  '.study-section--challenge .study-section-body, ' +
+  '.study-section--world .study-section-body, ' +
+  '.study-section--practice .study-section-body';
+
+const THEORY_REF_BLOCK_SEL =
+  'p, li, h3, h4, h5, h6, td, blockquote, .practica-caso, .practica-ejemplo, .callout, .study-intro';
+
+function getQuizQuestionCount(container) {
+  const body = container.querySelector('.study-section--quiz .study-section-body');
+  if (!body) return 0;
+  const ol = body.querySelector(':scope > ol');
+  if (!ol) return 0;
+  return ol.querySelectorAll(':scope > li').length;
+}
+
+function theoryExcerpt(block, maxLen = 88) {
+  let t = block.textContent.replace(/\s+/g, ' ').trim();
+  if (t.length > maxLen) t = `${t.slice(0, maxLen - 1).trimEnd()}…`;
+  return t;
+}
+
+/** Marca visualmente cada (N) válido dentro del bloque teórico. */
+function wrapTheoryRefTagsInBlock(block, maxN) {
+  if (block.dataset.theoryRefsWrapped) return;
+  block.dataset.theoryRefsWrapped = '1';
+
+  const walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT);
+  const textNodes = [];
+  let node;
+  while ((node = walker.nextNode())) {
+    if (node.parentElement?.closest('a, code, pre, .theory-ref-tag')) continue;
+    textNodes.push(node);
+  }
+
+  for (const textNode of textNodes) {
+    const text = textNode.data;
+    if (!/\(\d+\)/.test(text)) continue;
+
+    const frag = document.createDocumentFragment();
+    let last = 0;
+    const re = /\((\d+)\)/g;
+    let match;
+    while ((match = re.exec(text))) {
+      const num = Number(match[1]);
+      if (match.index > last) {
+        frag.appendChild(document.createTextNode(text.slice(last, match.index)));
+      }
+      if (num >= 1 && num <= maxN) {
+        const span = document.createElement('span');
+        span.className = 'theory-ref-tag';
+        span.dataset.quizRef = String(num);
+        span.textContent = match[0];
+        frag.appendChild(span);
+      } else {
+        frag.appendChild(document.createTextNode(match[0]));
+      }
+      last = match.index + match[0].length;
+    }
+    if (last === 0) continue;
+    if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+    textNode.parentNode.replaceChild(frag, textNode);
+  }
+}
+
+let theoryHighlightTimer = null;
+
+function clearTheoryHighlights() {
+  document
+    .querySelectorAll('.theory-anchor--highlight, .theory-ref-tag--highlight')
+    .forEach((el) => {
+      el.classList.remove('theory-anchor--highlight', 'theory-ref-tag--highlight');
+    });
+}
+
+/** Marca párrafos con (N) y arma mapa pregunta → anclas en teoría (solo web). */
+function enhanceQuizTheoryAnchors(container) {
+  const maxN = getQuizQuestionCount(container);
+  const map = new Map();
+  if (!maxN) {
+    container._quizTheoryRefs = map;
+    return map;
+  }
+
+  const blockIds = new WeakMap();
+  let blockCounter = 0;
+
+  function ensureBlockId(block) {
+    if (!blockIds.has(block)) {
+      blockCounter += 1;
+      const id = `theory-anchor-${blockCounter}`;
+      block.id = id;
+      block.classList.add('theory-anchor');
+      blockIds.set(block, id);
+    }
+    return blockIds.get(block);
+  }
+
+  container.querySelectorAll(THEORY_REF_ZONES).forEach((body) => {
+    if (body.dataset.theoryAnchorsMarked) return;
+    body.dataset.theoryAnchorsMarked = '1';
+
+    body.querySelectorAll(THEORY_REF_BLOCK_SEL).forEach((block) => {
+      if (block.closest('.quiz-challenge, .study-section--quiz, .study-section--answers')) return;
+
+      const nums = new Set();
+      const re = /\((\d+)\)/g;
+      let m;
+      while ((m = re.exec(block.textContent))) {
+        const n = Number(m[1]);
+        if (n >= 1 && n <= maxN) nums.add(n);
+      }
+      if (!nums.size) return;
+
+      wrapTheoryRefTagsInBlock(block, maxN);
+      const id = ensureBlockId(block);
+      const excerpt = theoryExcerpt(block);
+
+      for (const n of nums) {
+        if (!map.has(n)) map.set(n, []);
+        const list = map.get(n);
+        if (!list.some((r) => r.id === id)) {
+          list.push({ id, excerpt, questionNum: n });
+        }
+      }
+    });
+  });
+
+  container._quizTheoryRefs = map;
+  return map;
+}
+
+function scrollToTheoryAnchor(id, questionNum) {
+  const el = document.getElementById(id);
+  if (!el) return;
+
+  clearTheoryHighlights();
+  if (theoryHighlightTimer) {
+    window.clearTimeout(theoryHighlightTimer);
+    theoryHighlightTimer = null;
+  }
+
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  el.classList.add('theory-anchor--highlight');
+
+  if (questionNum != null) {
+    el.querySelectorAll(`.theory-ref-tag[data-quiz-ref="${questionNum}"]`).forEach((tag) => {
+      tag.classList.add('theory-ref-tag--highlight');
+    });
+  }
+
+  theoryHighlightTimer = window.setTimeout(() => {
+    clearTheoryHighlights();
+    theoryHighlightTimer = null;
+  }, 2800);
+}
+
+function createTheoryLink(ref, label) {
+  const a = document.createElement('a');
+  a.href = `#${ref.id}`;
+  a.className = 'quiz-theory-link';
+  a.textContent = label;
+  if (ref.excerpt) a.title = ref.excerpt;
+  a.addEventListener('click', (e) => {
+    e.preventDefault();
+    scrollToTheoryAnchor(ref.id, ref.questionNum);
+  });
+  return a;
+}
+
+function appendQuizTheoryBack(parent, questionNum, theoryRefs) {
+  const refs = theoryRefs?.get(questionNum);
+  if (!refs?.length) return;
+
+  const wrap = document.createElement('p');
+  wrap.className = 'quiz-theory-back';
+
+  if (refs.length === 1) {
+    wrap.appendChild(createTheoryLink(refs[0], '↩ Ver base en la teoría'));
+  } else {
+    wrap.appendChild(document.createTextNode('↩ Base en la teoría: '));
+    refs.forEach((r, i) => {
+      if (i > 0) wrap.appendChild(document.createTextNode(' · '));
+      wrap.appendChild(createTheoryLink(r, `Párrafo ${i + 1}`));
+    });
+  }
+
+  const options = parent.querySelector('.quiz-options');
+  parent.insertBefore(wrap, options ?? null);
+}
+
+function buildQuizResultsTheoryBlock(refs) {
+  if (!refs?.length) return null;
+
+  const wrap = document.createElement('div');
+  wrap.className = 'quiz-results-theory';
+
+  const label = document.createElement('p');
+  label.className = 'quiz-results-theory-label';
+  label.textContent = 'Base en la teoría';
+  wrap.appendChild(label);
+
+  refs.forEach((r, i) => {
+    const item = document.createElement('div');
+    item.className = 'quiz-results-theory-item';
+
+    const link = createTheoryLink(
+      r,
+      refs.length > 1 ? `Ir al párrafo ${i + 1}` : 'Ir al párrafo',
+    );
+    item.appendChild(link);
+
+    const excerpt = document.createElement('p');
+    excerpt.className = 'quiz-results-theory-excerpt';
+    excerpt.textContent = r.excerpt;
+    item.appendChild(excerpt);
+
+    wrap.appendChild(item);
+  });
+
+  return wrap;
+}
+
+function buildQuizResultsPanel(questions, picks, attempts, answerKey, keyHtml, theoryRefs) {
+  const total = questions.length;
+  const totalWrong = attempts.reduce((sum, n) => sum + n, 0);
+  const perfect = attempts.filter((n) => n === 0).length;
+
+  const wrap = document.createElement('div');
+  wrap.className = 'quiz-results';
+
+  const summary = document.createElement('div');
+  summary.className = 'quiz-results-summary';
+  summary.innerHTML = `
+    <h3 class="quiz-results-title">Tus resultados</h3>
+    <div class="quiz-results-stats" role="list">
+      <div class="quiz-results-stat quiz-results-stat--highlight" role="listitem">
+        <span class="quiz-results-stat-value">${perfect}</span>
+        <span class="quiz-results-stat-label">a la primera</span>
+        <span class="quiz-results-stat-of">de ${total}</span>
+      </div>
+      <div class="quiz-results-stat" role="listitem">
+        <span class="quiz-results-stat-value">${totalWrong}</span>
+        <span class="quiz-results-stat-label">intentos fallidos</span>
+      </div>
+      <div class="quiz-results-stat" role="listitem">
+        <span class="quiz-results-stat-value">${attempts.reduce((s, n) => s + n + 1, 0)}</span>
+        <span class="quiz-results-stat-label">intentos en total</span>
+      </div>
+    </div>
+    <p class="quiz-results-message">${quizResultsMessage(perfect, total, totalWrong)}</p>`;
+  wrap.appendChild(summary);
+
+  const list = document.createElement('ol');
+  list.className = 'quiz-results-list';
+  questions.forEach((q, i) => {
+    const wrong = attempts[i];
+    const tries = wrong + 1;
+    const key = answerKey.get(i + 1);
+    const pick = picks[i];
+    const preview =
+      q.questionText.length > 90 ? `${q.questionText.slice(0, 87).trimEnd()}…` : q.questionText;
+
+    let badgeClass = 'quiz-results-badge--retry';
+    let badgeText = `${wrong} fallo${wrong === 1 ? '' : 's'} · ${tries} intentos`;
+    if (wrong === 0) {
+      badgeClass = 'quiz-results-badge--perfect';
+      badgeText = 'A la primera';
+    } else if (wrong === 1) {
+      badgeClass = 'quiz-results-badge--ok';
+      badgeText = '1 fallo · 2 intentos';
+    }
+
+    let detail = '';
+    if (key && pick) {
+      detail =
+        pick === key
+          ? `Tu respuesta final: <strong>${pick}</strong>`
+          : `Última opción <strong>${pick}</strong> · clave <strong>${key}</strong>`;
+    } else if (pick) {
+      detail = `Tu respuesta final: <strong>${pick}</strong>`;
+    }
+
+    const li = document.createElement('li');
+    li.className = 'quiz-results-item';
+    li.innerHTML = `
+      <span class="quiz-results-num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>
+      <div class="quiz-results-body">
+        <p class="quiz-results-q">${escapeHtml(preview)}</p>
+        ${detail ? `<p class="quiz-results-detail">${detail}</p>` : ''}
+        <span class="quiz-results-badge ${badgeClass}">${badgeText}</span>
+      </div>`;
+    const bodyEl = li.querySelector('.quiz-results-body');
+    const theoryBlock = buildQuizResultsTheoryBlock(theoryRefs?.get(i + 1));
+    if (theoryBlock && bodyEl) bodyEl.appendChild(theoryBlock);
+    list.appendChild(li);
+  });
+  wrap.appendChild(list);
+
+  if (keyHtml?.trim()) {
+    const keyBlock = document.createElement('details');
+    keyBlock.className = 'quiz-results-key';
+    keyBlock.innerHTML = '<summary>Clave completa (solo referencia)</summary>';
+    const keyBody = document.createElement('div');
+    keyBody.className = 'quiz-results-key-body markdown-body';
+    keyBody.innerHTML = keyHtml;
+    keyBlock.appendChild(keyBody);
+    wrap.appendChild(keyBlock);
+  }
+
+  return wrap;
+}
+
+/** Reto final → cuestionario paso a paso; clave oculta hasta terminar. */
+function enhanceQuizChallenge(container) {
+  const answerKey = parseQuizAnswerKey(container);
+  const answersSection = lockQuizAnswersSection(container);
+
+  container.querySelectorAll('.study-section--quiz .study-section-body').forEach((body) => {
+    if (body.dataset.quizEnhanced) return;
+    const ol = body.querySelector(':scope > ol');
+    if (!ol) return;
+
+    const questions = [...ol.querySelectorAll(':scope > li')]
+      .map(parseQuizQuestionItem)
+      .filter(Boolean);
+    if (!questions.length) return;
+    body.dataset.quizEnhanced = '1';
+
+    const picks = questions.map(() => null);
+    const confirmed = questions.map(() => false);
+    const solved = questions.map(() => false);
+    const attempts = questions.map(() => 0);
+    let current = 0;
+    let finished = false;
+
+    const root = document.createElement('div');
+    root.className = 'quiz-challenge';
+
+    const hint = document.createElement('p');
+    hint.className = 'quiz-challenge-hint';
+    hint.textContent =
+      'Elige, valida y te diremos si acertaste. Cuando sea correcta, podrás avanzar.';
+
+    const meta = document.createElement('div');
+    meta.className = 'quiz-challenge-meta';
+    meta.innerHTML = `
+      <p class="quiz-challenge-count" aria-live="polite">
+        Pregunta <span class="quiz-challenge-current">1</span> de <span class="quiz-challenge-total">${questions.length}</span>
+      </p>
+      <div class="quiz-challenge-track" aria-hidden="true"><div class="quiz-challenge-fill"></div></div>`;
+
+    const stage = document.createElement('div');
+    stage.className = 'quiz-challenge-stage';
+
+    const finish = document.createElement('div');
+    finish.className = 'quiz-challenge-finish';
+    finish.hidden = true;
+    finish.innerHTML = `
+      <p class="quiz-challenge-finish-title">¡Reto completado!</p>
+      <p class="quiz-challenge-finish-text"></p>
+      <button type="button" class="quiz-challenge-results-btn">Ver resultados</button>`;
+
+    const nav = document.createElement('div');
+    nav.className = 'quiz-challenge-nav';
+    const prevBtn = document.createElement('button');
+    prevBtn.type = 'button';
+    prevBtn.className = 'quiz-challenge-btn quiz-challenge-btn--prev';
+    prevBtn.textContent = 'Anterior';
+    const confirmBtn = document.createElement('button');
+    confirmBtn.type = 'button';
+    confirmBtn.className = 'quiz-challenge-btn quiz-challenge-btn--confirm';
+    confirmBtn.textContent = 'Validar';
+    const nextBtn = document.createElement('button');
+    nextBtn.type = 'button';
+    nextBtn.className = 'quiz-challenge-btn quiz-challenge-btn--next';
+    nextBtn.textContent = 'Siguiente';
+
+    nav.append(prevBtn, confirmBtn, nextBtn);
+    root.append(hint, meta, stage, nav, finish);
+    ol.replaceWith(root);
+
+    const countEl = meta.querySelector('.quiz-challenge-current');
+    const fillEl = meta.querySelector('.quiz-challenge-fill');
+    const resultsBtn = finish.querySelector('.quiz-challenge-results-btn');
+    const finishText = finish.querySelector('.quiz-challenge-finish-text');
+    let resultsShown = false;
+
+    function correctLetterFor(index) {
+      return answerKey.get(index + 1) ?? null;
+    }
+
+    function renderFeedback(card, index) {
+      card.querySelector('.quiz-feedback')?.remove();
+      if (solved[index]) {
+        const fb = document.createElement('p');
+        fb.className = 'quiz-feedback quiz-feedback--ok';
+        fb.setAttribute('role', 'status');
+        const tries =
+          attempts[index] > 0
+            ? ` Lo lograste en ${attempts[index] + 1} intentos.`
+            : ' A la primera.';
+        fb.textContent = `¡Correcto!${tries} Ya puedes seguir.`;
+        card.appendChild(fb);
+        return;
+      }
+      if (attempts[index] > 0) {
+        const fb = document.createElement('p');
+        fb.className = 'quiz-feedback quiz-feedback--bad';
+        fb.setAttribute('role', 'status');
+        const n = attempts[index];
+        fb.textContent =
+          n === 1
+            ? 'Incorrecto. Intento 1 — elige otra opción y vuelve a validar.'
+            : `Incorrecto. Llevas ${n} intentos. Prueba con otra opción.`;
+        card.appendChild(fb);
+      }
+    }
+
+    function renderQuestion(index) {
+      stage.innerHTML = '';
+      const q = questions[index];
+      const card = document.createElement('article');
+      card.className = 'quiz-question-card';
+      card.id = `quiz-q-${index + 1}`;
+      card.innerHTML = `<h3 class="quiz-question-text"></h3>`;
+      card.querySelector('.quiz-question-text').innerHTML = q.questionHtml;
+      appendQuizTheoryBack(card, index + 1, container._quizTheoryRefs);
+
+      const optionsWrap = document.createElement('div');
+      optionsWrap.className = 'quiz-options';
+      optionsWrap.setAttribute('role', 'radiogroup');
+      optionsWrap.setAttribute(
+        'aria-label',
+        `Opciones pregunta ${index + 1}`,
+      );
+
+      const keyLetter = correctLetterFor(index);
+      const locked = solved[index];
+
+      q.options.forEach((opt) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'quiz-option';
+        btn.dataset.letter = opt.letter;
+        btn.setAttribute('role', 'radio');
+        const selected = picks[index] === opt.letter;
+        btn.setAttribute('aria-checked', selected ? 'true' : 'false');
+        if (selected) btn.classList.add('is-selected');
+        if (locked && keyLetter === opt.letter) btn.classList.add('is-correct');
+        if (!locked && selected && attempts[index] > 0 && keyLetter && opt.letter !== keyLetter) {
+          btn.classList.add('is-wrong');
+        }
+        btn.disabled = locked;
+        btn.innerHTML = `
+          <span class="quiz-option-letter" aria-hidden="true">${opt.letter}</span>
+          <span class="quiz-option-text">${escapeHtml(opt.text)}</span>`;
+        btn.addEventListener('click', () => {
+          if (locked) return;
+          picks[index] = opt.letter;
+          confirmed[index] = false;
+          optionsWrap.querySelectorAll('.quiz-option').forEach((b) => {
+            const on = b.dataset.letter === opt.letter;
+            b.classList.toggle('is-selected', on);
+            b.classList.remove('is-wrong', 'is-correct');
+            b.setAttribute('aria-checked', on ? 'true' : 'false');
+          });
+          card.querySelector('.quiz-feedback')?.remove();
+          confirmBtn.disabled = false;
+          nextBtn.disabled = true;
+        });
+        optionsWrap.appendChild(btn);
+      });
+
+      card.appendChild(optionsWrap);
+      renderFeedback(card, index);
+      stage.appendChild(card);
+    }
+
+    function syncUi() {
+      if (finished) return;
+      countEl.textContent = String(current + 1);
+      fillEl.style.width = `${((current + 1) / questions.length) * 100}%`;
+      renderQuestion(current);
+      prevBtn.disabled = current === 0;
+      const locked = solved[current];
+      confirmBtn.disabled = locked || picks[current] == null;
+      confirmBtn.textContent = locked ? 'Correcta ✓' : 'Validar';
+      nextBtn.textContent = current === questions.length - 1 ? 'Terminar' : 'Siguiente';
+      nextBtn.disabled = !locked;
+      meta.hidden = false;
+      stage.hidden = false;
+      nav.hidden = false;
+      finish.hidden = true;
+    }
+
+    function updateFinishTeaser() {
+      const totalWrong = attempts.reduce((sum, n) => sum + n, 0);
+      const perfect = attempts.filter((n) => n === 0).length;
+      finishText.textContent = `${perfect} de ${questions.length} a la primera · ${totalWrong} intentos fallidos en total. ¿Puedes mejorar esa marca?`;
+    }
+
+    function showFinish() {
+      finished = true;
+      updateFinishTeaser();
+      meta.hidden = true;
+      stage.hidden = true;
+      nav.hidden = true;
+      finish.hidden = false;
+    }
+
+    function goTo(index) {
+      current = Math.max(0, Math.min(questions.length - 1, index));
+      syncUi();
+    }
+
+    root.id = 'module-quiz-challenge';
+    root.dataset.questionCount = String(questions.length);
+
+    prevBtn.addEventListener('click', () => goTo(current - 1));
+    confirmBtn.addEventListener('click', () => {
+      if (picks[current] == null || solved[current]) return;
+      const keyLetter = correctLetterFor(current);
+      if (!keyLetter) {
+        confirmed[current] = true;
+        solved[current] = true;
+        syncUi();
+        return;
+      }
+      if (picks[current] === keyLetter) {
+        solved[current] = true;
+        confirmed[current] = true;
+      } else {
+        attempts[current] += 1;
+        confirmed[current] = false;
+      }
+      syncUi();
+    });
+    nextBtn.addEventListener('click', () => {
+      if (!solved[current]) return;
+      if (current < questions.length - 1) goTo(current + 1);
+      else showFinish();
+    });
+
+    resultsBtn.addEventListener('click', () => {
+      if (!answersSection || resultsShown) {
+        answersSection?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        return;
+      }
+      resultsShown = true;
+      const body = answersSection.querySelector('.study-section-body');
+      const keyHtml = body?.innerHTML ?? '';
+      const titleEl = answersSection.querySelector('.study-section-title');
+      const kickerEl = answersSection.querySelector('.study-section-kicker');
+      if (titleEl) titleEl.textContent = 'Tus resultados';
+      if (kickerEl) kickerEl.textContent = 'Tu desempeño';
+      if (body) {
+        body.innerHTML = '';
+        body.appendChild(
+          buildQuizResultsPanel(
+            questions,
+            picks,
+            attempts,
+            answerKey,
+            keyHtml,
+            container._quizTheoryRefs,
+          ),
+        );
+      }
+      answersSection.classList.remove('quiz-answers--locked');
+      resultsBtn.textContent = 'Ver resultados abajo ↑';
+      answersSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+    syncUi();
   });
 }
 
@@ -439,6 +1520,8 @@ function enhanceActivityTables(container) {
     grid.className = 'scenario-cards';
     grid.setAttribute('role', 'list');
 
+    const inPractice = !!table.closest('.study-section--practice');
+
     let index = 0;
     dataRows.forEach((tr) => {
       const cells = [...tr.querySelectorAll('td')];
@@ -451,6 +1534,7 @@ function enhanceActivityTables(container) {
 
       const card = document.createElement('article');
       card.className = 'scenario-card';
+      if (inPractice) card.classList.add('scenario-card--quiz');
       card.setAttribute('role', 'listitem');
 
       const num = document.createElement('span');
@@ -473,7 +1557,28 @@ function enhanceActivityTables(container) {
       p.className = 'scenario-card-insight';
       p.textContent = insight;
 
-      body.append(h4, tag, p);
+      if (inPractice) {
+        const revealBtn = document.createElement('button');
+        revealBtn.type = 'button';
+        revealBtn.className = 'scenario-card-reveal-btn';
+        revealBtn.textContent = 'Ver clave';
+        revealBtn.setAttribute('aria-expanded', 'false');
+
+        const reveal = document.createElement('div');
+        reveal.className = 'scenario-card-reveal';
+        reveal.append(tag, p);
+
+        revealBtn.addEventListener('click', () => {
+          card.classList.add('scenario-card--revealed');
+          revealBtn.setAttribute('aria-expanded', 'true');
+          revealBtn.remove();
+        });
+
+        body.append(h4, revealBtn, reveal);
+      } else {
+        body.append(h4, tag, p);
+      }
+
       card.append(num, body);
       grid.appendChild(card);
     });
@@ -482,6 +1587,12 @@ function enhanceActivityTables(container) {
 
     const wrap = document.createElement('div');
     wrap.className = 'scenario-cards-wrap';
+    if (inPractice) {
+      const hint = document.createElement('p');
+      hint.className = 'scenario-cards-hint';
+      hint.textContent = 'Piensa tu respuesta antes de abrir cada clave.';
+      wrap.appendChild(hint);
+    }
     wrap.appendChild(grid);
     table.replaceWith(wrap);
   });
@@ -1303,6 +2414,11 @@ async function renderSubjectView(subjects, subjectId, moduleId) {
       enhanceVideoPlaylist(article);
       enhanceModuleSections(article);
       enhancePracticeCases(contentView);
+      enhanceReflectPrompts(contentView);
+      enhanceGlossaryFlashcards(contentView);
+      enhanceExploreSection(contentView);
+      enhanceQuizTheoryAnchors(contentView);
+      enhanceQuizChallenge(contentView);
       enhanceWisdomQuotes(contentView);
       enhanceActivityTables(contentView);
       scheduleHydrateTikTokEmbeds(article);
