@@ -19,8 +19,18 @@ Los archivos **Markdown** en `1/<Materia>/` son la **única fuente** del materia
 
 ## Vistas por canal (no duplicar contenido)
 
-- **Web**: enlaces YouTube/TikTok → reproductor; callouts como tarjetas CSS; módulos `00_*` en sección “Extras” del menú; ancho y tipografía en `style.css`
+- **Web** (`main.js` tras `marked`):
+  - H2 → tarjetas `.study-section` (kickers en `section-labels.js`)
+  - `[!TIP]` etc. → `.callout` (tag nunca visible; cabecera Consejo/Nota/Clave/Ojo)
+  - Practica: casos `🔍` en `.practica-caso`; tablas 3 col → `.scenario-cards` con **Ver clave**
+  - Reflexiona: listas numeradas → `.reflect-stepper` (una pregunta por pantalla)
+  - Palabras clave: listas `**Término**:` → `.glossary-deck` (flashcards con volteo)
+  - Explora: vídeos solo en el reproductor inicial; en la sección, curiosidades + Para conversar
+  - Pon a prueba: cuestionario interactivo; Respuestas ocultas hasta terminar el reto
+  - YouTube/TikTok → playlist; `00_*` en «Extras» del menú
 - **PDF**: imágenes en Base64; callouts como `<div class="alert">`; saltos de página; apéndices al final del libro
+
+Detalle técnico: `.agents/instructions/web_platform_management.md` y didáctica: `.agents/instructions/module_schema_v3.md` (§ callouts, Practica web, Reflexiona web).
 
 Editar siempre el `.md` en `1/`; no mantener copias paralelas para web y PDF.
 

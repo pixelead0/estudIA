@@ -13,6 +13,7 @@ export const SECTION_KICKER = {
   glossary: 'Repaso rápido',
   explore: 'Mira esto',
   quiz: 'Pon a prueba',
+  answers: 'Clave del reto',
   default: '',
 };
 
