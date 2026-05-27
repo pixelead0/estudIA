@@ -101,12 +101,12 @@ La filosofía en tu mundo es el botón de **PAUSA**. Es detenerte antes de segui
 - **🎥 Para ver (YouTube + TikToks)**:
     - **El paso del Mito al Logos**: Una explicación dinámica sobre cómo la humanidad decidió "encender la luz" de la razón por primera vez. https://www.youtube.com/watch?v=40CKR6_PYxk
     - **El Origen de la Filosofía**: ¿Por qué en Grecia y por qué en ese momento? Descubre el contexto que cambió nuestra forma de pensar. https://www.youtube.com/watch?v=flOJubw6SG0
-    - **El paso del mito al logos (TikTok)**: Una explicación rápida y visual sobre el nacimiento del pensamiento racional. https://www.tiktok.com/@moncayo__9/video/7571430065217555734
+    - **Mitología vs explicación racional (microclase en TikTok)**: Una explicación rápida y visual sobre el nacimiento del pensamiento racional. https://www.tiktok.com/@moncayo__9/video/7571430065217555734
     - **Contexto histórico del logos (TikTok)**: Cómo el entorno griego facilitó que las personas cuestionaran los mitos. https://www.tiktok.com/@obolocaronte/video/7288799273313979680
 - **🎬 Para ver (Cine y Series)**:
     - **The Matrix (La pastilla roja)**: El momento en que Neo decide ver la realidad tal como es, rompiendo con el "Mito" de la simulación. https://www.youtube.com/watch?v=Ndw7HDys648
     - **The Truman Show (Escena final)**: Truman llega al límite de su mundo artificial y decide cruzar la puerta hacia lo desconocido, buscando la verdad. https://www.youtube.com/watch?v=jrxDDlDdCDI
-    - **Matrix y la Caverna de Platón (TikTok)**: Un análisis de cómo Neo vive el mito de la caverna, cuestionando qué es lo "real". https://www.tiktok.com/@edvard.cs/video/7543129931425828151?q=matrix%20platon&t=1778757605312
+    - **Matrix y la Caverna de Platón (TikTok)**: Un análisis de cómo Neo vive el mito de la caverna, cuestionando qué es lo "real". https://www.tiktok.com/@edvard.cs/video/7543129931425828151
     - **La realidad construida (TikTok)**: Relaciona *The Truman Show* y *The Matrix* con la búsqueda de la verdad filosófica más allá de las apariencias. https://www.tiktok.com/@bilbiosofia/video/7514379579490897159
 - **Para conversar**: Pregúntale a tus amigos: "¿Qué pasaría si descubriéramos que todo lo que creemos sobre la realidad es falso?". ¡Se va a armar un gran debate!
 

@@ -86,13 +86,13 @@ Tú practicas la ética ambiental cada vez que decides no comprar algo que no ne
 - **🎥 Para ver (YouTube + TikToks)**:
     - **El Peligro de la Burbuja (Filter Bubbles)**: ¿Por qué internet nos muestra solo lo que queremos ver? Una explicación sobre cómo los algoritmos pueden encerrarnos en nuestras propias ideas. https://www.youtube.com/watch?v=R0EKu3vxDts
     - **Stop Silencio (Ciberbullying)**: Un clip necesario para entender que nuestras palabras en la red tienen consecuencias reales en la vida de los demás. https://www.youtube.com/watch?v=cPuT1KLYhQE
-    - **Ética y Algoritmos (TikTok)**: ¿Quién es responsable de lo que decides en internet? Un análisis sobre cómo la tecnología moldea tu juicio. https://www.tiktok.com/@ferbustos/video/7345678901234567890
-    - **Bioética en 1 minuto (TikTok)**: Los límites morales de la ciencia explicados de forma clara y directa. https://www.tiktok.com/@enricgel/video/7331575850904898849
+    - **Ética y Algoritmos (TikTok)**: ¿Quién es responsable de lo que decides en internet? Un análisis sobre cómo la tecnología moldea tu juicio. https://www.tiktok.com/@aprendizdemercadotecnia/video/7188298463480696069
+    - **Bioética en 1 minuto (TikTok)**: Los límites morales de la ciencia explicados de forma clara y directa. https://www.tiktok.com/@cyb3rh4ck_v2/video/7515881210602589445
 - **🎬 Para ver (Cine y Series)**:
     - **El Dilema de las Redes Sociales**: Un resumen de cómo las plataformas digitales están diseñadas para capturar nuestra atención y moldear nuestra conducta. https://www.youtube.com/watch?v=Pl3IS7Yq_Rk
     - **Black Mirror (Nosedive - Caída en Picado)**: ¿Qué pasaría si nuestra vida dependiera de los "likes" y puntos que otros nos dan? Una advertencia sobre el futuro de la identidad digital. https://www.youtube.com/watch?v=6d5GVwonuZk
-    - **Reflexión sobre el Dilema Social (TikTok)**: Por qué somos el producto en la economía de la atención. https://www.tiktok.com/@momentos_de_peliculas_/video/7234567890123456789
-    - **Black Mirror y la reputación digital (TikTok)**: Un análisis de cómo la tecnología puede destruir nuestra libertad si no ponemos límites éticos. https://www.tiktok.com/@cinemakrisch/video/7345678901234567890
+    - **Reflexión sobre el Dilema Social (TikTok)**: Por qué somos el producto en la economía de la atención. https://www.tiktok.com/@discursoganador/video/7215681965335350534
+    - **Black Mirror y la reputación digital (TikTok)**: Un análisis de cómo la tecnología puede destruir nuestra libertad si no ponemos límites éticos. https://www.tiktok.com/@detective_alexander/video/7068080314043600134
 - **Para conversar**: Pregúntale a alguien: "¿Es ético crear robots que parezcan y sientan como humanos?". ¡Prepárate para el debate!
 
 ## 🏆 Reto Final

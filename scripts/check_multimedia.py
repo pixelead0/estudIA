@@ -3,19 +3,24 @@
 Valida multimedia en módulos markdown (estudIA).
 
 Comprueba:
-  - IDs de YouTube duplicados entre módulos (01–12).
-  - IDs de TikTok duplicados entre módulos.
-  - Solapamiento heurístico YouTube↔TikTok en el mismo módulo (misma “franquicia”
+  - IDs de YouTube duplicados entre lecciones (archivos distintos).
+  - IDs de TikTok duplicados entre lecciones.
+  - Solapamiento heurístico YouTube↔TikTok en el mismo archivo (misma “franquicia”
     según el título del bullet, tras quitar sufijos entre paréntesis).
 
+Modo de archivos:
+  - Por defecto: lecciones `NN_nombre.md` o `NN.MM_nombre.md` (excluye `00_*` y
+    `Resumen_*`).
+  - Con --strict-modules: solo `NN_nombre.md` con N=01..12 (una lección por número).
+
 Opcional (--check-http):
-  - YouTube vía oEmbed.
-  - TikTok vía HEAD.
+  - YouTube y TikTok vía oEmbed.
 
 Uso:
   python3 scripts/check_multimedia.py
   python3 scripts/check_multimedia.py \
     --root 1/Desarrollo_de_Habilidades_del_Pensamiento
+  python3 scripts/check_multimedia.py --root 1/Filosofia_I
   python3 scripts/check_multimedia.py --check-http
 """
 
@@ -36,20 +41,29 @@ YT_RE = re.compile(
     r"https?://youtu\.be/)([A-Za-z0-9_-]{11})"
 )
 TT_URL_RE = re.compile(r"https://www\.tiktok\.com[^\s\)\]]+")
-MOD_FILE_RE = re.compile(r"^(\d{2})_.*\.md$")
+# Modo estricto (DHP clásico): exactamente 01_foo.md … 12_foo.md
+STRICT_LESSON_RE = re.compile(r"^(\d{2})_[^/]+\.md$")
+# Modo flexible (p. ej. Filosofía I): 02.01_etica.md, 10_quien_soy.md, …
+FLEX_LESSON_RE = re.compile(r"^(?!00_|Resumen_)(\d{2})(?:\.\d{2})?_.+\.md$")
 
 # Doble handle en path: @user/@user/video/…
 TT_DOUBLE_HANDLE = re.compile(r"tiktok\.com/@[^/]+/@[^/]+/video/")
 
 
-def module_sort_key(path: Path) -> tuple[int, str] | None:
-    m = MOD_FILE_RE.match(path.name)
-    if not m:
-        return None
-    n = int(m.group(1))
-    if not (1 <= n <= 12):
-        return None
-    return (n, path.name)
+def iter_lesson_paths(root: Path, strict_modules: bool) -> list[Path]:
+    if strict_modules:
+        out: list[Path] = []
+        for p in sorted(root.glob("*.md")):
+            m = STRICT_LESSON_RE.match(p.name)
+            if not m:
+                continue
+            n = int(m.group(1))
+            if 1 <= n <= 12:
+                out.append(p)
+        return out
+    return sorted(
+        p for p in root.glob("*.md") if FLEX_LESSON_RE.match(p.name)
+    )
 
 
 def title_key_from_bullet(line: str) -> str | None:
@@ -86,32 +100,32 @@ def tiktok_video_ids_in_text(text: str) -> set[str]:
 
 def collect_issues(
     root: Path,
-) -> tuple[list[str], dict[int, Path]]:
+    strict_modules: bool,
+) -> tuple[list[str], list[Path]]:
     errors: list[str] = []
-    mod_paths: dict[int, Path] = {}
+    lesson_paths = iter_lesson_paths(root, strict_modules)
 
-    yt_where: dict[str, list[int]] = defaultdict(list)
-    tt_where: dict[str, list[int]] = defaultdict(list)
+    if strict_modules:
+        by_num: dict[int, Path] = {}
+        for p in lesson_paths:
+            m = STRICT_LESSON_RE.match(p.name)
+            if m:
+                by_num[int(m.group(1))] = p
+        for mod_num in range(1, 13):
+            if mod_num not in by_num:
+                errors.append(f"Falta módulo {mod_num:02d}_*.md en {root}")
+        lesson_paths = [by_num[n] for n in range(1, 13) if n in by_num]
 
-    md_files = sorted(root.glob("*.md"))
-    for p in md_files:
-        sk = module_sort_key(p)
-        if sk is None:
-            continue
-        mod_num, _ = sk
-        mod_paths[mod_num] = p
+    yt_where: dict[str, list[str]] = defaultdict(list)
+    tt_where: dict[str, list[str]] = defaultdict(list)
 
-    for mod_num in range(1, 13):
-        p = mod_paths.get(mod_num)
-        if p is None:
-            errors.append(f"Falta módulo {mod_num:02d}_*.md en {root}")
-            continue
-
+    for p in lesson_paths:
         text = p.read_text(encoding="utf-8")
+        label = p.name
         for vid in youtube_ids_in_text(text):
-            yt_where[vid].append(mod_num)
+            yt_where[vid].append(label)
         for tid in tiktok_video_ids_in_text(text):
-            tt_where[tid].append(mod_num)
+            tt_where[tid].append(label)
 
         if TT_DOUBLE_HANDLE.search(text):
             errors.append(
@@ -137,24 +151,24 @@ def collect_issues(
                 f"(revisar): {', '.join(overlap)}"
             )
 
-    for vid, mods in sorted(yt_where.items()):
-        u = sorted(set(mods))
+    for vid, files in sorted(yt_where.items()):
+        u = sorted(set(files))
         if len(u) > 1:
             errors.append(
-                f"YouTube duplicado entre módulos {u}: watch?v={vid}"
+                f"YouTube duplicado entre lecciones {u}: watch?v={vid}"
             )
 
-    for tid, mods in sorted(tt_where.items()):
-        u = sorted(set(mods))
+    for tid, files in sorted(tt_where.items()):
+        u = sorted(set(files))
         if len(u) > 1:
             errors.append(
-                f"TikTok duplicado entre módulos {u}: video/{tid}"
+                f"TikTok duplicado entre lecciones {u}: video/{tid}"
             )
 
-    return errors, mod_paths
+    return errors, lesson_paths
 
 
-def check_http_urls(mod_paths: dict[int, Path]) -> list[str]:
+def check_http_urls(paths: list[Path]) -> list[str]:
     errors: list[str] = []
     ctx = ssl.create_default_context()
     ua = {
@@ -165,7 +179,7 @@ def check_http_urls(mod_paths: dict[int, Path]) -> list[str]:
     }
 
     all_urls: list[tuple[str, Path]] = []
-    for p in sorted(mod_paths.values(), key=lambda x: x.name):
+    for p in sorted(paths, key=lambda x: x.name):
         text = p.read_text(encoding="utf-8")
         for m in YT_RE.finditer(text):
             u = m.group(0)
@@ -211,18 +225,27 @@ def check_http_urls(mod_paths: dict[int, Path]) -> list[str]:
             except urllib.error.URLError as e:
                 errors.append(f"{src.name}: YouTube oEmbed error ({vid}): {e}")
         elif "tiktok.com" in url:
+            if "/photo/" in url:
+                errors.append(f"{src.name}: TikTok /photo/ no comprobable vía oEmbed: {url}")
+                continue
+            clean = url.split("?")[0]
+            oembed_tt = (
+                "https://www.tiktok.com/oembed?url="
+                + urllib.parse.quote(clean, safe="")
+            )
             try:
-                req = urllib.request.Request(url, method="HEAD", headers=ua)
+                req = urllib.request.Request(oembed_tt, headers=ua)
                 with urllib.request.urlopen(req, timeout=20, context=ctx) as r:
-                    if r.status not in (200, 301, 302, 303):
+                    if r.status != 200:
                         errors.append(
-                            f"{src.name}: TikTok HEAD inesperado {r.status}: {url}"
+                            f"{src.name}: TikTok oEmbed HTTP {r.status}: {url}"
                         )
             except urllib.error.HTTPError as e:
-                if e.code not in (200, 301, 302, 303):
-                    errors.append(f"{src.name}: TikTok HEAD {e.code}: {url}")
+                errors.append(
+                    f"{src.name}: TikTok oEmbed falló {e.code}: {clean}"
+                )
             except urllib.error.URLError as e:
-                errors.append(f"{src.name}: TikTok HEAD error: {url} ({e})")
+                errors.append(f"{src.name}: TikTok oEmbed error: {clean} ({e})")
         else:
             errors.append(f"{src.name}: URL no soportada para --check-http: {url}")
 
@@ -231,18 +254,23 @@ def check_http_urls(mod_paths: dict[int, Path]) -> list[str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Validar enlaces multimedia en módulos 01–12."
+        description="Validar enlaces multimedia en archivos lección (.md)."
     )
     parser.add_argument(
         "--root",
         type=Path,
         default=Path("1/Desarrollo_de_Habilidades_del_Pensamiento"),
-        help="Carpeta con archivos NN_nombre.md (solo 01–12 se auditan)",
+        help="Carpeta con archivos .md por lección (excluye 00_* y Resumen_* en modo flexible)",
+    )
+    parser.add_argument(
+        "--strict-modules",
+        action="store_true",
+        help="Exigir 01–12 con patrón NN_nombre.md (sin NN.MM)",
     )
     parser.add_argument(
         "--check-http",
         action="store_true",
-        help="Verificar YouTube (oEmbed) y TikTok (HEAD); requiere red",
+        help="Verificar YouTube y TikTok vía oEmbed; requiere red",
     )
     parser.add_argument(
         "-q",
@@ -257,9 +285,9 @@ def main() -> int:
         print(f"ERROR: no existe el directorio: {root}", file=sys.stderr)
         return 2
 
-    errors, mod_paths = collect_issues(root)
+    errors, lesson_paths = collect_issues(root, args.strict_modules)
     if args.check_http:
-        errors.extend(check_http_urls(mod_paths))
+        errors.extend(check_http_urls(lesson_paths))
 
     if errors:
         for line in errors:

@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/generate-content-index.js && vite build && cp -r 1 dist/ && cp subjects.json dist/",
+    "build": "node scripts/generate-content-index.js && vite build && cp -r 1 dist/ && cp -r assets/. dist/assets/ && cp subjects.json dist/",
     "preview": "vite preview",
     "pre-index": "node scripts/generate-content-index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/pixelead0/estudIA/issues"
   },
-  "homepage": "https://github.com/pixelead0/estudIA#readme",
+  "homepage": "https://pixelead0.github.io/estudIA/",
   "dependencies": {
     "marked": "^15.0.7",
     "vite": "^6.1.1"

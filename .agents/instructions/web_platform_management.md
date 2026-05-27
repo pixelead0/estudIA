@@ -12,7 +12,7 @@ This instruction defines how to manage and extend the estudIA web platform.
 - **Home Grid**: A visual menu of all subjects.
 - **Filtered Sidebar**: The sidebar only shows modules of the currently selected subject.
 - **Theme Toggle**: Support for Dark/Light mode with persistence in `localStorage`.
-- **Aesthetic**: Premium "Cyber-School" design with glassmorphism and gradients.
+- **Aesthetic**: Diseño minimalista tipo editorial (tipografía clara, poca cromía, bordes finos). Tema claro/oscuro.
 
 ## Workflows
 
@@ -34,4 +34,4 @@ When a new subject or module is added:
 ## Verification Standards
 - **Manual over Automatic**: DO NOT use automatic browser testing tools (e.g., `browser_subagent`) to verify UI changes unless the USER explicitly requests it. Rely on terminal build checks and descriptive walkthroughs.
 - All interactive elements must have unique IDs.
-- Ensure the Markdown renderer (`marked`) supports all custom pedagogical elements.
+- Ensure `marked` supports pedagogical Markdown; YouTube/TikTok links become video slots in `main.js` (`transformVideoLinks`); with 2+ videos per module, `enhanceVideoPlaylist` shows a top carousel/player + in-text jump shortcuts.

@@ -88,7 +88,7 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
     - **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
     - **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
     - **¿De dónde vienen nuestros valores?**: El hogar y el barrio son la primera escuela moral; mucho antes de elegir qué creer, el entorno ya sembró en ti cómo ver el mundo. https://www.youtube.com/watch?v=XNbaR54Gpj4
-    - **La comunidad y tú (TikTok)**: Cada pequeña acción tuya tiene un efecto dominó en las personas que te rodean; ser ciudadano empieza en tu cuadra. https://www.tiktok.com/@aprendamos.filosofia/video/7341822914963405061
+    - **La comunidad y tú (TikTok)**: Cada pequeña acción tuya tiene un efecto dominó en las personas que te rodean; ser ciudadano empieza en tu cuadra. https://www.tiktok.com/@estrategic11/video/7599725948040252692
 - **🎬 Para ver (Cine y Series)**:
     - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=cVZCHtykTDc
     - **Orgullo Politécnico (El legado del IPN)**: La historia de por qué el IPN existe: no fue un accidente, fue la decisión de Lázaro Cárdenas de apostarle a su gente más humilde para llevarla a la ciencia y el progreso. https://www.youtube.com/watch?v=e2r0iru3XGQ

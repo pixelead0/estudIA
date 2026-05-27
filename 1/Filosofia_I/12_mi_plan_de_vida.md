@@ -92,7 +92,7 @@ Tu plan de vida te ayuda a decidir **hoy** cosas importantes: ¿estudias para el
     - **Soul (La chispa de la vida)**: Un recordatorio de que tu propósito no es solo un trabajo o una meta, sino la alegría de vivir con conciencia cada momento. https://www.youtube.com/watch?v=d2AohuEtdjk
     - **Rocky Balboa (Discurso a su hijo)**: La lección definitiva sobre la responsabilidad personal y el valor de seguir adelante sin culpar a los demás de tus fracasos. https://www.youtube.com/watch?v=g7dUyKpugeA
     - **En busca de la felicidad: Ve por tus sueños (TikTok)**: El valor de la perseverancia y la responsabilidad en tu plan de vida. https://www.tiktok.com/@iaespiritual/video/7306999402005073158
-    - **Soul: El propósito de la vida (TikTok)**: Una reflexión sobre qué es lo que realmente nos hace sentir vivos. https://www.tiktok.com/@alexsuarez1912/video/7385764443252215046
+    - **Una segunda oportunidad según Pixar (TikTok)**: Una reflexión sobre qué es lo que realmente nos hace sentir vivos. https://www.tiktok.com/@alexsuarez1912/video/7385764443252215046
 - **Para conversar**: Pregúntale a alguien que admires: "¿Cuál era su sueño cuando tenía 15 años y cómo cambió su plan de vida?". ¡Aprenderás mucho de su experiencia!
 
 ## 🏆 Reto Final

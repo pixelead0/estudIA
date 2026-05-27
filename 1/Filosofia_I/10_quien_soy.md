@@ -87,13 +87,13 @@ Tú defiendes tu dignidad cada vez que pones límites y no dejas que te traten m
 - **🎥 Para ver (YouTube + TikToks)**:
     - **¿Quién soy? Una pregunta filosófica**: ¿Eres tu cuerpo, tus recuerdos o algo más? Un video para explorar el misterio de la identidad personal. https://www.youtube.com/watch?v=LmwthMCIZLQ
     - **¿Estás conmigo? (Poema visual de identidad)**: Una reflexión artística sobre las dudas, las máscaras y la búsqueda de nuestro "yo" auténtico en un mundo lleno de ruido. https://www.youtube.com/watch?v=AzdD2ThboHE
-    - **¿Quién soy realmente? (TikTok)**: Una reflexión sobre la identidad más allá de las etiquetas sociales. https://www.tiktok.com/@michellnadine/video/7345678901234567890
-    - **Dignidad vs Precio (TikTok)**: ¿Sabes por qué tú no tienes precio? Descubre el concepto de Kant en menos de un minuto. https://www.tiktok.com/@ismafilosofia/video/7234567890123456789
+    - **¿Quién soy realmente? (TikTok)**: Una reflexión sobre la identidad más allá de las etiquetas sociales. https://www.tiktok.com/@lugen.detodo/video/7074393059626061062
+    - **Dignidad vs Precio (TikTok)**: ¿Sabes por qué tú no tienes precio? Descubre el concepto de Kant en menos de un minuto. https://www.tiktok.com/@moviedailyquote/video/7349638055168429345
 - **🎬 Para ver (Cine y Series)**:
-    - **El club de los poetas muertos (Carpe Diem)**: El llamado a ser dueños de nuestra vida y a encontrar nuestra propia voz antes de que el tiempo pase. https://www.youtube.com/watch?v=sgwFs2BCOFg
+    - **El valor de tener voz propia (12 Hombres en Pugna)**: Un clip donde un solo jurado se atreve a revisar lo que “todos” dan por hecho: valentía para pensar distinto. https://www.youtube.com/watch?v=EqDd06GW76o
     - **Billy Elliot (Escena de la audición)**: El momento en que alguien defiende su verdadera pasión e identidad frente a los prejuicios y expectativas de los demás. https://www.youtube.com/watch?v=bp_WMFPRswE
     - **'Carpe Diem' y la identidad (TikTok)**: Por qué ser dueño de tu tiempo es ser dueño de quién eres. https://www.tiktok.com/@jpoz_segundo/video/7360182816597904645
-    - **Billy Elliot: Ser auténtico (TikTok)**: El valor de seguir tu pasión por encima de lo que los demás esperan de ti. https://www.tiktok.com/@momentos_de_peliculas_/video/7338426002164436230
+    - **Danza contra los estereotipos familiares (TikTok)**: Por qué seguir una pasión artística cuando la sociedad espera otro camino también es obra de libertad. https://www.tiktok.com/@metaforica.vida/video/7447732638342761733
 - **Para conversar**: Pregúntale a un amigo: "¿Qué es lo que más valoras de nuestra amistad?". Verás que lo que más importa no son las cosas materiales.
 
 ## 🏆 Reto Final
