@@ -7,21 +7,13 @@ Esta habilidad permite validar la integridad estructural y pedagógica de los m�
 - **Lenguaje**: Python 3
 
 ## Funciones
-1. **Validación de Secciones**: Verifica que el módulo contenga las 9 secciones obligatorias definidas en el estándar:
-   - `# Módulo XX` (Título)
-   - `## 🎯 El Reto`
-   - `## 💡 ¿Cómo funciona esto?`
-   - `## ✍️ Manos a la obra`
-   - `## 🌍 En tu mundo`
-   - `## 🏆 Reto Final`
-   - `## 🏁 Pausa para pensar`
-   - `## 📚 Glosario Maestro`
-   - `## 🌟 Zona de Descubrimiento`
-   - `## 🔑 Respuestas Correctas`
+1. **Validación de Secciones v3**: Ver `.agents/instructions/module_schema_v3.md` y `scripts/audit_modules.py` (acepta nombres v2 y v3: Entiende, Practica, Explora, etc.).
 
-2. **Conteo de Reactivos**: Asegura que la sección `## 🏆 Reto Final` contenga al menos 6 preguntas numeradas.
+2. **Practica didáctica**: En migraciones v3, comprobar manualmente casos `🔍` con **Tu turno** antes de **Clave** (ver quality gate).
 
-3. **Verificación de Respuestas**: Valida que existan respuestas para todas las preguntas en la sección `## 🔑 Respuestas Correctas`.
+3. **Conteo de Reactivos**: Al menos 6 preguntas en **🏆 Pon a prueba** / Reto Final.
+
+4. **Multimedia**: `python3 scripts/check_multimedia.py --root 1/<Materia>`
 
 ## Cómo usar
 Ejecuta el script desde la raíz del proyecto para obtener un reporte completo de todas las materias:

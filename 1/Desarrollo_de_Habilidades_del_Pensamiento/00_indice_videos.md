@@ -13,15 +13,15 @@
 
 ### El Cerebro y la Atención Selectiva
 ▶️ **YouTube** &nbsp; [El Cerebro y la Atención Selectiva](https://www.youtube.com/watch?v=aNBxH2G_tCw)
-> Una explicación breve de cómo tu cerebro filtra la información del entorno para no sobrecargarse
+> Explicación breve de cómo tu cerebro filtra la información del entorno para no sobrecargarse y priorizar lo relevante
 
-### La atención selectiva (TikTok)
-🎵 **TikTok** &nbsp; [La atención selectiva (TikTok)](https://www.tiktok.com/@joseastorgaoficial/video/7621550774954265878)
-> Cómo nos volvemos ciegos ante lo evidente si no estamos plenamente presentes
+### La atención selectiva
+🎵 **TikTok** &nbsp; [La atención selectiva](https://www.tiktok.com/@joseastorgaoficial/video/7621550774954265878)
+> Cómo nos volvemos ciegos ante lo evidente si no estamos plenamente presentes; conecta con el filtro de la fase de Entrada
 
-### El motor de la curiosidad (TikTok)
-🎵 **TikTok** &nbsp; [El motor de la curiosidad (TikTok)](https://www.tiktok.com/@dr.patricio_ochoa/video/7636954031822245137)
-> El cerebro no está diseñado solo para sobrevivir, sino para explorar
+### El motor de la curiosidad
+🎵 **TikTok** &nbsp; [El motor de la curiosidad](https://www.tiktok.com/@dr.patricio_ochoa/video/7636954031822245137)
+> El cerebro no está diseñado solo para sobrevivir, sino para explorar; la curiosidad activa tu neocórtex
 
 ### Teorías de la Atención Selectiva (Khan Academy)
 ▶️ **YouTube** &nbsp; [Teorías de la Atención Selectiva (Khan Academy)](https://www.youtube.com/watch?v=qpsaHE_uZic)
@@ -29,15 +29,15 @@
 
 ### Intensamente (Islas de la Personalidad)
 ▶️ **YouTube** &nbsp; [Intensamente (Islas de la Personalidad)](https://www.youtube.com/watch?v=8UKfrmfEutQ)
-> Una representación brillante de cómo nuestros recuerdos y emociones forman las conexiones que definen quiénes somos
+> Representación de cómo recuerdos y emociones (sistema límbico) forman las conexiones que definen quiénes somos
 
-### Intensamente 2: La Ansiedad (TikTok)
-🎵 **TikTok** &nbsp; [Intensamente 2: La Ansiedad (TikTok)](https://www.tiktok.com/@disneyplusla/video/7424892626635214122)
-> Cómo la ansiedad influye en nuestra toma de decisiones y moldea nuestros pensamientos
+### Intensamente 2: La Ansiedad
+🎵 **TikTok** &nbsp; [Intensamente 2: La Ansiedad](https://www.tiktok.com/@disneyplusla/video/7424892626635214122)
+> Cómo la ansiedad influye en la toma de decisiones y puede secuestrar el procesamiento racional
 
-### Sin Límites: Información vs Sabiduría (TikTok)
-🎵 **TikTok** &nbsp; [Sin Límites: Información vs Sabiduría (TikTok)](https://www.tiktok.com/@ladoinvisiblepodcast/video/7571657641357888824)
-> Tener acceso a la información no garantiza el conocimiento real; requiere análisis profundo
+### Sin Límites: Información vs Sabiduría
+🎵 **TikTok** &nbsp; [Sin Límites: Información vs Sabiduría](https://www.tiktok.com/@ladoinvisiblepodcast/video/7571657641357888824)
+> Tener acceso a la información no garantiza conocimiento; hace falta procesar y dar sentido (fase de Procesamiento)
 
 ---
 

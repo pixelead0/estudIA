@@ -14,7 +14,9 @@ Ejecuta el script de auditoría para validar la integridad del archivo:
 
 ### 2. Filtro de Pureza Pedagógica (Ref. [.agents/experts/pedagogue.md](../experts/pedagogue.md))
 - **Andamiaje**: ¿El concepto se apoya en conocimientos previos o analogías sólidas?
+- **Practica v3**: ¿Hay **Tu turno** antes de **Clave** en casos 🔍? ¿Existe ejemplo resuelto? ¿Se evita tabla respuesta-inmediata?
 - **Referenciación `(N)`**: ¿Cada párrafo clave tiene su etiqueta `(N)` apuntando al reactivo?
+- **Gancho 🎯**: ¿Título propio del módulo (no «El reto»)?
 - **Carga Cognitiva**: ¿Se eliminó la "paja" y el lenguaje burocrático (IPN, RAP)?
 - **Tono**: ¿Suena a un mentor experto que guía, no a un libro de texto aburrido?
 

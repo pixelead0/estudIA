@@ -29,23 +29,23 @@ def audit_subject(subject_path, target_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             module_content = f.read()
         
-        # Check mandatory sections
-        mandatory_sections = [
-            r'## 🎯 El Reto',
-            r'## 💡 ¿Cómo funciona esto\?',
-            r'## ✍️ Manos a la obra',
-            r'## 🌍 En tu mundo',
-            r'## 🏆 Reto Final',
-            r'## 🏁 Pausa para pensar',
-            r'## 📚 Glosario Maestro',
-            r'## 🌟 Zona de Descubrimiento',
-            r'## 🔑 Respuestas Correctas'
+        # Secciones v2 (legacy) o v3 — ver content/module-schema.md
+        mandatory_patterns = [
+            (r'## 🎯 ', 'Gancho (🎯)'),
+            (r'## 💡 (?:¿Cómo funciona esto\?|Entiende)', 'Entiende'),
+            (r'## ✍️ (?:Manos a la obra|Practica)', 'Practica'),
+            (r'## 🌍 (?:En tu mundo|En la vida real)', 'En la vida real'),
+            (r'## 🏁 (?:Pausa para pensar|Reflexiona)', 'Reflexiona'),
+            (r'## 📚 (?:Glosario Maestro|Palabras clave)', 'Palabras clave'),
+            (r'## 🌟 (?:Zona de Descubrimiento|Explora)', 'Explora'),
+            (r'## 🏆 (?:Reto Final|Pon a prueba)', 'Pon a prueba'),
+            (r'## 🔑 (?:Respuestas Correctas|Respuestas)', 'Respuestas'),
         ]
         
         missing_sections = []
-        for section in mandatory_sections:
-            if not re.search(section, module_content):
-                missing_sections.append(section.replace('\\', ''))
+        for pattern, label in mandatory_patterns:
+            if not re.search(pattern, module_content):
+                missing_sections.append(label)
         
         # Check for at least 6 questions in Reto Final
         # Usually formatted as "1. ", "2. ", etc. or "- 1. "
@@ -56,9 +56,16 @@ def audit_subject(subject_path, target_path):
         
         # Check Discovery Zone sub-sections
         discovery_missing = []
-        for ds in ["Para ver", "Para explorar", "Dato curioso"]:
-            if ds not in module_content:
-                discovery_missing.append(ds)
+        has_dato = 'Dato curioso' in module_content
+        has_conversar = 'Para conversar' in module_content
+        has_videos_legacy = 'Para ver' in module_content
+        has_videos_v3 = 'Clips y casos' in module_content and 'Cine y series' in module_content
+        if not has_dato:
+            discovery_missing.append('Dato curioso')
+        if not has_conversar:
+            discovery_missing.append('Para conversar')
+        if not has_videos_legacy and not has_videos_v3:
+            discovery_missing.append('Vídeos (Para ver o Clips y casos + Cine y series)')
 
         if missing_sections or len(questions) < 6 or discovery_missing:
             reason = []

@@ -2,68 +2,60 @@
 
 Usa estas plantillas para estructurar cada sección del archivo Markdown con un lenguaje accesible.
 
-## Prompt A: El Reto Inicial (Activación)
-"Actúa como un mentor cercano. Crea un desafío o pregunta curiosa sobre el tema [TEMA]. Usa una situación común de la vida diaria (en la escuela, con amigos, en casa). Evita palabras técnicas y enfócate en despertar el interés de un joven de 14 años de forma sencilla."
+## Prompt A: Gancho inicial (🎯)
+"Actúa como mentor. Crea un **título propio y atractivo** para el gancho (no uses «El reto»). Situación cotidiana que despierte curiosidad en un joven de 14 años. Ver `.agents/instructions/module_schema_v3.md` §1."
 
-## Prompt B: Explicación Sencilla (Deep Dive)
-"Explica el concepto de [CONCEPTO] paso a paso. Usa una analogía que cualquier persona entienda (ejemplo: organizar la ropa, seguir una receta de cocina, jugar un deporte). Mantén un lenguaje claro, amable y sin términos complicados."
+## Prompt B: Explicación (💡 Entiende)
+"Explica [CONCEPTO] con analogía de vida diaria, H3 cortos, citas `>`, etiquetas `(N)` hacia el Reto Final."
 
-## Prompt C: Pausa para Pensar
-"Diseña 3 preguntas de reflexión personal: 
-1. ¿En qué momento de tu día has visto algo parecido a esto? 
-2. Si tuvieras que explicárselo a un niño más pequeño, ¿qué ejemplo usarías? 
-3. ¿Cómo te puede ayudar esto mañana mismo?"
+## Prompt C: Practica didáctica (✍️)
+"Diseña: objetivo + 3 pasos; **un ejemplo resuelto**; 6–8 casos `### 🔍 Caso N` con **Tu turno** (predicción), **Clave**, **Por qué importa**. **No** uses tabla situación+respuesta en la misma fila. Plantilla: `module_schema_v3.md` §4."
 
-## Prompt D: Zona de Descubrimiento (Bonus)
-"Sugiere una película o serie conocida, un video corto y un dato curioso sobre [TEMA]. Evita recomendaciones demasiado técnicas o 'geeks'. Enfócate en la cultura popular general."
+## Prompt D: Reflexiona (🏁)
+"3–4 preguntas personales que conecten el tema con identidad, hábitos o futuro."
 
-## Prompt E: El Reto Final
-"Diseña ejercicios de opción múltiple que reten la inteligencia del alumno sobre [TEMA]. Usa situaciones prácticas. Evita palabras como 'examen' o 'evaluación'. Llámalo 'Reto Final' o 'Nivel Experto'."
+## Prompt E: Explora (🌟)
+"Datos curiosos + 8 vídeos (2+2 YT/TT clips, 2+2 cine) con `**Título**: análisis. URL` + Para conversar."
 
-## Estructura Maestra de Archivo (Versión 2.0)
+## Prompt F: Pon a prueba (🏆)
+"Reactivos verbatim de la guía; solo corregir ortografía (¿ ¡ acentos). Mínimo 6."
+
+## Estructura maestra (v3)
 ```markdown
-# Módulo [##]: [Título Claro y Directo]
+## 🎯 [Gancho propio del módulo]
 
-![Imagen representativa](path/to/image.png)
+## 💡 Entiende
+### [Subtema corto]
+…
 
-## 🎯 El Reto
-[Situación curiosa o dilema cotidiano]
-
-## 💡 ¿Cómo funciona esto?
-[Explicación con analogía sencilla de la vida diaria]
-
-## ✍️ Manos a la obra
-[Ejercicios de nivel básico e intermedio]
-
-## 🌍 En tu mundo
-[Aplicación práctica en la comunidad o vida personal]
-
-## 🏆 Reto Final
-[De 5 a 10 preguntas de opción múltiple con enfoque práctico]
-[Pregunta 1]
-[Pregunta 2]
-...
-[Pregunta 5-10]
-
-## 🏁 Pausa para pensar
-[Preguntas de reflexión]
-
+## ✍️ Practica
+**Objetivo:** …
+**Cómo practicar:** 1. … 2. … 3. …
+### Ejemplo resuelto — …
+### 🔍 Caso 1 — …
+**Tu turno:** …
+**Clave:** …
+**Por qué importa:** …
 ---
 
-## 📚 Glosario Maestro
-- **[Término 1]**: [Definición sencilla y directa]
-- **[Término 2]**: [Definición sencilla y directa]
+## 🌍 En la vida real
+…
 
-## 🌟 Zona de Descubrimiento
-- **Para ver**: [Película/Serie con breve explicación de por qué verla]
-- **Para explorar**: [Actividad, video o recurso web para profundizar]
-- **Dato curioso**: [Curiosidad de alto impacto explicada con detalle]
+## 🏁 Reflexiona
+1. …
 
----
+## 📚 Palabras clave
+- **Término**: …
 
-## 🔑 Respuestas Correctas (Reto Final)
-1. [Respuesta]
-2. [Respuesta]
-...
-10. [Respuesta]
+## 🌟 Explora
+### Datos que sorprenden
+### Clips y casos
+### Cine y series
+### Para conversar
+
+## 🏆 Pon a prueba
+1. …
+
+## 🔑 Respuestas
+1. X | 2. Y | …
 ```

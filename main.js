@@ -1,5 +1,7 @@
 import './style.css';
 import { marked } from 'marked';
+import { isStudyModule } from './content/pipeline.js';
+import { webSectionHeadline, webSectionKicker } from './content/section-labels.js';
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -85,27 +87,158 @@ function parseHash() {
 }
 
 function renderSidebarEmpty() {
+  setAppView('view-home');
   sidebar.innerHTML =
-    '<p class="sidebar-hint" id="sidebar-hint">Selecciona una materia para ver sus módulos.</p>';
+    '<p class="sidebar-hint" id="sidebar-hint">Elige una materia en el panel principal para ver los módulos.</p>';
+}
+
+function shortModuleLabel(title) {
+  const t = String(title ?? '').trim();
+  const m = t.match(/^Módulo\s+[\d.]+:\s*(.+)$/i);
+  return m ? m[1] : t.replace(/^Módulo\s+[\d.]+\s*/i, '') || t;
+}
+
+function moduleNavItem(m, index, subjectId, activeModuleId) {
+  const hash = `#/${encodeURIComponent(subjectId)}/${encodeURIComponent(m.id)}`;
+  const num = String(index + 1).padStart(2, '0');
+  const label = m.title || m.id;
+  return {
+    id: m.id,
+    hash,
+    num,
+    label,
+    short: shortModuleLabel(label),
+    active: m.id === activeModuleId,
+  };
+}
+
+function renderEpisodeStepper(study, subjectId, activeModuleId) {
+  const items = study.map((m, i) => moduleNavItem(m, i, subjectId, activeModuleId));
+  const activeIdx = Math.max(0, items.findIndex((x) => x.active));
+  const prev = items[activeIdx - 1];
+  const next = items[activeIdx + 1];
+  const cur = items[activeIdx];
+
+  const prevEl = prev
+    ? `<a class="episode-step episode-step--prev" href="${prev.hash}" id="episode-nav-prev" aria-label="Episodio anterior: ${escapeHtml(prev.num)} ${escapeHtml(prev.short)}"><span class="episode-step-arrow" aria-hidden="true">←</span><span class="episode-step-text"><span class="episode-step-num">${prev.num}</span> ${escapeHtml(prev.short)}</span></a>`
+    : `<span class="episode-step episode-step--prev episode-step--ghost" aria-hidden="true"></span>`;
+
+  const nextEl = next
+    ? `<a class="episode-step episode-step--next" href="${next.hash}" id="episode-nav-next" aria-label="Episodio siguiente: ${escapeHtml(next.num)} ${escapeHtml(next.short)}"><span class="episode-step-text"><span class="episode-step-num">${next.num}</span> ${escapeHtml(next.short)}</span><span class="episode-step-arrow" aria-hidden="true">→</span></a>`
+    : `<span class="episode-step episode-step--next episode-step--ghost" aria-hidden="true"></span>`;
+
+  return `
+    <nav class="episode-stepper" id="episode-stepper" aria-label="Anterior y siguiente episodio">
+      ${prevEl}
+      <button type="button" class="episode-step episode-step--index" id="sidebar-episodes-toggle" aria-expanded="false" aria-controls="sidebar-episodes-panel">
+        <span class="episode-step-num episode-step-num--current">${cur?.num ?? '—'}</span>
+        <span class="episode-step-label">Índice</span>
+      </button>
+      ${nextEl}
+    </nav>`;
+}
+
+function renderModuleNavList(modules, subjectId, activeModuleId, startIndex = 0) {
+  return modules
+    .map((m, i) => {
+      const hash = `#/${encodeURIComponent(subjectId)}/${encodeURIComponent(m.id)}`;
+      const cls = m.id === activeModuleId ? 'module-link active' : 'module-link';
+      const num = String(startIndex + i + 1).padStart(2, '0');
+      const label = m.title || m.id;
+      const short = shortModuleLabel(label);
+      return `<li><a class="${cls}" href="${hash}" data-subject="${subjectId}" data-module="${m.id}" id="nav-mod-${encodeURIComponent(m.id).replace(/%/g, '')}"><span class="module-link-num" aria-hidden="true">${num}</span><span class="module-link-title">${escapeHtml(label)}</span><span class="module-link-short">${escapeHtml(short)}</span></a></li>`;
+    })
+    .join('');
 }
 
 function renderSidebar(subject, activeModuleId) {
-  const listId = 'module-list-nav';
-  const items = subject.modules
-    .map((m) => {
-      const hash = `#/${encodeURIComponent(subject.id)}/${encodeURIComponent(m.id)}`;
-      const cls = m.id === activeModuleId ? 'module-link active' : 'module-link';
-      return `<li><a class="${cls}" href="${hash}" data-subject="${subject.id}" data-module="${m.id}" id="nav-mod-${encodeURIComponent(m.id).replace(/%/g, '')}">${escapeHtml(m.title)}</a></li>`;
-    })
-    .join('');
+  const study = subject.modules.filter(isStudyModule);
+  const extras = subject.modules.filter((m) => !isStudyModule(m));
+
+  const studyList = renderModuleNavList(study, subject.id, activeModuleId, 0);
+  const extrasList =
+    extras.length > 0
+      ? renderModuleNavList(extras, subject.id, activeModuleId, study.length)
+      : '';
+
+  const stepper = renderEpisodeStepper(study, subject.id, activeModuleId);
 
   sidebar.innerHTML = `
-    <nav class="sidebar-nav" aria-label="Módulos de la materia" id="subject-module-nav">
-      <a class="back-home" href="#/" id="back-home-link">← Todas las materias</a>
-      <p class="subject-label" id="sidebar-subject-label">${escapeHtml(subject.name)}</p>
-      <ul class="module-list" id="${listId}">${items}</ul>
+    <nav class="sidebar-nav sidebar-nav--subject" aria-label="Módulos de la materia" id="subject-module-nav">
+      <div class="sidebar-top">
+        <a class="back-home" href="#/" id="back-home-link">← Materias</a>
+      </div>
+      <div class="sidebar-subject-chip">
+        <span class="sidebar-subject-icon" aria-hidden="true">${subjectIcon(subject.id)}</span>
+        <p class="subject-label" id="sidebar-subject-label">${escapeHtml(subject.name)}</p>
+      </div>
+      ${stepper}
+      <div class="sidebar-episodes-panel" id="sidebar-episodes-panel">
+        <p class="sidebar-episodes-label sidebar-episodes-label--desktop">Episodios</p>
+        <p class="sidebar-episodes-label sidebar-episodes-label--index">Todos los episodios</p>
+        <ul class="module-list" id="module-list-nav">${studyList}</ul>
+        ${
+          extras.length
+            ? `<p class="sidebar-episodes-label sidebar-episodes-label--extras">Extras</p><ul class="module-list module-list--extras" id="module-list-extras">${extrasList}</ul>`
+            : ''
+        }
+      </div>
     </nav>
   `;
+  setupMobileSidebar();
+}
+
+function setupMobileSidebar() {
+  const toggle = document.getElementById('sidebar-episodes-toggle');
+  const panel = document.getElementById('sidebar-episodes-panel');
+  if (!toggle || !panel) return;
+
+  const mq = window.matchMedia('(max-width: 880px)');
+  const sync = () => {
+    if (!mq.matches) {
+      panel.classList.add('is-open');
+      toggle.setAttribute('aria-expanded', 'true');
+      return;
+    }
+    toggle.setAttribute('aria-expanded', panel.classList.contains('is-open') ? 'true' : 'false');
+  };
+
+  if (mq.matches) {
+    panel.classList.remove('is-open');
+  }
+
+  toggle.onclick = () => {
+    if (!mq.matches) return;
+    panel.classList.toggle('is-open');
+    sync();
+  };
+
+  panel.querySelectorAll('.module-link').forEach((link) => {
+    link.addEventListener('click', () => {
+      if (mq.matches) panel.classList.remove('is-open');
+      sync();
+    });
+  });
+
+  mq.addEventListener('change', sync);
+  sync();
+
+  if (mq.matches) {
+    requestAnimationFrame(() => {
+      const active = panel.querySelector('#module-list-nav .module-link.active');
+      active?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    });
+  }
+}
+
+function setAppView(mode) {
+  document.body.classList.remove('view-home', 'view-module', 'view-subject');
+  if (mode) document.body.classList.add(mode);
+}
+
+/** Primer módulo de estudio (no 00_* ni Resumen_*). */
+function defaultStudyModule(subject) {
+  return subject.modules.find(isStudyModule) ?? subject.modules[0];
 }
 
 function escapeHtml(str) {
@@ -116,14 +249,241 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;');
 }
 
+const CALLOUT_META = {
+  note: { icon: '📌', label: 'Nota' },
+  tip: { icon: '✨', label: 'Tip' },
+  important: { icon: '🔥', label: 'Clave' },
+  warning: { icon: '⚡', label: 'Ojo' },
+};
+
 function enhanceCallouts(container) {
   container.querySelectorAll('.markdown-body blockquote').forEach((bq) => {
     const p = bq.querySelector('p');
     if (!p) return;
     const m = p.textContent.trim().match(/^\[!(NOTE|TIP|IMPORTANT|WARNING)\]$/i);
     if (!m) return;
-    bq.classList.add('callout', `callout-${m[1].toLowerCase()}`);
+    const kind = m[1].toLowerCase();
+    bq.classList.add('callout', `callout-${kind}`);
     p.remove();
+    const meta = CALLOUT_META[kind];
+    if (!meta || bq.querySelector('.callout-header')) return;
+    const hdr = document.createElement('div');
+    hdr.className = 'callout-header';
+    hdr.innerHTML = `<span class="callout-header-icon" aria-hidden="true">${meta.icon}</span><span class="callout-header-label">${meta.label}</span>`;
+    bq.insertBefore(hdr, bq.firstChild);
+  });
+}
+
+const SECTION_KIND_BY_EMOJI = {
+  '🎯': 'challenge',
+  '💡': 'learn',
+  '✍️': 'practice',
+  '🌍': 'world',
+  '🏁': 'reflect',
+  '📚': 'glossary',
+  '🌟': 'explore',
+  '🏆': 'quiz',
+  '📺': 'media',
+  '🎬': 'media',
+  '🎥': 'media',
+};
+
+function parseEmojiHeading(text) {
+  const t = String(text).trim();
+  const m = t.match(/^(\p{Extended_Pictographic}+)\s*(.*)/u);
+  if (m && m[2]) return { icon: m[1], title: m[2].trim() };
+  if (m) return { icon: m[1], title: t };
+  return { icon: '', title: t };
+}
+
+function detectSectionKind(text) {
+  for (const [emoji, kind] of Object.entries(SECTION_KIND_BY_EMOJI)) {
+    if (text.includes(emoji)) return kind;
+  }
+  return 'default';
+}
+
+/** Agrupa el MD en tarjetas por cada H2 (🎯 El reto, 💡 Cómo funciona, etc.). */
+function enhanceModuleSections(article) {
+  if (!article?.classList.contains('module-flow')) return;
+
+  while (
+    article.firstElementChild &&
+    article.firstElementChild.tagName !== 'H2' &&
+    !article.firstElementChild.classList.contains('video-playlist-hub')
+  ) {
+    let intro = article.querySelector(':scope > .study-intro');
+    if (!intro) {
+      intro = document.createElement('div');
+      intro.className = 'study-intro';
+      article.insertBefore(intro, article.firstElementChild);
+    }
+    intro.appendChild(article.firstElementChild);
+  }
+
+  const h2List = [...article.querySelectorAll(':scope > h2')];
+  for (const h2 of h2List) {
+    const kind = detectSectionKind(h2.textContent);
+    const section = document.createElement('section');
+    section.className = `study-section study-section--${kind}`;
+
+    const head = document.createElement('header');
+    head.className = 'study-section-head';
+    const { icon, title } = parseEmojiHeading(h2.textContent);
+    const headline = webSectionHeadline(title, kind);
+    const kicker = webSectionKicker(kind);
+    if (icon) {
+      const ic = document.createElement('span');
+      ic.className = 'study-section-icon';
+      ic.setAttribute('aria-hidden', 'true');
+      ic.textContent = icon;
+      head.appendChild(ic);
+    }
+    const titles = document.createElement('div');
+    titles.className = 'study-section-titles';
+    if (kicker) {
+      const kick = document.createElement('span');
+      kick.className = 'study-section-kicker';
+      kick.textContent = kicker;
+      titles.appendChild(kick);
+    }
+    h2.textContent = headline;
+    h2.classList.add('study-section-title');
+    titles.appendChild(h2);
+
+    const body = document.createElement('div');
+    body.className = 'study-section-body';
+    const nodes = [];
+    let sib = h2.nextElementSibling;
+    while (sib && sib.tagName !== 'H2') {
+      const next = sib.nextElementSibling;
+      nodes.push(sib);
+      sib = next;
+    }
+
+    article.insertBefore(section, h2);
+    head.appendChild(titles);
+    nodes.forEach((node) => body.appendChild(node));
+    section.appendChild(head);
+    section.appendChild(body);
+  }
+
+  article.classList.add('module-flow--sectioned');
+}
+
+/** Casos 🔍 en Practica → tarjetas (Tu turno / Clave / Por qué). */
+function enhancePracticeCases(container) {
+  container.querySelectorAll('.study-section--practice .study-section-body').forEach((body) => {
+    if (body.dataset.practiceEnhanced) return;
+    body.dataset.practiceEnhanced = '1';
+
+    [...body.querySelectorAll(':scope > h3')].forEach((h3) => {
+      const title = h3.textContent.trim();
+      const isCaso = /🔍|Caso\s*\d/i.test(title);
+      const isEjemplo = /ejemplo resuelto/i.test(title);
+      if (!isCaso && !isEjemplo) return;
+
+      const card = document.createElement('article');
+      card.className = isEjemplo ? 'practica-ejemplo' : 'practica-caso';
+
+      const nodes = [h3];
+      let sib = h3.nextElementSibling;
+      while (sib && sib.tagName !== 'H3') {
+        if (isCaso && sib.tagName === 'HR') break;
+        const next = sib.nextElementSibling;
+        nodes.push(sib);
+        sib = next;
+      }
+
+      body.insertBefore(card, h3);
+      nodes.forEach((n) => card.appendChild(n));
+    });
+  });
+}
+
+function enhanceWisdomQuotes(container) {
+  container.querySelectorAll('.markdown-body blockquote').forEach((bq) => {
+    if (bq.classList.contains('callout') || bq.classList.contains('tiktok-embed')) return;
+    const text = bq.textContent.trim();
+    if (/^["«“]/.test(text) || /\s—\s*[A-ZÁÉÍÓÚÑ]/.test(text)) {
+      bq.classList.add('wisdom-quote');
+    }
+  });
+}
+
+function scenarioTagClass(proceso) {
+  const p = String(proceso).toLowerCase();
+  if (p.includes('reptil')) return 'scenario-card-tag--reflex';
+  if (p.includes('límbic') || p.includes('limbic')) return 'scenario-card-tag--emotion';
+  if (p.includes('entrada') || p.includes('input')) return 'scenario-card-tag--input';
+  if (p.includes('salida') || p.includes('output')) return 'scenario-card-tag--output';
+  if (p.includes('izquierdo')) return 'scenario-card-tag--logic';
+  if (p.includes('sinapsis')) return 'scenario-card-tag--learn';
+  if (p.includes('imagin')) return 'scenario-card-tag--imagine';
+  if (p.includes('procesamiento') || p.includes('neocórtex') || p.includes('neocortex')) {
+    return 'scenario-card-tag--think';
+  }
+  return 'scenario-card-tag--default';
+}
+
+/** Tablas de «Practica» → tarjetas de escenario (web); el .md sigue siendo tabla para el PDF. */
+function enhanceActivityTables(container) {
+  container.querySelectorAll('.markdown-body table').forEach((table) => {
+    if (table.closest('.scenario-cards-wrap')) return;
+
+    const rows = [...table.querySelectorAll('tr')];
+    const hasHeader = rows[0]?.querySelector('th');
+    const dataRows = hasHeader ? rows.slice(1) : rows;
+
+    const grid = document.createElement('div');
+    grid.className = 'scenario-cards';
+    grid.setAttribute('role', 'list');
+
+    let index = 0;
+    dataRows.forEach((tr) => {
+      const cells = [...tr.querySelectorAll('td')];
+      if (cells.length < 3) return;
+      index += 1;
+
+      const situationHtml = cells[0].innerHTML.trim();
+      const proceso = cells[1].textContent.trim().replace(/\.$/, '');
+      const insight = cells[2].textContent.trim();
+
+      const card = document.createElement('article');
+      card.className = 'scenario-card';
+      card.setAttribute('role', 'listitem');
+
+      const num = document.createElement('span');
+      num.className = 'scenario-card-num';
+      num.setAttribute('aria-hidden', 'true');
+      num.textContent = String(index).padStart(2, '0');
+
+      const body = document.createElement('div');
+      body.className = 'scenario-card-body';
+
+      const h4 = document.createElement('h4');
+      h4.className = 'scenario-card-situation';
+      h4.innerHTML = situationHtml;
+
+      const tag = document.createElement('span');
+      tag.className = `scenario-card-tag ${scenarioTagClass(proceso)}`;
+      tag.textContent = proceso;
+
+      const p = document.createElement('p');
+      p.className = 'scenario-card-insight';
+      p.textContent = insight;
+
+      body.append(h4, tag, p);
+      card.append(num, body);
+      grid.appendChild(card);
+    });
+
+    if (!grid.children.length) return;
+
+    const wrap = document.createElement('div');
+    wrap.className = 'scenario-cards-wrap';
+    wrap.appendChild(grid);
+    table.replaceWith(wrap);
   });
 }
 
@@ -164,7 +524,7 @@ function extractTikTokVideoId(url) {
   }
 }
 
-/** `@usuario` desde URL tipo `tiktok.com/@usuario/video/...` (URLs cortas pueden no traer handle). */
+/** `@usuario` desde URL tipo `tiktok.com/@usuario/video/...` */
 function extractTikTokHandleFromUrl(url) {
   try {
     const m = new URL(url).pathname.match(/^\/@([^/]+)/);
@@ -176,7 +536,6 @@ function extractTikTokHandleFromUrl(url) {
 
 const TIKTOK_EMBED_SRC = 'https://www.tiktok.com/embed.js';
 
-/** Asegura la etiqueta <script> de embed.js; la librería `lib.render` se espera aparte. */
 function ensureTikTokEmbedScript() {
   return new Promise((resolve, reject) => {
     const existing = document.querySelector(`script[src="${TIKTOK_EMBED_SRC}"]`);
@@ -193,11 +552,6 @@ function ensureTikTokEmbedScript() {
   });
 }
 
-/**
- * embed.js carga un segundo bundle (embed_lib); `lib.render` puede tardar cientos de ms.
- * Sin esperar a esto, el blockquote queda solo con el fallback (enlace + texto).
- */
-/** Espera al objeto `lib` de TikTok (`render` usa `this`, no se puede invocar suelto). */
 function waitForTikTokLib(maxMs = 15000) {
   const t0 = Date.now();
   return new Promise((resolve) => {
@@ -217,12 +571,10 @@ function waitForTikTokLib(maxMs = 15000) {
   });
 }
 
-/** Solo nodos aún no procesados (TikTok asigna `id` al blockquote al renderizar). */
 function collectFreshTikTokBlockquotes(root) {
   return [...root.querySelectorAll('blockquote.tiktok-embed')].filter((el) => !el.id);
 }
 
-/** Tras inyectar HTML en cliente, el embed a veces no se hidrata; recargar el script fuerza un nuevo escaneo. */
 function reloadTikTokEmbedScript() {
   document.querySelectorAll(`script[src="${TIKTOK_EMBED_SRC}"]`).forEach((el) => el.remove());
   const s = document.createElement('script');
@@ -237,8 +589,7 @@ function reloadTikTokEmbedScript() {
 
 async function hydrateTikTokEmbedsIn(root) {
   if (!root) return;
-  const fresh = collectFreshTikTokBlockquotes(root);
-  if (!fresh.length) return;
+  if (!collectFreshTikTokBlockquotes(root).length) return;
 
   try {
     await ensureTikTokEmbedScript();
@@ -252,16 +603,12 @@ async function hydrateTikTokEmbedsIn(root) {
     const stillFresh = collectFreshTikTokBlockquotes(root);
     if (!stillFresh.length) return;
     await Promise.resolve(lib.render(stillFresh));
-    requestTiktokPlaybackWithSound(root);
   } catch (e) {
     console.warn('TikTok embed:', e);
   }
 }
 
-/**
- * Marca oficial de TikTok (oEmbed / pegar en página): blockquote + embed.js.
- * Sin miniatura hasta que embed.js sustituya el bloque por el iframe (comportamiento normal).
- */
+/** Marca TikTok oficial: blockquote + embed.js (`/embed/v2/` dentro del iframe que genera TikTok). */
 function createTikTokEmbedBlockquote(videoId, citeUrl, linkLabel) {
   const bq = document.createElement('blockquote');
   bq.className = 'tiktok-embed';
@@ -271,9 +618,7 @@ function createTikTokEmbedBlockquote(videoId, citeUrl, linkLabel) {
 
   const section = document.createElement('section');
   const handle = extractTikTokHandleFromUrl(citeUrl);
-  const profileHref = handle
-    ? `https://www.tiktok.com/@${handle}?refer=embed`
-    : citeUrl;
+  const profileHref = handle ? `https://www.tiktok.com/@${handle}?refer=embed` : citeUrl;
   const authorA = document.createElement('a');
   authorA.target = '_blank';
   authorA.rel = 'noopener noreferrer';
@@ -293,66 +638,75 @@ function createTikTokEmbedBlockquote(videoId, citeUrl, linkLabel) {
   return bq;
 }
 
-/**
- * Intenta reproducir el iframe de TikTok y quitar el mute vía postMessage (API del reproductor embebido).
- * Los navegadores suelen bloquear audio sin interacción previa del usuario (políticas de autoplay).
- */
-function requestTiktokPlaybackWithSound(root) {
-  if (!root) return;
-
-  const send = (iframe) => {
-    const w = iframe.contentWindow;
-    if (!w) return;
-    try {
-      w.postMessage({ type: 'play', 'x-tiktok-player': true }, '*');
-      w.postMessage({ type: 'unMute', 'x-tiktok-player': true }, '*');
-    } catch {
-      /* cross-origin restrictions */
-    }
-  };
-
-  const hookIframe = (iframe) => {
-    if (!iframe.src || !iframe.src.includes('tiktok.com')) return;
-    if (iframe.dataset.estudiaTtAudioHook) return;
-    iframe.dataset.estudiaTtAudioHook = '1';
-    iframe.addEventListener('load', () => {
-      send(iframe);
-      setTimeout(() => send(iframe), 400);
-      setTimeout(() => send(iframe), 1200);
-    });
-    setTimeout(() => send(iframe), 0);
-  };
-
-  const scan = () => {
-    root.querySelectorAll('iframe').forEach(hookIframe);
-  };
-  scan();
-
-  const obs = new MutationObserver(() => scan());
-  obs.observe(root, { childList: true, subtree: true });
-  setTimeout(() => {
-    obs.disconnect();
-    scan();
-  }, 8000);
-}
-
 function scheduleHydrateTikTokEmbeds(root) {
   if (!root || !root.querySelector('blockquote.tiktok-embed')) return;
-  requestAnimationFrame(() => {
-    void hydrateTikTokEmbedsIn(root);
-  });
+  requestAnimationFrame(() => void hydrateTikTokEmbedsIn(root));
 }
 
 function createYouTubeIframe(id, title) {
   const iframe = document.createElement('iframe');
-  /* autoplay/mute: el navegador puede ignorar audio sin gesto del usuario */
+  /* autoplay sin mute: suele rechazarse; reduce ruido en consola usando mute=1 si hace falta */
   iframe.src = `https://www.youtube-nocookie.com/embed/${id}?rel=0&autoplay=1&mute=0`;
   iframe.title = String(title ?? '').trim() || 'Vídeo de YouTube';
   iframe.setAttribute('allowfullscreen', '');
-  iframe.allow =
-    'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+  /* Firefox marca como “unsupported” varios tokens delegados aquí; keep mínimos */
+  iframe.allow = 'fullscreen; encrypted-media';
   iframe.referrerPolicy = 'strict-origin-when-cross-origin';
   return iframe;
+}
+
+/**
+ * Título + descripción/análisis desde el ítem MD:
+ * `- **Título del clip**: Texto de análisis… https://…`
+ * o `[Título](https://…)` dentro del mismo bloque.
+ */
+function extractVideoMetaFromAnchor(anchor) {
+  const host = anchor.closest('li, p');
+  if (!host) return { clipTitle: '', clipDescription: '' };
+
+  let clipTitle = '';
+  const strong = host.querySelector('strong');
+  if (strong) {
+    const st = strong.textContent.replace(/:\s*$/, '').trim();
+    if (st && !/^(TikTok|YouTube)$/i.test(st) && !/para ver/i.test(st)) {
+      clipTitle = st;
+    }
+  }
+
+  const linkLabel = (anchor.textContent || '').trim();
+  if (!clipTitle && linkLabel && !/^https?:\/\//i.test(linkLabel)) {
+    clipTitle = linkLabel.replace(/\s*\((TikTok|YouTube)\)\s*$/i, '').trim();
+  }
+
+  const clone = host.cloneNode(true);
+  clone.querySelectorAll('a, strong').forEach((el) => el.remove());
+  let clipDescription = clone.textContent
+    .replace(/\u00a0/g, ' ')
+    .replace(/^[\s🎵🎬📺🎥]+/, '')
+    .replace(/^:\s*/, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  if (/^(TikTok|YouTube)$/i.test(clipDescription)) clipDescription = '';
+
+  return { clipTitle, clipDescription };
+}
+
+function videoItemContext(slotOrItem) {
+  const clipTitle = (slotOrItem.clipTitle ?? slotOrItem.dataset?.title ?? '').trim();
+  const clipDescription = (
+    slotOrItem.clipDescription ??
+    slotOrItem.analysisText ??
+    slotOrItem.dataset?.description ??
+    ''
+  ).trim();
+  const sectionTitle = (slotOrItem.sectionTitle ?? '').trim();
+  const reflectionText = (slotOrItem.reflectionText ?? '').trim();
+  return {
+    clipTitle,
+    clipDescription,
+    displayTitle: clipTitle || sectionTitle,
+    analysisText: clipDescription || reflectionText,
+  };
 }
 
 /** Título legible para chips / lista (evita URLs crudas del autolink GFM) */
@@ -411,35 +765,37 @@ function extractVideoAdjacentContext(slotEl) {
   return { sectionTitle, reflectionText };
 }
 
+function appendAnalysisBlock(parent, className, text) {
+  const t = String(text ?? '').trim();
+  if (!t) return;
+  const body = document.createElement('div');
+  body.className = className;
+  t.split(/\n{2,}/)
+    .map((p) => p.trim())
+    .filter(Boolean)
+    .forEach((para) => {
+      const p = document.createElement('p');
+      p.textContent = para.replace(/\n/g, ' ');
+      body.appendChild(p);
+    });
+  parent.appendChild(body);
+}
+
 function fillPlaylistContextPanel(panel, item) {
   panel.innerHTML = '';
-  const hasTitle = (item.sectionTitle || '').trim();
-  const hasRef = (item.reflectionText || '').trim();
-  if (!hasTitle && !hasRef) {
+  const ctx = videoItemContext(item);
+  if (!ctx.displayTitle && !ctx.analysisText) {
     panel.hidden = true;
     return;
   }
   panel.hidden = false;
-  if (hasTitle) {
+  if (ctx.displayTitle) {
     const h = document.createElement('h4');
     h.className = 'playlist-context-title';
-    h.textContent = hasTitle;
+    h.textContent = ctx.displayTitle;
     panel.appendChild(h);
   }
-  if (hasRef) {
-    const body = document.createElement('div');
-    body.className = 'playlist-context-analysis';
-    hasRef
-      .split(/\n{2,}/)
-      .map((p) => p.trim())
-      .filter(Boolean)
-      .forEach((para) => {
-        const p = document.createElement('p');
-        p.textContent = para.replace(/\n/g, ' ');
-        body.appendChild(p);
-      });
-    panel.appendChild(body);
-  }
+  appendAnalysisBlock(panel, 'playlist-context-analysis', ctx.analysisText);
 }
 
 function shouldSkipInjectedHeading(embedEl, sectionTitle) {
@@ -456,11 +812,11 @@ function shouldSkipInjectedHeading(embedEl, sectionTitle) {
   return false;
 }
 
-function insertCourseVideoContextBefore(targetEl, ctx) {
-  const rawTitle = (ctx.sectionTitle || '').trim();
-  const hasRef = (ctx.reflectionText || '').trim();
-  const showTitle = rawTitle && !shouldSkipInjectedHeading(targetEl, rawTitle);
-  if (!showTitle && !hasRef) return;
+function insertCourseVideoContextBefore(targetEl, item) {
+  const ctx = videoItemContext(item);
+  const showTitle =
+    ctx.displayTitle && !shouldSkipInjectedHeading(targetEl, ctx.displayTitle);
+  if (!showTitle && !ctx.analysisText) return;
 
   const sec = document.createElement('section');
   sec.className = 'course-video-context';
@@ -469,35 +825,28 @@ function insertCourseVideoContextBefore(targetEl, ctx) {
   if (showTitle) {
     const h = document.createElement('h3');
     h.className = 'course-video-context-title';
-    h.textContent = rawTitle;
+    h.textContent = ctx.displayTitle;
     sec.appendChild(h);
   }
 
-  if (hasRef) {
-    const body = document.createElement('div');
-    body.className = 'course-video-context-body';
-    hasRef
-      .split(/\n{2,}/)
-      .map((p) => p.trim())
-      .filter(Boolean)
-      .forEach((para) => {
-        const p = document.createElement('p');
-        p.textContent = para.replace(/\n/g, ' ');
-        body.appendChild(p);
-      });
-    sec.appendChild(body);
-  }
-
+  appendAnalysisBlock(sec, 'course-video-context-body', ctx.analysisText);
   targetEl.parentElement?.insertBefore(sec, targetEl);
 }
 
-function buildVideoSlot(provider, id, linkLabel, originalHref) {
+function buildVideoSlot(provider, id, linkLabel, originalHref, meta = {}) {
   const el = document.createElement('div');
   el.className = 'video-embed-slot';
   el.dataset.provider = provider;
   el.dataset.id = id;
   el.dataset.href = originalHref;
-  el.dataset.title = linkLabel.trim() || (provider === 'youtube' ? 'YouTube' : 'TikTok');
+  const clipTitle = (meta.clipTitle || linkLabel || '').trim();
+  el.dataset.title =
+    clipTitle && !/^https?:\/\//i.test(clipTitle)
+      ? clipTitle
+      : provider === 'youtube'
+        ? 'YouTube'
+        : 'TikTok';
+  el.dataset.description = (meta.clipDescription || '').trim();
   return el;
 }
 
@@ -541,26 +890,40 @@ function enhanceVideoPlaylist(article) {
   const slots = [...article.querySelectorAll('.video-embed-slot')];
   if (slots.length === 0) return;
   if (slots.length === 1) {
-    const ctx = extractVideoAdjacentContext(slots[0]);
+    const adjacent = extractVideoAdjacentContext(slots[0]);
     hydrateSingleVideoSlot(slots[0]);
     const embed = article.querySelector('.video-embed');
-    if (embed) insertCourseVideoContextBefore(embed, ctx);
+    if (embed) {
+      insertCourseVideoContextBefore(embed, {
+        dataset: slots[0].dataset,
+        sectionTitle: adjacent.sectionTitle,
+        reflectionText: adjacent.reflectionText,
+      });
+    }
     return;
   }
 
   const hubId = `video-playlist-hub-${videoPlaylistSerial++}`;
   const items = slots.map((s, i) => {
     const raw = s.dataset.title || `Vídeo ${i + 1}`;
-    const { sectionTitle, reflectionText } = extractVideoAdjacentContext(s);
+    const adjacent = extractVideoAdjacentContext(s);
     const fallback = humanClipTitle(raw, s.dataset.href, s.dataset.provider, i);
+    const merged = videoItemContext({
+      dataset: s.dataset,
+      sectionTitle: adjacent.sectionTitle,
+      reflectionText: adjacent.reflectionText,
+    });
     return {
       provider: s.dataset.provider,
       id: s.dataset.id,
       href: s.dataset.href,
       title: raw,
-      sectionTitle,
-      reflectionText,
-      displayTitle: (sectionTitle && sectionTitle.trim()) || fallback,
+      clipTitle: merged.clipTitle,
+      clipDescription: merged.clipDescription,
+      sectionTitle: adjacent.sectionTitle,
+      reflectionText: adjacent.reflectionText,
+      displayTitle: merged.displayTitle || fallback,
+      analysisText: merged.analysisText,
     };
   });
 
@@ -642,7 +1005,7 @@ function enhanceVideoPlaylist(article) {
     badge.textContent = item.provider === 'youtube' ? 'YT' : 'TT';
     const t = document.createElement('span');
     t.className = 'playlist-chip-title';
-    const label = item.displayTitle || item.title;
+    const label = item.displayTitle || item.clipTitle || item.title;
     const short =
       label.length > 72 ? `${label.slice(0, 69).trimEnd()}…` : label;
     t.textContent = short;
@@ -664,11 +1027,18 @@ function enhanceVideoPlaylist(article) {
         ? 'video-embed-inner video-embed-inner--youtube playlist-frame'
         : 'video-embed-inner video-embed-inner--tiktok playlist-frame playlist-frame--tiktok';
     if (item.provider === 'youtube') {
-      const iframe = createYouTubeIframe(item.id, item.displayTitle || item.title);
+      const iframe = createYouTubeIframe(
+        item.id,
+        item.displayTitle || item.clipTitle || item.title
+      );
       frame.appendChild(iframe);
     } else {
       frame.appendChild(
-        createTikTokEmbedBlockquote(item.id, item.href, item.displayTitle || item.title)
+        createTikTokEmbedBlockquote(
+          item.id,
+          item.href,
+          item.displayTitle || item.clipTitle || item.title
+        )
       );
     }
     iframeMount.appendChild(frame);
@@ -748,12 +1118,12 @@ function enhanceVideoPlaylist(article) {
     badgeEl.textContent = item.provider === 'youtube' ? 'YouTube' : 'TikTok';
     const titleEl = document.createElement('span');
     titleEl.className = 'video-jump-title';
-    titleEl.textContent = item.displayTitle || item.title;
+    titleEl.textContent = item.displayTitle || item.clipTitle || item.title;
     meta.appendChild(badgeEl);
     meta.appendChild(titleEl);
     btn.appendChild(n);
     btn.appendChild(meta);
-    const chipLabel = item.displayTitle || item.title;
+    const chipLabel = item.displayTitle || item.clipTitle || item.title;
     btn.setAttribute('aria-label', `Reproducir en la lista: ${chipLabel}`);
 
     const ext = document.createElement('a');
@@ -796,44 +1166,84 @@ function transformVideoLinks(html) {
     } catch {
       continue;
     }
-    const label = a.textContent || '';
+    const meta = extractVideoMetaFromAnchor(a);
+    const label = meta.clipTitle || a.textContent || '';
     const yt = extractYouTubeId(abs);
     if (yt) {
-      a.replaceWith(buildVideoSlot('youtube', yt, label, href));
+      a.replaceWith(buildVideoSlot('youtube', yt, label, href, meta));
       continue;
     }
     const tt = extractTikTokVideoId(abs);
     if (tt) {
-      a.replaceWith(buildVideoSlot('tiktok', tt, label, href));
+      a.replaceWith(buildVideoSlot('tiktok', tt, label, href, meta));
     }
   }
   return container.innerHTML;
+}
+
+/**
+ * Vista web del .md: mismo archivo fuente que el PDF, con transformaciones solo para pantalla.
+ */
+function markdownToWebHtml(md) {
+  return transformVideoLinks(marked.parse(md));
 }
 
 async function loadModuleHtml(path) {
   const res = await fetch(`${BASE}${path}`);
   if (!res.ok) throw new Error(`No se pudo cargar el módulo (${res.status})`);
   const md = await res.text();
-  const html = transformVideoLinks(marked.parse(md));
-  return html;
+  return markdownToWebHtml(md);
+}
+
+const SUBJECT_CARD_ACCENTS = ['indigo', 'violet', 'cyan', 'rose', 'lime'];
+
+const SUBJECT_ICONS = {
+  Filosofia_I: '🧠',
+  Filosofia_II: '💭',
+  Historia: '🏛️',
+  Lengua: '✍️',
+  Matematicas: '🔢',
+};
+
+function subjectIcon(id) {
+  return SUBJECT_ICONS[id] ?? '📚';
 }
 
 function renderHome(subjects) {
+  setAppView('view-home');
   renderSidebarEmpty();
+  const totalEpisodes = subjects.reduce((n, s) => n + s.modules.filter(isStudyModule).length, 0);
+
   const cards = subjects
     .map(
-      (s) => `
-      <a class="subject-card" href="#/${encodeURIComponent(s.id)}" id="card-${s.id}">
+      (s, i) => `
+      <a class="subject-card subject-card--${SUBJECT_CARD_ACCENTS[i % SUBJECT_CARD_ACCENTS.length]}" href="#/${encodeURIComponent(s.id)}" id="card-${s.id}">
+        <span class="subject-card-glow" aria-hidden="true"></span>
+        <span class="subject-card-icon" aria-hidden="true">${subjectIcon(s.id)}</span>
         <h2 class="subject-card-title">${escapeHtml(s.name)}</h2>
-        <span class="module-count">${s.modules.length} módulos</span>
+        <span class="subject-card-meta">${s.modules.filter(isStudyModule).length} episodios</span>
+        <span class="subject-card-cta">Entrar →</span>
       </a>`
     )
     .join('');
 
   contentView.innerHTML = `
     <section class="welcome-screen" id="home-welcome">
-      <h1 class="welcome-title">Cursos</h1>
-      <p class="welcome-lead">Materiales de estudio organizados por materia. Elige una para comenzar.</p>
+      <div class="welcome-hero" aria-hidden="true">
+        <span class="welcome-blob welcome-blob--a"></span>
+        <span class="welcome-blob welcome-blob--b"></span>
+        <span class="welcome-blob welcome-blob--c"></span>
+      </div>
+      <div class="welcome-copy">
+        <p class="welcome-eyebrow">Tu espacio de estudio</p>
+        <h1 class="welcome-title">Elige materia.<br><span class="welcome-title-accent">Mete play.</span></h1>
+        <p class="welcome-lead">Clips, reflexiones y retos cortos — sin tragarte un PDF de 40 páginas.</p>
+        <ul class="welcome-stats" aria-label="Resumen">
+          <li class="welcome-stat"><span class="welcome-stat-num">${subjects.length}</span><span class="welcome-stat-label">materias</span></li>
+          <li class="welcome-stat"><span class="welcome-stat-num">${totalEpisodes}</span><span class="welcome-stat-label">episodios</span></li>
+          <li class="welcome-stat welcome-stat--tag"><span class="welcome-stat-label">vídeo + actividades</span></li>
+        </ul>
+      </div>
       <div class="subject-grid" id="subject-grid">${cards}</div>
     </section>
   `;
@@ -842,6 +1252,7 @@ function renderHome(subjects) {
 async function renderSubjectView(subjects, subjectId, moduleId) {
   const subject = subjects.find((x) => x.id === subjectId);
   if (!subject) {
+    setAppView('view-home');
     contentView.innerHTML = `<div class="error-screen" role="alert"><p>Materia no encontrada.</p><a href="#/">Volver al inicio</a></div>`;
     renderSidebarEmpty();
     return;
@@ -849,40 +1260,51 @@ async function renderSubjectView(subjects, subjectId, moduleId) {
 
   let mid = moduleId;
   if (!mid && subject.modules.length) {
-    const firstId = subject.modules[0].id;
-    window.location.hash = `#/${encodeURIComponent(subjectId)}/${encodeURIComponent(firstId)}`;
+    const first = defaultStudyModule(subject);
+    if (first) {
+      window.location.hash = `#/${encodeURIComponent(subjectId)}/${encodeURIComponent(first.id)}`;
+    }
     return;
   }
 
   const mod = subject.modules.find((m) => m.id === mid);
   if (!mod) {
+    setAppView('view-subject');
     contentView.innerHTML = `<div class="error-screen" role="alert"><p>Módulo no encontrado.</p><a href="#/${encodeURIComponent(subjectId)}">Ver esta materia</a></div>`;
     renderSidebar(subject, null);
     return;
   }
 
+  setAppView('view-module');
   renderSidebar(subject, mod.id);
 
-  contentView.innerHTML = `<div class="loading" id="module-loading">Cargando…</div>`;
+  contentView.innerHTML = `<div class="loading loading-pulse" id="module-loading" role="status"><span class="loading-label">Cargando módulo…</span></div>`;
 
   try {
     const body = await loadModuleHtml(mod.path);
     const crumb = `
-      <nav class="breadcrumb" aria-label="Ubicación" id="content-breadcrumb">
-        <a href="#/">Inicio</a>
-        <span class="bc-sep">/</span>
-        <a href="#/${encodeURIComponent(subject.id)}">${escapeHtml(subject.name)}</a>
-        <span class="bc-sep">/</span>
-        <span>${escapeHtml(mod.title)}</span>
+      <nav class="breadcrumb breadcrumb-pills" aria-label="Ubicación" id="content-breadcrumb">
+        <a class="bc-pill" href="#/">Inicio</a>
+        <a class="bc-pill" href="#/${encodeURIComponent(subject.id)}">${escapeHtml(subject.name)}</a>
+        <span class="bc-pill bc-pill--current">${escapeHtml(mod.title)}</span>
       </nav>`;
     contentView.innerHTML = `
       ${crumb}
-      <article class="content-wrapper markdown-body" id="module-article">${body}</article>
+      <header class="module-strip" id="module-strip">
+        <div class="module-strip-deco" aria-hidden="true"></div>
+        <span class="module-strip-tag"><span class="module-strip-emoji" aria-hidden="true">${subjectIcon(subject.id)}</span> ${escapeHtml(subject.name)}</span>
+        <h1 class="module-strip-title">${escapeHtml(mod.title || mod.id)}</h1>
+      </header>
+      <article class="content-wrapper markdown-body module-flow" id="module-article">${body}</article>
     `;
     enhanceCallouts(contentView);
     const article = document.getElementById('module-article');
     if (article) {
       enhanceVideoPlaylist(article);
+      enhanceModuleSections(article);
+      enhancePracticeCases(contentView);
+      enhanceWisdomQuotes(contentView);
+      enhanceActivityTables(contentView);
       scheduleHydrateTikTokEmbeds(article);
     }
   } catch (err) {

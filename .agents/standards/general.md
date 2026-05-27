@@ -25,47 +25,29 @@ Cada módulo debe estar contenido en un archivo Markdown.
 - Módulo Simple: `XX_[nombre].md`
 - Sub-módulos (para temas densos): `XX.YY_[nombre].md` (ej. `03.01_doctrinas_griegas.md`)
 
-**Secciones Obligatorias (en orden)**:
-1.  **🎯 El Reto**: Gancho inicial que debe plantear un **desafío, encrucijada o problema práctico** que el estudiante pueda reconocer en su realidad. Debe incluir:
-    - **Situación Detonadora**: Un escenario real o hipotético donde se aplique el conocimiento del módulo.
-    - **Preguntas Críticas**: Cuestionamientos que despierten la curiosidad y la necesidad de encontrar una solución o respuesta.
-    - **Conexión de Valor**: Presentar el tema como una "caja de herramientas", "manual" o "mapa" para navegar situaciones similares en la vida real.
-2.  **💡 ¿Cómo funciona esto?**: Explicación clara y profunda del núcleo del tema. Debe incluir:
-    - **Analogía Universal**: Uso de una comparación con procesos conocidos por cualquier adolescente (cocina, herramientas de casa, transporte, escuela) para simplificar conceptos complejos. Evitar comparaciones de nicho (gaming, finanzas, ciencia ficción).
-    - **Citas Maestras (Múltiples)**: Integrar diversas frases célebres a lo largo del texto que capturen la esencia de los subtemas tratados.
-    - **Desglose de Conceptos**: Explicar los términos técnicos o abstractos de forma amigable y directa.
-    - **Etiquetas de Referencia**: Uso obligatorio de `(N)` para conectar los párrafos con las preguntas del Reto Final.
-3.  **✍️ Manos a la obra**: Actividad práctica para aplicar lo aprendido de forma inmediata.
-    - **Ejercicio Guiado**: Relacionar casos o ejemplos reales con los conceptos teóricos. Se requiere una **alta densidad de ejemplos** (mínimo 6-8 filas por tabla o ítems por ejercicio) para cubrir diversos escenarios de la vida del estudiante.
-    - **Estructuración de Ideas**: Uso de tablas, listas o diagramas para organizar el pensamiento y las justificaciones.
-4.  **🌍 En tu mundo**: Sección dedicada a la aplicación del conocimiento en el entorno cercano del adolescente.
-    - **Contexto Práctico**: Ejemplos de aplicación en la escuela, la familia, la comunidad o el entorno digital.
-    - **Impacto y Acción**: Reflexión sobre cómo este conocimiento cambia la forma en que el alumno interactúa con su entorno.
-5.  **🏁 Pausa para pensar**: Momento de reflexión personal y conexión con el estudiante.
-    - **Interiorización**: Preguntas que inviten al alumno a relacionar el tema con su propia identidad, valores o planes futuros.
-    - **Proyección**: Escenarios sobre cómo aplicar lo aprendido en situaciones futuras o retos globales.
-6.  **📚 Glosario Maestro**: Definiciones precisas pero accesibles.
-    - **Claridad Total**: Explicar los términos esenciales sin lenguaje innecesariamente complejo.
-7.  **🌟 Zona de Descubrimiento**: Recursos adicionales para profundizar de forma entretenida:
-    - **Dato curioso 1** y **Dato curioso 2**: Hechos poco conocidos o sorprendentes.
-    - **🎥 Para ver (YouTube + TikToks)**: Inclusión obligatoria de **4 referencias en total** (2 clips/casos de YouTube + 2 TikToks) que conecten con el tema. Cada uno debe incluir una reflexión sobre el mensaje clave y su **link directo**.
-    - **🎬 Para ver (Cine y Series)**: Inclusión obligatoria de **4 referencias en total** (2 escenas de YouTube + 2 de TikTok) que ilustren el tema. Cada referencia debe explicar el mensaje o lección relacionada, con su **link directo**.
-    - **Para conversar**: Un punto de partida sugerido para debatir el tema con amigos, familiares o mentores.
-8.  **🏆 Reto Final**: Cuestionario de opción múltiple (mínimo 6 preguntas). **IMPORTANTE**: Las preguntas deben ser VERBATIM (exactas) de la guía original en cuanto a fondo y contenido. Sin embargo, es OBLIGATORIO corregir errores de ortografía, acentuación y puntuación (especialmente los signos de apertura ¿ y ¡) para mantener el estándar de calidad premium.
-9.  **🔑 Respuestas Correctas**: Clave de respuestas del Reto Final.
+**Secciones Obligatorias (v3 — ver `instructions/module_schema_v3.md`)**:
+1.  **🎯 [Gancho propio]**: Desafío reconocible; **no** titular «El reto».
+2.  **💡 Entiende**: Analogía, citas, H3 cortos, `(N)`.
+3.  **✍️ Practica**: Tu turno → Clave → Por qué (casos 🔍); ejemplo resuelto.
+4.  **🌍 En la vida real**: Aplicación cotidiana.
+5.  **🏁 Reflexiona**: Preguntas personales.
+6.  **📚 Palabras clave**: Glosario breve.
+7.  **🌟 Explora**: Datos, clips (2+2 YT/TT), cine (2+2), Para conversar; vídeos con `**Título**: análisis. URL`.
+8.  **🏆 Pon a prueba**: Mínimo 6 reactivos verbatim.
+9.  **🔑 Respuestas**: Clave del reto.
 
 ## 4. Sistema de Referencia de Autoaprendizaje
-- **Etiquetas `(N)`**: Dentro del texto de la sección "💡 ¿Cómo funciona esto?", se deben insertar etiquetas `(N)` donde `N` es el número de la pregunta del "Reto Final" que se responde en ese párrafo o sección.
+- **Etiquetas `(N)`**: Dentro de **💡 Entiende**, insertar `(N)` donde `N` es el número de la pregunta de **🏆 Pon a prueba**.
 - **Propósito**: Permitir que el estudiante localice inmediatamente la base teórica de cada reactivo del examen.
 
 ## 5. Calidad Visual y Redacción
 - **Fluidez y Párrafos**: Evitar muros de texto. Separar los párrafos de manera que cada uno trate una idea clara. Usar conectores de transición (Por consiguiente, No obstante, En consecuencia) para asegurar la fluidez.
-- **Sin imágenes embebidas**: Los módulos NO deben incluir links de imagen (`![alt](ruta)`). Los recursos visuales se gestionan exclusivamente desde la sección "🌟 Zona de Descubrimiento" mediante links de YouTube y TikTok.
+- **Sin imágenes embebidas**: Los módulos NO deben incluir links de imagen (`![alt](ruta)`). Recursos en **🌟 Explora** (YouTube/TikTok).
 - **Formato**: Uso de `alerts` de Markdown, tablas y listas para facilitar la lectura.
 
 ## 6. Regla de Multimedia (Formato de Ficha con Reflexión)
 
-Cada recurso multimedia de la sección **🌟 Zona de Descubrimiento** debe seguir estrictamente el siguiente formato de ficha. **Prohibido** listar los recursos como simples links sin reflexión.
+Cada recurso de **🌟 Explora** debe usar:
 
 ### Formato obligatorio dentro del módulo
 

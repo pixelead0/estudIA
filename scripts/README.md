@@ -2,7 +2,9 @@
 
 Herramientas locales para validar y mantener el contenido del repo.
 
-**Sitio web (Vite/GitHub Pages):** los TikTok siguen el **embed oficial** (`blockquote.tiktok-embed` + `https://www.tiktok.com/embed.js` en `index.html`). El texto bajo `@usuario` y el enlace opcional conviven con el marcador antes de cargar la miniatura/reproductor; YouTube usa iframe (`youtube-nocookie`).
+**Fuente de contenido:** los `.md` en `1/<Materia>/` alimentan web y PDF. Esquema v3: `.agents/instructions/module_schema_v3.md`. Metadatos: `content/pipeline.js`; índice web: `node scripts/generate-content-index.js`.
+
+**Sitio web (Vite/GitHub Pages):** TikTok con **blockquote + `embed.js`** (iframe interno `/embed/v2/`). El método `player/v1` propio rompe con Firefox y protección antirrastre. YouTube usa `youtube-nocookie`.
 
 ## `check_multimedia.py`
 
