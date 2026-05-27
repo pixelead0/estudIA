@@ -82,8 +82,8 @@ Ser creativo significa aprender a usar con ingenio lo que tienes. En el futuro, 
     - **Técnica SCAMPER para innovar (TikTok)**: El método SCAMPER nos invita a ver lo cotidiano desde ángulos disruptivos: sustituir, combinar, adaptar, modificar. https://www.tiktok.com/@llegaspacheco/video/6914762795837934853
     - **Cómo vencer el bloqueo creativo (TikTok)**: El bloqueo creativo no es el fin, sino una señal para buscar inspiración en lo que nos rodea. https://www.tiktok.com/@alhan_green/video/6997219756927356165
 - **🎬 Para ver (Cine y Series)**:
-    - **Ratatouille (Ego prueba el platillo de Remy)**: El momento en que una explosión de creatividad redefine lo que significa ser un verdadero creador. https://www.youtube.com/watch?v=aWrGH35VgoM
-    - **El Código Enigma (Descifrando la máquina)**: La creatividad de Alan Turing para "pensar diferente" fue lo que cambió el resultado de una guerra entera. https://www.youtube.com/watch?v=JS4k00Jj4z0
+    - **Pensamiento Convergente vs Divergente**: Entiende cómo generar muchas ideas y luego elegir la más potente para convertirla en una solución real. https://www.youtube.com/watch?v=cmBf1fBRXms
+    - **La Sociedad de los Poetas Muertos (Carpe Diem)**: Una invitación a romper moldes, pensar por cuenta propia y crear una voz auténtica en lugar de copiar lo establecido. https://www.youtube.com/watch?v=veYR3ZC9wMQ
     - **La Gran Aventura LEGO: Ser un Maestro Constructor (TikTok)**: La verdadera magia ocurre cuando nos atrevemos a crear fuera de lo establecido, confiando en nuestra originalidad. https://www.tiktok.com/@faridieck/video/7398000054138588422
     - **Ratatouille: Cualquiera puede cocinar (TikTok)**: La creatividad requiere coraje; el potencial creativo es universal si tenemos la valentía de expresarlo. https://www.tiktok.com/@checolate17/video/7524883935873027335
 - **Para conversar**: Pregúntale a alguien que cocine muy rico: "¿Qué receta inventaste por accidente y qué le pusiste para que supiera tan bien?".

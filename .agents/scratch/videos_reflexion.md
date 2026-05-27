@@ -339,8 +339,8 @@
 ▶️ **YouTube** &nbsp; [Brainstorming: Cómo hacer una Lluvia de Ideas bien](https://www.youtube.com/watch?v=gujEDA_rHTc)
 > Aprende a usar la técnica correctamente para abrir el abanico de opciones sin bloquearte
 
-### Pensamiento Difergente y Ventaja Competitiva (TikTok)
-🎵 **TikTok** &nbsp; [Pensamiento Difergente y Ventaja Competitiva (TikTok)](https://www.tiktok.com/@metaforica.vida/video/7447732638342761733)
+### Pensamiento Divergente y Ventaja Competitiva (TikTok)
+🎵 **TikTok** &nbsp; [Pensamiento Divergente y Ventaja Competitiva (TikTok)](https://www.tiktok.com/@metaforica.vida/video/7447732638342761733)
 > Pensar diferente nos permite romper moldes y encontrar soluciones innovadoras donde otros solo ven límites
 
 ### El motor de la creatividad (TikTok)
@@ -432,7 +432,7 @@
 > El pensamiento crítico y la perseverancia son la clave para proteger tu visión frente a la adversidad
 
 ### Iron Man: Mejora Continua (TikTok)
-🎵 **TikTok** &nbsp; [Iron Man: Mejora Continua (TikTok)](https://www.tiktok.com/@clips_202_/@clips_202_/video/7523081534358768903)
+🎵 **TikTok** &nbsp; [Iron Man: Mejora Continua (TikTok)](https://www.tiktok.com/@clips_202_/video/7523081534358768903)
 > El éxito se basa en la observación, la experimentación y el pensamiento lógico aplicado a la mejora constante
 
 ---

@@ -80,10 +80,10 @@ La habilidad más importante hoy no es saber muchas cosas de memoria (que ya est
     - **6 Básicos para presentar un proyecto (TikTok)**: El éxito de un proyecto depende de cómo se comunica; la claridad y el profesionalismo son fundamentales. https://www.tiktok.com/@sergio_viniegra/video/7374210497324846342
     - **Material de apoyo y estructura (TikTok)**: La organización visual refleja el orden mental; jerarquizar la información demuestra dominio del análisis. https://www.tiktok.com/@laylavictoriap/video/7272529039011695878
 - **🎬 Para ver (Cine y Series)**:
-    - **En Busca de la Felicidad (Final)**: El momento en que un hombre que usó todas sus herramientas mentales ve los resultados de sus decisiones. https://www.youtube.com/watch?v=Xn5zgZgqZvs
-    - **Figuras Ocultas (El Cálculo que todo lo une)**: Cuando cada herramienta aprendida converge en un solo acto de brillantez. https://www.youtube.com/watch?v=d6ELGRkI3gc
+    - **12 Angry Men: ¿Quién cambió su voto?**: Un ejemplo potente de toma de decisiones en equipo, argumentación y revisión de evidencia bajo presión grupal. https://www.youtube.com/watch?v=EqDd06GW76o
+    - **Apolo 13: Liderazgo y Trabajo en equipo**: Resolver un problema real bajo presión exige método, comunicación clara y decisiones coordinadas. https://www.youtube.com/watch?v=luRDv0qKcvQ
     - **En busca de la felicidad: Tu sueño (TikTok)**: El pensamiento crítico y la perseverancia son la clave para proteger tu visión frente a la adversidad. https://www.tiktok.com/@sonychannellat/video/7595730341403446540
-    - **Iron Man: Mejora Continua (TikTok)**: El éxito se basa en la observación, la experimentación y el pensamiento lógico aplicado a la mejora constante. https://www.tiktok.com/@clips_202_/@clips_202_/video/7523081534358768903
+    - **Iron Man: Mejora Continua (TikTok)**: El éxito se basa en la observación, la experimentación y el pensamiento lógico aplicado a la mejora constante. https://www.tiktok.com/@clips_202_/video/7523081534358768903
 - **Para conversar**: Pregúntale a un líder de tu familia o comunidad: "¿Cuál ha sido el problema más difícil que has resuelto y cómo lo hiciste?".
 
 ## 🏆 Reto Final

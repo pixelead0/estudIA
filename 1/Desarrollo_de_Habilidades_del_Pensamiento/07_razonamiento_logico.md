@@ -81,7 +81,7 @@ Cuando discutes con tus amigos o con tus padres, un argumento bien razonado (con
 - **🎬 Para ver (Cine y Series)**:
     - **Doce Hombres sin Piedad (Análisis jurídico)**: Una obra maestra del razonamiento lógico donde una sola persona usa la lógica para desmontar premisas falsas. https://www.youtube.com/watch?v=KftB_ZfcAo8
     - **Mente Indomable (El talento matemático)**: La escena en que Will resuelve el problema demuestra que el razonamiento lógico puede ser una forma radical de ver el mundo. https://www.youtube.com/watch?v=8MFoPtvWGYE
-    - **Sherlock Holmes: El Arte de la Deducción (TikTok)**: El pensamiento lógico se alimenta de la observación meticulosa; lo que para otros es invisible, para una mente entrenada es obvio. https://www.tiktok.com/@daniel.bond.007/video/7607306076341521671
+    - **Merlí: Kant y la Mentira (TikTok)**: Un dilema claro para entrenar lógica y argumentación: cuándo una razón suena convincente, pero no resiste un análisis riguroso. https://www.tiktok.com/@sociedad.criticos/video/7595561852587789589
     - **Dr. House: Lógica y Mentiras (TikTok)**: La lógica requiere cuestionar lo obvio y buscar la evidencia oculta; en el razonamiento, los datos no mienten. https://www.tiktok.com/@papelypiedra/video/7390954430079732998
 - **Para conversar**: Pregúntale a un adulto: "¿Cómo te das cuenta cuando alguien te está intentando engañar con una mentira que suena lógica?".
 

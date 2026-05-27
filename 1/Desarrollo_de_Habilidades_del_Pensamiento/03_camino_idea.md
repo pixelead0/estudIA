@@ -86,7 +86,7 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
     - **Guía para Lluvia de Ideas (TikTok)**: Para que una lluvia de ideas sea efectiva, es vital separar la fase de generación de la de evaluación. https://www.tiktok.com/@aprendizdemercadotecnia/video/7188298463480696069
 - **🎬 Para ver (Cine y Series)**:
     - **El Origen (Plantar una idea)**: Una fascinante explicación de cómo una idea simple, una vez que entra y es procesada por la mente, puede reescribir toda una identidad. https://www.youtube.com/watch?v=uKvfAJc3e_E
-    - **Steve Jobs (Conectando los puntos)**: El famoso discurso que demuestra cómo las ideas y el propósito de vida se forman al unir las piezas del pasado (input) hacia el futuro (output). https://www.youtube.com/watch?v=lC6SRuGtIJ4
+    - **Creative Thinking: Conectar ideas para crear**: Explica cómo las ideas nacen al conectar experiencias previas de manera estratégica y creativa. https://www.youtube.com/watch?v=cYhgIlTy4yY
     - **Steve Jobs: Visión e Innovación (TikTok)**: La visión de un innovador consiste en ver el potencial donde otros ven limitaciones, conectando experiencias pasadas. https://www.tiktok.com/@cyb3rh4ck_v2/video/7515881210602589445
     - **Inception: El poder de una idea (TikTok)**: Una idea es el agente más resistente y contagioso; una vez que echa raíces, transforma la realidad. https://www.tiktok.com/@discursoganador/video/7215681965335350534
 - **Para conversar**: Pregúntale a un experto en computadoras: "¿Cómo funciona el ciclo de Input-Proceso-Output y en qué se parece a nosotros?".

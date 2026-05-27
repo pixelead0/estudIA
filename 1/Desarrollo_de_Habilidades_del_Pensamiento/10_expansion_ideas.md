@@ -74,7 +74,7 @@ Aprender a expandir tu mente te permite ver que siempre hay una salida, que siem
 - **🎥 Para ver (YouTube + TikToks)**:
     - **Mapa Mental según Tony Buzan**: La herramienta visual más poderosa para expandir una sola idea hacia todas sus ramas, conexiones y posibilidades. https://www.youtube.com/watch?v=DLoyBJAQul0
     - **Brainstorming: Cómo hacer una Lluvia de Ideas bien**: Aprende a usar la técnica correctamente para abrir el abanico de opciones sin bloquearte. https://www.youtube.com/watch?v=gujEDA_rHTc
-    - **Pensamiento Difergente y Ventaja Competitiva (TikTok)**: Pensar diferente nos permite romper moldes y encontrar soluciones innovadoras donde otros solo ven límites. https://www.tiktok.com/@metaforica.vida/video/7447732638342761733
+    - **Pensamiento Divergente y Ventaja Competitiva (TikTok)**: Pensar diferente nos permite romper moldes y encontrar soluciones innovadoras donde otros solo ven límites. https://www.tiktok.com/@metaforica.vida/video/7447732638342761733
     - **El motor de la creatividad (TikTok)**: El pensamiento divergente permite que nuestra mente explore múltiples caminos sin juicios previos para alcanzar la originalidad. https://www.tiktok.com/@coachfacilitadora/video/7379964516190129414
 - **🎬 Para ver (Cine y Series)**:
     - **Piratas del Caribe (El plan de rescate)**: El caos creativo de Jack Sparrow como ejemplo de expandir posibilidades antes de actuar. https://www.youtube.com/watch?v=Geq1X0Mnr-4

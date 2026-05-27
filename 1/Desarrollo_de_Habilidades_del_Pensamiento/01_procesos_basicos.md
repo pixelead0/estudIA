@@ -88,7 +88,7 @@ Cruzas la calle porque **observaste** que no vienen autos, **relacionaste** el s
     - **La atención selectiva (TikTok)**: Cómo nos volvemos ciegos ante lo evidente si no estamos plenamente presentes. https://www.tiktok.com/@joseastorgaoficial/video/7621550774954265878
     - **El motor de la curiosidad (TikTok)**: El cerebro no está diseñado solo para sobrevivir, sino para explorar. https://www.tiktok.com/@dr.patricio_ochoa/video/7636954031822245137
 - **🎬 Para ver (Cine y Series)**:
-    - **Sin Límites (Escena de la pastilla)**: Una exageración cinematográfica de lo que pasaría si el "Procesamiento" de nuestro cerebro funcionara al 100% todo el tiempo. https://www.youtube.com/watch?v=jFRFoEKQPk8
+    - **Teorías de la Atención Selectiva (Khan Academy)**: Entiende cómo tu mente decide qué información entra al foco y cuál se queda en segundo plano. https://www.youtube.com/watch?v=qpsaHE_uZic
     - **Intensamente (Islas de la Personalidad)**: Una representación brillante de cómo nuestros recuerdos y emociones forman las conexiones que definen quiénes somos. https://www.youtube.com/watch?v=8UKfrmfEutQ
     - **Intensamente 2: La Ansiedad (TikTok)**: Cómo la ansiedad influye en nuestra toma de decisiones y moldea nuestros pensamientos. https://www.tiktok.com/@disneyplusla/video/7424892626635214122
     - **Sin Límites: Información vs Sabiduría (TikTok)**: Tener acceso a la información no garantiza el conocimiento real; requiere análisis profundo. https://www.tiktok.com/@ladoinvisiblepodcast/video/7571657641357888824

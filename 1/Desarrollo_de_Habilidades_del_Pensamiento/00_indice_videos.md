@@ -23,9 +23,9 @@
 🎵 **TikTok** &nbsp; [El motor de la curiosidad (TikTok)](https://www.tiktok.com/@dr.patricio_ochoa/video/7636954031822245137)
 > El cerebro no está diseñado solo para sobrevivir, sino para explorar
 
-### Sin Límites (Escena de la pastilla)
-▶️ **YouTube** &nbsp; [Sin Límites (Escena de la pastilla)](https://www.youtube.com/watch?v=jFRFoEKQPk8)
-> Una exageración cinematográfica de lo que pasaría si el "Procesamiento" de nuestro cerebro funcionara al 100% todo el tiempo
+### Teorías de la Atención Selectiva (Khan Academy)
+▶️ **YouTube** &nbsp; [Teorías de la Atención Selectiva (Khan Academy)](https://www.youtube.com/watch?v=qpsaHE_uZic)
+> Entiende cómo tu mente decide qué información entra al foco y cuál se queda en segundo plano
 
 ### Intensamente (Islas de la Personalidad)
 ▶️ **YouTube** &nbsp; [Intensamente (Islas de la Personalidad)](https://www.youtube.com/watch?v=8UKfrmfEutQ)
@@ -59,9 +59,9 @@
 🎵 **TikTok** &nbsp; [El Efecto Dunning-Kruger (TikTok)](https://www.tiktok.com/@candeliousfang/video/7618317683519409430)
 > Reconocer nuestras propias limitaciones cognitivas es el primer paso hacia un pensamiento crítico real
 
-### Sherlock Holmes (El arte de la deducción)
-▶️ **YouTube** &nbsp; [Sherlock Holmes (El arte de la deducción)](https://www.youtube.com/watch?v=WSOfMYXal_M)
-> Observa cómo el Pensamiento Lógico conecta detalles aparentemente invisibles para llegar a una conclusión irrefutable
+### Tipos de Razonamiento (Deducción, Inducción, Abducción)
+▶️ **YouTube** &nbsp; [Tipos de Razonamiento (Deducción, Inducción, Abducción)](https://www.youtube.com/watch?v=WO-ikzksJ1g)
+> Una guía clara para distinguir cómo pensamos según el tipo de problema que enfrentamos
 
 ### El Código Enigma (La máquina de Turing)
 ▶️ **YouTube** &nbsp; [El Código Enigma (La máquina de Turing)](https://www.youtube.com/watch?v=JS4k00Jj4z0)
@@ -99,9 +99,9 @@
 ▶️ **YouTube** &nbsp; [El Origen (Plantar una idea)](https://www.youtube.com/watch?v=uKvfAJc3e_E)
 > Una fascinante explicación de cómo una idea simple, una vez que entra y es procesada por la mente, puede reescribir toda una identidad
 
-### Steve Jobs (Conectando los puntos)
-▶️ **YouTube** &nbsp; [Steve Jobs (Conectando los puntos)](https://www.youtube.com/watch?v=lC6SRuGtIJ4)
-> El famoso discurso que demuestra cómo las ideas y el propósito de vida se forman al unir las piezas del pasado (input) hacia el futuro (output)
+### Creative Thinking: Conectar ideas para crear
+▶️ **YouTube** &nbsp; [Creative Thinking: Conectar ideas para crear](https://www.youtube.com/watch?v=cYhgIlTy4yY)
+> Explica cómo las ideas nacen al conectar experiencias previas de manera estratégica y creativa
 
 ### Steve Jobs: Visión e Innovación (TikTok)
 🎵 **TikTok** &nbsp; [Steve Jobs: Visión e Innovación (TikTok)](https://www.tiktok.com/@cyb3rh4ck_v2/video/7515881210602589445)
@@ -115,9 +115,9 @@
 
 ## Módulo 04 — Observación y Atención
 
-### Test de Atención (Whodunnit)
-▶️ **YouTube** &nbsp; [Test de Atención (Whodunnit)](https://www.youtube.com/watch?v=90uFWqjGOUY)
-> ¿Puedes detectar todos los cambios? Un experimento interactivo para medir tu nivel de observación y atención al detalle
+### Change Blindness (NOVA)
+▶️ **YouTube** &nbsp; [Change Blindness (NOVA)](https://www.youtube.com/watch?v=VkrrVozZR2c)
+> Demuestra por qué podemos perder cambios grandes frente a nuestros ojos cuando la atención está ocupada
 
 ### Sensación vs. Percepción
 ▶️ **YouTube** &nbsp; [Sensación vs. Percepción](https://www.youtube.com/watch?v=rk9d17fAwB8)
@@ -135,9 +135,9 @@
 ▶️ **YouTube** &nbsp; [El Caso Bourne (Escena del restaurante)](https://www.youtube.com/watch?v=bPNGpHjijXw)
 > Jason Bourne demuestra una observación sobrehumana al memorizar inconscientemente todos los detalles de una habitación
 
-### Focus (Robo en el carnaval)
-▶️ **YouTube** &nbsp; [Focus (Robo en el carnaval)](https://www.youtube.com/watch?v=rSB8Si8-eOQ)
-> Un maestro estafador explica cómo controlar la atención de una víctima para que no vea lo que realmente está pasando
+### The Door Study (Cambio sin notar)
+▶️ **YouTube** &nbsp; [The Door Study (Cambio sin notar)](https://www.youtube.com/watch?v=FWSxSQsspiQ)
+> Un clásico experimento real donde la gente no detecta que la persona frente a ellos fue reemplazada
 
 ### Focus: El poder del subconsciente (TikTok)
 🎵 **TikTok** &nbsp; [Focus: El poder del subconsciente (TikTok)](https://www.tiktok.com/@elalextelocuenta/video/7331094477395873030)
@@ -247,9 +247,9 @@
 ▶️ **YouTube** &nbsp; [Mente Indomable (El talento matemático)](https://www.youtube.com/watch?v=8MFoPtvWGYE)
 > La escena en que Will resuelve el problema demuestra que el razonamiento lógico puede ser una forma radical de ver el mundo
 
-### Sherlock Holmes: El Arte de la Deducción (TikTok)
-🎵 **TikTok** &nbsp; [Sherlock Holmes: El Arte de la Deducción (TikTok)](https://www.tiktok.com/@daniel.bond.007/video/7607306076341521671)
-> El pensamiento lógico se alimenta de la observación meticulosa; lo que para otros es invisible, para una mente entrenada es obvio
+### Merlí: Kant y la Mentira (TikTok)
+🎵 **TikTok** &nbsp; [Merlí: Kant y la Mentira (TikTok)](https://www.tiktok.com/@sociedad.criticos/video/7595561852587789589)
+> Un dilema claro para entrenar lógica y argumentación: cuándo una razón suena convincente, pero no resiste un análisis riguroso
 
 ### Dr. House: Lógica y Mentiras (TikTok)
 🎵 **TikTok** &nbsp; [Dr. House: Lógica y Mentiras (TikTok)](https://www.tiktok.com/@papelypiedra/video/7390954430079732998)
@@ -275,13 +275,13 @@
 🎵 **TikTok** &nbsp; [Cómo vencer el bloqueo creativo (TikTok)](https://www.tiktok.com/@alhan_green/video/6997219756927356165)
 > El bloqueo creativo no es el fin, sino una señal para buscar inspiración en lo que nos rodea
 
-### Ratatouille (Ego prueba el platillo de Remy)
-▶️ **YouTube** &nbsp; [Ratatouille (Ego prueba el platillo de Remy)](https://www.youtube.com/watch?v=aWrGH35VgoM)
-> El momento en que una explosión de creatividad redefine lo que significa ser un verdadero creador
+### Pensamiento Convergente vs Divergente
+▶️ **YouTube** &nbsp; [Pensamiento Convergente vs Divergente](https://www.youtube.com/watch?v=cmBf1fBRXms)
+> Entiende cómo generar muchas ideas y luego elegir la más potente para convertirla en una solución real
 
-### El Código Enigma (Descifrando la máquina)
-▶️ **YouTube** &nbsp; [El Código Enigma (Descifrando la máquina)](https://www.youtube.com/watch?v=JS4k00Jj4z0)
-> La creatividad de Alan Turing para "pensar diferente" fue lo que cambió el resultado de una guerra entera
+### La Sociedad de los Poetas Muertos (Carpe Diem)
+▶️ **YouTube** &nbsp; [La Sociedad de los Poetas Muertos (Carpe Diem)](https://www.youtube.com/watch?v=veYR3ZC9wMQ)
+> Una invitación a romper moldes, pensar por cuenta propia y crear una voz auténtica en lugar de copiar lo establecido
 
 ### La Gran Aventura LEGO: Ser un Maestro Constructor (TikTok)
 🎵 **TikTok** &nbsp; [La Gran Aventura LEGO: Ser un Maestro Constructor (TikTok)](https://www.tiktok.com/@faridieck/video/7398000054138588422)
@@ -339,8 +339,8 @@
 ▶️ **YouTube** &nbsp; [Brainstorming: Cómo hacer una Lluvia de Ideas bien](https://www.youtube.com/watch?v=gujEDA_rHTc)
 > Aprende a usar la técnica correctamente para abrir el abanico de opciones sin bloquearte
 
-### Pensamiento Difergente y Ventaja Competitiva (TikTok)
-🎵 **TikTok** &nbsp; [Pensamiento Difergente y Ventaja Competitiva (TikTok)](https://www.tiktok.com/@metaforica.vida/video/7447732638342761733)
+### Pensamiento Divergente y Ventaja Competitiva (TikTok)
+🎵 **TikTok** &nbsp; [Pensamiento Divergente y Ventaja Competitiva (TikTok)](https://www.tiktok.com/@metaforica.vida/video/7447732638342761733)
 > Pensar diferente nos permite romper moldes y encontrar soluciones innovadoras donde otros solo ven límites
 
 ### El motor de la creatividad (TikTok)
@@ -419,20 +419,20 @@
 🎵 **TikTok** &nbsp; [Material de apoyo y estructura (TikTok)](https://www.tiktok.com/@laylavictoriap/video/7272529039011695878)
 > La organización visual refleja el orden mental; jerarquizar la información demuestra dominio del análisis
 
-### En Busca de la Felicidad (Final)
-▶️ **YouTube** &nbsp; [En Busca de la Felicidad (Final)](https://www.youtube.com/watch?v=Xn5zgZgqZvs)
-> El momento en que un hombre que usó todas sus herramientas mentales ve los resultados de sus decisiones
+### 12 Angry Men: ¿Quién cambió su voto?
+▶️ **YouTube** &nbsp; [12 Angry Men: ¿Quién cambió su voto?](https://www.youtube.com/watch?v=EqDd06GW76o)
+> Un ejemplo potente de toma de decisiones en equipo, argumentación y revisión de evidencia bajo presión grupal
 
-### Figuras Ocultas (El Cálculo que todo lo une)
-▶️ **YouTube** &nbsp; [Figuras Ocultas (El Cálculo que todo lo une)](https://www.youtube.com/watch?v=d6ELGRkI3gc)
-> Cuando cada herramienta aprendida converge en un solo acto de brillantez
+### Apolo 13: Liderazgo y Trabajo en equipo
+▶️ **YouTube** &nbsp; [Apolo 13: Liderazgo y Trabajo en equipo](https://www.youtube.com/watch?v=luRDv0qKcvQ)
+> Resolver un problema real bajo presión exige método, comunicación clara y decisiones coordinadas
 
 ### En busca de la felicidad: Tu sueño (TikTok)
 🎵 **TikTok** &nbsp; [En busca de la felicidad: Tu sueño (TikTok)](https://www.tiktok.com/@sonychannellat/video/7595730341403446540)
 > El pensamiento crítico y la perseverancia son la clave para proteger tu visión frente a la adversidad
 
 ### Iron Man: Mejora Continua (TikTok)
-🎵 **TikTok** &nbsp; [Iron Man: Mejora Continua (TikTok)](https://www.tiktok.com/@clips_202_/@clips_202_/video/7523081534358768903)
+🎵 **TikTok** &nbsp; [Iron Man: Mejora Continua (TikTok)](https://www.tiktok.com/@clips_202_/video/7523081534358768903)
 > El éxito se basa en la observación, la experimentación y el pensamiento lógico aplicado a la mejora constante
 
 ---
