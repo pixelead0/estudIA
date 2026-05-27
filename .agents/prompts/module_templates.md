@@ -12,7 +12,7 @@ Usa estas plantillas para estructurar cada sección del archivo Markdown con un 
 "Diseña: objetivo + 3 pasos; **un ejemplo resuelto**; 6–8 casos `### 🔍 Caso N` con **Tu turno** (predicción), **Clave**, **Por qué importa**. **No** uses tabla situación+respuesta en la misma fila. Plantilla: `module_schema_v3.md` §4."
 
 ## Prompt D: Reflexiona (🏁)
-"3–4 preguntas personales que conecten el tema con identidad, hábitos o futuro."
+"3–6 preguntas abiertas en lista numerada (`1.` `2.` …), sin respuesta modelo. Conectan el tema con identidad, hábitos o comunidad. En web se muestran en stepper (una a la vez)."
 
 ## Prompt E: Explora (🌟)
 "Datos curiosos + 8 vídeos (2+2 YT/TT clips, 2+2 cine) con `**Título**: análisis. URL` + Para conversar."

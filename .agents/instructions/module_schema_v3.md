@@ -45,6 +45,19 @@
 - Conservar analogías, citas `>`, callouts `[!TIP]`, etiquetas `(N)` ligadas al Reto Final.
 - No acortar ni “mejorar” reactivos; sí se puede pulir prosa teórica si no cambia el sentido.
 
+### Callouts (`[!TIP]`, `[!NOTE]`, etc.)
+
+Sintaxis GitHub en el `.md` (válida también para PDF):
+
+```markdown
+> [!TIP]
+> **Recuerda**: …
+```
+
+- Preferir **dos líneas** (`> [!TIP]` y luego el texto). `marked` a veces fusiona todo en un solo `<p>`; la web lo corrige igual.
+- No dejar `[!TIP]` visible en producción: `main.js` → `enhanceCallouts` quita el tag y muestra cabecera **Consejo** / **Nota** / **Clave** / **Ojo** (`.callout-tip`, etc.).
+- Las citas de autor (`> "Texto" — Nombre`) no son callouts; la web las marca como `.wisdom-quote` si aplican las heurísticas.
+
 ---
 
 ## 4. ✍️ Practica — didáctica (OBLIGATORIO en v3)
@@ -95,14 +108,59 @@ Tabla de 3 columnas con **situación + respuesta + explicación** en la misma fi
 
 - **Tu turno** siempre **antes** de **Clave**.
 - Separar casos con `---` entre bloques.
-- Las tablas solo para **ejemplo resuelto** o comparaciones, no para listar respuestas.
+- Las tablas de **3 columnas** solo para **ejemplo resuelto** o comparaciones modelo — **no** como sustituto de los casos 🔍 con clave explícita en el `.md`.
 - En web, `main.js` envuelve `### 🔍 Caso` en `.practica-caso` y el ejemplo en `.practica-ejemplo`.
+
+### Vista web — Practica (tablas y claves)
+
+Si el módulo aún usa una tabla legacy `| Situación | Clasificación | Impacto |` dentro de **Practica**:
+
+| Columna | Rol en `.md` | En web |
+|---------|----------------|--------|
+| 1 | Situación / enunciado | Visible en la tarjeta |
+| 2 | Respuesta / concepto | **Oculta** hasta pulsar **Ver clave** |
+| 3 | Por qué importa | **Oculta** junto con la columna 2 |
+
+- `enhanceActivityTables` convierte la tabla en `.scenario-cards` solo en `.study-section--practice`.
+- Texto guía encima: *«Piensa tu respuesta antes de abrir cada clave.»*
+- Al revelar: desaparece el botón; se muestran etiqueta (`.scenario-card-tag`) + impacto.
+- Tablas de **2 columnas** (p. ej. ejemplo resuelto Entrada | Proceso) **no** entran en modo quiz.
+
+**Formato preferido v3:** casos 🔍 (el alumno predice en **Tu turno**; la **Clave** está en el markdown pero la lectura es secuencial, no en tabla).
 
 ---
 
-## 5. 🌟 Explora
+## 5. 🏁 Reflexiona
 
-Subdividir con H3:
+- Lista **numerada** (`1.` `2.` …), **3 a 6** preguntas abiertas, sin respuesta modelo.
+- Conectan el tema con identidad, hábitos, comunidad o futuro — no son reactivos del Reto Final.
+
+### Vista web — Reflexiona (stepper)
+
+- `enhanceReflectPrompts` sustituye el `<ol>` por `.reflect-stepper` cuando hay **≥ 2** ítems.
+- **Una pregunta visible** a la vez (no acordeón con todas las preguntas listadas).
+- Barra de progreso + «Pregunta *n* de *N*» + **Anterior** / **Siguiente** (última: **Listo**) + puntos para saltar.
+- El `.md` sigue siendo lista numerada (PDF y lectura lineal sin JS).
+
+---
+
+## 6. 📚 Palabras clave
+
+- Lista con viñetas: `- **Término**: definición breve y memorable (puede usar comillas o metáfora).`
+- Mínimo 4 términos; definiciones en una o dos frases cortas.
+
+### Vista web — Glosario (flashcards)
+
+- `enhanceGlossaryFlashcards` convierte el `<ul>` en `.glossary-deck` cuando hay **≥ 2** entradas con `**Término**:`.
+- Cuadrícula de tarjetas: **solo el término** al frente; al tocar, **volteo 3D** con la definición.
+- Texto guía: *«Toca cada tarjeta para voltearla y fijar el concepto.»*
+- El `.md` no cambia (PDF y lectura lineal siguen siendo lista).
+
+---
+
+## 7. 🌟 Explora
+
+Subdividir con H3 (o lista anidada legacy en materias antiguas):
 
 ```markdown
 ### Datos que sorprenden
@@ -127,35 +185,60 @@ Pregunta o consigna para debatir con alguien.
 - Sin `(TikTok)` redundante en el título si ya está en bloque TikTok.
 - No usar solo la URL como título.
 - Tras editar lecciones, alinear `00_indice_videos.md` de la materia.
+- **En web:** los enlaces de vídeo alimentan el **reproductor al inicio del módulo** (playlist). El análisis se ve en el panel del reproductor al elegir un clip.
+
+### Vista web — Explora (sin repetir clips)
+
+- `enhanceExploreSection` **no** vuelve a listar vídeos dentro de la tarjeta Explora (evita duplicar el reproductor superior).
+- Se eliminan bloques «Para ver», «Clips y casos», «Cine y series» y filas `.video-playlist-ref` dentro de Explora.
+- Se muestran:
+  - Aviso con enlace **Ir al reproductor ↑**
+  - **Datos curiosos** en tarjetas (`.explore-facts`)
+  - **Para conversar** destacado (`.explore-conversation`)
+- El `.md` **no cambia**: PDF y fuente siguen con URLs y análisis completos.
 
 ---
 
-## 6. Lo que NO se toca al migrar
+### Vista web — Pon a prueba (cuestionario)
+
+- `enhanceQuizChallenge` convierte el `<ol>` de reactivos en `.quiz-challenge` (una pregunta a la vez).
+- Opciones **A–D** como botones; **Validar** compara con la clave parseada de **🔑 Respuestas** (`1. B | 2. A | …`).
+- **Correcto** → mensaje verde y se habilita **Siguiente**; **incorrecto** → mensaje rojo + contador de intentos (puede cambiar opción y validar de nuevo).
+- Al terminar: resumen en pantalla y botón **Ver resultados** (intentos fallidos por pregunta, a la primera, mensaje de mejora). La clave completa queda en un desplegable al final.
+- El `.md` no cambia (mismas preguntas y clave para PDF).
+
+---
+
+## 8. Lo que NO se toca al migrar
 
 | Elemento | Regla |
 |----------|--------|
 | **Pon a prueba** | Preguntas **verbatim** (solo ortografía `¿` `¡` y acentos) |
 | **Respuestas** | Clave igual |
 | **URLs de vídeo** | Mismos enlaces salvo corrección rota |
-| **Etiquetas `(N)`** | Mantener vínculo teoría ↔ reactivo |
+| **Etiquetas `(N)`** | Mantener en el `.md`; en web `enhanceQuizTheoryAnchors` marca el párrafo y el reto enlaza desde la pregunta (y en resultados) hacia esa teoría (clic: resaltado amarillo + etiqueta como superíndice) |
 
 ---
 
-## 7. Checklist por módulo (agente)
+## 9. Checklist por módulo (agente)
 
 - [ ] 9 secciones v3 con emojis y orden correcto
 - [ ] Gancho 🎯 con título **propio** (no «El reto»)
 - [ ] H3 cortos en Entiende
-- [ ] Practica con ejemplo resuelto + casos 🔍 (Tu turno → Clave → Por qué)
+- [ ] Callouts `[!TIP]` en dos líneas (sin tag suelto en preview web)
+- [ ] Practica con ejemplo resuelto + casos 🔍 (Tu turno → Clave → Por qué); si hay tabla 3 col, solo situación+clave+impacto con sentido pedagógico
+- [ ] Reflexiona: lista numerada 3–6 preguntas abiertas
+- [ ] Palabras clave: ≥4 términos `**Término**: definición` (web → flashcards)
 - [ ] Explora con H3 + 8 vídeos (formato título + análisis)
 - [ ] `00_indice_videos.md` alineado si aplica
 - [ ] `python3 scripts/audit_modules.py` — módulo PASS
 - [ ] `python3 scripts/check_multimedia.py --root 1/<Materia>` — OK
 - [ ] `npm run build` si hay cambios que afecten índice web
+- [ ] (Opcional) `make web-dev` — Practica: claves ocultas; Reflexiona: stepper; callouts con cabecera
 
 ---
 
-## 8. Migración por materia
+## 10. Migración por materia
 
 1. Un módulo piloto → revisión humana.
 2. Resto de módulos **uno a uno** (mismo patrón).
@@ -165,7 +248,7 @@ Pregunta o consigna para debatir con alguien.
 
 ---
 
-## 9. Referencias cruzadas
+## 11. Referencias cruzadas
 
 - Tono y audiencia: `.agents/standards/general.md`
 - Workflow creación: `.agents/instructions/workflow_module_creation.md`

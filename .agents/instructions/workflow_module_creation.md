@@ -6,8 +6,9 @@
 4. **Generación de secciones**:
     - **🎯 Gancho**: título **propio del módulo** (nunca solo «El reto»).
     - **💡 Entiende**: analogías, citas, H3 cortos, etiquetas `(N)`.
-    - **✍️ Practica**: ejemplo resuelto + casos `### 🔍 Caso N` con **Tu turno → Clave → Por qué** (no tabla respuesta-inmediata).
-    - **🌍 En la vida real** + **🏁 Reflexiona**.
+    - **✍️ Practica**: ejemplo resuelto + casos `### 🔍 Caso N` con **Tu turno → Clave → Por qué** (formato preferido). Tabla 3 col legacy solo si columnas = situación / clave / impacto (web oculta clave hasta **Ver clave**).
+    - **🌍 En la vida real** + **🏁 Reflexiona** (lista numerada 3–6 preguntas; web = stepper).
+    - **Callouts** `[!TIP]` en dos líneas; citas de autor con `> "…" — Autor`.
     - **📚 Palabras clave** + **🌟 Explora** (H3: datos, clips, cine, conversar; 8 vídeos).
     - **🏆 Pon a prueba** (mín. 6 preguntas) + **🔑 Respuestas**.
 5. **Reglas de precisión**:
@@ -18,4 +19,4 @@
 
 ---
 > [!IMPORTANT]
-> Un módulo sin las 9 secciones v3, sin Practica didáctica (Tu turno antes de Clave) o sin gancho 🎯 propio debe **corregirse** antes de dar por cerrado.
+> Un módulo sin las 9 secciones v3, sin Practica didáctica (Tu turno antes de Clave) o sin gancho 🎯 propio debe **corregirse** antes de dar por cerrado. Comportamiento web: `web_platform_management.md`.

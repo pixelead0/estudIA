@@ -28,9 +28,9 @@ Cada módulo debe estar contenido en un archivo Markdown.
 **Secciones Obligatorias (v3 — ver `instructions/module_schema_v3.md`)**:
 1.  **🎯 [Gancho propio]**: Desafío reconocible; **no** titular «El reto».
 2.  **💡 Entiende**: Analogía, citas, H3 cortos, `(N)`.
-3.  **✍️ Practica**: Tu turno → Clave → Por qué (casos 🔍); ejemplo resuelto.
+3.  **✍️ Practica**: Tu turno → Clave → Por qué (casos 🔍); ejemplo resuelto. En web, tablas 3 col (legacy) ocultan clave hasta **Ver clave**.
 4.  **🌍 En la vida real**: Aplicación cotidiana.
-5.  **🏁 Reflexiona**: Preguntas personales.
+5.  **🏁 Reflexiona**: Lista numerada, 3–6 preguntas abiertas (web: stepper, una por pantalla).
 6.  **📚 Palabras clave**: Glosario breve.
 7.  **🌟 Explora**: Datos, clips (2+2 YT/TT), cine (2+2), Para conversar; vídeos con `**Título**: análisis. URL`.
 8.  **🏆 Pon a prueba**: Mínimo 6 reactivos verbatim.
@@ -39,11 +39,12 @@ Cada módulo debe estar contenido en un archivo Markdown.
 ## 4. Sistema de Referencia de Autoaprendizaje
 - **Etiquetas `(N)`**: Dentro de **💡 Entiende**, insertar `(N)` donde `N` es el número de la pregunta de **🏆 Pon a prueba**.
 - **Propósito**: Permitir que el estudiante localice inmediatamente la base teórica de cada reactivo del examen.
+- **Vista web**: `(N)` se muestra como superíndice; desde cada pregunta (y en resultados) hay un enlace a los párrafos base con `(N)`, y al abrirlos se resalta el párrafo completo y la etiqueta en amarillo.
 
 ## 5. Calidad Visual y Redacción
 - **Fluidez y Párrafos**: Evitar muros de texto. Separar los párrafos de manera que cada uno trate una idea clara. Usar conectores de transición (Por consiguiente, No obstante, En consecuencia) para asegurar la fluidez.
 - **Sin imágenes embebidas**: Los módulos NO deben incluir links de imagen (`![alt](ruta)`). Recursos en **🌟 Explora** (YouTube/TikTok).
-- **Formato**: Uso de `alerts` de Markdown, tablas y listas para facilitar la lectura.
+- **Formato**: Callouts `> [!TIP]` (dos líneas); tablas para comparaciones o ejemplo resuelto; listas numeradas en Reflexiona. La web estiliza callouts y no muestra el tag `[!TIP]` en crudo.
 
 ## 6. Regla de Multimedia (Formato de Ficha con Reflexión)
 

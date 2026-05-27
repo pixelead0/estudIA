@@ -12,4 +12,7 @@ Ejemplos concretos para mantener la consistencia del tono "Cool Mentor".
 
 ## 🖼️ Estándar Visual
 - **Diagramas**: Estilo Blueprint (azul/blanco) o Flat Tech.
-- **Formato**: Uso de `> [!TIP]` para consejos y tablas para comparaciones claras.
+- **Callouts**: `> [!TIP]` en línea aparte; en web → tarjeta `.callout` con cabecera **Consejo** (sin mostrar `[!TIP]`).
+- **Practica (web)**: Casos 🔍 preferidos; si hay tabla 3 col, el alumno abre **Ver clave** antes de ver respuesta e impacto.
+- **Reflexiona (web)**: Lista numerada en `.md`; en pantalla, stepper de una pregunta a la vez con progreso.
+- **Tablas**: Comparaciones y ejemplo resuelto (2 col); no tabla situación+respuesta como única actividad en v3.
