@@ -161,7 +161,7 @@ Pregunta o consigna para debatir con alguien.
 2. Resto de módulos **uno a uno** (mismo patrón).
 3. No mezclar v2 y v3 dentro del mismo archivo.
 
-**DHP:** módulo 01 ✅ — continuar 02–12.
+**DHP:** módulos 01–12 ✅ (completado).
 
 ---
 
