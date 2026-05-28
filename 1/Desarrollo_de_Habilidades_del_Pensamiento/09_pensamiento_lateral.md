@@ -190,43 +190,37 @@ Esta habilidad te servirá para los juegos, para la escuela y para llevarte mejo
 Pregúntale a alguien creativo: "¿Cuál ha sido la solución más extraña que has encontrado para un problema difícil?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es la diferencia fundamental entre el Pensamiento Directo y el Pensamiento Lateral?
-   - A) El directo es para niños y el lateral es para adultos.
-   - B) El directo es lógico y sigue pasos; el lateral es creador y busca caminos diferentes.
-   - C) El lateral se usa solo para el arte y el directo solo para las matemáticas.
-   - D) No hay ninguna diferencia real entre ambos tipos de pensamiento.
-
+   - A) El directo es solo para niños; el lateral solo para adultos expertos.
+   - B) No hay diferencia: ambos siguen siempre la misma secuencia lógica.
+   - C) El directo avanza paso a paso en la línea habitual; el lateral explora rutas poco obvias.
+   - D) El lateral reemplaza por completo las reglas del pensamiento lógico.
 2. ¿Cuál es el objetivo primordial de usar el Pensamiento Lateral en los problemas?
-   - A) Encontrar la única respuesta correcta que existe en los libros.
-   - B) Cambiar la forma de ver el problema para encontrar soluciones originales.
-   - C) Lograr que todas las personas piensen igual que nosotros.
-   - D) Terminar los exámenes lo más rápido posible sin importar los errores.
-
+   - A) Que todos adopten tu primera idea sin discutir supuestos.
+   - B) Terminar rápido aunque la solución no responda al reto planteado.
+   - C) Encontrar la única respuesta del libro sin cuestionar el planteamiento.
+   - D) Cambiar el encuadre del problema para hallar soluciones originales.
 3. En el pensamiento lateral, ¿qué papel juegan las ideas que parecen "absurdas"?
-   - A) Deben ser eliminadas de inmediato para no perder el tiempo.
-   - B) Sirven como puentes para salir de los caminos de siempre y encontrar nuevas rutas.
-   - C) Son una señal de que la persona no es lo suficientemente inteligente.
-   - D) No juegan ningún papel, ya que el pensamiento siempre debe ser serio.
-
+   - A) Ninguno: solo distraen y deben descartarse al instante.
+   - B) Sirven de puente para salir del camino habitual y abrir rutas nuevas.
+   - C) Prueba de que la persona no domina el pensamiento lógico.
+   - D) Sustituto de la evaluación final: si suena loca, ya es la solución.
 4. ¿A qué nos referimos con "lo que damos por hecho" (Supuestos) en el pensamiento?
-   - A) A las verdades absolutas que nunca cambian en el mundo.
-   - B) A las ideas que aceptamos sin cuestionar y que a veces limitan nuestra visión.
-   - C) A las leyes que el gobierno nos obliga a seguir todos los días.
-   - D) Al nombre técnico de los acertijos difíciles.
-
+   - A) Creencias que aceptamos sin examinar y que pueden limitar cómo vemos el problema.
+   - B) Hechos demostrados que nunca conviene cuestionar en ningún contexto.
+   - C) Normas legales que debes memorizar para el examen de civismo.
+   - D) El nombre de un acertijo clásico de lógica formal.
 5. ¿Cuál es una técnica que se recomienda para generar ideas laterales?
-   - A) Pensar mucho más rápido en la misma solución de siempre.
-   - B) Usar las ideas locas (provocación) y cuestionar lo que parece obvio.
-   - C) Copiar las soluciones que han tenido éxito en otros países.
-   - D) No usar ninguna técnica y esperar a que la idea llegue sola.
-
+   - A) Acelerar la misma solución de siempre para no perder tiempo.
+   - B) Esperar inspiración sin provocar ni cuestionar lo obvio.
+   - C) Usar provocaciones deliberadas y poner en duda lo que parece evidente.
+   - D) Copiar tal cual lo que funcionó en otro país sin adaptar contexto.
 6. ¿Por qué se dice que el pensamiento lateral no sustituye a la lógica, sino que la ayuda?
-   - A) Porque el cerebro necesita ambos: el lateral para crear caminos y la lógica para ver si funcionan.
-   - B) Porque es una regla impuesta por los científicos de la historia.
-   - C) Porque la lógica es mucho más importante y poderosa en todo momento.
-   - D) Realmente sí la sustituye, ya que la lógica ya no se necesita hoy.
+   - A) Porque la lógica quedó obsoleta y el lateral es el único método válido hoy.
+   - B) Porque el lateral abre caminos y la lógica comprueba si esos caminos resisten.
+   - C) Porque la lógica siempre basta y el lateral solo sirve en arte.
+   - D) Porque ambos son lo mismo con nombres distintos en el temario.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. A
+1. C | 2. D | 3. B | 4. A | 5. C | 6. B

@@ -177,43 +177,37 @@ Pregúntale a un amigo: "¿Qué es lo más divertido que has hecho en una comput
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Qué es técnicamente un "Hipervínculo" en una presentación?
-   - A) Un tipo de letra que se escribe más rápido que las normales.
-   - B) Un puente digital que conecta un objeto con otra hoja o página web(1).
-   - C) Un virus peligroso que borra todas las fotos de tu equipo.
-   - D) El nombre del cable que conecta la luz a la computadora.
-
+   - A) Un puente digital que conecta un objeto con otra hoja o página web.
+   - B) Un estilo de viñeta que numera automáticamente los párrafos del texto.
+   - C) Una transición animada que pasa de una diapositiva a la siguiente.
+   - D) Un marcador de posición en el diseño que no enlaza con otro destino.
 2. ¿Para qué sirve el Botón de Acción que tiene forma de casita?
-   - A) Para dibujar una casa muy bonita en medio de la pantalla.
-   - B) Para regresar automáticamente a la primera hoja o menú de inicio(2).
-   - C) Para cerrar la presentación y que la computadora se apague.
-   - D) Para guardar el trabajo únicamente en la memoria del celular.
-
+   - A) Para insertar una imagen de casa como fondo de la diapositiva actual.
+   - B) Para abrir el panel de transiciones entre todas las diapositivas.
+   - C) Para regresar automáticamente a la primera hoja o menú de inicio.
+   - D) Para guardar el archivo en la carpeta Documentos del equipo.
 3. ¿Cuál es la mayor ventaja de que tu presentación sea interactiva?
-   - A) Que el expositor ya no tiene que hablar ni explicar nada.
-   - B) Que el público puede participar y explorar el tema a su gusto(3).
-   - C) Que el programa hace toda la tarea y la investigación por ti.
-   - D) Que la pantalla gasta menos energía y dura más la batería.
-
+   - A) Que el expositor ya no necesita preparar el contenido de las diapositivas.
+   - B) Que el archivo pesa menos porque elimina imágenes y videos incrustados.
+   - C) Que el programa corrige automáticamente la ortografía de cada diapositiva.
+   - D) Que el público puede participar y explorar el tema a su gusto.
 4. Si quieres poner un video de YouTube en tu diapositiva, ¿en qué menú buscas?
-   - A) Menú de Diseño de página y márgenes.
-   - B) Menú Insertar > Video > Video en línea(4).
-   - C) Menú de Transiciones y efectos especiales.
-   - D) Menú de Archivo e Imprimir documentos.
-
+   - A) Menú de Archivo e Imprimir documentos.
+   - B) Menú Insertar > Video > Video en línea.
+   - C) Menú de Diseño de página y márgenes.
+   - D) Menú de Transiciones y efectos especiales.
 5. ¿Qué pasa si el hipervínculo apunta a una página web que ya no existe en Internet?
-   - A) Tu presentación se borrará de la computadora por seguridad.
-   - B) Al darle clic, aparecerá un error diciendo que no se encuentra la página(5).
-   - C) La computadora se va a reiniciar para intentar arreglar el link.
-   - D) El botón te llevará a la página principal de Google automáticamente.
-
+   - A) Al darle clic, aparecerá un error diciendo que no se encuentra la página.
+   - B) El navegador abrirá la última versión en caché guardada en tu equipo.
+   - C) PowerPoint creará automáticamente una página sustituta con el mismo tema.
+   - D) El enlace se desactivará sin mensaje y la diapositiva seguirá igual.
 6. ¿Cómo puedes usar la interactividad para estudiar mejor tus temas?
-   - A) Creando un juego de preguntas donde el clic te diga si acertaste(6).
-   - B) Poniendo muchas animaciones de colores en todas las hojas.
-   - C) Cambiando el tamaño de la letra cada vez que leas un renglón.
-   - D) La interactividad no sirve de nada para aprender cosas nuevas.
+   - A) Poniendo la misma transición en todas las diapositivas para uniformidad.
+   - B) Duplicando cada diapositiva para que el público lea el texto dos veces.
+   - C) Creando un juego de preguntas donde el clic te diga si acertaste.
+   - D) Desactivando los hipervínculos para que nadie salga del orden lineal.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. A
+1. A | 2. C | 3. D | 4. B | 5. A | 6. C

@@ -201,43 +201,37 @@ Cuando alguien te diga algo importante, recuerda: "Soy el dueño de mi fábrica 
 Pregúntale a un experto en computadoras: "¿Cómo funciona el ciclo de Input-Proceso-Output y en qué se parece a nosotros?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es el orden técnico correcto que sigue el pensamiento según el modelo de la "fábrica mental"?
    - A) Salida, Proceso y finalmente Entrada.
-   - B) Entrada, Proceso y finalmente Salida.
-   - C) Proceso, Salida y finalmente Entrada.
-   - D) Únicamente existe la fase de Salida en la vida real.
-
+   - B) Proceso, Salida y finalmente Entrada.
+   - C) Entrada, Proceso y finalmente Salida.
+   - D) Solo Entrada y Salida, porque el Proceso ocurre fuera de la mente.
 2. ¿En qué consiste específicamente la fase de "Entrada" (Input) en nuestro pensamiento?
-   - A) En tomar una decisión final sobre qué ropa vamos a usar hoy.
-   - B) En recopilar datos e información a través de la atención y los sentidos.
-   - C) En olvidar todo lo que nos dijeron para no distraernos.
-   - D) En hablar lo más rápido posible frente a un grupo de personas.
-
+   - A) Recopilar datos e información a través de la atención y los sentidos.
+   - B) Analizar y comparar lo captado para darle sentido.
+   - C) Ejecutar la acción final, como hablar o decidir.
+   - D) Archivar en memoria a largo plazo sin captar estímulos nuevos.
 3. ¿Qué ocurre técnicamente durante la fase de "Proceso" dentro de nuestra mente?
-   - A) La información captada es analizada, comparada y organizada para darle sentido.
-   - B) Los datos son borrados inmediatamente para ahorrar energía cerebral.
-   - C) Se genera un ruido blanco que nos impide pensar con claridad.
-   - D) Es el momento en que nos quedamos dormidos profundamente.
-
+   - A) Los sentidos registran el entorno mientras prestas atención.
+   - B) La información captada se analiza, compara y organiza para darle sentido.
+   - C) El cuerpo actúa de inmediato sin reorganizar la información.
+   - D) Se borran los datos para no saturar la memoria a corto plazo.
 4. En las formas del pensamiento, ¿qué es un "Juicio"?
-   - A) La imagen básica y pura de algo en la mente sin afirmar nada.
-   - B) Unir dos o más conceptos para afirmar o negar algo (ej. "el auto es rojo").
-   - C) La acción de actuar por puro impulso sin pensar.
-   - D) Es la primera fase del acto mental donde usamos los sentidos.
-
+   - A) La imagen mental de algo sin afirmar ni negar todavía.
+   - B) La fase sensorial donde solo percibes sin evaluar.
+   - C) Unir dos o más conceptos para afirmar o negar algo (ej. "el auto es rojo").
+   - D) Conectar varios juicios para obtener una conclusión nueva.
 5. ¿Cuál es el nivel más alto del pensamiento según la lógica, donde conectas juicios para descubrir una verdad nueva?
-   - A) La idea.
-   - B) El concepto.
-   - C) El razonamiento.
-   - D) La distracción visual.
-
+   - A) El concepto aislado en la mente.
+   - B) El juicio simple que afirma una sola relación.
+   - C) La entrada sensorial sin interpretar.
+   - D) El razonamiento.
 6. ¿Cuál es la consecuencia principal de ser una persona "impulsiva" en términos de este modelo?
-   - A) Que la fase de Entrada es demasiado lenta y aburrida.
-   - B) Que se intenta saltar directamente de la Entrada a la Salida sin Procesar la información.
-   - C) Que la fase de Salida es siempre perfecta y nunca tiene errores.
-   - D) Que el cerebro se vuelve mucho más inteligente de forma automática.
+   - A) Que la Entrada se vuelve demasiado lenta y detallada.
+   - B) Que el Proceso se alarga hasta perder la oportunidad de actuar.
+   - C) Que se intenta saltar de la Entrada a la Salida sin procesar la información.
+   - D) Que la Salida siempre resulta más precisa por la urgencia.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. A | 4. B | 5. C | 6. B
+1. C | 2. A | 3. B | 4. C | 5. D | 6. C

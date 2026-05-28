@@ -215,43 +215,37 @@ La habilidad más importante hoy no es saber muchas cosas de memoria (que ya est
 Pregúntale a un líder de tu familia o comunidad: "¿Cuál ha sido el problema más difícil que has resuelto y cómo lo hiciste?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cómo definen los expertos la "Toma de Decisiones" en el ámbito del pensamiento?
-   - A) Dejar que la suerte decida por nosotros lanzando una moneda.
-   - B) El proceso de elegir la mejor opción entre varias para resolver un problema.
-   - C) Esperar a que otra persona tome la responsabilidad de nuestras acciones.
-   - D) No elegir nada para evitar cometer errores en el futuro.
-
+   - A) Elegir la mejor opción entre varias para resolver un problema definido.
+   - B) Evitar decidir para no enfrentar consecuencias ni errores posibles.
+   - C) Delegar siempre la responsabilidad en otra persona del equipo.
+   - D) Dejar que el azar determine el curso de acción sin criterios.
 2. ¿Cuál es el primer paso indispensable para iniciar un proceso de solución de problemas?
-   - A) Empezar a actuar de inmediato sin perder tiempo pensando.
-   - B) Identificar y definir con claridad cuál es el problema que queremos resolver.
-   - C) Preguntar a todas las personas del grupo qué es lo que ellas harían.
-   - D) Olvidar que el problema existe para que desaparezca por sí solo.
-
+   - A) Actuar de inmediato para no perder tiempo en análisis.
+   - B) Identificar y definir con claridad el problema que quieres resolver.
+   - C) Preguntar a todos qué harían ellos antes de entender el reto.
+   - D) Asumir que el problema desaparecerá si lo ignoras bastante tiempo.
 3. En el modelo de toma de decisiones, ¿para qué nos sirve "Generar Alternativas"?
-   - A) Para confundirnos con tantas opciones que al final no hagamos nada.
-   - B) Para tener varias soluciones posibles antes de elegir la mejor.
-   - C) Para demostrar que somos las personas más creativas del salón.
-   - D) No sirve de nada, ya que la primera solución siempre es la que vale.
-
+   - A) Para tener varias soluciones posibles antes de filtrar y elegir la mejor.
+   - B) Para demostrar creatividad aunque ninguna opción responda al problema.
+   - C) Para postergar la decisión indefinidamente acumulando listas.
+   - D) Porque la primera idea espontánea siempre es la más completa.
 4. ¿Qué importancia tiene establecer filtros antes de tomar la decisión final?
-   - A) Nos permite evaluar las opciones de forma realista y elegir la que más nos conviene.
-   - B) Sirve para que la decisión sea mucho más lenta y complicada de tomar.
-   - C) No tiene importancia, ya que las decisiones deben ser siempre rápidas.
-   - D) Es una regla que solo se aplica en los negocios de gente millonaria.
-
+   - A) Solo aplica en empresas grandes, no en proyectos escolares.
+   - B) Permite evaluar opciones con criterios realistas y elegir la más conveniente.
+   - C) Ralentiza el proceso sin mejorar la calidad de la elección.
+   - D) Sustituye la necesidad de haber definido bien el problema al inicio.
 5. ¿Por qué es fundamental evaluar los resultados después de haber ejecutado una decisión?
-   - A) Para presumir a los demás que nuestra idea fue un éxito total.
-   - B) Para aprender de lo que funcionó y de lo que falló, y así mejorar en el futuro.
-   - C) Para castigar a las personas que no nos ayudaron con el proyecto.
-   - D) Realmente no es fundamental, ya que el pasado no se puede cambiar.
-
+   - A) Para aprender qué funcionó y qué falló y mejorar decisiones futuras.
+   - B) Para justificar la decisión aunque los datos muestren lo contrario.
+   - C) Para señalar culpables del equipo sin revisar el método usado.
+   - D) Porque el pasado no influye en cómo decides la próxima vez.
 6. ¿Qué significa tener "Conciencia del Proceso" al final de un proyecto?
-   - A) Ser capaz de repetir de memoria todos los términos del glosario.
-   - B) Comprender y observar cómo fue nuestro propio proceso mental para resolver el reto.
-   - C) No volver a pensar en nada relacionado con el tema durante mucho tiempo.
-   - D) Es una habilidad mística que solo tienen los grandes magos de la historia.
+   - A) Memorizar el glosario sin reflexionar sobre cómo pensaste.
+   - B) Observar y explicar cómo fue tu propio proceso mental al resolver el reto.
+   - C) Evitar hablar del tema para no recordar errores cometidos.
+   - D) Repetir la misma estrategia sin analizar si fue efectiva.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. A | 5. B | 6. B
+1. A | 2. B | 3. A | 4. B | 5. A | 6. B

@@ -178,66 +178,56 @@ Pregúntale a alguien: "¿Es ético crear robots que parezcan y sientan como hum
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Qué es la "Ciencia"?
-   - A) Un conjunto de cuentos.
-   - B) Conjunto de conocimientos sistemáticos y verificables sobre la realidad obtenidos por observación y experimentación.
-   - C) Una opinión sobre el mundo.
-   - D) Lo que sale en las noticias.
-
+   - A) Conjunto de conocimientos sistemáticos y verificables sobre la realidad obtenidos por observación y experimentación.
+   - B) Colección de relatos tradicionales sin método de comprobación.
+   - C) Información difundida en medios sin revisión ni experimentación.
+   - D) Opinión personal sobre el mundo sin criterios de falsación.
 2. Define: Tecnología.
-   - A) Comprar celulares nuevos.
-   - B) Aplicación del conocimiento científico para resolver problemas y satisfacer necesidades humanas.
-   - C) Jugar videojuegos.
-   - D) Usar internet.
-
+   - A) Adquirir dispositivos nuevos como fin en sí mismo.
+   - B) Entretenimiento digital sin aplicación de conocimiento científico.
+   - C) Uso de internet como sinónimo total de toda innovación técnica.
+   - D) Aplicación del conocimiento científico para resolver problemas y satisfacer necesidades humanas.
 3. ¿Cuál es la diferencia entre Ciencia y Tecnología?
-   - A) Son lo mismo.
+   - A) La ciencia pertenece al pasado y la tecnología solo al presente digital.
    - B) La Ciencia busca conocer (saber); la Tecnología busca aplicar ese conocimiento para transformar (hacer).
-   - C) La Ciencia es vieja y la Tecnología moderna.
-   - D) No tienen relación.
-
+   - C) No guardan relación: una es humanística y la otra es mito.
+   - D) Son lo mismo: todo conocimiento científico es ya tecnología aplicada.
 4. ¿Cuál es el valor ético fundamental en la ciencia y la tecnología?
-   - A) El dinero.
-   - B) La Responsabilidad.
-   - C) La fama.
-   - D) La rapidez.
-
+   - A) Maximizar ganancias económicas sin evaluar daños colaterales.
+   - B) Obtener reconocimiento mediático como prioridad del investigador.
+   - C) La Responsabilidad.
+   - D) La velocidad de publicación por encima de la revisión ética.
 5. Menciona un problema ético actual de la ciencia y la tecnología:
-   - A) Que las computadoras son caras.
-   - B) La manipulación genética, la falta de privacidad o el uso de armas autónomas.
-   - C) Que no hay internet en todas partes.
-   - D) Que los libros son pesados.
-
+   - A) La manipulación genética, la falta de privacidad o el uso de armas autónomas.
+   - B) El peso de los libros impresos en la mochila escolar.
+   - C) El costo elevado de hardware sin dilema moral asociado.
+   - D) La ausencia de internet en zonas rurales como único conflicto ético.
 6. Da un ejemplo de un problema Bioético:
-   - A) El costo de las medicinas.
-   - B) La clonación humana o la edición genética de embriones.
-   - C) Estudiar medicina.
-   - D) Usar cubrebocas.
-
+   - A) Cursar la carrera de medicina como actividad formativa neutral.
+   - B) Usar cubrebocas en epidemias como medida de higiene sin debate bioético.
+   - C) El precio de medicamentos como problema exclusivamente económico.
+   - D) La clonación humana o la edición genética de embriones.
 7. Diferencia entre Biocentrismo y Antropocentrismo:
-   - A) Son tipos de animales.
+   - A) Taxonomías zoológicas que clasifican especies por tamaño.
    - B) El Antropocentrismo pone al hombre al centro; el Biocentrismo pone a la vida (todas las especies) al centro.
-   - C) Son religiones antiguas.
-   - D) No hay diferencia.
-
+   - C) Sistemas religiosos politeístas de la antigüedad mediterránea.
+   - D) Posturas idénticas que niegan valor a la naturaleza no humana.
 8. ¿Qué es el "Desarrollo Sustentable"?
-   - A) Ganar mucho dinero rápido.
-   - B) Progreso que satisface las necesidades del presente sin comprometer las de las futuras generaciones.
-   - C) Usar todos los recursos ahora.
-   - D) No usar ninguna tecnología.
-
+   - A) Agotar recursos naturales hoy para maximizar consumo presente.
+   - B) Renunciar a toda tecnología como única vía ecológica.
+   - C) Progreso que satisface las necesidades del presente sin comprometer las de las futuras generaciones.
+   - D) Crecimiento económico acelerado sin límites ambientales.
 9. ¿Cuál es la causa principal del Calentamiento Global?
-   - A) Que hace mucho sol.
-   - B) La emisión excesiva de gases de efecto invernadero por la actividad humana industrial.
-   - C) Los volcanes.
-   - D) El movimiento de la Tierra.
-
+   - A) La emisión excesiva de gases de efecto invernadero por la actividad humana industrial.
+   - B) Erupciones volcánicas como única fuente de cambio climático.
+   - C) Movimientos orbitales de la Tierra sin intervención humana.
+   - D) Mayor radiación solar estacional como explicación principal.
 10. ¿Qué es la "Huella Ecológica"?
-    - A) La marca de un zapato en el lodo.
-    - B) Medida del impacto humano sobre la naturaleza (recursos que consumimos vs. lo que la Tierra puede regenerar).
-    - C) Un tipo de bosque.
-    - D) Un camino para caminar.
+    - A) Marca dactilar dejada al caminar por senderos naturales.
+    - B) Impresión de calzado en superficies fangosas.
+    - C) Medida del impacto humano sobre la naturaleza (recursos que consumimos vs. lo que la Tierra puede regenerar).
+    - D) Sendero recreativo señalizado en áreas protegidas.
 
 ## 🔑 Respuestas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B
+1. A | 2. D | 3. B | 4. C | 5. A | 6. D | 7. B | 8. C | 9. A | 10. C

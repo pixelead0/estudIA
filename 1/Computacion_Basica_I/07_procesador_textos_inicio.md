@@ -193,41 +193,41 @@ Pregúntale a un adulto: "¿Cómo le hacían para corregir un error en sus tarea
 ## 🏆 Pon a prueba
 
 1. ¿Para qué sirve específicamente la herramienta de "Justificado" en un párrafo?
-   - A) Para dar una buena razón de por qué no terminaste la tarea.
-   - B) Para que el texto se alinee parejo tanto al lado izquierdo como al derecho(1).
-   - C) Para cambiar todas las letras minúsculas a mayúsculas automáticamente.
-   - D) Para borrar el texto que ya no nos sirve en el documento.
+   - A) Para alinear todo el párrafo al margen izquierdo, dejando el derecho con espacios irregulares.
+   - B) Para centrar cada línea en el medio de la hoja, como un título corto.
+   - C) Para que el texto quede alineado de forma pareja tanto al margen izquierdo como al derecho.
+   - D) Para distribuir solo la última línea del párrafo con espacios extra, sin afectar las demás.
 
 2. Si quieres resaltar un título muy importante en tu trabajo escolar, ¿qué formato debes usar?
-   - A) Formato de Cursiva (inclinado).
-   - B) Formato de Negrita (grueso y oscuro)(2).
-   - C) Formato de Tachado (una línea en medio).
-   - D) Usar un tamaño de letra extremadamente pequeño.
+   - A) Subrayado, porque marca lo que no debe olvidarse en cualquier tipo de texto.
+   - B) Cursiva, porque es el formato habitual para citas y títulos de obras en bibliografía.
+   - C) Aumentar únicamente el tamaño de la letra, sin cambiar el grosor del trazo.
+   - D) Negrita, para que el título se vea más grueso y destaque sobre el cuerpo del texto.
 
 3. ¿Qué combinación de teclas se usa para "Guardar" rápido y no perder tu progreso?
-   - A) Ctrl + C.
-   - B) Ctrl + S (guardar)(3).
-   - C) Ctrl + Alt + Suprimir.
-   - D) Únicamente la tecla Esc.
+   - A) Ctrl + Shift + S, que abre "Guardar como" y crea una copia con otro nombre.
+   - B) Ctrl + S, que guarda el documento en el archivo actual.
+   - C) Ctrl + P, que envía el documento a impresión y lo archiva en la nube automáticamente.
+   - D) Ctrl + Z, que deshace el último cambio y, por seguridad, guarda una versión anterior.
 
 4. En un documento formal, ¿para qué sirven las "Viñetas" o la "Numeración"?
-   - A) Para hacer dibujos decorativos en los márgenes de la hoja.
-   - B) Para crear listas de pasos o elementos de forma ordenada y clara(4).
-   - C) Para cambiar el color de toda la página a un tono brillante.
-   - D) Para insertar un video musical directamente en medio del texto.
+   - A) Para organizar pasos o elementos en una lista clara y ordenada.
+   - B) Para numerar automáticamente las páginas en el pie o encabezado del documento.
+   - C) Para insertar un índice automático de capítulos al final del archivo.
+   - D) Para aplicar un estilo de tabla con filas y columnas en bloques de texto.
 
 5. ¿Qué significa que el programa te muestre una palabra subrayada con una línea roja?
-   - A) Que la palabra es la más bonita y especial de todo el documento.
-   - B) Que hay un posible error de ortografía que debes revisar y corregir(5).
-   - C) Que la palabra ha sido traducida automáticamente de otro idioma.
-   - D) Que esa palabra se va a borrar sola en cinco minutos.
+   - A) Que el corrector detectó un posible error de gramática o concordancia.
+   - B) Que el programa sugiere un sinónimo opcional para variar el vocabulario.
+   - C) Que hay un posible error de ortografía que conviene revisar y corregir.
+   - D) Que la palabra está vinculada a una dirección web o marcada como hipervínculo.
 
 6. ¿Cuál es la mayor ventaja de un Procesador de Textos sobre una máquina de escribir antigua?
-   - A) Que la computadora escribe todo el ensayo por ti sin que hagas nada.
-   - B) Que puedes corregir errores y cambiar el diseño sin desperdiciar papel(6).
-   - C) Que ya no necesitas usar las manos para escribir la información.
-   - D) Realmente no tiene ninguna ventaja, las máquinas de escribir eran mejores.
+   - A) Que el texto se genera solo mientras dictas, sin usar el teclado.
+   - B) Que puedes corregir, mover y rediseñar el contenido sin desperdiciar hojas.
+   - C) Que obliga a imprimir cada versión para no perder el formato original.
+   - D) Que elimina la necesidad de revisar ortografía porque escribe sin errores.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. C | 2. D | 3. B | 4. A | 5. C | 6. B

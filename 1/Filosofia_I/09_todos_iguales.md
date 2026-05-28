@@ -186,78 +186,66 @@ Pregúntale a un adulto mayor: "¿Cómo eran los derechos cuando ellos tenían t
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuáles son los Ideales de la Revolución Francesa?
-   - A) Dinero, Poder y Fama.
-   - B) Libertad, Igualdad y Fraternidad.
-   - C) Guerra, Conquista y Gloria.
-   - D) Obediencia, Silencio y Trabajo.
-
+   - A) Guerra, conquista y gloria militar como fines del Estado.
+   - B) Obediencia, silencio y trabajo sin participación ciudadana.
+   - C) Libertad, Igualdad y Fraternidad.
+   - D) Dinero, poder y fama como metas exclusivas de la nación.
 2. ¿Qué son los Derechos Humanos?
-   - A) Reglas para portarse bien.
-   - B) Facultades e instituciones que protegen la dignidad de todos los seres humanos en todo momento y lugar.
-   - C) Leyes solo para los ciudadanos de un país.
-   - D) Consejos que se pueden seguir o no.
-
+   - A) Consejos opcionales que cada quien puede ignorar sin consecuencia.
+   - B) Reglas de cortesía escolar sin protección jurídica universal.
+   - C) Privilegios de ciudadanos con pasaporte de un Estado determinado.
+   - D) Facultades e instituciones que protegen la dignidad de todos los seres humanos en todo momento y lugar.
 3. Explica las 3 generaciones de los Derechos Humanos:
-   - A) Por edad: niños, adultos y ancianos.
-   - B) 1ª (Civiles y Políticos), 2ª (Económicos, Sociales y Culturales) y 3ª (Derechos de Solidaridad o de los Pueblos).
-   - C) Pasado, Presente y Futuro.
-   - D) No tienen generaciones.
-
+   - A) 1ª (Civiles y Políticos), 2ª (Económicos, Sociales y Culturales) y 3ª (Derechos de Solidaridad o de los Pueblos).
+   - B) No existen generaciones: todos los derechos surgieron al mismo tiempo.
+   - C) Clasificación por edad biológica: niños, adultos y ancianos.
+   - D) División temporal: pasado, presente y futuro sin contenido jurídico.
 4. ¿Dónde y cuándo se aprobó la Declaración Universal de Derechos Humanos?
-   - A) En Londres, 1900.
-   - B) El 10 de diciembre de 1948 en París.
-   - C) En México, 1910.
-   - D) En Nueva York, hace dos años.
-
+   - A) El 10 de diciembre de 1948 en París.
+   - B) En Londres, 1900, antes de las dos guerras mundiales.
+   - C) En Nueva York, en la última década, sin acta histórica.
+   - D) En México, 1910, durante la Revolución Mexicana.
 5. ¿Cuántos artículos integran la Declaración Universal de Derechos Humanos?
-   - A) 10 artículos.
-   - B) 30 artículos.
-   - C) 100 artículos.
-   - D) Solo uno.
-
+   - A) Diez artículos breves sin desarrollo de derechos sociales.
+   - B) Cien artículos como un código penal completo.
+   - C) 30 artículos.
+   - D) Un solo artículo que resume todos los derechos.
 6. ¿Qué es la "Discriminación"?
-   - A) Tratar a todos por igual.
-   - B) Trato desigual, desfavorable o de desprecio hacia una persona o grupo por sus características físicas, ideas o condición social.
-   - C) Elegir a tus mejores amigos.
-   - D) Estudiar mucho para un examen.
-
+   - A) Elegir amistades cercanas por afinidad personal legítima.
+   - B) Tratar a todos exactamente igual sin considerar necesidades distintas.
+   - C) Estudiar con esfuerzo para aprobar un examen académico.
+   - D) Trato desigual, desfavorable o de desprecio hacia una persona o grupo por sus características físicas, ideas o condición social.
 7. Define "Racismo" y "Clasismo":
-   - A) Son tipos de deportes.
+   - A) Títulos de obras literarias antiguas sin contenido social.
    - B) El Racismo es la discriminación por raza; el Clasismo es la discriminación por nivel económico o clase social.
-   - C) Son formas de gobierno.
-   - D) Son nombres de libros antiguos.
-
+   - C) Formas de gobierno alternativas a la democracia representativa.
+   - D) Deportes de equipo que compiten por categorías de edad.
 8. ¿Qué es el "Deber" en relación con el "Derecho"?
-   - A) Es lo mismo.
-   - B) El Derecho es la facultad que tenemos; el Deber es la obligación moral o legal de actuar de cierta forma o respetar el derecho de otros.
-   - C) El Deber es solo para los que trabajan.
-   - D) No tienen relación.
-
+   - A) El Derecho es la facultad que tenemos; el Deber es la obligación moral o legal de actuar de cierta forma o respetar el derecho de otros.
+   - B) Son términos idénticos que se pueden intercambiar sin pérdida de sentido.
+   - C) No guardan relación: el deber es privado y el derecho es inexistente.
+   - D) El deber aplica solo a quienes tienen empleo remunerado.
 9. ¿Qué te dice que una persona es corrupta y otra responsable?
-   - A) El color de su ropa.
-   - B) La corrupta abusa de su posición para beneficio propio; la responsable actúa con integridad y asume las consecuencias de sus actos.
-   - C) La cantidad de dinero que tienen.
-   - D) Lo rápido que hablan.
-
+   - A) El color de su vestimenta en eventos públicos.
+   - B) La velocidad al hablar en entrevistas mediáticas.
+   - C) La corrupta abusa de su posición para beneficio propio; la responsable actúa con integridad y asume las consecuencias de sus actos.
+   - D) La cantidad de dinero acumulada como único indicador moral.
 10. ¿Cuál es el principio fundamental de la ética en la convivencia?
-    - A) El más fuerte siempre tiene la razón.
-    - B) No hagas a otros lo que no quieras que te hagan a ti.
-    - C) Ganar a toda costa.
-    - D) Ignorar los problemas de los demás.
-
+    - A) El más fuerte siempre tiene la razón en cualquier conflicto.
+    - B) Ganar a toda costa aunque se vulnere la dignidad ajena.
+    - C) Ignorar los problemas ajenos para conservar comodidad personal.
+    - D) No hagas a otros lo que no quieras que te hagan a ti.
 11. ¿Qué es la "Conciencia Crítica" en relación con la ciudadanía?
-    - A) Saberse todas las noticias de chismes.
+    - A) Abstenerse de opinar para evitar todo compromiso social.
     - B) La capacidad de analizar y cuestionar las injusticias y actuar para mejorar la sociedad de forma responsable.
-    - C) Estar siempre enojado con el gobierno.
-    - D) No tener opinión sobre nada.
-
+    - C) Mantener enojo permanente contra el gobierno sin propuestas.
+    - D) Consumir noticias de chismes como sustituto del análisis ético.
 12. ¿Por qué es importante la "Fraternidad" hoy en día?
-    - A) Para tener más amigos en redes sociales.
+    - A) Para acumular seguidores en redes sin solidaridad real.
     - B) Porque nos recuerda que todos somos parte de la misma familia humana y debemos apoyarnos con solidaridad.
-    - C) Porque es una palabra antigua.
-    - D) Solo es importante en la escuela.
+    - C) Porque es una palabra arcaica sin aplicación contemporánea.
+    - D) Porque solo importa dentro del aula escolar, no en la sociedad.
 
 ## 🔑 Respuestas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B | 11. B | 12. B
+1. C | 2. D | 3. A | 4. A | 5. C | 6. D | 7. B | 8. A | 9. C | 10. D | 11. B | 12. B

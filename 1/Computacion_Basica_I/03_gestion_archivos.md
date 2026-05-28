@@ -177,43 +177,37 @@ Pregúntale a un adulto: "¿Cómo guardaban sus archivos antes de que existieran
 
 
 ## 🏆 Pon a prueba
-
 1. Si encuentras un archivo que termina con la extensión ".pdf", ¿qué es lo más seguro que contenga?
-   - A) Una canción que se puede escuchar y bailar.
-   - B) Un documento de lectura que se ve igual en cualquier equipo(1).
-   - C) Un virus peligroso que va a descomponer el monitor.
-   - D) Un video de alta resolución con efectos especiales.
-
+   - A) Una hoja de cálculo editable con fórmulas y macros del paquete ofimático.
+   - B) Un documento de lectura que se ve igual en cualquier equipo.
+   - C) Un proyecto de presentación con diapositivas, transiciones y animaciones integradas.
+   - D) Un archivo de audio comprimido listo para reproducir en cualquier reproductor.
 2. ¿Qué sucede realmente si seleccionas un archivo y lo arrastras a la Papelera de Reciclaje?
-   - A) Se borra de forma permanente y ya no hay forma de recuperarlo.
-   - B) Se mueve a un almacén temporal por si te arrepientes y quieres recuperarlo(2).
-   - C) Se crea una copia de seguridad en Internet automáticamente.
-   - D) El archivo cambia de nombre por una serie de números aleatorios.
-
+   - A) Se borra de forma permanente del disco y no existe forma de recuperarlo.
+   - B) Se duplica automáticamente en la nube del fabricante como respaldo de seguridad.
+   - C) Se comprime en .zip y se guarda en la carpeta Documentos por defecto.
+   - D) Se mueve a un almacén temporal por si te arrepientes y quieres recuperarlo.
 3. ¿Cuál es la forma más rápida de encontrar un archivo si no recuerdas en qué carpeta lo guardaste?
-   - A) Abrir todas las carpetas del disco duro una por una hasta verlo.
-   - B) Usar la barra de búsqueda (icono de lupa) y escribir una palabra del nombre(3).
-   - C) Apagar el equipo y prenderlo para que el sistema lo encuentre solo.
-   - D) Volver a crear el archivo desde cero para no perder el tiempo.
-
+   - A) Reiniciar el equipo para que el sistema operativo reindexe y muestre el archivo en el escritorio.
+   - B) Abrir manualmente cada carpeta del árbol, empezando por la unidad raíz, hasta localizarlo.
+   - C) Usar la barra de búsqueda (icono de lupa) y escribir una palabra del nombre.
+   - D) Volver a crear el documento desde cero para no invertir tiempo en buscarlo.
 4. ¿Para qué sirve comprimir archivos (crear un archivo .zip o .rar)?
-   - A) Para que el dibujo del icono se vea más pequeño y elegante.
-   - B) Para reducir el tamaño del archivo y que sea más fácil enviarlo por Internet(4).
-   - C) Para que el archivo no pueda ser visto por ninguna otra persona.
-   - D) Para cambiar automáticamente el formato de un video a un texto.
-
+   - A) Para reducir el tamaño del archivo y que sea más fácil enviarlo por Internet.
+   - B) Para convertir automáticamente un video en un documento de texto editable.
+   - C) Para cifrar el contenido de modo que nadie pueda abrirlo sin la contraseña del SO.
+   - D) Para cambiar la extensión del archivo y que el icono se vea más pequeño en el explorador.
 5. Según las buenas reglas de orden, ¿cómo debe ser el nombre de un archivo digital?
-   - A) Muy corto y con números para ahorrar espacio en la memoria.
-   - B) Descriptivo y claro para saber qué contiene sin necesidad de abrirlo(5).
-   - C) Exactamente el nombre raro que el programa le ponga por defecto.
-   - D) El nombre de tu mejor amigo para que sea fácil de recordar.
-
+   - A) Idéntico al nombre genérico que asigna el programa al guardar por primera vez.
+   - B) Lo más corto posible, solo con números, para ocupar menos espacio en la RAM.
+   - C) El apodo de un amigo, porque así lo recordarás aunque no describa el contenido.
+   - D) Descriptivo y claro para saber qué contiene sin necesidad de abrirlo.
 6. En la organización de una computadora, ¿qué es exactamente una "Subcarpeta"?
-   - A) Una carpeta que se encuentra guardada dentro de otra carpeta principal(6).
-   - B) Un archivo que está dañado y ya no se puede abrir más.
-   - C) El nombre técnico que se le da a la papelera de reciclaje.
-   - D) El botón redondo que abre el menú principal del sistema.
+   - A) La unidad raíz del árbol, como el Disco Local (C:), donde nace toda la estructura.
+   - B) Una carpeta que se encuentra guardada dentro de otra carpeta principal.
+   - C) Un archivo dañado que el sistema mueve fuera del árbol hasta que lo repares.
+   - D) El contenedor temporal de la papelera de reciclaje antes de borrar definitivamente.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. A
+1. B | 2. D | 3. C | 4. A | 5. D | 6. B

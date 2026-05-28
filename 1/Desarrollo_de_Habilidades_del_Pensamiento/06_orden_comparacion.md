@@ -201,43 +201,37 @@ En la escuela, organizar los temas de un examen te ayuda a estudiar sin estrés.
 Pregúntale a alguien que trabaje en una tienda: "¿Cómo decide dónde poner cada producto para que la gente lo encuentre fácil?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es el primer paso necesario para poder realizar una comparación efectiva?
-   - A) Cerrar los ojos e imaginar que las cosas son iguales en todo sentido.
-   - B) Fijar la atención en las características de las cosas para detectar rasgos comunes y diferentes.
-   - C) Preguntar a otras personas qué es lo que ellas opinan sobre las cosas.
-   - D) Tirar las cosas al suelo para ver cuál de ellas es más resistente al golpe.
-
+   - A) Clasificar ya en grupos sin haber observado rasgos.
+   - B) Fijar la atención en características para detectar semejanzas y diferencias.
+   - C) Elegir al azar una opción para terminar rápido el ejercicio.
+   - D) Sintetizar una conclusión antes de reunir datos sobre los objetos.
 2. En el desarrollo del pensamiento, ¿cómo definimos las "Semejanzas"?
-   - A) Son los rasgos o características únicas que hacen a una cosa diferente de las demás.
-   - B) Son las características compartidas o iguales que tienen dos o más elementos.
-   - C) Es el nombre que se le da a las cosas que no sirven para nada.
-   - D) Es el proceso de olvidar los detalles importantes de una historia.
-
+   - A) Rasgos únicos que distinguen a un elemento del resto.
+   - B) Cualquier parecido superficial sin revisar criterios relevantes.
+   - C) Características compartidas o iguales entre dos o más elementos.
+   - D) El criterio elegido para formar los grupos en una clasificación.
 3. ¿Qué es técnicamente una "Variable" en un proceso de clasificación?
-   - A) Una idea que cambia constantemente y nunca se queda fija en la mente.
-   - B) La característica específica que elegimos para agrupar u organizar los elementos.
-   - C) Un tipo de error matemático que ocurre cuando no ponemos atención.
-   - D) El nombre del estante donde se guardan los libros de terror.
-
+   - A) El resultado final después de unir piezas en un resumen.
+   - B) Un error de cálculo por no comparar antes de decidir.
+   - C) La característica elegida para agrupar u organizar los elementos.
+   - D) La diferencia que hace único a cada objeto dentro del grupo.
 4. ¿Cuál es el objetivo principal de la "Clasificación" en el aprendizaje?
-   - A) Organizar la información en grupos para que sea más fácil de entender y recordar.
-   - B) Lograr que todos los cuadernos tengan exactamente el mismo color de portada.
-   - C) Separar a los alumnos en grupos de amigos para que puedan platicar más.
-   - D) No tiene ningún objetivo, ya que el orden no influye en el aprendizaje.
-
+   - A) Memorizar listas sin orden para repetirlas en el examen.
+   - B) Organizar la información en grupos para entenderla y recordarla mejor.
+   - C) Demostrar que todos los objetos son idénticos en todo.
+   - D) Evitar comparar porque distrae del contenido principal.
 5. Si un maestro te pide que estudies cómo funciona un motor separando y entendiendo cada una de sus piezas, ¿qué proceso estás usando?
-   - A) Síntesis.
-   - B) Olvido selectivo.
-   - C) Análisis.
-   - D) Comparación de colores.
-
+   - A) Análisis.
+   - B) Síntesis: unir piezas en una visión global.
+   - C) Comparación sin fijar criterios de semejanza.
+   - D) Clasificación por color sin revisar función de las piezas.
 6. ¿En qué consiste exactamente el proceso de "Síntesis" en el aprendizaje?
-   - A) En olvidar por completo los detalles de una lectura.
-   - B) En desarmar un problema en miles de pedacitos para siempre.
-   - C) En unir las piezas o ideas principales que analizaste para crear un resumen claro o conclusión.
-   - D) En clasificar la ropa de tu cuarto por colores.
+   - A) Descomponer un sistema en partes cada vez más pequeñas.
+   - B) Listar diferencias entre dos objetos sin integrar hallazgos.
+   - C) Unir las piezas o ideas analizadas en un resumen o conclusión clara.
+   - D) Observar rasgos comunes antes de tener datos de las partes.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. A | 5. C | 6. C
+1. B | 2. C | 3. C | 4. B | 5. A | 6. C

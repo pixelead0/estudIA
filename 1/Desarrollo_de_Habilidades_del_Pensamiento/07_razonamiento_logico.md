@@ -199,41 +199,41 @@ Pregúntale a un adulto: "¿Cómo te das cuenta cuando alguien te está intentan
 ## 🏆 Pon a prueba
 
 1. ¿Cómo definen los expertos el proceso de "Razonamiento" en el desarrollo mental?
-   - A) El acto de repetir de memoria lo que dice un libro de texto.
-   - B) El proceso de conectar juicios conocidos para llegar a una nueva verdad o conclusión.
-   - C) La capacidad de gritar más fuerte para ganar una discusión.
-   - D) Olvidar intencionalmente todas las pistas de un problema.
+   - A) El proceso de conectar juicios o datos conocidos para obtener una nueva conclusión.
+   - B) El acto de memorizar definiciones de un libro sin relacionarlas con hechos nuevos.
+   - C) La habilidad de repetir opiniones populares con seguridad al hablar.
+   - D) La recopilación de datos sin ordenarlos ni sacar una idea nueva de ellos.
 
 2. ¿Qué es una "Premisa" dentro de la estructura de un razonamiento?
-   - A) Es la idea final a la que queremos convencer a los demás.
-   - B) Son los datos, hechos o ideas que sirven de base para iniciar el pensamiento.
-   - C) Es una mentira que usamos para confundir al oponente.
-   - D) Es el nombre del detective que resuelve el caso.
+   - A) La idea final que se quiere demostrar o defender ante otros.
+   - B) Un error de lógica disfrazado que suena convincente (una falacia).
+   - C) Una opinión personal que no necesita comprobarse con hechos.
+   - D) Los datos, hechos o ideas que se toman como base para empezar a pensar.
 
 3. ¿Qué es técnicamente la "Conclusión" en un ejercicio de lógica?
-   - A) El primer pensamiento que se nos ocurre al ver un problema.
-   - B) El resultado final que surge necesariamente de las premisas anteriores.
-   - C) Una opinión que no tiene ninguna relación con los datos presentados.
-   - D) El momento en que decidimos dejar de pensar y rendirnos.
+   - A) La primera impresión que aparece al leer el problema, antes de analizarlo.
+   - B) El resultado que debe seguir de las premisas si el razonamiento es sólido.
+   - C) La opinión de la mayoría del grupo sobre el tema discutido.
+   - D) La decisión de dejar de analizar porque el tema es muy difícil.
 
 4. ¿Cuál es la utilidad primordial del razonamiento lógico en la vida cotidiana de un estudiante?
-   - A) Poder inventar mejores excusas para no entregar las tareas.
-   - B) Evaluar la validez de la información y tomar decisiones basadas en la verdad y no en impulsos.
-   - C) Lograr que todas las personas hagan siempre lo que nosotros queremos.
-   - D) No tiene ninguna utilidad, ya que la vida no sigue reglas lógicas.
+   - A) Inventar excusas más creíbles cuando no se entregó una tarea a tiempo.
+   - B) Ganar toda discusión en redes sociales sin importar si los datos son ciertos.
+   - C) Evaluar si la información es válida y decidir con base en evidencia, no solo en impulsos.
+   - D) Demostrar que la vida real nunca sigue reglas, por lo que no sirve estudiarlo.
 
 5. ¿Qué significa que un razonamiento sea "Válido" o correcto?
-   - A) Que la conclusión se deriva lógicamente de las premisas presentadas.
-   - B) Que la persona que lo dice es muy famosa o tiene mucho dinero.
-   - C) Que el razonamiento es muy largo y usa palabras muy difíciles.
-   - D) Que todas las personas del grupo están de acuerdo con lo que se dice.
+   - A) Que quien lo expone es famoso, experto o tiene muchos seguidores.
+   - B) Que la conclusión se deriva de las premisas sin saltos ilógicos.
+   - C) Que el argumento es muy largo y usa palabras técnicas difíciles.
+   - D) Que la mayoría de las personas del salón está de acuerdo con la idea.
 
 6. ¿Por qué se afirma que el razonamiento es un "puente" mental?
-   - A) Porque físicamente está construido con cables de acero dentro del cerebro.
-   - B) Porque nos permite pasar de lo que ya conocemos a lo que todavía no sabemos.
-   - C) Porque solo se puede usar cuando estamos cruzando una calle transitada.
-   - D) Porque es una estructura que se rompe si caminamos sobre ella muy rápido.
+   - A) Porque conecta solo emociones, sin usar datos ni premisas verificables.
+   - B) Porque sirve únicamente para resolver acertijos matemáticos en el examen.
+   - C) Porque permite pasar de lo que ya sabemos hacia lo que aún no comprendemos.
+   - D) Porque sustituye por completo la necesidad de observar y preguntar en la vida real.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. A | 6. B
+1. A | 2. D | 3. B | 4. C | 5. B | 6. C

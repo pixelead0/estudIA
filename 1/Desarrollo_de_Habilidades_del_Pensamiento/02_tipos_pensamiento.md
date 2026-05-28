@@ -196,43 +196,37 @@ En tu vida personal, el pensamiento **de Conjunto** te ayuda a entender que una 
 Pregúntale a un artista y a un ingeniero: "¿Cómo le hacen para resolver un problema nuevo?". Verás que usan herramientas diferentes.
 
 ## 🏆 Pon a prueba
-
 1. ¿Cómo definen los expertos el "Pensamiento Lógico" en nuestro desarrollo?
-   - A) La capacidad de inventar historias fantásticas sin ninguna base real.
-   - B) Un proceso que sigue reglas para llegar a conclusiones correctas y válidas.
-   - C) El acto de adivinar las respuestas de un examen basándose en la suerte.
-   - D) Olvidar todas las reglas aprendidas anteriormente.
-
+   - A) Generar muchas ideas originales sin evaluar aún si son viables.
+   - B) Aceptar la primera conclusión que coincida con lo que ya creemos.
+   - C) Un proceso que sigue reglas para llegar a conclusiones correctas y válidas.
+   - D) Reaccionar de inmediato según la emoción del momento, sin revisar datos.
 2. ¿Cuál es la función principal del "Pensamiento Crítico" en nuestra vida?
-   - A) Aceptar todo lo que vemos en redes sociales como una verdad absoluta.
+   - A) Memorizar definiciones tal como aparecen en el libro de texto.
    - B) Analizar, evaluar y dudar de la información antes de creerla o decidir.
-   - C) Hablar mal de las demás personas para resaltar nosotros.
-   - D) Repetir de memoria lo que dicen los libros sin cuestionar nada.
-
+   - C) Defender una opinión aunque las pruebas la contradigan.
+   - D) Repetir argumentos populares porque mucha gente los comparte.
 3. ¿En qué se diferencia el "Pensamiento Creativo" del pensamiento lógico?
-   - A) El creativo busca generar ideas nuevas, mientras el lógico sigue reglas fijas.
-   - B) El creativo es solo para personas que no saben matemáticas ni ciencias.
-   - C) Realmente no hay ninguna diferencia; ambos funcionan igual.
-   - D) El pensamiento creativo es un error que se debe corregir estudiando más.
-
+   - A) El lógico solo sirve en matemáticas; el creativo solo en dibujo.
+   - B) No hay diferencia: ambos exigen seguir exactamente los mismos pasos.
+   - C) El creativo sustituye por completo la necesidad de comprobar hechos.
+   - D) El creativo busca ideas nuevas y originales; el lógico organiza y valida con reglas.
 4. Cuando una persona analiza un problema viendo cómo todas sus partes se afectan entre sí, ¿qué modo de pensamiento usa?
-   - A) Pensamiento impulsivo.
-   - B) Pensamiento sistémico (de conjunto).
-   - C) Pensamiento de corto plazo.
-   - D) Olvido de las variables.
-
+   - A) Pensamiento impulsivo: saltar a la primera solución sin mapa del sistema.
+   - B) Pensamiento de corto plazo: solo el beneficio inmediato de una pieza.
+   - C) Pensamiento sistémico (de conjunto).
+   - D) Pensamiento puramente memorístico: recordar un caso parecido sin ver conexiones.
 5. ¿Para qué sirve tener un "cinturón de herramientas mental" variado?
-   - A) Para poder presumir ante los demás que somos muy inteligentes.
-   - B) Para elegir el modo de pensamiento más adecuado según el reto que enfrentamos.
-   - C) Para no tener que estudiar ninguna materia nunca más.
-   - D) Realmente no sirve de nada, con un solo tipo es suficiente.
-
+   - A) Elegir el modo de pensamiento más adecuado según el problema que enfrentas.
+   - B) Usar siempre el mismo modo porque es el que más domina uno.
+   - C) Evitar estudiar: con una sola herramienta basta para cualquier reto.
+   - D) Demostrar superioridad intelectual frente al grupo sin resolver el reto.
 6. Según la ciencia actual, ¿qué es verdaderamente la "Inteligencia"?
-   - A) Únicamente la capacidad de sacar calificaciones perfectas en los exámenes.
-   - B) La capacidad de memorizar libros enteros sin olvidar ninguna palabra.
-   - C) La capacidad de adaptarte a los cambios, aprender de tus errores y resolver problemas.
-   - D) Un talento fijo y mágico con el que solo nacen los genios.
+   - A) Un dato fijo al nacer que no cambia con la práctica ni el esfuerzo.
+   - B) Sacar diez en todos los exámenes aunque no se entienda el tema.
+   - C) Recordar textos largos sin relacionarlos con situaciones distintas.
+   - D) Adaptarte a cambios, aprender del error y resolver problemas nuevos.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. A | 4. B | 5. B | 6. C
+1. C | 2. B | 3. D | 4. C | 5. A | 6. D

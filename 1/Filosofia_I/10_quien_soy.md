@@ -179,66 +179,56 @@ Pregúntale a un amigo: "¿Qué es lo que más valoras de nuestra amistad?". Ver
 
 
 ## 🏆 Pon a prueba
-
 1. ¿A qué se le denomina "Dignidad"?
-   - A) Tener mucho dinero y poder.
-   - B) Condición que exige cada ser humano de ser tratado como semejante a los demás, con respeto.
-   - C) Ser el más inteligente de la clase.
-   - D) Tener un título profesional.
-
+   - A) Condición que exige cada ser humano de ser tratado como semejante a los demás, con respeto.
+   - B) Superioridad intelectual medida por calificaciones escolares.
+   - C) Acumulación de riqueza y poder como fuente de respeto automático.
+   - D) Poseer título profesional que otorga jerarquía sobre otros sin más requisito.
 2. ¿Qué es lo que devuelve una persona al ser tratada como persona (con dignidad)?
-   - A) Dinero.
-   - B) Respeto y Amor.
-   - C) Indiferencia.
-   - D) Odio.
-
+   - A) Indiferencia estratégica para no comprometerse afectivamente.
+   - B) Hostilidad defensiva ante cualquier reconocimiento recibido.
+   - C) Compensación económica como contraprestación del respeto.
+   - D) Respeto y Amor.
 3. ¿Qué es el "Libre Albedrío"?
-   - A) Poder salir a la calle a cualquier hora.
+   - A) Poder circular fuera de casa sin horario impuesto por los padres.
    - B) La capacidad de la voluntad para decidir por sí misma.
-   - C) No tener ninguna regla en casa.
-   - D) Hacer lo que otros digan.
-
+   - C) Obedecer instrucciones ajenas sin posibilidad de elección reflexiva.
+   - D) Ausencia total de normas domésticas o sociales de cualquier tipo.
 4. ¿Cuál es la diferencia entre Libertad y Libertinaje?
-   - A) Son sinónimos.
-   - B) La Libertad es actuar con responsabilidad y conciencia; el Libertinaje es el abuso de la libertad dañando a otros o a uno mismo.
-   - C) El Libertinaje es una libertad más moderna.
-   - D) La Libertad es para los adultos y el Libertinaje para los jóvenes.
-
+   - A) La libertad es solo ausencia de leyes penales escritas en el código.
+   - B) El libertinaje es una forma más moderna y avanzada de libertad auténtica.
+   - C) La Libertad es actuar con responsabilidad y conciencia; el Libertinaje es el abuso de la libertad dañando a otros o a uno mismo.
+   - D) La libertad corresponde a adultos y el libertinaje exclusivamente a adolescentes.
 5. ¿Qué es la "Libertad Interna"?
-   - A) Poder salir de una habitación.
-   - B) La capacidad de decidir sobre nuestros propios pensamientos, deseos y valores morales.
-   - C) No tener sentimientos.
-   - D) Obedecer a los instintos.
-
+   - A) La capacidad de decidir sobre nuestros propios pensamientos, deseos y valores morales.
+   - B) Poder abandonar físicamente un espacio cerrado sin reflexión previa.
+   - C) Suprimir todo sentimiento para evitar conflictos morales.
+   - D) Seguir instintos biológicos sin examinar motivos ni fines.
 6. ¿Cuáles son los obstáculos que limitan la libertad del hombre?
-   - A) El clima y el tráfico.
-   - B) La ignorancia, el miedo, la violencia, las pasiones desordenadas y los trastornos psíquicos.
-   - C) No tener internet o celular.
-   - D) Los obstáculos no existen para la libertad.
-
+   - A) Carecer de internet o teléfono móvil en la adolescencia.
+   - B) No poseer dispositivos electrónicos de última generación.
+   - C) Los obstáculos no existen: la libertad es total en todo contexto.
+   - D) La ignorancia, el miedo, la violencia, las pasiones desordenadas y los trastornos psíquicos.
 7. ¿Cuál es el "núcleo" de la responsabilidad?
-   - A) Saber que nos van a castigar si fallamos.
+   - A) Evitar dar explicaciones de las propias decisiones a cualquier persona.
    - B) Saber que cada uno de nuestros actos va construyendo quiénes somos como seres humanos.
-   - C) Seguir las órdenes de los superiores.
-   - D) No tener que dar explicaciones a nadie.
-
+   - C) Cumplir órdenes superiores sin evaluar sus consecuencias morales.
+   - D) Anticipar castigos legales como único motor de la conducta.
 8. ¿Qué significa "Vivir sin Reflexionar"?
-   - A) Vivir de forma relajada y feliz.
-   - B) Ir por la vida prisionero de los propios prejuicios y de las opiniones ajenas sin criterio propio.
-   - C) No ir a la escuela.
-   - D) Ser una persona de acción.
-
+   - A) No asistir a la escuela formal por elección personal.
+   - B) Vivir con relajación y felicidad sin necesidad de criterio propio.
+   - C) Ir por la vida prisionero de los propios prejuicios y de las opiniones ajenas sin criterio propio.
+   - D) Ser persona de acción que nunca detiene su actividad física.
 9. ¿Cuál es la diferencia entre la Identidad Nacional y la Dignidad Humana?
-   - A) La Identidad Nacional es para los mexicanos y la Dignidad solo para los extranjeros.
+   - A) La dignidad depende del pasaporte y la identidad nacional la anula.
    - B) La Dignidad Humana es universal y compartida por todos los humanos; la Identidad Nacional nos une a un país y cultura específica.
-   - C) Son exactamente lo mismo.
-   - D) No tienen ninguna relación.
-
+   - C) La identidad nacional es mexicana y la dignidad solo para extranjeros.
+   - D) No guardan relación alguna entre sí en la reflexión ética.
 10. ¿Por qué es importante la "Reflexión" para la identidad personal?
-    - A) Para pasar el tiempo.
-    - B) Porque nos permite evaluar quiénes somos, qué queremos y qué valores guían nuestras decisiones para ser auténticos.
-    - C) Para ser más inteligentes que los demás.
-    - D) Solo sirve para los filósofos.
+    - A) Solo interesa a filósofos profesionales, no a estudiantes.
+    - B) Sirve para llenar tiempo libre sin impacto en decisiones reales.
+    - C) Porque nos permite evaluar quiénes somos, qué queremos y qué valores guían nuestras decisiones para ser auténticos.
+    - D) Para demostrar inteligencia superior frente a los demás.
 
 ## 🔑 Respuestas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B
+1. A | 2. D | 3. B | 4. C | 5. A | 6. D | 7. B | 8. C | 9. B | 10. C

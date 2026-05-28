@@ -198,43 +198,37 @@ Ser creativo significa aprender a usar con ingenio lo que tienes. En el futuro, 
 Pregúntale a alguien que cocine muy rico: "¿Qué receta inventaste por accidente y qué le pusiste para que supiera tan bien?".
 
 ## 🏆 Pon a prueba
-
 1. En el desarrollo de nuestra mente, ¿cómo definimos correctamente la Creatividad?
-   - A) Un don mágico con el que solo nacen algunos artistas.
-   - B) La capacidad de generar ideas nuevas, originales y valiosas para resolver retos.
-   - C) El acto de copiar exactamente lo que está de moda en las redes sociales.
-   - D) El estado de no pensar en absolutamente nada durante mucho tiempo.
-
+   - A) Repetir tendencias populares sin aportar algo propio al reto.
+   - B) Un talento innato que no mejora con práctica ni exposición a problemas.
+   - C) La capacidad de generar ideas nuevas, originales y valiosas para resolver retos.
+   - D) Dejar la mente en blanco sin registrar estímulos ni hacer conexiones.
 2. ¿Por qué se recomienda NO criticar las ideas cuando estamos haciendo una "Lluvia de Ideas"?
-   - A) Porque se cree que todas las ideas son perfectas desde el inicio.
-   - B) Para no frenar la imaginación; a veces una idea "tonta" nos lleva a una solución genial.
-   - C) Porque se considera una falta de respeto hacia los compañeros del grupo.
-   - D) Únicamente para lograr terminar el trabajo lo más rápido posible.
-
+   - A) Porque toda propuesta ya es perfecta y no requiere filtro posterior.
+   - B) Solo para terminar antes, aunque se pierdan ideas prometedoras.
+   - C) Porque la crítica temprana puede frenar la fluidez y cerrar rutas creativas útiles.
+   - D) Porque la lluvia de ideas sustituye la evaluación de viabilidad al final.
 3. ¿De qué manera ayuda la curiosidad a que una persona sea más creativa?
-   - A) Hace que perdamos el tiempo en detalles que no tienen importancia.
-   - B) Al preguntarnos el porqué de las cosas, descubrimos oportunidades que otros ignoran.
-   - C) Realmente la curiosidad no tiene nada que ver con el proceso creativo.
-   - D) Hace que el cerebro se canse mucho más rápido de lo normal.
-
+   - A) Al preguntar el porqué de las cosas, detectas oportunidades que otros pasan por alto.
+   - B) Al acumular datos sin relacionarlos, porque basta con tener mucha información.
+   - C) Al evitar preguntas incómodas para no salir del camino habitual.
+   - D) Al priorizar solo respuestas rápidas aunque no expliquen el fenómeno.
 4. Dentro de los "Cuatro Poderes del Creador", ¿en qué consiste exactamente la "Viabilidad"?
-   - A) En crear miles de ideas por minuto sin que ninguna tenga sentido.
-   - B) En analizar con honestidad si la idea se puede construir y hacer funcionar en el mundo real.
-   - C) En robarse una idea que ya existe pero cambiarle el nombre.
-   - D) En dejar que otras personas resuelvan el problema por nosotros.
-
+   - A) Generar la mayor cantidad de ideas posibles sin revisar recursos ni contexto.
+   - B) Evaluar con honestidad si la idea puede construirse y funcionar en el mundo real.
+   - C) Delegar la decisión final para no asumir consecuencias del proyecto.
+   - D) Copiar una solución existente cambiando solo el nombre o el empaque.
 5. ¿Qué significa la frase "la creatividad se comporta como un músculo"?
-   - A) Que se refleja en la fuerza física de los brazos de la persona creativa.
-   - B) Que entre más la practicamos y nos atrevemos a pensar diferente, más fácil nos resulta ser creativos.
-   - C) Que produce un dolor físico muy fuerte cada vez que intentamos usarla.
-   - D) Que es una característica física que se hereda de los padres de forma directa.
-
+   - A) Que duele físicamente cada vez que intentas una idea distinta.
+   - B) Que depende solo de la genética y no del entrenamiento mental.
+   - C) Que se fortalece con práctica: pensar diferente se vuelve más natural con el uso.
+   - D) Que se mide por la fuerza corporal, no por la calidad de las ideas.
 6. ¿Cuál es la utilidad de la creatividad para alguien que trabaja en la ciencia o medicina?
-   - A) Para tener la habilidad de inventar datos falsos en sus investigaciones.
-   - B) Para diseñar experimentos nuevos y encontrar soluciones originales a problemas difíciles.
-   - C) Para tener la capacidad de pintar cuadros bonitos en sus ratos libres.
-   - D) Realmente no les sirve de nada, ya que la ciencia solo usa reglas rígidas.
+   - A) Solo para actividades artísticas fuera del laboratorio o consultorio.
+   - B) Para diseñar experimentos nuevos y hallar soluciones originales a problemas difíciles.
+   - C) Para justificar resultados sin evidencia cuando hay presión por publicar.
+   - D) Para evitar el método: la ciencia solo admite repetir protocolos cerrados.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. C | 2. C | 3. A | 4. B | 5. C | 6. B

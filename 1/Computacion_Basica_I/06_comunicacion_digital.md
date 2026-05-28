@@ -175,43 +175,37 @@ Pregúntale a un adulto: "¿Alguna vez has tenido un problema de seguridad en In
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál de estas contraseñas es considerada la más segura contra los intrusos?
-   - A) 12345678 (una serie de números seguidos).
-   - B) tunombre2024 (datos fáciles de adivinar).
-   - C) Mi_G@to.Negro_99! (mezcla de letras, números y símbolos)(1).
-   - D) password (una palabra muy común en inglés).
-
+   - A) Mi_G@to.Negro_99! (mezcla de letras, números y símbolos).
+   - B) AnaMartinez2008, porque combina nombre propio con año de nacimiento.
+   - C) computacionbasica, porque es larga y describe la materia que estudias.
+   - D) 12345678, porque al ser solo números es difícil de escribir con errores.
 2. ¿Qué es técnicamente un "Virus Informático" o Malware?
-   - A) Un resfriado que le da a la gente por usar mucho el celular.
-   - B) Un programa diseñado a propósito para dañar, robar o espiar información(2).
-   - C) Un mensaje de broma que envían los amigos para jugar.
-   - D) Un programa que sirve para que los videos se vean más bonitos.
-
+   - A) Un fallo temporal del navegador que hace que una página cargue muy lento.
+   - B) Una actualización oficial del sistema operativo que corrige fallas de seguridad.
+   - C) Un programa diseñado a propósito para dañar, robar o espiar información.
+   - D) Un archivo comprimido .zip que reduce el peso de varios documentos juntos.
 3. Si te llega un mensaje sospechoso con un link que promete un regalo, ¿qué es lo mejor que puedes hacer?
-   - A) Abrirlo rápido antes de que se acabe el tiempo del premio.
-   - B) Mandárselo a todos tus amigos para ver si ellos ya ganaron.
-   - C) No abrirlo nunca y borrar el mensaje de inmediato(3).
-   - D) Guardarlo para abrirlo después cuando estés en tu casa.
-
+   - A) Abrir el enlace en modo incógnito para que no quede rastro en tu historial.
+   - B) Reenviarlo a un adulto de confianza para que él reclame el premio por ti.
+   - C) Guardarlo sin abrirlo hasta confirmar en la página oficial de la marca.
+   - D) No abrirlo nunca y borrar el mensaje de inmediato.
 4. ¿Para qué sirve tener un programa Antivirus instalado y actualizado?
-   - A) Para que la batería de la laptop dure muchas más horas.
-   - B) Para detectar y eliminar programas dañinos antes de que causen problemas(4).
-   - C) Para poder ver películas gratis sin que salgan anuncios.
-   - D) Para que el teclado de la computadora siempre esté limpio.
-
+   - A) Para acelerar la conexión Wi-Fi bloqueando anuncios de las páginas web.
+   - B) Para detectar y eliminar programas dañinos antes de que causen problemas.
+   - C) Para cifrar automáticamente todas tus contraseñas sin que tú hagas nada más.
+   - D) Para recuperar archivos que moviste a la Papelera de Reciclaje por error.
 5. ¿A qué se refiere el término "Huella Digital" en Internet?
-   - A) A la marca de tus dedos que se queda en la pantalla táctil.
-   - B) Al rastro permanente de fotos y comentarios que dejas en la red(5).
-   - C) A una forma de prender el celular usando solamente el dedo.
-   - D) Al nombre de la red inalámbrica de Wi-Fi de tu casa.
-
+   - A) Al rastro permanente de fotos y comentarios que dejas en la red.
+   - B) A la huella biométrica que registras para desbloquear el celular con el dedo.
+   - C) Al historial de sitios que el navegador guarda solo en tu sesión actual.
+   - D) A la dirección IP pública que asigna tu proveedor de Internet en casa.
 6. ¿Cómo se define el "Ciberacoso" o Cyberbullying?
-   - A) Un torneo de videojuegos donde todos quieren ganar el primer lugar.
-   - B) El uso de la tecnología para molestar, amenazar o humillar a otra persona(6).
-   - C) El hecho de tener muchos seguidores y likes en tus fotos.
-   - D) Comprar muchas cosas por Internet usando la tarjeta de crédito.
+   - A) Recibir muchos mensajes de desconocidos pidiendo ser tus amigos en línea.
+   - B) Publicar contenido propio que no obtiene los likes que esperabas.
+   - C) Usar la tecnología para molestar, amenazar o humillar a otra persona.
+   - D) Compartir enlaces educativos sin permiso del autor original del material.
 
 ## 🔑 Respuestas
 
-1. C | 2. B | 3. C | 4. B | 5. B | 6. B
+1. A | 2. C | 3. D | 4. B | 5. A | 6. C

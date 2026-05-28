@@ -206,43 +206,37 @@ Cruzas la calle porque **observaste** que no vienen autos, **relacionaste** el s
 Pregúntale a un adulto que admires: "¿Cuál ha sido la decisión más rápida que has tomado y cómo supo tu mente qué hacer?".
 
 ## 🏆 Pon a prueba
-
 1. Según la teoría del Cerebro Triuno, ¿qué parte se encarga de la lógica, de resolver problemas y planear el futuro?
-   - A) El Cerebro Reptiliano.
-   - B) El Sistema Límbico.
-   - C) El Neocórtex o Cerebro Cortical.
-   - D) El cuerpo calloso.
-
+   - A) El Sistema Límbico, donde se registran emociones y recuerdos afectivos.
+   - B) El Neocórtex o Cerebro Cortical.
+   - C) El cuerpo calloso, que conecta ambos hemisferios pero no planifica por sí solo.
+   - D) El Cerebro Reptiliano, encargado de reflejos y funciones vitales automáticas.
 2. ¿Qué es una "Sinapsis" en el proceso de aprendizaje?
-   - A) Es un hueso pequeño que protege al cerebro de los golpes.
-   - B) Es la conexión y comunicación eléctrica que se da entre las neuronas al aprender algo.
-   - C) Es el nombre médico que se le da a olvidar la información rápido.
-   - D) Es una técnica para respirar mejor antes de un examen.
-
+   - A) La vaina de mielina que acelera una señal dentro de un solo axón.
+   - B) El espacio entre dos neuronas antes de que se libere el neurotransmisor.
+   - C) La conexión y comunicación eléctrica y química entre neuronas al aprender algo.
+   - D) La división celular que genera neuronas nuevas en el hipocampo.
 3. En el ciclo del "Acto Mental", ¿qué ocurre específicamente durante la fase de Entrada (Input)?
-   - A) El cuerpo ejecuta una acción, como correr o saltar.
-   - B) Los sentidos recogen información del mundo real gracias a la atención.
-   - C) El cerebro ignora todos los sonidos del exterior.
-   - D) Las neuronas se apagan para ahorrar energía.
-
+   - A) Los sentidos recogen información del entorno cuando prestamos atención.
+   - B) El neocórtex organiza, compara y da sentido a lo ya captado.
+   - C) El cuerpo ejecuta una acción visible, como hablar o moverse.
+   - D) La información se archiva en memoria a largo plazo sin pasar por los sentidos.
 4. ¿Cuál de los dos hemisferios cerebrales es conocido como el "científico" por su amor a la lógica y las matemáticas?
-   - A) El Hemisferio Derecho.
-   - B) El Hemisferio Izquierdo.
-   - C) El Cerebro Reptiliano.
-   - D) El Sistema Límbico.
-
+   - A) El Hemisferio Derecho, asociado a la intuición y las formas espaciales.
+   - B) El Sistema Límbico, centro de emociones y memoria afectiva.
+   - C) El Cerebro Reptiliano, que regula funciones de supervivencia inmediata.
+   - D) El Hemisferio Izquierdo.
 5. ¿Qué parte del Acto Mental te permite decidir usar un paraguas después de notar que el cielo está gris?
-   - A) El Procesamiento, donde tu Neocórtex relaciona las nubes con la lluvia y decide actuar.
-   - B) La falta de atención a los detalles del clima.
-   - C) Exclusivamente la fase de Salida sin haber pensado antes.
-   - D) El Cerebro Reptiliano reaccionando al peligro extremo.
-
+   - A) Solo la Entrada: ver las nubes sin relacionarlas aún con la lluvia ni con la acción.
+   - B) El Procesamiento, donde el neocórtex vincula señales, recuerdos y consecuencias probables.
+   - C) La Salida ejecutada: llevar el paraguas sin haber analizado el clima.
+   - D) El sistema límbico reaccionando con miedo al trueno, sin evaluar si lloverá.
 6. ¿Por qué se dice que el cerebro humano tiene un "simulador personal"?
-   - A) Porque los científicos le instalaron un chip de computadora.
-   - B) Porque el Neocórtex puede imaginar escenarios y ver las consecuencias antes de actuar en la vida real.
-   - C) Porque funciona conectado a Internet todo el día.
-   - D) Porque todo lo que vivimos es en realidad una mentira.
+   - A) Porque el cerebro reptiliano dispara reflejos sin ensayar escenarios.
+   - B) Porque la entrada sensorial solo registra el presente, sin anticipar futuros.
+   - C) Porque el neocórtex puede imaginar consecuencias antes de actuar en la vida real.
+   - D) Porque la salida física siempre ocurre antes de que puedas pensar en alternativas.
 
 ## 🔑 Respuestas
 
-1. C | 2. B | 3. B | 4. B | 5. A | 6. B
+1. B | 2. C | 3. A | 4. D | 5. B | 6. C

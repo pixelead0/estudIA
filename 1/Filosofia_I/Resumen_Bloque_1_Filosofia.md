@@ -112,42 +112,36 @@ Si quieres ver cómo se aplica la Filosofía en la vida real, busca estos clips 
 *   **Para conversar**: Pregúntale a un mentor: "¿Cuál de estos experimentos sociales te hizo sentir más incómodo?".
 
 ## 🏆 Reto Final
-
 1. ¿Qué significa pasar del Mito al Logos?
-   - A) Inventar cuentos más modernos.
-   - B) Pasar de explicaciones mágicas a usar la razón y la lógica (1).
-   - C) No creer en nada de lo que vemos.
-   - D) Aprenderse de memoria los nombres de los dioses.
-
+   - A) Pasar de explicaciones mágicas a usar la razón y la lógica.
+   - B) Sustituir mitos antiguos por narrativas modernas igualmente sin fundamento.
+   - C) Memorizar genealogías divinas como único saber válido.
+   - D) Rechazar toda experiencia sensible y confiar solo en la duda radical.
 2. ¿Cuál es la principal diferencia entre Ética y Moral?
-   - A) La Ética es para los adultos y la Moral para los niños.
-   - B) La Moral son las reglas del grupo; la Ética es tu reflexión personal (2).
-   - C) No hay diferencia, son palabras iguales.
-   - D) La Moral es escrita y la Ética es hablada.
-
+   - A) La moral es siempre escrita; la ética solo se transmite de viva voz.
+   - B) No hay diferencia: son sinónimos sin matices de uso.
+   - C) La Moral son las reglas del grupo; la Ética es tu reflexión personal.
+   - D) La ética es para adultos y la moral exclusivamente para niños.
 3. ¿Qué herramienta usaba Sócrates para ayudar a los demás a pensar?
-   - A) Escribir muchos libros de texto.
-   - B) Hacer preguntas incómodas para que la persona encuentre la verdad (3).
-   - C) Dar discursos largos en la plaza pública.
-   - D) Ignorar a quienes no pensaban como él.
-
+   - A) Redactar tratados extensos que cerraban las preguntas abiertas.
+   - B) Impartir discursos largos sin devolver la palabra al interlocutor.
+   - C) Ignorar a quienes discrepaban para aislar la verdad oficial.
+   - D) Hacer preguntas incómodas para que la persona encuentre la verdad.
 4. ¿En qué consiste la "Virtud" o el punto medio de Aristóteles?
-   - A) Ser el más fuerte de todos.
-   - B) Buscar el equilibrio entre dos extremos peligrosos (4).
-   - C) No tomar ninguna decisión para no equivocarse.
-   - D) Hacer siempre lo que la mayoría prefiera.
-
+   - A) Hacer siempre lo que prefiera la mayoría en votación inmediata.
+   - B) Buscar el equilibrio entre dos extremos peligrosos.
+   - C) Abstenerse de decidir para no asumir error alguno.
+   - D) Ser el más fuerte o exitoso sin medir consecuencias morales.
 5. ¿Qué es la Dignidad Humana?
-   - A) Un premio que se gana por estudiar mucho.
-   - B) Condición que exige que cada ser humano sea tratado con respeto (5).
-   - C) Tener un cargo importante en el gobierno.
-   - D) Ser más famoso que los demás en redes sociales.
-
+   - A) Condición que exige que cada ser humano sea tratado con respeto.
+   - B) Recompensa académica que se obtiene por estudiar muchas horas.
+   - C) Popularidad en redes sociales como medida de valor personal.
+   - D) Cargo público que otorga autoridad sobre otros por definición.
 6. ¿Para qué le sirve a un estudiante conectar ideas nuevas con lo que ya sabe?
-   - A) Para comprender profundamente el mundo y resolver problemas (6).
-   - B) Para que la mente se canse menos rápido.
-   - C) Realmente no tiene ninguna utilidad práctica.
-   - D) Para poder pasar los exámenes sin estudiar.
+   - A) Para memorizar definiciones aisladas de toda experiencia previa.
+   - B) Para repetir opiniones ajenas con mayor seguridad retórica.
+   - C) Para comprender profundamente el mundo y resolver problemas.
+   - D) Para evitar cuestionar lo aprendido y conservar un esquema rígido.
 
 ## 🔑 Respuestas Correctas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. A
+1. A | 2. C | 3. D | 4. B | 5. A | 6. C

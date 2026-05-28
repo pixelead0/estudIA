@@ -191,144 +191,121 @@ Pregúntale a tus amigos: "¿Qué pasaría si descubriéramos que todo lo que cr
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Dónde y cuándo surgió la Filosofía?
-   - A) En Roma, siglo I d.C.
+   - A) En Jonia bajo dominio romano del siglo II, cuando ya imperaba la ley latina.
    - B) En la Antigua Grecia (Mileto), siglo VI a.C.
-   - C) En Egipto, hace 5000 años.
-   - D) En México, época prehispánica.
-
+   - C) En Egipto faraónico, donde sacerdotes ya practicaban geometría y astronomía.
+   - D) En Atenas del siglo V, con Sócrates y la democracia periclea como escenario inaugural.
 2. ¿Cuál es el origen etimológico de la palabra Filosofía?
-   - A) Del griego Philos (Amor) y Sophia (Sabiduría).
-   - B) Del latín Filos (Hijo) y Sofia (Inteligencia).
-   - C) Del griego Physis (Naturaleza) y Logos (Estudio).
-   - D) No tiene origen etimológico.
-
+   - A) Del latín *filos* (amigo) y *sophia* (sabio), tras la traducción medieval.
+   - B) Del griego *physis* (naturaleza) y *logos* (razón), como en “fisiología”.
+   - C) Del griego *philein* (amar) y *sophos* (sabio), en sentido de poseedor absoluto del saber.
+   - D) Del griego *philos* (amor) y *sophia* (sabiduría).
 3. ¿Quién es el FUNDADOR de la Filosofía?
-   - A) Sócrates.
-   - B) Tales de Mileto.
-   - C) Platón.
-   - D) Aristóteles.
-
+   - A) Homero, por ser el primer narrador de la cultura helénica.
+   - B) Sócrates, por llevar la filosofía a la plaza pública de Atenas.
+   - C) Tales de Mileto.
+   - D) Pitágoras, por acuñar el término “filosofía” y sistematizar las matemáticas.
 4. ¿Cuál es el Quehacer del filósofo?
-   - A) Escribir poemas.
+   - A) Enseñar retórica para ganar pleitos, como hacían algunos sofistas.
    - B) Buscar la verdad a través de la reflexión racional y la crítica de las causas últimas.
-   - C) Ganar dinero dando consejos.
-   - D) Inventar nuevas religiones.
-
+   - C) Recopilar mitos y genealogías divinas para preservar la tradición oral.
+   - D) Realizar experimentos de laboratorio con hipótesis falsables, al estilo de la ciencia moderna.
 5. ¿Cuáles son las Características de la Filosofía?
-   - A) Es dogmática y mágica.
-   - B) Es crítica, racional, metódica, universal y busca causas últimas.
-   - C) Es solo para personas mayores.
-   - D) No tiene características fijas.
-
+   - A) Es crítica, racional, metódica, universal y busca causas últimas.
+   - B) Es dogmática: parte de verdades reveladas que no admiten revisión.
+   - C) Es exclusivamente intuitiva: prescinde de argumentos y se limita a la emoción.
+   - D) Es utilitaria: solo vale lo que resuelve de inmediato problemas prácticos concretos.
 6. ¿Por qué la Filosofía surge a partir de la curiosidad, asombro y admiración que siente el hombre?
-   - A) Porque es una regla del gobierno.
-   - B) Porque el hombre siente la necesidad de explicar los misterios del mundo que lo rodea.
-   - C) Porque no tenían televisión.
-   - D) Porque querían ser famosos.
-
+   - A) Porque el Estado griego la instituyó como materia obligatoria en la *paideia*.
+   - B) Porque los mitos desaparecieron de golpe y ya no había otras explicaciones posibles.
+   - C) Porque Thales y otros buscaban fama en la *agora*, no comprender la naturaleza.
+   - D) Porque el hombre siente la necesidad de explicar los misterios del mundo que lo rodea.
 7. ¿Quiénes fueron los Presocráticos y los Sofistas?
-   - A) Poetas y guerreros de la antigua Grecia.
+   - A) Guerreros espartanos y emperadores romanos que codificaron leyes morales.
    - B) Los primeros buscaban el origen de la naturaleza; los segundos eran maestros de la retórica y el convencimiento.
-   - C) Dioses menores del Olimpo.
-   - D) Inventores de la rueda y el fuego.
-
+   - C) Poetas épicos y tragediógrafos que dramatizaban conflictos entre dioses y hombres.
+   - D) Sacerdotes egipcios y astrólogos que mezclaban magia ritual con observación empírica.
 8. Pitágoras fue el autor de la PALABRA Filosofía, ¿qué significa para él?
-   - A) El que lo sabe todo.
-   - B) El amante o buscador de la sabiduría (no el poseedor).
-   - C) El que manda a los demás.
-   - D) El que escribe libros.
-
+   - A) El amante o buscador de la sabiduría (no el poseedor).
+   - B) El dueño absoluto de la sabiduría, ya iniciado en todos los misterios.
+   - C) El maestro que impone doctrinas cerradas a sus discípulos en comunidad cerrada.
+   - D) El poeta que canta la sabiduría divina transmitida por las musas.
 9. ¿Cómo podemos identificar una explicación filosófica?
-   - A) Porque menciona a muchos dioses.
-   - B) Porque usa la lógica, la razón y busca las causas o principios últimos de las cosas.
-   - C) Porque es muy corta.
-   - D) Porque está escrita en griego.
-
+   - A) Porque invoca muchas deidades para explicar cada fenómeno concreto.
+   - B) Porque se apoya solo en tradiciones no escritas y en la autoridad de los ancianos.
+   - C) Porque usa la lógica, la razón y busca las causas o principios últimos de las cosas.
+   - D) Porque está redactada necesariamente en griego antiguo o en latín escolástico.
 10. ¿Quiénes son los pensadores que rompieron con los mitos a través de la reflexión racional?
-    - A) Los guerreros espartanos.
-    - B) Los filósofos presocráticos (como Tales, Anaximandro, etc.).
-    - C) Los sofistas.
-    - D) Los emperadores romanos.
-
+    - A) Los sofistas, al enseñar persuasión ante tribunales y asambleas.
+    - B) Los emperadores romanos, al unificar cultos y leyes imperiales.
+    - C) Los epicúreos del helenismo tardío, al proponer el placer como fin último.
+    - D) Los filósofos presocráticos (como Tales, Anaximandro, etc.).
 11. ¿Qué consideraron los PRE-SOCRATICOS que era el "ARJÉ"?
-    - A) Una ciudad griega.
-    - B) El principio o elemento original que da origen a todas las cosas.
-    - C) Un tipo de escudo.
-    - D) El nombre de un dios.
-
+    - A) El principio o elemento original que da origen a todas las cosas.
+    - B) La ciudad-estado donde nació la primera asamblea democrática ateniense.
+    - C) El combate ritual entre hoplitas en la guerra del Peloponeso.
+    - D) El dios supremo que encarna el cielo en la mitología homérica.
 12. ¿Qué significa el "Paso del Mito al Logos"?
-    - A) Cambiar de un libro a otro.
-    - B) La transición de explicaciones fantásticas/mágicas a explicaciones racionales/lógicas.
-    - C) Viajar de una ciudad a otra.
-    - D) Traducir del griego al latín.
-
+    - A) Traducir textos sagrados del griego al latín para el imperio romano.
+    - B) Pasar del estudio de la naturaleza (*physis*) al estudio exclusivo de la ética.
+    - C) La transición de explicaciones fantásticas/mágicas a explicaciones racionales/lógicas.
+    - D) Migrar del culto órfico al culto oficial del Estado en Atenas.
 13. Menciona a los tres Filósofos clásicos más importantes de la Edad Antigua:
-    - A) Batman, Superman y Spiderman.
+    - A) Homero, Hesíodo y Esopo, narradores de la tradición épica y fabular.
     - B) Sócrates, Platón y Aristóteles.
-    - C) Homero, Hesíodo y Esopo.
-    - D) Alejandro Magno, Julio César y Nerón.
-
+    - C) Tales, Heráclito y Parménides, pensadores de la naturaleza (*physikoi*).
+    - D) Epicuro, Zenón estoico y Plotino, representantes del helenismo tardío.
 14. ¿Cuál es el concepto de Hombre desde la visión del "Homo Faber"?
-    - A) El hombre como un ser puramente espiritual.
-    - B) El hombre como un ser que fabrica herramientas y transforma la naturaleza.
-    - C) El hombre que solo se dedica a jugar.
-    - D) El hombre que no puede cambiar su entorno.
-
+    - A) El hombre como ser puramente contemplativo, ajeno al trabajo material.
+    - B) El hombre definido solo por su alma inmortal independiente del cuerpo.
+    - C) El hombre como animal político que vive necesariamente en *polis*.
+    - D) El hombre como un ser que fabrica herramientas y transforma la naturaleza.
 15. ¿Cuáles son los principales Problemas de la Filosofía?
-    - A) El dinero y la fama.
-    - B) El ser, el conocimiento, la verdad, la moral y la existencia humana.
-    - C) El clima y el tráfico.
-    - D) Solo el problema de la religión.
-
+    - A) El ser, el conocimiento, la verdad, la moral y la existencia humana.
+    - B) Exclusivamente el problema teológico de la existencia de dios.
+    - C) Sobre todo cuestiones climáticas y de infraestructura urbana contemporánea.
+    - D) Preferentemente la economía del mercado y la fama en redes sociales.
 16. ¿Cuáles son las características que diferencian al hombre del reino animal?
-    - A) Que camina en dos patas.
-    - B) La reflexión racional, la autoconciencia y la capacidad de transformar su entorno con propósito.
-    - C) Que necesita comer.
-    - D) Que vive en grupos.
-
+    - A) Que pertenece a tribus jerárquicas con líderes alfa, como otros mamíferos.
+    - B) Que depende del sueño y de la alimentación diaria, como cualquier organismo.
+    - C) La reflexión racional, la autoconciencia y la capacidad de transformar su entorno con propósito.
+    - D) Que camina bípedo de forma exclusiva, sin compartir ningún otro rasgo con primates.
 17. ¿Qué es el ser humano para Aristóteles?
-    - A) Un ser que solo sufre.
+    - A) Un ser que se hace a sí mismo por pura elección sin condicionamientos.
     - B) Un animal político y racional que busca la felicidad.
-    - C) Un ser que se hace a sí mismo.
-    - D) Un trabajador.
-
+    - C) Un trabajador cuya esencia la fija únicamente la lucha de clases.
+    - D) Un ser condenado a la angustia existencial sin proyecto comunitario.
 18. ¿Qué es el hombre para Karl Marx?
-    - A) Un ser espiritual.
-    - B) Un ser que se define por su trabajo y su capacidad de transformar la sociedad.
-    - C) Un buscador de placer.
-    - D) Un ser libre sin ataduras.
-
+    - A) Un ser espiritual cuya conciencia determina la materia social.
+    - B) Un ser libre sin ataduras históricas ni estructuras económicas.
+    - C) Un buscador de placer inmediato al estilo hedonista clásico.
+    - D) Un ser que se define por su trabajo y su capacidad de transformar la sociedad.
 19. ¿Qué tipos de conocimiento existen?
-    - A) Solo el científico.
-    - B) Empírico (experiencia), Religioso, Filosófico y Científico.
-    - C) Solo lo que aprendemos en la escuela.
-    - D) Conocimiento de juegos y de comida.
-
+    - A) Empírico (experiencia), Religioso, Filosófico y Científico.
+    - B) Solo el científico experimental; lo demás se considera mero error.
+    - C) Únicamente lo impartido en la escuela formal y certificado con examen.
+    - D) Empírico y religioso nada más; la filosofía se funde en la fe.
 20. ¿A qué tipo de programación está sujeto el ser humano?
-    - A) Solo a la programación de computadoras.
-    - B) Programación Biológica (instintos) y Programación Cultural (aprendizaje social).
-    - C) Solo a la programación de la televisión.
-    - D) No tiene ninguna programación.
-
+    - A) Solo programación cultural: al nacer el cerebro es *tabula rasa* sin instintos.
+    - B) No tiene ninguna programación: cada acto es puro azar biológico.
+    - C) Programación Biológica (instintos) y Programación Cultural (aprendizaje social).
+    - D) Solo programación mediática: televisión e internet determinan toda conducta.
 21. ¿Qué significa la frase: "el hombre que no tiene barniz de filosofía va por la vida prisionero de sus prejuicios"?
-    - A) Que hay que pintar los libros de filosofía.
+    - A) Que los prejuicios aceleran decisiones y por eso conviene conservarlos.
     - B) Que sin el pensamiento crítico, aceptamos verdades de otros sin cuestionarlas, perdiendo nuestra libertad.
-    - C) Que la filosofía es solo para los que saben pintar.
-    - D) Que los prejuicios son buenos.
-
+    - C) Que la filosofía exige dominar técnicas pictóricas para ilustrar conceptos.
+    - D) Que solo quien estudia arte puede liberarse de opiniones ajenas.
 22. ¿Por qué el hombre hace Filosofía y la Filosofía hace al hombre?
-    - A) Porque es un intercambio de dinero.
-    - B) Porque el hombre busca entender el mundo y, al hacerlo, se transforma en un ser más consciente y libre.
-    - C) Porque así lo dicen los maestros.
-    - D) No hay relación entre ambos.
-
+    - A) Porque la ley obliga a cursarla en la escuela secundaria mexicana.
+    - B) No hay relación: filosofía es un catálogo de citas sin efecto en la vida.
+    - C) Porque así se monetiza mejor en consultorías de autoayuda.
+    - D) Porque el hombre busca entender el mundo y, al hacerlo, se transforma en un ser más consciente y libre.
 23. ¿Por qué la Filosofía es una ciencia Fáctica?
-    - A) Porque inventa hechos.
-    - B) Porque parte de los hechos de la realidad para analizarlos y cuestionarlos racionalmente.
-    - C) Porque no es una ciencia real.
-    - D) Porque se basa en la fe.
+    - A) Porque parte de los hechos de la realidad para analizarlos y cuestionarlos racionalmente.
+    - B) Porque solo recopila opiniones populares sin confrontarlas con la realidad.
+    - C) Porque no es ciencia: solo la fe puede fundamentar el conocimiento.
+    - D) Porque se limita a repetir dogmas sin confrontarlos con la experiencia.
 
 ## 🔑 Respuestas
-1. B | 2. A | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B | 11. B | 12. B | 13. B | 14. B | 15. B | 16. B | 17. B | 18. B | 19. B | 20. B | 21. B | 22. B | 23. B
+1. B | 2. D | 3. C | 4. B | 5. A | 6. D | 7. B | 8. A | 9. C | 10. D | 11. A | 12. C | 13. B | 14. D | 15. A | 16. C | 17. B | 18. D | 19. A | 20. C | 21. B | 22. D | 23. A

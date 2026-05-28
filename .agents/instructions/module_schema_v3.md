@@ -42,7 +42,7 @@
 ## 3. 💡 Entiende
 
 - H3 **cortos**, sin paréntesis largos: `### Tu cerebro, el hardware`, `### Entrada, proceso y salida`.
-- Conservar analogías, citas `>`, callouts `[!TIP]`, etiquetas `(N)` ligadas al Reto Final.
+- Conservar analogías, citas `>`, callouts `[!TIP]`, etiquetas `(N)` en teoría (Entiende); no en opciones del cuestionario.
 - No acortar ni “mejorar” reactivos; sí se puede pulir prosa teórica si no cambia el sentido.
 
 ### Callouts (`[!TIP]`, `[!NOTE]`, etc.)
@@ -213,10 +213,36 @@ Pregunta o consigna para debatir con alguien.
 
 | Elemento | Regla |
 |----------|--------|
-| **Pon a prueba** | Preguntas **verbatim** (solo ortografía `¿` `¡` y acentos) |
-| **Respuestas** | Clave igual |
+| **Pon a prueba** | Enunciados de cada pregunta **verbatim** (solo ortografía `¿` `¡` y acentos) |
+| **Opciones A–D** | Sí se reescriben para calidad (ver § Distractores avanzados) |
+| **Clave 🔑 Respuestas** | Debe coincidir con la letra de la opción correcta tras reordenar |
 | **URLs de vídeo** | Mismos enlaces salvo corrección rota |
-| **Etiquetas `(N)`** | Mantener en el `.md`; en web `enhanceQuizTheoryAnchors` marca el párrafo y el reto enlaza desde la pregunta (y en resultados) hacia esa teoría (clic: resaltado amarillo + etiqueta como superíndice) |
+| **Etiquetas `(N)`** | Solo en **Entiende** / Practica / cuerpo del módulo; **no** en opciones del cuestionario |
+
+---
+
+### Distractores avanzados (Pon a prueba)
+
+Objetivo: que el estudiante **dude** entre opciones plausibles; evitar bromas, obviedades y patrones de clave (p. ej. casi todo B).
+
+**Rúbrica por reactivo:**
+
+1. Una sola opción correcta, alineada con Entiende (sin `(N)` en el texto de las opciones).
+2. Tres distractores **casi verdaderos**: confusión de conceptos vecinos, verdad en otro contexto, detalle invertido o excepción omitida.
+3. Mismo registro (longitud y tono similares); sin chistes ni respuestas imposibles.
+4. Clave repartida entre A–D (~20–30 % cada letra por módulo); sin rachas de 3+ iguales.
+
+**Mal ejemplo** (obvio): «El satélite que nos vigila» / «el virus apagará la PC».
+
+**Buen ejemplo** (Computación 07, justificado): confundir **justificar** con alinear solo a la izquierda, con **centrar**, o con ajustar solo la última línea.
+
+**Buen ejemplo** (DHP 07, premisa): confundir **premisa** con la **conclusión**, con una **falacia** o con una opinión sin datos.
+
+**Buen ejemplo** (Filosofía 08, jerarquía): confundir **jerarquía de valores** con un listado alfabético sin prioridad o con el orden de leyes del Estado.
+
+No usar `scripts/shuffle_quiz_answers.py` para el texto final de las opciones; la curación es **editorial manual**.
+
+**Verificación automática (solo flags):** `python3 scripts/audit_quiz_quality.py 1/<Materia>` detecta `(N)` en opciones, distractores obvios/genéricos y claves desbalanceadas; no reescribe texto.
 
 ---
 
@@ -232,6 +258,7 @@ Pregunta o consigna para debatir con alguien.
 - [ ] Explora con H3 + 8 vídeos (formato título + análisis)
 - [ ] `00_indice_videos.md` alineado si aplica
 - [ ] `python3 scripts/audit_modules.py` — módulo PASS
+- [ ] (Opcional) `python3 scripts/audit_quiz_quality.py 1/<Materia>` — sin flags en Pon a prueba
 - [ ] `python3 scripts/check_multimedia.py --root 1/<Materia>` — OK
 - [ ] `npm run build` si hay cambios que afecten índice web
 - [ ] (Opcional) `make web-dev` — Practica: claves ocultas; Reflexiona: stepper; callouts con cabecera

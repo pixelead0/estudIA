@@ -195,43 +195,37 @@ Aprender a expandir tu mente te permite ver que siempre hay una salida, que siem
 Pregúntale a un líder que admires: "¿Cuántas opciones piensa usted antes de tomar una decisión importante?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cómo se define técnicamente el proceso de "Expansión de Ideas"?
-   - A) El acto de olvidar todas las opciones para no tener que decidir.
-   - B) Ampliar el campo de pensamiento para considerar múltiples opciones y consecuencias antes de actuar.
-   - C) Repetir la misma idea muchas veces hasta que todos estén de acuerdo.
-   - D) Cerrar los ojos para no ver los problemas que nos rodean.
-
+   - A) Reducir de inmediato a una sola opción para no perder tiempo.
+   - B) Ampliar el campo de pensamiento para considerar opciones y consecuencias antes de actuar.
+   - C) Repetir la misma idea hasta que el grupo coincida sin aportar variantes.
+   - D) Evitar registrar alternativas para no confundirse al decidir.
 2. ¿Cuál es el principal riesgo de NO practicar la expansión de ideas antes de tomar una decisión?
-   - A) Que el cerebro se vuelva demasiado inteligente y no podamos dormir.
-   - B) Tomar decisiones impulsivas, incompletas o basadas en una visión limitada.
-   - C) Que todas las personas del grupo se vuelvan nuestras amigas.
-   - D) No hay ningún riesgo, ya que la primera idea siempre es la mejor.
-
+   - A) Que el grupo socialice más y escuche más puntos de vista.
+   - B) Que la primera idea casual resulte siempre la más completa.
+   - C) Decidir de forma impulsiva, incompleta o con una visión muy estrecha.
+   - D) Que el cerebro deje de necesitar sueño por exceso de análisis.
 3. ¿En qué consiste la técnica denominada "P.A.O." (Puntos de Vista de Otros)?
-   - A) En obligar a los demás a que piensen exactamente igual que nosotros.
-   - B) En considerar cómo ven y sienten el problema las demás personas involucradas.
-   - C) En ignorar las opiniones de los adultos para decidir por nuestra cuenta.
-   - D) En tomar fotos de las personas sin que se den cuenta.
-
+   - A) Imponer tu criterio para que todos piensen igual que tú.
+   - B) Ignorar a quienes no están de acuerdo contigo.
+   - C) Considerar cómo ven y sienten el problema las demás personas involucradas.
+   - D) Documentar el caso solo con fotos, sin entrevistar a los actores.
 4. ¿Para qué nos sirve considerar las "Consecuencias" (I.S.E.) antes de elegir una opción?
-   - A) Para saber si lo que vamos a hacer nos traerá beneficios o problemas a largo plazo.
-   - B) Para perder el tiempo y no tener que hacer la tarea nunca.
-   - C) Para asustarnos tanto que decidamos no hacer absolutamente nada.
-   - D) No tiene utilidad, ya que el futuro es imposible de predecir.
-
+   - A) No sirve: el futuro no se puede anticipar en ningún grado.
+   - B) Anticipar beneficios y problemas a mediano y largo plazo de cada alternativa.
+   - C) Paralizar la decisión para no asumir ningún riesgo.
+   - D) Postergar la tarea indefinidamente bajo pretexto de análisis.
 5. ¿Cuál es la regla de oro de la expansión de ideas en cuanto a la cantidad de opciones?
-   - A) Entre menos opciones tengamos, más fácil será la vida.
-   - B) Entre más opciones generemos, más probable es encontrar una solución excelente.
-   - C) Siempre debemos elegir la opción más difícil para demostrar valor.
-   - D) Solo debemos considerar la opción que nos dé dinero rápido.
-
+   - A) Una sola opción basta si ya te convence emocionalmente.
+   - B) Entre más alternativas explores, mayor probabilidad de hallar una solución sólida.
+   - C) Elegir siempre la opción más difícil demuestra madurez intelectual.
+   - D) Priorizar solo la alternativa con ganancia económica inmediata.
 6. ¿Por qué se afirma que la expansión de ideas es lo contrario a la impulsividad?
-   - A) Porque nos obliga a detenernos, reflexionar y ver el panorama completo antes de actuar.
-   - B) Porque la impulsividad es una habilidad mucho más moderna y tecnológica.
-   - C) Porque la expansión de ideas se hace solo con los ojos cerrados.
-   - D) Realmente no hay relación entre ambos conceptos.
+   - A) Porque la impulsividad exige más reflexión que la expansión.
+   - B) Porque ambos conceptos son equivalentes en el modelo del curso.
+   - C) Porque te obliga a detenerte, ampliar el panorama y luego decidir con más base.
+   - D) Porque la expansión solo funciona si actúas al instante sin pensar.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. A | 5. B | 6. A
+1. B | 2. C | 3. C | 4. B | 5. B | 6. C

@@ -177,43 +177,37 @@ Pregúntale a un profesor: "¿Cuál es la mejor presentación que ha visto de un
 
 
 ## 🏆 Pon a prueba
-
 1. Según los expertos, ¿cuál es el error más grande que se comete al hacer una presentación?
-   - A) Usar fotos de alta calidad que se ven muy nítidas y claras.
-   - B) Llenar la pantalla de texto y leerlo todo durante la exposición(1).
-   - C) Poner el nombre de la escuela y la fecha en la primera hoja.
-   - D) Usar un fondo de color blanco o gris muy claro.
-
+   - A) Llenar la pantalla de texto y leerlo todo durante la exposición.
+   - B) Usar un fondo de color blanco o gris muy claro en todas las diapositivas.
+   - C) Incluir el nombre de la escuela y la fecha en la diapositiva de portada.
+   - D) Usar fotos nítidas que complementen lo que explicas con tus propias palabras.
 2. ¿Qué significa la "regla del 6x6" en el diseño de tus diapositivas?
-   - A) Que tu presentación debe tener exactamente 6 hojas de duración.
-   - B) Que no debe haber más de 6 líneas de texto con 6 palabras cada una(2).
-   - C) Que es obligatorio usar 6 colores diferentes en cada dibujo.
-   - D) Que la letra debe ser de un tamaño de 6 milímetros exactamente.
-
+   - A) Que la letra debe medir 6 puntos exactos en todo el cuerpo del texto.
+   - B) Que no debe haber más de 6 líneas de texto con 6 palabras cada una.
+   - C) Que la presentación debe durar exactamente seis minutos frente al público.
+   - D) Que debes usar seis colores distintos en cada diapositiva para mantener atención.
 3. ¿Cuál es la función más importante de una diapositiva en una clase?
-   - A) Que el expositor no tenga que hablar y todos lean la pantalla.
-   - B) Servir como un apoyo visual para reforzar lo que estás explicando(3).
-   - C) Darle al maestro mucho texto para que se entretenga leyendo.
-   - D) Gastar toda la luz posible del proyector de la escuela.
-
+   - A) Sustituir por completo al expositor para que el público solo lea en silencio.
+   - B) Servir como un apoyo visual para reforzar lo que estás explicando.
+   - C) Registrar en pantalla toda la bibliografía consultada durante la investigación.
+   - D) Mostrar animaciones llamativas aunque no se relacionen con el tema central.
 4. ¿Qué información NO debe faltar nunca en tu diapositiva de Portada?
-   - A) Toda la lista de libros y páginas web que consultaste para la tarea.
-   - B) El título claro del tema y tu nombre completo como expositor(4).
-   - C) Una lista de todos los compañeros que no te ayudaron en el trabajo.
-   - D) Un cuento largo de más de veinte renglones de texto.
-
+   - A) Un cuento introductorio de más de veinte renglones de texto.
+   - B) Toda la lista de libros y páginas web que consultaste para la tarea.
+   - C) El título claro del tema y tu nombre completo como expositor.
+   - D) Las conclusiones finales y las preguntas que esperas del auditorio.
 5. El diseño de "Dos objetos" en los programas de presentación sirve para:
-   - A) Escribir un ensayo muy largo que ocupe todo el espacio de la hoja.
-   - B) Comparar dos ideas o poner una imagen junto a un texto que la explique(5).
-   - C) Poner música de fondo sin que aparezca nada en la pantalla.
-   - D) Borrar los archivos que ya no sirven de tu memoria USB.
-
+   - A) Comparar dos ideas o poner una imagen junto a un texto que la explique.
+   - B) Insertar dos videos de YouTube que se reproduzcan al mismo tiempo.
+   - C) Dividir la diapositiva en seis cuadros iguales siguiendo la regla 6x6.
+   - D) Aplicar dos transiciones distintas entre cada cambio de diapositiva.
 6. ¿Por qué es muy importante que uses imágenes de alta calidad en tus tareas?
-   - A) Para que el archivo final sea muy pesado y difícil de abrir en el salón.
-   - B) Para que el público no se distraiga con fotos borrosas y te veas profesional(6).
-   - C) Porque Google te quita puntos si usas imágenes de baja resolución.
-   - D) No importa la calidad de las fotos, lo único que vale es el texto.
+   - A) Porque el proyector solo acepta archivos con resolución mínima de 4K.
+   - B) Para que el público no se distraiga con fotos borrosas y te veas profesional.
+   - C) Porque las imágenes pesadas demuestran que investigaste a fondo el tema.
+   - D) Porque las fotos borrosas obligan al público a concentrarse más en tu voz.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. A | 2. B | 3. B | 4. C | 5. A | 6. B

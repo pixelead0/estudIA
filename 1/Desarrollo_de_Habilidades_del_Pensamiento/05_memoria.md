@@ -199,43 +199,37 @@ En tu vida escolar, usar trucos como los **Mapas con dibujos** o **Asociaciones*
 Pregúntale a un abuelo: "¿Cuál es el secreto para no olvidar las historias importantes de la familia?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuáles son los tres pasos indispensables de la memoria según la psicología?
-   - A) Leer, escribir y repetir en voz alta muchas veces.
-   - B) Registro (codificación), Guardar (almacenar) y Encontrar (recuperar).
-   - C) Olvidar, recordar y volver a olvidar de forma selectiva.
-   - D) Dormir, comer y hacer ejercicio mental diariamente.
-
+   - A) Percibir, observar y decidir en el acto mental.
+   - B) Codificar (registrar), almacenar y recuperar.
+   - C) Leer en voz alta, subrayar y copiar el apunte completo.
+   - D) Olvidar a propósito, recordar y volver a olvidar sin orden.
 2. ¿Cuál es la característica principal de la "Memoria a Corto Plazo"?
-   - A) Que puede guardar una cantidad infinita de datos durante toda la vida.
-   - B) Que tiene una capacidad limitada (unos 7 elementos) y dura pocos segundos.
-   - C) Que solo funciona cuando estamos bajo mucha presión o estrés.
-   - D) Que se encarga de guardar únicamente los nombres de nuestros familiares.
-
+   - A) Capacidad casi ilimitada y duración de toda la vida.
+   - B) Guarda solo recuerdos emocionales de la infancia.
+   - C) Capacidad limitada (unos siete elementos) y duración de pocos segundos.
+   - D) Funciona únicamente bajo estrés extremo en exámenes.
 3. ¿A qué nos referimos con la "Memoria de Habilidades" (procedimental)?
-   - A) Al recuerdo de datos históricos y fechas de batallas importantes.
-   - B) A la capacidad de recordar eventos emocionales de nuestra infancia.
-   - C) Al aprendizaje de habilidades físicas, como andar en bici o escribir.
-   - D) Al proceso de olvidar intencionalmente las reglas de un juego.
-
+   - A) Recordar fechas y nombres de personajes históricos.
+   - B) Revivir episodios autobiográficos con detalle emocional.
+   - C) Aprender y automatizar conductas motoras, como escribir o andar en bici.
+   - D) Registrar por primera vez un dato que acaba de entrar por los sentidos.
 4. ¿Qué es técnicamente "Recuperar" en el proceso de la memoria?
-   - A) El momento en que la información entra por primera vez a los sentidos.
-   - B) El acto de localizar y traer al presente la información que ya estaba guardada.
-   - C) El proceso de borrar los recuerdos que ya no nos sirven.
-   - D) La capacidad de inventar recuerdos nuevos que nunca pasaron.
-
+   - A) Codificar: transformar la experiencia en un formato que el cerebro pueda guardar.
+   - B) Almacenar: mantener la información disponible para uso posterior.
+   - C) Borrar selectivamente recuerdos que ya no resultan útiles.
+   - D) Localizar y traer al presente la información que ya estaba guardada.
 5. ¿Cuál es una causa del olvido llamada "Interferencia"?
-   - A) Cuando un recuerdo nuevo o muy parecido impide que encontremos uno viejo.
-   - B) Cuando el cerebro se apaga por completo por el cansancio.
-   - C) Cuando decidimos no estudiar por flojera.
-   - D) Realmente la interferencia no tiene relación con el olvido.
-
+   - A) Cuando un recuerdo nuevo o muy parecido dificulta encontrar uno anterior.
+   - B) Cuando el sueño consolida lo aprendido durante la noche.
+   - C) Cuando prestas atención plena y codificas con claridad.
+   - D) Cuando repites espaciadamente para fortalecer la traza mnésica.
 6. ¿Por qué es importante dormir bien para tener una buena memoria en la escuela?
-   - A) Porque durante el sueño el cerebro organiza y guarda lo que aprendimos.
-   - B) Porque así se gasta menos energía y el cerebro descansa de pensar.
-   - C) Porque es una regla de salud que no afecta realmente a la inteligencia.
-   - D) Porque la mente solo trabaja cuando hay luz de sol.
+   - A) Porque el cerebro solo codifica cuando hay luz solar directa.
+   - B) Porque dormir es un hábito de salud sin relación con el aprendizaje.
+   - C) Porque durante el sueño el cerebro organiza y consolida lo aprendido.
+   - D) Porque así evitas pensar y el neocórtex deja de procesar información.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. C | 4. B | 5. A | 6. A
+1. B | 2. C | 3. C | 4. D | 5. A | 6. C

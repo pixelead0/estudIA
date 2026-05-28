@@ -180,43 +180,37 @@ Pregúntale a un adulto: "¿Cuál fue la primera computadora que usaste y cómo 
 
 
 ## 🏆 Pon a prueba
-
 1. Si estás trabajando en una tarea y de repente se apaga la luz, ¿dónde se pierde la información que no habías guardado todavía?
-   - A) En el Disco Duro o SSD (Alacena).
-   - B) En la Memoria RAM (Mesa de trabajo).
-   - C) En el monitor o pantalla.
-   - D) En el teclado o mouse.
-
+   - A) En el Disco Duro o SSD, porque allí se escribe cada tecla aunque no pulses Guardar.
+   - B) En el Sistema Operativo, que conserva en caché el documento hasta el siguiente arranque.
+   - C) En la Memoria RAM (Mesa de trabajo).
+   - D) En el Procesador (CPU), que retiene temporalmente las instrucciones del último programa.
 2. ¿Cuál es la función principal del Procesador (CPU) dentro de una computadora?
-   - A) Guardar las fotos y videos de forma permanente.
+   - A) Gestionar ventanas, iconos y permisos como director de la orquesta digital del equipo.
    - B) Ejecutar todas las órdenes y cálculos como el "cerebro" del equipo.
-   - C) Mostrar las imágenes con colores brillantes en la pantalla.
-   - D) Limpiar el polvo de las piezas internas automáticamente.
-
+   - C) Almacenar fotos y videos de forma permanente aunque el equipo esté apagado.
+   - D) Traducir señales de red y mostrar páginas web con el navegador integrado en el chip.
 3. Un navegador de Internet, un juego o un programa para escribir son ejemplos de:
-   - A) Hardware especializado de alta gama.
-   - B) Software de aplicación diseñado para tareas específicas.
-   - C) Componentes internos del monitor de la computadora.
-   - D) Sistemas de ventilación para el procesador.
-
+   - A) Firmware del monitor que convierte datos digitales en imagen sin instalar nada más.
+   - B) Hardware de entrada especializado que solo funciona con un cable USB dedicado.
+   - C) El Sistema Operativo que administra memoria, ventanas y dispositivos conectados.
+   - D) Software de aplicación diseñado para tareas específicas.
 4. ¿Qué componente de Hardware es el encargado de guardar tus archivos (fotos, tareas) incluso cuando apagas el equipo?
-   - A) El Procesador (CPU).
-   - B) La Memoria RAM.
-   - C) El Disco Duro o la unidad SSD.
-   - D) El Sistema Operativo.
-
+   - A) La Memoria RAM, porque mantiene copias de trabajo hasta el siguiente encendido.
+   - B) El Disco Duro o la unidad SSD.
+   - C) El Procesador (CPU), que archiva metadatos en su caché interna de forma permanente.
+   - D) El Sistema Operativo, que centraliza carpetas como si fuera la alacena física del equipo.
 5. El Sistema Operativo (como Windows, Android o iOS) tiene como tarea principal:
-   - A) Dibujar y editar imágenes de forma profesional.
-   - B) Gestionar los recursos del hardware para que todas las aplicaciones funcionen en orden.
-   - C) Conectarse a la luz eléctrica sin necesidad de cables.
-   - D) Limpiar la pantalla táctil de huellas dactilares.
-
+   - A) Gestionar los recursos del hardware para que todas las aplicaciones funcionen en orden.
+   - B) Almacenar de forma permanente tus archivos personales sustituyendo al disco duro.
+   - C) Editar imágenes, hojas de cálculo y presentaciones como suite ofimática integrada.
+   - D) Conectar el equipo a Internet reemplazando por completo al navegador y al módem.
 6. Si una computadora tiene el hardware perfecto pero no tiene instalado ningún tipo de Software, ¿qué puede hacer?
-   - A) Solo puede navegar en redes sociales de forma lenta.
-   - B) Nada; es como una cocina increíble pero sin chef ni recetas que den órdenes.
-   - C) Solo puede proyectar luz blanca a través del monitor.
-   - D) Puede guardar archivos pero no permite verlos.
+   - A) Ejecutar aplicaciones preinstaladas en memoria ROM del fabricante con escritorio completo.
+   - B) Guardar archivos en el disco, pero sin interfaz ni programas para abrirlos o mostrarlos.
+   - C) Solo encender luces del monitor y navegar en la web con utilidades básicas de BIOS.
+   - D) Nada; es como una cocina increíble pero sin chef ni recetas que den órdenes.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. C | 5. B | 6. B
+1. C | 2. B | 3. D | 4. B | 5. A | 6. D

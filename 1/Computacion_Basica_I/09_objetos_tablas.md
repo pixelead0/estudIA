@@ -176,43 +176,37 @@ Pregúntale a un profesor: "¿Qué es lo primero que ve en un trabajo con tablas
 
 
 ## 🏆 Pon a prueba
-
 1. En una tabla de procesador de textos, ¿cómo se llaman los espacios horizontales?
-   - A) Columnas de datos verticales.
-   - B) Filas de información(1).
+   - A) Filas de información.
+   - B) Columnas de datos verticales.
    - C) Celdas de escritura rápida.
    - D) Márgenes del documento.
-
 2. ¿Cuál es la función del "Ajuste de Texto" al insertar una foto?
-   - A) Sirve para que la imagen brille más y se vea más colorida.
-   - B) Define cómo se acomoda el texto alrededor de la foto para no mover el diseño(2).
-   - C) Borra automáticamente todo el texto que esté cerca de la imagen.
-   - D) Cambia el tipo de letra de todo el documento de forma mágica.
-
+   - A) Cambiar el tipo de letra de todo el documento al estilo de la imagen insertada.
+   - B) Define cómo se acomoda el texto alrededor de la foto para no mover el diseño.
+   - C) Recortar automáticamente el fondo de la foto para dejar solo el sujeto principal.
+   - D) Convertir la imagen en una tabla de dos columnas con título y descripción.
 3. Si necesitas hacer un mapa conceptual rápido y profesional, ¿qué herramienta usas?
-   - A) Haces una tabla gigante y le pones colores a mano.
-   - B) Utilizas la herramienta de SmartArt(3).
-   - C) Pegas muchas imágenes pequeñas bajadas de Internet.
-   - D) Escribes en cuadros de texto simples y los mueves con el mouse.
-
+   - A) Escribes en cuadros de texto simples y los mueves con el mouse.
+   - B) Pegas muchas imágenes pequeñas bajadas de Internet en fila.
+   - C) Haces una tabla gigante y le aplicas colores a mano celda por celda.
+   - D) Utilizas la herramienta de SmartArt.
 4. ¿Qué es exactamente una "Celda" en una tabla?
-   - A) El nombre técnico de la tabla completa una vez que la terminas.
-   - B) El cuadrito donde se cruzan una fila y una columna; es donde escribes(4).
+   - A) El cuadrito donde se cruzan una fila y una columna; es donde escribes.
+   - B) El nombre técnico de la tabla completa una vez que la terminas.
    - C) El margen de color que rodea a toda la estructura de la tabla.
-   - D) La herramienta que borra todos los datos de la fila de arriba.
-
+   - D) La fila superior reservada para títulos antes de combinar celdas.
 5. ¿Por qué se debe cambiar el tamaño de una imagen desde sus esquinas?
-   - A) Porque es mucho más rápido y divertido para el usuario.
-   - B) Porque así se mantiene la proporción y la foto no se ve deformada o aplastada(5).
-   - C) Porque ayuda a que la computadora gaste menos batería al trabajar.
-   - D) No tiene ninguna importancia, puedes jalarla desde cualquier punto.
-
+   - A) Porque el programa solo permite rotar la imagen si arrastras desde una esquina.
+   - B) Porque reduce el peso del archivo .docx más que al estirar desde los lados.
+   - C) Porque desde los lados se bloquea el ajuste de texto alrededor de la figura.
+   - D) Porque así se mantiene la proporción y la foto no se ve deformada o aplastada.
 6. ¿Para qué sirve "Combinar celdas" en el menú de tablas?
    - A) Para borrar todo el contenido que escribiste dentro de la tabla.
-   - B) Para unir varias celdas en una sola más grande, ideal para poner títulos(6).
-   - C) Para cambiar el color de toda la tabla a un tono brillante al azar.
+   - B) Para unir varias celdas en una sola más grande, ideal para poner títulos.
+   - C) Para dividir una celda grande en varias pequeñas con el mismo texto.
    - D) Para insertar una foto dentro de la tabla automáticamente.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. A | 2. B | 3. D | 4. A | 5. D | 6. B

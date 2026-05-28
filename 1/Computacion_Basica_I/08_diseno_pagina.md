@@ -176,43 +176,37 @@ Pregúntale a un adulto: "¿Alguna vez tuviste que repetir un trabajo porque se 
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Para qué sirven principalmente los márgenes en un trabajo escolar profesional?
-   - A) Para que el papel pese menos y gastes menos energía al cargarlo.
-   - B) Para dejar espacio para las grapas y que el texto no se vea amontonado(1).
-   - C) Para tener un lugar donde dibujar y decorar mientras piensas.
-   - D) Para ahorrar mucha tinta negra cuando mandes a imprimir tu trabajo.
-
+   - A) Para ampliar el área útil de texto hasta el borde físico de la hoja impresa.
+   - B) Para centrar automáticamente cada párrafo como si fuera un título corto.
+   - C) Para dejar espacio para las grapas y que el texto no se vea amontonado.
+   - D) Para reducir el número de páginas al comprimir líneas sin cambiar el tamaño de letra.
 2. Si vas a hacer un horario de clases con muchísimas columnas, ¿qué orientación te sirve más?
-   - A) Orientación Vertical (parada).
-   - B) Orientación Horizontal (acostada)(2).
-   - C) Orientación Diagonal (inclinada).
-   - D) Orientación Circular (en forma de disco).
-
+   - A) Orientación Vertical (parada), porque es el formato predeterminado de Word.
+   - B) Orientación Cuadrada, porque equilibra filas y columnas en tablas simétricas.
+   - C) Orientación Vertical (parada), porque el encabezado solo se repite en ese modo.
+   - D) Orientación Horizontal (acostada).
 3. ¿Qué información es la más común de encontrar en el "Pie de Página"?
-   - A) El número de la página, la fecha o el nombre del autor(3).
-   - B) El título principal del trabajo escrito con letras gigantes.
-   - C) La lista de los sitios de Internet que usaste para investigar.
-   - D) Un dibujo detallado de cómo te sientes hoy.
-
+   - A) El número de la página, la fecha o el nombre del autor.
+   - B) El título principal del tema con el tamaño de fuente más grande del documento.
+   - C) El logotipo de la escuela repetido en la parte superior de cada hoja.
+   - D) La bibliografía completa con todas las URLs consultadas en la investigación.
 4. ¿Cuál es el tamaño de papel que más se usa en México para entregar tareas?
-   - A) Tamaño A4 (es el que usan más en Europa).
-   - B) Tamaño Carta (Letter)(4).
-   - C) Tamaño Oficio (Legal).
-   - D) Tamaño Postal.
-
+   - A) Tamaño Carta (Letter).
+   - B) Tamaño Oficio (Legal), habitual en contratos y actas notariales.
+   - C) Tamaño A4, estándar en impresoras europeas y muchas escuelas internacionales.
+   - D) Tamaño Tabloide, usado sobre todo en periódicos y carteles publicitarios.
 5. El "Encabezado" de un documento se distingue por:
-   - A) Aparecer solamente en la primera página de todo el trabajo.
-   - B) Repetirse automáticamente en la parte superior de todas las hojas(5).
-   - C) Ser el único lugar donde puedes poner fotos de tus amigos.
-   - D) Cambiar de color y de tipo de letra cada vez que abres el archivo.
-
+   - A) Mostrarse solo en la portada junto al título y desaparecer en el resto del archivo.
+   - B) Sustituir a los márgenes laterales cuando activas la vista de diseño web.
+   - C) Repetirse automáticamente en la parte superior de todas las hojas.
+   - D) Contener exclusivamente el pie de página con el número de hoja centrado.
 6. ¿Qué pasa con tu texto si cambias el tamaño de la hoja al final del trabajo?
-   - A) Todo lo que escribiste se borra y tienes que empezar de cero.
-   - B) El texto se acomoda solo al nuevo tamaño, pero debes revisar las imágenes(6).
-   - C) La computadora te avisa que ese tamaño es ilegal y se apaga sola.
-   - D) No se puede cambiar el tamaño de la hoja una vez que ya escribiste algo.
+   - A) Todo lo que escribiste se borra y debes volver a teclear el contenido.
+   - B) El texto se acomoda solo al nuevo tamaño, pero debes revisar las imágenes.
+   - C) El programa bloquea el cambio hasta que guardes una copia en PDF primero.
+   - D) Solo se redistribuyen los márgenes; el cuerpo del texto conserva posición fija en píxeles.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. A | 4. B | 5. B | 6. B
+1. C | 2. D | 3. A | 4. A | 5. C | 6. B

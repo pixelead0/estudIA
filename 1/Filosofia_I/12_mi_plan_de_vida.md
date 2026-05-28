@@ -178,42 +178,36 @@ Pregúntale a alguien que admires: "¿Cuál era su sueño cuando tenía 15 años
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Por qué es importante tener un "Plan de Vida" desde el punto de vista ético?
-   - A) Para saber cuánto dinero voy a ganar.
-   - B) Para orientar mi libertad con responsabilidad y darle un sentido humano a mis acciones.
-   - C) Para que mis padres no me regañen.
-   - D) No es importante tener un plan.
-
+   - A) Para orientar mi libertad con responsabilidad y darle un sentido humano a mis acciones.
+   - B) Para proyectar ingresos económicos sin reflexionar sobre fines morales.
+   - C) Porque la libertad no necesita orientación ni examen previo de consecuencias.
+   - D) Para evitar conflictos domésticos sin construir criterio propio.
 2. ¿Cuál es el papel de los valores en tu proyecto de futuro?
-   - A) Son adornos que se ven bien.
-   - B) Son los cimientos que determinan qué decisiones tomaré y qué tipo de persona seré.
-   - C) Sirven para que la gente crea que soy bueno.
-   - D) No tienen papel en el futuro.
-
+   - A) No tienen papel: el futuro depende solo de la suerte.
+   - B) Son adornos estéticos sin efecto en decisiones concretas.
+   - C) Son los cimientos que determinan qué decisiones tomaré y qué tipo de persona seré.
+   - D) Sirven para aparentar bondad ante otros sin compromiso real.
 3. ¿Qué significa "La Técnica al Servicio de la Patria" en tu vida profesional?
-   - A) Que debo trabajar para el gobierno.
-   - B) Que mis conocimientos científicos y técnicos deben buscar el bienestar de mi sociedad y mi país.
-   - C) Que debo saber arreglar computadoras.
-   - D) Que la patria me debe servir a mí.
-
+   - A) Dominar reparación de equipos sin considerar impacto social.
+   - B) Exigir que la patria satisfaga primero intereses individuales.
+   - C) Trabajar obligatoriamente en el gobierno federal sin otras opciones.
+   - D) Que mis conocimientos científicos y técnicos deben buscar el bienestar de mi sociedad y mi país.
 4. ¿Cómo ayuda la "Conciencia Crítica" a construir tu futuro?
-   - A) Para criticar lo que hacen mal los demás.
+   - A) Para ostentar superioridad intelectual frente al grupo escolar.
    - B) Para evaluar mis opciones, no dejarme llevar por impulsos y elegir lo que realmente me conviene como ser humano.
-   - C) Para ser el más inteligente de mi grupo.
-   - D) No ayuda en nada.
-
+   - C) No ayuda: el futuro se decide solo por moda o presión social.
+   - D) Para señalar errores ajenos sin revisar los propios proyectos.
 5. ¿Cuál es la recompensa más alta de actuar con integridad en tu plan de vida?
-   - A) Ganar un premio o medalla.
+   - A) Obtener premios o medallas públicas como fin último.
    - B) La Alegría de saber que estoy construyendo mi ser de forma digna y justa.
-   - C) Que todos hablen bien de mí.
-   - D) No tener que trabajar.
-
+   - C) Evitar todo trabajo mediante astucia o influencias.
+   - D) Lograr fama en redes aunque la conducta sea incoherente.
 6. ¿Qué es lo contrario de ser "imbécil moral" al planear tu vida?
-   - A) Ser muy astuto para ganar dinero.
-   - B) Tener conciencia y disposición a fijarse en que si lo que se hace es realmente lo que se quiere.
-   - C) No tener sentimientos.
-   - D) Seguir siempre las órdenes de otros.
+   - A) Suprimir emociones para decidir solo con frialdad calculadora.
+   - B) Ser astuto financieramente sin examinar si el fin es digno.
+   - C) Tener conciencia y disposición a fijarse en que si lo que se hace es realmente lo que se quiere.
+   - D) Seguir siempre órdenes ajenas sin preguntar por sus fundamentos.
 
 ## 🔑 Respuestas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. A | 2. C | 3. D | 4. B | 5. B | 6. C

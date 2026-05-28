@@ -178,43 +178,37 @@ Pregúntale a un adulto: "¿Cómo buscaban información para sus tareas cuando n
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Qué es técnicamente Internet en el mundo actual?
-   - A) Un programa que se instala en el celular para poder jugar.
-   - B) Una red global inmensa de computadoras interconectadas entre sí(1).
-   - C) Un satélite que nos vigila desde el espacio exterior.
-   - D) Un cable de cobre que solo sirve para la televisión por cable.
-
+   - A) La red local Wi-Fi de tu casa que conecta celular, laptop y consola entre sí.
+   - B) El conjunto de páginas web visibles cuando abres un buscador como Google.
+   - C) Una red global inmensa de computadoras interconectadas entre sí.
+   - D) El programa instalado en el equipo que traduce direcciones web en pantallas.
 2. ¿Cuál de los siguientes es un ejemplo de un Navegador para entrar a la red?
-   - A) La aplicación de Instagram.
-   - B) El programa Google Chrome o Microsoft Edge(2).
-   - C) La consola de videojuegos favorita.
-   - D) El sitio de videos YouTube.
-
+   - A) El protocolo HTTPS que cifra la información al enviar contraseñas.
+   - B) El sitio de videos YouTube donde reproduces contenido en línea.
+   - C) La aplicación de mensajería que usas para chatear con tus contactos.
+   - D) El programa Google Chrome o Microsoft Edge.
 3. ¿Qué significa que una página web muestre el icono de un candado cerrado?
-   - A) Que la página está bloqueada y nadie puede ver su contenido.
-   - B) Que la conexión es segura, privada y tu información viaja protegida(3).
-   - C) Que el sitio web es muy caro y hay que pagar para usarlo.
-   - D) Que tu computadora tiene un virus y se va a apagar pronto.
-
+   - A) Que la página está bloqueada por el gobierno y nadie puede ver su contenido.
+   - B) Que la conexión es segura, privada y tu información viaja protegida.
+   - C) Que el sitio es de pago y debes registrarte antes de leer cualquier texto.
+   - D) Que tu antivirus ya eliminó todo malware detectado en esa dirección.
 4. ¿Para qué sirve principalmente la dirección URL en Internet?
-   - A) Para que la música se escuche mucho más fuerte en las bocinas.
-   - B) Es la dirección única que nos permite localizar un sitio web determinado(4).
-   - C) Es el nombre del fabricante de la computadora que usamos.
-   - D) Es una clave secreta que sirve para resetear el Wi-Fi de la casa.
-
+   - A) Es la clave WPA del módem que permite conectar dispositivos al Wi-Fi doméstico.
+   - B) Es el nombre del proveedor de Internet que factura tu servicio mensual.
+   - C) Es la dirección única que nos permite localizar un sitio web determinado.
+   - D) Es el historial automático de sitios visitados en las últimas veinticuatro horas.
 5. Si una página te pide tus datos personales pero NO tiene el candado de seguridad, ¿qué debes hacer?
-   - A) Escribir tus datos rápido para que la página no se cierre.
-   - B) Salir de ese sitio de inmediato, ya que podrían robar tu información(5).
-   - C) Avisarle a todos tus amigos para que entren a verla también.
-   - D) Intentar entrar desde otro celular para ver si ahí sí es seguro.
-
+   - A) Completar el formulario rápido antes de que caduque la sesión del sitio.
+   - B) Probar el mismo enlace en modo incógnito para ver si ahí aparece el candado.
+   - C) Escribir solo datos ficticios porque el navegador los cifrará igual sin HTTPS.
+   - D) Salir de ese sitio de inmediato, ya que podrían robar tu información.
 6. ¿Qué función cumple el "Historial" dentro de tu navegador?
-   - A) Es un libro que cuenta la historia de cómo se inventaron las máquinas.
-   - B) Es el registro de todas las páginas web que has visitado anteriormente(6).
-   - C) Es la lista de todos los correos electrónicos que has enviado.
-   - D) Es el lugar donde se guardan las fotos borradas del celular.
+   - A) El registro de archivos descargados y su carpeta de destino en el disco.
+   - B) La lista de contraseñas guardadas para iniciar sesión automáticamente.
+   - C) El registro de todas las páginas web que has visitado anteriormente.
+   - D) El inventario de extensiones instaladas y los permisos que les diste.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. C | 2. D | 3. B | 4. C | 5. D | 6. C

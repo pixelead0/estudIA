@@ -177,43 +177,37 @@ Pregúntale a un profesor: "¿Cuál es la fuente de información más extraña q
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Para qué sirve poner una frase entre comillas (" ") al buscar en Google?
-   - A) Para que las letras del resultado salgan en color azul brillante.
-   - B) Para buscar la frase exacta y en el mismo orden de palabras(1).
-   - C) Para ocultar la búsqueda de otras personas que usen la compu.
-   - D) Para que Google nos cobre por la información que estamos viendo.
-
+   - A) Para que el buscador ignore mayúsculas y minúsculas en cada palabra suelta.
+   - B) Para buscar sinónimos de cada término aunque no aparezcan en tu frase original.
+   - C) Para buscar la frase exacta y en el mismo orden de palabras.
+   - D) Para limitar los resultados a archivos PDF mediante el operador filetype.
 2. ¿Cuál de estas terminaciones de dirección web es considerada la más confiable para una tarea?
-   - A) .com (comercial y de ventas).
-   - B) .edu (educación) o .gob (gobierno)(2).
-   - C) .tk (páginas gratuitas y sencillas).
-   - D) .xyz (dominios genéricos y nuevos).
-
+   - A) .com, porque la mayoría de sitios comerciales verifican sus datos con expertos.
+   - B) .org, porque todas las organizaciones sin fines de lucro publican solo hechos comprobados.
+   - C) .net, porque está reservada exclusivamente a redes académicas y gubernamentales.
+   - D) .edu (educación) o .gob (gobierno).
 3. Si el primer resultado de tu búsqueda dice "Patrocinado", ¿qué es lo más inteligente?
-   - A) Darle clic de inmediato porque debe ser la mejor información.
-   - B) Ignorarlo y bajar un poco para buscar resultados reales y no pagados(3).
-   - C) Apagar la computadora porque significa que tiene un virus.
-   - D) Comprar el producto que están anunciando para poder seguir leyendo.
-
+   - A) Ignorarlo y bajar un poco para buscar resultados reales y no pagados.
+   - B) Darle clic de inmediato porque pagó por aparecer primero y debe ser la mejor fuente.
+   - C) Copiar el enlace patrocinado en tu bibliografía porque ya pasó un filtro editorial.
+   - D) Repetir la misma búsqueda en otro navegador para que desaparezca la etiqueta.
 4. ¿Qué son técnicamente las "Fake News"?
-   - A) Noticias muy antiguas que ya no le interesan a nadie hoy.
-   - B) Información falsa creada a propósito para engañar a la gente(4).
-   - C) Un tipo de programa muy rápido para navegar por la red.
-   - D) El nombre de una red social nueva para jóvenes.
-
+   - A) Información falsa creada a propósito para engañar a la gente.
+   - B) Titulares desactualizados que fueron verdaderos en su momento pero ya no aplican.
+   - C) Resúmenes automáticos que Google genera al inicio de la página de resultados.
+   - D) Notas de opinión firmadas por columnistas en periódicos reconocidos.
 5. ¿Cuál es la utilidad del filtro `site:.org` al buscar información?
-   - A) Buscar solo en páginas de organizaciones sin fines de lucro(5).
-   - B) Borrar todos los archivos de tu computadora automáticamente.
-   - C) Crear una página web nueva en menos de cinco minutos.
-   - D) Jugar videojuegos directamente desde el buscador de Google.
-
+   - A) Restringir la búsqueda a dominios educativos terminados en .edu o .gob.
+   - B) Excluir del resultado cualquier palabra que escribas después del signo menos.
+   - C) Buscar solo en páginas de organizaciones sin fines de lucro.
+   - D) Forzar que los resultados incluyan comillas alrededor de la frase completa.
 6. ¿Por qué se recomienda comparar la información en al menos tres sitios diferentes?
-   - A) Para gastar más datos de Internet y que la señal no se pierda.
-   - B) Para confirmar que los datos son reales y no un error de un solo sitio(6).
-   - C) Para ver qué página tiene los colores más bonitos y llamativos.
-   - D) No es necesario hacerlo, ya que Google siempre dice la verdad.
+   - A) Porque el buscador solo muestra la verdad cuando detecta tres coincidencias exactas.
+   - B) Para confirmar que los datos son reales y no un error de un solo sitio.
+   - C) Para cumplir el requisito legal de citar mínimo tres autores en cada párrafo.
+   - D) Para elegir el sitio con mejor diseño visual aunque los datos no coincidan.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. A | 6. B
+1. C | 2. D | 3. A | 4. A | 5. C | 6. B

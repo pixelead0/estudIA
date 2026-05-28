@@ -179,43 +179,37 @@ Pregúntale a un adulto: "¿Qué es lo que más te distrae cuando alguien hace u
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es la diferencia real entre una Transición y una Animación?
-   - A) No hay ninguna diferencia, se puede usar cualquier palabra para lo mismo.
-   - B) La transición es el paso entre hojas; la animación es el movimiento dentro de la hoja(1).
-   - C) La transición solo sirve para fotos y la animación es solo para letras.
-   - D) Las transiciones son gratis y las animaciones cuestan dinero bajarlas.
-
+   - A) La transición es el paso entre hojas; la animación es el movimiento dentro de la hoja.
+   - B) La transición solo afecta al texto y la animación solo a las imágenes importadas.
+   - C) No hay diferencia: ambos términos describen el cambio entre diapositivas completas.
+   - D) La transición requiere conexión a Internet y la animación funciona sin red.
 2. ¿Cuál es el peligro de usar sonidos ruidosos (como campanas) en tus animaciones?
-   - A) Que la computadora se quede sin batería muy rápido por el ruido.
-   - B) Que distraigan al público y se pierda la atención sobre el tema importante(2).
-   - C) Que el profesor crea que la computadora se está descomponiendo.
-   - D) No hay peligro, de hecho, entre más ruidos pongas es mucho mejor.
-
+   - A) Que el archivo .pptx deje de abrirse en computadoras sin tarjeta de sonido.
+   - B) Que distraigan al público y se pierda la atención sobre el tema importante.
+   - C) Que el proyector baje automáticamente el volumen de tu voz al hablar.
+   - D) Que PowerPoint desactive las transiciones hasta reiniciar el programa.
 3. Si quieres que una foto aparezca de forma suave en la pantalla mientras hablas, ¿qué usas?
-   - A) Animación de Salida.
-   - B) Animación de Entrada(3).
-   - C) Animación de Énfasis.
-   - D) Una Transición de página muy rápida.
-
+   - A) Una transición de diapositiva muy rápida al pasar a la siguiente hoja.
+   - B) Animación de salida aplicada al objeto antes de mostrarlo.
+   - C) Animación de énfasis sobre un cuadro vacío de la misma diapositiva.
+   - D) Animación de entrada.
 4. ¿Para qué sirve el efecto de "Énfasis" en una diapositiva?
-   - A) Para borrar una palabra que ya no quieres que nadie vea.
-   - B) Para hacer que un objeto resalte o llame la atención mientras ya está visible(4).
-   - C) Para cambiar automáticamente a la hoja que sigue en la presentación.
-   - D) Para poner un video musical de fondo en toda la exposición.
-
+   - A) Para cambiar automáticamente a la diapositiva siguiente al terminar el efecto.
+   - B) Para hacer que un objeto resalte o llame la atención mientras ya está visible.
+   - C) Para que el objeto desaparezca y deje espacio a otro elemento nuevo.
+   - D) Para reproducir audio de fondo sincronizado con cada viñeta de texto.
 5. ¿Cuál es el mejor consejo para usar transiciones de forma profesional?
-   - A) Usar una transición diferente y muy loca en cada hoja para que no se aburran.
-   - B) Usar la misma transición sencilla (como Desvanecer) en todo el trabajo(5).
-   - C) No usar nunca ninguna transición porque eso quita mucho tiempo.
-   - D) Hacer que las transiciones duren mucho tiempo para que la gente descanse.
-
+   - A) Usar la misma transición sencilla (como Desvanecer) en todo el trabajo.
+   - B) Elegir una transición distinta y llamativa en cada hoja para mantener sorpresa.
+   - C) Alargar cada transición varios segundos para que el público descanse entre temas.
+   - D) Desactivar todas las transiciones porque consumen memoria RAM del equipo.
 6. ¿Para qué sirve el "Panel de Animación" de tu programa?
-   - A) Para dibujar flores y nubes directamente sobre las fotos que pusiste.
-   - B) Para ver el orden de los movimientos y ajustar su velocidad y tiempo(6).
-   - C) Para cambiar el color de todas las letras de la presentación al mismo tiempo.
-   - D) Para guardar el archivo final en una carpeta segura de tu computadora.
+   - A) Para guardar el archivo final en una carpeta segura de tu computadora.
+   - B) Para ver el orden de los movimientos y ajustar su velocidad y tiempo.
+   - C) Para cambiar el tamaño de papel y la orientación de la presentación.
+   - D) Para insertar hipervínculos que abren páginas web durante la exposición.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. A | 2. B | 3. D | 4. B | 5. A | 6. B

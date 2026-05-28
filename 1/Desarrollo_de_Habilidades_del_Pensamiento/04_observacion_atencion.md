@@ -201,43 +201,37 @@ Cuando decides apagar las notificaciones para estudiar o cuando miras a los ojos
 Pregúntale a un fotógrafo o a un guardia de seguridad: "¿Cómo entrenas tu vista para detectar detalles que otros no ven?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es la diferencia técnica fundamental entre "Percibir" y "Observar"?
-   - A) Percibir es voluntario y observar es un acto inconsciente del cerebro.
-   - B) Percibir es recibir información sensorial de forma automática; observar es un acto voluntario con un propósito.
-   - C) No existe ninguna diferencia; ambas palabras significan exactamente lo mismo.
-   - D) Percibir se hace solo con los ojos y observar se hace solo con los oídos.
-
+   - A) Percibir y observar son sinónimos: ambos exigen un propósito consciente.
+   - B) Percibir es voluntario; observar ocurre sin que lo decidas.
+   - C) Percibir es recibir estímulos de forma automática; observar es voluntario y con propósito.
+   - D) Percibir solo usa la vista; observar solo usa el oído.
 2. ¿En qué consiste la "Atención Selectiva" (de enfoque) y por qué es útil en clase?
-   - A) En tratar de escuchar todas las conversaciones al mismo tiempo para no perderse de nada.
-   - B) En la capacidad de enfocarse en el profesor e ignorar los ruidos o distracciones del entorno.
-   - C) En elegir solamente las materias que nos gustan y no entrar a las que nos aburren.
-   - D) En cerrar los ojos para poder imaginar mejor lo que se está diciendo.
-
+   - A) Escuchar todas las conversaciones del salón para no perder ningún dato.
+   - B) Elegir materias favoritas y ausentarse mentalmente en las demás.
+   - C) Cerrar los ojos para bloquear por completo la entrada sensorial.
+   - D) Enfocarte en lo relevante (p. ej. al maestro) e inhibir distracciones del entorno.
 3. ¿Qué es la "Atención Sostenida" (firme) y cuándo es más necesaria?
-   - A) Es la capacidad de mantener el enfoque durante un largo periodo, como durante un examen o una lectura larga.
-   - B) Es cuando la atención se queda "atrapada" en un distractor como un video corto.
-   - C) Es el tipo de atención que usamos para parpadear de forma automática.
-   - D) Realmente no existe ese tipo de atención en los seres humanos modernos.
-
+   - A) Mantener el enfoque durante un periodo prolongado, como en un examen o lectura larga.
+   - B) Cambiar de estímulo cada pocos segundos para no aburrirse.
+   - C) Quedarte atrapado en un distractor breve, como un video de unos segundos.
+   - D) Parpadear y otros reflejos que no requieren concentración consciente.
 4. ¿A qué nos referimos con el concepto de "Atención Dividida"?
-   - A) A cuando perdemos la atención por completo y nos quedamos con la mente en blanco.
-   - B) A la capacidad de procesar dos o más fuentes de información al mismo tiempo (aunque con más esfuerzo).
-   - C) A dividir el grupo en dos equipos para realizar un concurso de atención.
-   - D) A cuando la atención se corta a la mitad debido a un sonido muy fuerte.
-
+   - A) Perder por completo el foco y quedarte en blanco ante un estímulo fuerte.
+   - B) Procesar dos o más fuentes de información a la vez, con mayor esfuerzo y costo.
+   - C) Alternar turnos en un equipo para que cada quien observe una parte.
+   - D) Seleccionar un solo estímulo e ignorar todo lo demás sin excepción.
 5. Según las Leyes de la Gestalt, ¿qué hace tu cerebro si a la silueta de un perro le falta un pedazo?
-   - A) Sufre una alucinación y ve un gato en su lugar.
-   - B) "Cierra" el espacio imaginando la línea que falta para que tenga sentido.
-   - C) Deja de funcionar y se reinicia por completo.
-   - D) Ve los puntos por separado sin lograr entender el dibujo.
-
+   - A) Registra solo puntos sueltos sin completar la figura.
+   - B) "Cierra" el espacio imaginando la línea que falta para que la figura tenga sentido.
+   - C) Deja de procesar la imagen hasta recibir el dibujo completo.
+   - D) Sustituye la figura por otra distinta que no estaba en el estímulo.
 6. ¿Cuál es la diferencia exacta entre una "Ilusión" y una "Alucinación"?
-   - A) En la ilusión el objeto es real pero se interpreta mal; en la alucinación el objeto no existe en absoluto.
-   - B) La ilusión es un problema de los oídos y la alucinación es un problema de los ojos.
-   - C) Son exactamente lo mismo, dos formas de nombrar la falta de atención.
-   - D) La ilusión ocurre de día y la alucinación solo ocurre de noche.
+   - A) La ilusión ocurre solo de noche; la alucinación solo de día.
+   - B) Que la ilusión requiere estímulo externo y la alucinación no; ambas son lo mismo.
+   - C) En la ilusión hay estímulo real mal interpretado; en la alucinación el estímulo no existe.
+   - D) La ilusión es auditiva; la alucinación siempre es visual.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. A | 4. B | 5. B | 6. A
+1. C | 2. D | 3. A | 4. B | 5. B | 6. C

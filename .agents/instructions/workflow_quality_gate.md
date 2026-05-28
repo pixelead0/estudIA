@@ -32,6 +32,11 @@ Ejecuta el script de auditoría para validar la integridad del archivo:
 - **Computación**: [El Tecnólogo](../experts/computer_scientist.md) (Eficacia técnica).
 - **DHP**: [El Científico Cognitivo](../experts/cognitive_scientist.md) (Procesos mentales).
 
+### 5. Cuestionarios «Pon a prueba» (distractores avanzados)
+- **Comando**: `python3 scripts/audit_quiz_quality.py` (solo flags; no reescribe).
+- **Requisito**: sin `(N)` en opciones A–D; sin distractores obvios; clave repartida (~20–30 % por letra, sin rachas de 3+).
+- **Gate piloto (2026-05-27)**: listos para revisión humana — `07_procesador_textos_inicio.md` (Computación), `07_razonamiento_logico.md` (DHP), `08_prioridades_valores.md` (Filosofía). Fase 2 aplicada al resto de módulos con cuestionario.
+
 ## Resolución del Auditor
 - **APROBADO**: El módulo o materia cumple con el 100% de los estándares.
 - **RECHAZADO**: Indica exactamente qué sección o criterio falló. El agente responsable debe corregir meticulosamente.

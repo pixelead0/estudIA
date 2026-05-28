@@ -174,40 +174,41 @@ Pregúntale a un profesor o a tus papás: "¿Cuál es el valor que consideran el
 ## 🏆 Pon a prueba
 
 1. ¿Qué es la "Jerarquía de Valores"?
-   - A) Una lista de precios.
-   - B) El orden de importancia que le damos a los valores según su calidad y duración.
-   - C) Una regla del ejército.
-   - D) No tiene significado en ética.
+   - A) Un catálogo alfabético de virtudes sin decidir cuál pesa más que otra.
+   - B) La lista de leyes penales que el Estado aplica en orden de gravedad.
+   - C) El orden de importancia que damos a los valores según su calidad y duración.
+   - D) La cantidad de personas que comparten el mismo valor en una encuesta.
 
 2. ¿Qué significa la "Bipolaridad" de los valores?
-   - A) Que los valores cambian de humor.
-   - B) Que cada valor tiene un polo positivo y un polo negativo (opuesto).
-   - C) Que hay dos tipos de valores solamente.
-   - D) Que los valores son eléctricos.
+   - A) Que los valores cambian según el estado de ánimo de cada persona.
+   - B) Que solo existen dos valores universales válidos para todas las culturas.
+   - C) Que cada persona puede tener como máximo dos valores personales a la vez.
+   - D) Que cada valor tiene un polo positivo y un polo negativo u opuesto.
 
 3. ¿Cuál es el principio que orienta una toma de decisiones?
-   - A) Lo que me dé más dinero.
+   - A) Maximizar el placer inmediato aunque afecte a otros después.
    - B) El bienestar de todos los seres humanos y el respeto a la dignidad.
-   - C) Lo que sea más divertido.
-   - D) Lo que diga la televisión.
+   - C) Seguir la opinión mayoritaria en redes sociales sin cuestionarla.
+   - D) Obedecer cualquier norma escrita aunque contradiga el respeto a las personas.
 
 4. ¿A qué se le denomina "Crisis de Valores" en relación con la jerarquía?
-   - A) A que no sabemos qué es lo más importante y confundimos los valores inferiores con los superiores.
-   - B) A que los valores son muy caros.
-   - C) A que ya no hay valores en el mundo.
-   - D) No existe tal crisis.
+   - A) Confundir valores inferiores con superiores y no saber qué priorizar.
+   - B) El aumento del costo de vida que impide practicar la honestidad.
+   - C) La desaparición total de la ética en la sociedad contemporánea.
+   - D) El desacuerdo entre dos amigos sobre un hobby o pasatiempo.
 
 5. ¿Cuál es la característica de un valor superior?
-   - A) Que es más grande físicamente.
-   - B) Que es más duradero, indivisible y fundamenta a otros valores.
-   - C) Que todos lo tienen.
-   - D) Que se puede comprar.
+   - A) Ser el más mencionado en tendencias o influencers del momento.
+   - B) Poder repartirse entre varias personas como si fuera dinero o tiempo.
+   - C) Ser más duradero, indivisible y servir de base a otros valores.
+   - D) Ser un hábito que se forma automáticamente en tres semanas sin reflexión.
 
 6. ¿Cómo se construye una jerarquía de valores sana?
-   - A) Copiando la de otros.
-   - B) A través de la reflexión, la experiencia y el compromiso con el bien humano.
-   - C) Siguiendo los impulsos.
-   - D) No se construye, se nace con ella.
+   - A) Copiando la lista de un famoso sin adaptarla a tu experiencia.
+   - B) Mediante reflexión, experiencia y compromiso con el bien humano.
+   - C) Dejando que cada impulso del momento decida el orden del día.
+   - D) Heredándola completa al nacer, sin posibilidad de revisarla nunca.
 
 ## 🔑 Respuestas
-1. B | 2. B | 3. B | 4. A | 5. B | 6. B
+
+1. C | 2. D | 3. B | 4. A | 5. C | 6. B

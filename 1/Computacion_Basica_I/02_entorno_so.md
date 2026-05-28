@@ -176,43 +176,37 @@ Pregúntale a alguien: "¿Cuál fue el primer sistema operativo que conociste y 
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es la función principal y más importante del Sistema Operativo?
-   - A) Servir únicamente como plataforma para jugar videojuegos de alta calidad.
-   - B) Administrar el hardware y permitir que el usuario interactúe con el equipo fácilmente(1).
-   - C) Limpiar físicamente el polvo de los componentes internos de la computadora.
-   - D) Comprar y descargar aplicaciones nuevas de forma automática sin permiso.
-
+   - A) Ejecutar únicamente el navegador web sin permitir instalar otras aplicaciones.
+   - B) Almacenar de forma permanente documentos y fotos sustituyendo al disco duro.
+   - C) Administrar el hardware y permitir que el usuario interactúe con el equipo fácilmente.
+   - D) Descargar e instalar programas nuevos sin pedir confirmación al usuario.
 2. Si comparamos la computadora con una casa, ¿qué papel juega el Sistema Operativo?
-   - A) Sería únicamente la televisión del cuarto principal.
-   - B) Los cimientos, las paredes y los servicios (luz, agua) que permiten habitarla(2).
-   - C) Sería un cuadro decorativo colgado en la pared de la sala.
-   - D) La llave metálica de la puerta del jardín trasero.
-
+   - A) El plano arquitectónico impreso que describe la casa pero no la habita.
+   - B) Los cimientos, las paredes y los servicios (luz, agua) que permiten habitarla.
+   - C) El mueble físico del escritorio donde apoyas monitor, teclado y CPU.
+   - D) La decoración interior que personaliza el aspecto sin sostener la estructura.
 3. ¿Cuál de los siguientes es el sistema operativo más utilizado en computadoras de oficina y escuelas?
-   - A) Android.
-   - B) Windows(3).
-   - C) iOS.
-   - D) Linux.
-
+   - A) Android, porque es el más común en teléfonos y tablets de estudiantes.
+   - B) iOS, porque viene preinstalado en laptops educativas de varias marcas.
+   - C) Linux, porque todas las escuelas públicas lo usan de forma exclusiva.
+   - D) Windows.
 4. ¿Qué sucedería realmente si decidieras borrar el Sistema Operativo de tu dispositivo?
-   - A) El equipo se volvería mucho más rápido al no tener procesos pesados.
-   - B) El equipo encenderá físicamente, pero no podrás usar ninguna función; será inútil(4).
-   - C) Solo podrías usar el navegador de Internet para tareas muy básicas.
+   - A) El equipo encenderá físicamente, pero no podrás usar ninguna función; será inútil.
+   - B) Solo podrías usar el navegador de Internet para tareas muy básicas sin instalar nada.
+   - C) El equipo se volvería mucho más rápido al no tener procesos pesados en segundo plano.
    - D) La pantalla cambiaría de color permanentemente a un tono azul brillante.
-
 5. El concepto de "Escritorio" en un sistema operativo tiene como propósito:
    - A) Servir de soporte físico para poner la computadora encima de él.
-   - B) Ofrecer una pantalla principal donde tengamos a la mano los iconos y archivos(5).
-   - C) Permitirnos escribir notas con un lápiz real sobre el monitor.
-   - D) Guardar de forma temporal la basura digital del equipo para borrarla.
-
+   - B) Mostrar únicamente el panel de control de hardware sin acceso a programas.
+   - C) Ofrecer una pantalla principal donde tengamos a la mano los iconos y archivos.
+   - D) Sustituir al explorador de archivos para abrir carpetas solo por línea de comandos.
 6. ¿Cómo se llama técnicamente a la barra donde vemos la hora y las aplicaciones abiertas?
-   - A) Barra de navegación rápida y furiosa.
-   - B) Barra de tareas(6).
-   - C) Barra de estado de chocolate.
-   - D) Menú de inicio de sesión principal.
+   - A) Barra de menú de inicio de sesión principal.
+   - B) Barra de direcciones del navegador web.
+   - C) Barra de estado de la ventana activa únicamente.
+   - D) Barra de tareas.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B
+1. C | 2. B | 3. D | 4. A | 5. C | 6. D

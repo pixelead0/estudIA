@@ -179,66 +179,56 @@ Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Qué es la "Identidad Nacional"?
-   - A) Tener un pasaporte.
-   - B) El conjunto de valores, símbolos y tradiciones que nos dan sentido de pertenencia a una nación.
-   - C) Saberse todas las ciudades de México.
-   - D) Vivir en la capital.
-
+   - A) Residir en la capital del país como requisito exclusivo.
+   - B) Poseer pasaporte vigente sin vínculo con valores compartidos.
+   - C) El conjunto de valores, símbolos y tradiciones que nos dan sentido de pertenencia a una nación.
+   - D) Conocer de memoria el nombre de todas las ciudades del territorio.
 2. ¿Cuáles son los Elementos del Estado?
-   - A) Dinero, Bancos y Comercios.
-   - B) Población, Territorio y Gobierno (Soberanía).
-   - C) Televisión, Radio e Internet.
-   - D) Solo el Presidente.
-
+   - A) La figura del presidente como único componente estatal.
+   - B) Medios de comunicación masiva como radio, TV e internet.
+   - C) Sistema financiero de bancos y comercios privados.
+   - D) Población, Territorio y Gobierno (Soberanía).
 3. ¿Cuáles son los símbolos patrios de los mexicanos?
-   - A) El fútbol y la comida.
-   - B) El Escudo, la Bandera y el Himno Nacional.
-   - C) Las pirámides y las playas.
-   - D) El tequila y el mariachi.
-
+   - A) El Escudo, la Bandera y el Himno Nacional.
+   - B) Deportes populares y gastronomía como emblemas oficiales constitucionales.
+   - C) Bebidas y géneros musicales reconocidos internacionalmente.
+   - D) Monumentos arqueológicos y zonas turísticas costeras.
 4. ¿Cuáles son los tres Poderes Políticos de México?
-   - A) Rico, Medio y Pobre.
-   - B) Ejecutivo, Legislativo y Judicial.
-   - C) Norte, Centro y Sur.
-   - D) No hay poderes.
-
+   - A) Ejecutivo, Legislativo y Judicial.
+   - B) Estratos económicos alto, medio y bajo como poderes formales.
+   - C) Regiones norte, centro y sur con soberanía independiente.
+   - D) No existen poderes separados: todo concentra el ejecutivo.
 5. ¿Cómo se integra el Poder Legislativo en México?
-   - A) Solo por el Presidente.
-   - B) Por el Congreso de la Unión (Cámara de Diputados y Cámara de Senadores).
-   - C) Por los jueces de la corte.
-   - D) Por los gobernadores.
-
+   - A) Por los jueces del Poder Judicial de la Federación.
+   - B) Por los gobernadores de cada entidad federativa en solitario.
+   - C) Por el Congreso de la Unión (Cámara de Diputados y Cámara de Senadores).
+   - D) Exclusivamente por el Presidente de la República.
 6. ¿Por qué se dice que "quien no ama a su tierra no ama a su madre"?
-   - A) Porque son la misma persona.
-   - B) Porque la tierra que nos vio nacer y crecer nos da identidad y sustento, igual que una madre.
-   - C) Porque es una canción famosa.
-   - D) Es solo un dicho sin importancia.
-
+   - A) Porque proviene de una canción popular sin sentido filosófico.
+   - B) Porque es dicho vacío sin relación con identidad ni afecto.
+   - C) Porque tierra y madre son la misma persona en sentido literal.
+   - D) Porque la tierra que nos vio nacer y crecer nos da identidad y sustento, igual que una madre.
 7. ¿Cuáles son las características de la Identidad del Instituto Politécnico Nacional (IPN)?
-   - A) Tener los mejores equipos de fútbol.
+   - A) Ser la institución educativa más antigua del país sin más rasgos.
    - B) Su lema "La Técnica al Servicio de la Patria", sus colores guinda y blanco, y su compromiso social.
-   - C) Ser la escuela más antigua de México.
-   - D) No tener una identidad propia.
-
+   - C) Destacar únicamente por equipos deportivos de alto rendimiento.
+   - D) Carecer de identidad propia al ser extensión de otras universidades.
 8. ¿Cuáles son los Principios del Código de Ética del IPN?
-   - A) Ganar siempre y no perder.
+   - A) Ser el más rápido en competencias sin importar integridad.
    - B) Honestidad, responsabilidad, respeto, justicia social e integridad.
-   - C) Ser el más rápido en todo.
-   - D) Solo obedecer a los maestros.
-
+   - C) Obedecer a docentes sin reflexión ética personal.
+   - D) Ganar siempre aunque se vulneren normas y personas.
 9. ¿Cuál es la diferencia entre los Valores de la Identidad Nacional y la Dignidad Humana?
-   - A) No hay diferencia.
-   - B) Los de Identidad Nacional nos unen a una patria específica; la Dignidad Humana es universal para todas las personas.
-   - C) La Dignidad Humana es solo para los adultos.
-   - D) Los de Identidad Nacional son leyes y la Dignidad es un sentimiento.
-
+   - A) La dignidad humana aplica solo a personas adultas.
+   - B) Los valores nacionales son leyes penales y la dignidad un sentimiento pasajero.
+   - C) Los de Identidad Nacional nos unen a una patria específica; la Dignidad Humana es universal para todas las personas.
+   - D) No hay diferencia: patria y dignidad son términos intercambiables.
 10. ¿Qué son los "Valores Aprendidos" en el contexto de la identidad?
-    - A) Lo que memorizamos para los exámenes.
+    - A) No existen: solo hay valores innatos que no se modifican.
     - B) Principios que adquirimos de nuestra cultura y familia que nos permiten orientar nuestro comportamiento como ciudadanos.
-    - C) Solo los que se enseñan en el kínder.
-    - D) No existen esos valores.
+    - C) Definiciones memorizadas para exámenes sin aplicación vital.
+    - D) Contenidos exclusivos de educación preescolar sin continuidad.
 
 ## 🔑 Respuestas
-1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B
+1. C | 2. D | 3. A | 4. A | 5. C | 6. D | 7. B | 8. B | 9. C | 10. B

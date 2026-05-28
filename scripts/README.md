@@ -93,5 +93,11 @@ Regenerar índice: `python3 .agents/scratch/gen_video_index.py "1/Computacion_Ba
 | Archivo | Rol breve |
 |---------|-----------|
 | `audit_modules.py` | Auditoría de estructura/reglas en módulos. |
+| `audit_quiz_quality.py` | Solo flags en «Pon a prueba»: distractores obvios/genéricos, `(N)` en opciones, clave desbalanceada (no reescribe). |
+| `strip_quiz_option_refs.py` | Quita `(N)` de las opciones A–D en «Pon a prueba» (las anclas siguen en Entiende). |
 | `rigorous_audit.py` | Reglas estrictas adicionales (secciones, palabras prohibidas, etc.). |
 | `generate-content-index.js` | Índice / generación de contenido (Node). |
+
+### `shuffle_quiz_answers.py` (obsoleto — solo histórico)
+
+**No usar** para contenido en producción: mezcla letras y sustituye distractores por plantillas genéricas («Para una consecuencia secundaria…»), por debajo del estándar «super avanzado» de `module_schema_v3.md` § Distractores avanzados. Conservado únicamente como referencia de patrones prohibidos para `audit_quiz_quality.py`. La reescritura de opciones es **manual**.

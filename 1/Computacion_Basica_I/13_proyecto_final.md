@@ -175,43 +175,37 @@ Pregúntale a un adulto: "¿Cuál ha sido el proyecto más difícil que has teni
 
 
 ## 🏆 Pon a prueba
-
 1. ¿Cuál es el objetivo principal de realizar este Proyecto Final?
-   - A) Copiar y pegar la mayor cantidad posible de información de Internet.
-   - B) Aplicar todo lo aprendido para crear un trabajo profesional y útil.
-   - C) Ver quién de todo el grupo es el que termina más rápido la tarea.
-   - D) Gastar la mayor cantidad de hojas de papel y tinta de color.
-
+   - A) Aplicar todo lo aprendido para crear un trabajo profesional y útil.
+   - B) Copiar la mayor cantidad posible de párrafos encontrados en el primer resultado de Google.
+   - C) Competir por entregar antes que el resto del grupo sin revisar ortografía ni formato.
+   - D) Imprimir el máximo de hojas a color para demostrar dominio del hardware de la escuela.
 2. Para que tu presentación sea exitosa y profesional, ¿qué debes priorizar?
-   - A) Poner muchísimo texto para que no se te olvide nada al hablar.
-   - B) Usar imágenes claras y de alta calidad que apoyen tus ideas(2).
-   - C) Usar todas las animaciones y ruidos de explosiones al mismo tiempo.
-   - D) No poner ninguna foto para que el archivo sea muy ligero.
-
+   - A) Evitar toda imagen para que el archivo pese menos de un megabyte.
+   - B) Usar imágenes claras y de alta calidad que apoyen tus ideas.
+   - C) Llenar cada diapositiva de texto detallado para leerlo durante la exposición.
+   - D) Aplicar en cada hoja una transición y un sonido distinto para mantener atención.
 3. Según las reglas de orden, ¿cómo deberías nombrar la carpeta de tu proyecto?
-   - A) Proyecto_Final_Nombre_Materia_2024(3).
-   - B) asdasd123_final_final_este_si_es_el_bueno.
-   - C) Tarea de computación básica que me pidió el profe.
-   - D) No hay que ponerle nombre para que sea un misterio para el maestro.
-
+   - A) Nueva carpeta copia, porque el sistema ya evita duplicar nombres iguales.
+   - B) Tarea de computación básica que me pidió el profe, porque describe la materia.
+   - C) Proyecto_Final_Nombre_Materia_2024.
+   - D) Dejar el nombre predeterminado para que el maestro identifique tu equipo por número de serie.
 4. ¿Por qué es fundamental que un investigador cite las fuentes de su información?
-   - A) Para que el documento se vea más largo y parezca que escribió mucho.
-   - B) Para dar crédito a los autores originales y demostrar que sus datos son reales(4).
-   - C) Porque Google borra automáticamente los trabajos que no tienen citas.
-   - D) No tiene ninguna importancia, nadie lee las citas al final.
-
+   - A) Para que el documento alcance el mínimo de páginas exigido sin agregar contenido propio.
+   - B) Porque las citas sustituyen la necesidad de verificar datos en tres sitios distintos.
+   - C) Porque el buscador bloquea archivos .docx que no incluyen al menos diez URLs.
+   - D) Para dar crédito a los autores originales y demostrar que sus datos son reales.
 5. Antes de entregar tu reporte escrito final, ¿qué es lo más importante que debes revisar?
-   - A) Que el color de la hoja digital sea un tono de azul muy oscuro.
-   - B) La ortografía impecable, el formato ordenado y los márgenes correctos(5).
-   - C) Que el documento tenga por lo menos 100 fotos de diferentes temas.
-   - D) Que el archivo final sea el más pesado de todo el salón.
-
+   - A) Que el color de fondo del documento sea azul oscuro en todas las secciones.
+   - B) Que el archivo sea el más pesado del salón para demostrar investigación profunda.
+   - C) Que incluya al menos cien imágenes aunque no se relacionen con el tema central.
+   - D) La ortografía impecable, el formato ordenado y los márgenes correctos.
 6. ¿Qué herramienta técnica sirve para enviar todos tus archivos juntos en un solo "paquete"?
-   - A) El brillo máximo del monitor de tu computadora.
-   - B) Comprimir la carpeta completa en un archivo de formato .zip o .rar(6).
-   - C) Cambiar el fondo de pantalla por uno de tu serie favorita.
-   - D) Borrar los archivos temporales que no sirven de tu equipo.
+   - A) Cambiar el fondo de pantalla del equipo antes de subir la carpeta a la nube.
+   - B) Renombrar cada archivo con la misma extensión .txt para unificarlos.
+   - C) Comprimir la carpeta completa en un archivo de formato .zip o .rar.
+   - D) Vaciar la Papelera de Reciclaje para liberar espacio en el disco local.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. A | 4. B | 5. B | 6. B
+1. A | 2. B | 3. C | 4. D | 5. D | 6. C

@@ -212,43 +212,37 @@ Saber decir "no" a las opciones que no te sirven es lo que te permite decir un "
 Pregúntale a un adulto: "¿Cuál ha sido la decisión más difícil que has tomado y a qué tuviste que renunciar para lograrlo?".
 
 ## 🏆 Pon a prueba
-
 1. ¿Cómo se define técnicamente el proceso de "Contracción de Ideas"?
-   - A) El acto de inventar miles de ideas locas sin importar si funcionan o no.
-   - B) El proceso de filtrar, evaluar y seleccionar la mejor opción entre varias posibilidades.
-   - C) Olvidar todas las soluciones posibles para empezar desde cero.
-   - D) Lograr que todas las personas del grupo cambien de opinión constantemente.
-
+   - A) Filtrar, evaluar y elegir la mejor opción entre varias posibilidades.
+   - B) Generar más alternativas sin criterio para no cerrar el debate.
+   - C) Olvidar todas las opciones y empezar el problema desde cero.
+   - D) Cambiar de opinión cada minuto para no asumir consecuencias.
 2. ¿A qué nos referimos con el término "Pensamiento Convergente" en este curso?
-   - A) A un pensamiento que se dispersa en muchas direcciones sin control.
-   - B) A la capacidad de enfocar la mente en una sola solución lógica, práctica y correcta.
-   - C) Al estado de sueño profundo donde no se producen ideas claras.
-   - D) A la habilidad de hablar de muchos temas al mismo tiempo.
-
+   - A) Dispersar la mente en muchas direcciones sin elegir una ruta.
+   - B) Hablar de varios temas a la vez sin relacionarlos con el reto.
+   - C) Enfocar la mente en una solución lógica, práctica y defendible.
+   - D) Soñar despierto sin comparar opciones con datos ni criterios.
 3. ¿Cuál es la utilidad primordial de una "Matriz de Decisión" o Tabla de Calificación?
-   - A) Sirve para que la decisión sea mucho más lenta y difícil de tomar para los alumnos.
-   - B) Permite comparar las opciones de forma objetiva usando criterios importantes para nosotros.
-   - C) Es una herramienta para que el profesor sepa quién es el más inteligente del grupo.
-   - D) No tiene ninguna utilidad real, ya que siempre debemos decidir por impulso.
-
+   - A) Decidir por impulso porque la intuición siempre es más rápida.
+   - B) Comparar opciones con criterios explícitos de forma más objetiva.
+   - C) Medir quién del salón tiene mayor coeficiente intelectual.
+   - D) Alargar el proceso sin aportar información para la elección final.
 4. ¿Para qué nos sirve establecer "Prioridades" antes de iniciar la contracción de ideas?
-   - A) Para saber qué es lo más importante y valioso en una situación específica.
-   - B) Para lograr que todas las tareas se hagan al mismo tiempo sin ningún orden.
-   - C) Para confundir a los compañeros y que no sepan qué decisión vamos a tomar.
-   - D) Para gastar la mayor cantidad de dinero posible en cosas innecesarias.
-
+   - A) Hacer todas las tareas a la vez sin orden de importancia.
+   - B) Identificar qué valor o meta pesa más en esa situación concreta.
+   - C) Gastar más recursos en lo que resulta menos relevante.
+   - D) Ocultar el criterio al grupo para sorprender con la decisión.
 5. ¿Cuál es el riesgo de NO realizar un proceso de contracción después de haber generado muchas ideas?
-   - A) Que el cerebro se vuelva demasiado rápido y eficiente de forma automática.
-   - B) Sentirse abrumado por el exceso de opciones y terminar por no tomar ninguna decisión útil.
-   - C) Que todas las personas del grupo nos consideren líderes creativos.
-   - D) Lograr que los problemas se resuelvan solos sin necesidad de nuestra intervención.
-
+   - A) Quedarte saturado de opciones y no decidir nada útil.
+   - B) Acelerar la decisión porque ya tienes demasiadas alternativas claras.
+   - C) Ser percibido como creativo aunque no ejecutes ninguna opción.
+   - D) Resolver el problema solo porque el tiempo pasa.
 6. ¿Qué es técnicamente el "Costo de Oportunidad" en la toma de decisiones?
-   - A) El precio en dinero que pagamos por comprar un objeto nuevo en la tienda.
-   - B) El valor de aquello a lo que renunciamos o dejamos de hacer al elegir una opción diferente.
-   - C) La oportunidad de ganar un premio en un concurso de la escuela.
-   - D) El tiempo que pasamos durmiendo durante el fin de semana.
+   - A) El precio en efectivo de comprar un producto en la tienda.
+   - B) Las horas de sueño que pierdes un fin de semana.
+   - C) Lo que dejas de obtener o hacer al elegir una alternativa distinta.
+   - D) La probabilidad de ganar un concurso escolar al azar.
 
 ## 🔑 Respuestas
 
-1. B | 2. B | 3. B | 4. A | 5. B | 6. B
+1. A | 2. C | 3. B | 4. B | 5. A | 6. C
