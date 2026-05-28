@@ -2,6 +2,15 @@ import './style.css';
 import { marked } from 'marked';
 import { isStudyModule } from './content/pipeline.js';
 import { webSectionHeadline, webSectionKicker } from './content/section-labels.js';
+import {
+  PROGRESS_REPORT_SLUG,
+  initProgressTracker,
+  mountProgressReport,
+  setupModuleProgressTracking,
+  teardownModuleObserver,
+  trackNav,
+  trackQuizResult,
+} from './content/progress-tracker.js';
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -75,14 +84,22 @@ async function loadSubjects() {
 
 function parseHash() {
   const raw = window.location.hash.replace(/^#\/?/, '').trim();
-  if (!raw) return { subjectId: null, moduleId: null };
+  if (!raw) return { subjectId: null, moduleId: null, report: false };
+  if (raw === PROGRESS_REPORT_SLUG) {
+    return { subjectId: null, moduleId: null, report: true };
+  }
   const i = raw.indexOf('/');
   if (i === -1) {
-    return { subjectId: decodeURIComponent(raw), moduleId: null };
+    return {
+      subjectId: decodeURIComponent(raw),
+      moduleId: null,
+      report: false,
+    };
   }
   return {
     subjectId: decodeURIComponent(raw.slice(0, i)),
     moduleId: decodeURIComponent(raw.slice(i + 1)),
+    report: false,
   };
 }
 
@@ -232,7 +249,7 @@ function setupMobileSidebar() {
 }
 
 function setAppView(mode) {
-  document.body.classList.remove('view-home', 'view-module', 'view-subject');
+  document.body.classList.remove('view-home', 'view-module', 'view-subject', 'view-report');
   if (mode) document.body.classList.add(mode);
 }
 
@@ -1582,6 +1599,19 @@ function enhanceQuizChallenge(container) {
       stage.hidden = true;
       nav.hidden = true;
       finish.hidden = false;
+      const subjectId = container.dataset.progressSubject;
+      const moduleId = container.dataset.progressModule;
+      if (subjectId && moduleId) {
+        const totalWrong = attempts.reduce((sum, n) => sum + n, 0);
+        const perfect = attempts.filter((n) => n === 0).length;
+        trackQuizResult(subjectId, moduleId, {
+          total: questions.length,
+          perfect,
+          wrong: totalWrong,
+          picks: picks.slice(),
+          resultsViewed: false,
+        });
+      }
     }
 
     function goTo(index) {
@@ -1623,6 +1653,19 @@ function enhanceQuizChallenge(container) {
         return;
       }
       resultsShown = true;
+      const subjectId = container.dataset.progressSubject;
+      const moduleId = container.dataset.progressModule;
+      if (subjectId && moduleId) {
+        const totalWrong = attempts.reduce((sum, n) => sum + n, 0);
+        const perfect = attempts.filter((n) => n === 0).length;
+        trackQuizResult(subjectId, moduleId, {
+          total: questions.length,
+          perfect,
+          wrong: totalWrong,
+          picks: picks.slice(),
+          resultsViewed: true,
+        });
+      }
       const body = answersSection.querySelector('.study-section-body');
       const keyHtml = body?.innerHTML ?? '';
       const titleEl = answersSection.querySelector('.study-section-title');
@@ -2529,7 +2572,15 @@ function renderHome(subjects) {
   `;
 }
 
+function renderProgressReportView(subjects) {
+  setAppView('view-report');
+  renderSidebarEmpty();
+  mountProgressReport(contentView, subjects);
+  document.title = 'Informe de avance | estudIA';
+}
+
 async function renderSubjectView(subjects, subjectId, moduleId) {
+  teardownModuleObserver();
   const subject = subjects.find((x) => x.id === subjectId);
   if (!subject) {
     setAppView('view-home');
@@ -2575,8 +2626,10 @@ async function renderSubjectView(subjects, subjectId, moduleId) {
         <span class="module-strip-tag"><span class="module-strip-emoji" aria-hidden="true">${subjectIcon(subject.id)}</span> ${escapeHtml(subject.name)}</span>
         <h1 class="module-strip-title">${escapeHtml(mod.title || mod.id)}</h1>
       </header>
-      <article class="content-wrapper markdown-body module-flow" id="module-article">${body}</article>
+      <article class="content-wrapper markdown-body module-flow" id="module-article" data-progress-subject="${escapeHtml(subject.id)}" data-progress-module="${escapeHtml(mod.id)}">${body}</article>
     `;
+    contentView.dataset.progressSubject = subject.id;
+    contentView.dataset.progressModule = mod.id;
     enhanceCallouts(contentView);
     const article = document.getElementById('module-article');
     if (article) {
@@ -2591,6 +2644,7 @@ async function renderSubjectView(subjects, subjectId, moduleId) {
       enhanceWisdomQuotes(contentView);
       enhanceActivityTables(contentView);
       scheduleHydrateTikTokEmbeds(article);
+      setupModuleProgressTracking(article, subject.id, mod.id);
     }
   } catch (err) {
     console.error(err);
@@ -2610,14 +2664,42 @@ async function route() {
     return;
   }
 
-  const { subjectId, moduleId } = parseHash();
+  const { subjectId, moduleId, report } = parseHash();
+  document.title = report ? 'Informe de avance | estudIA' : 'estudIA | Cursos';
+
+  if (report) {
+    renderProgressReportView(subjects);
+    return;
+  }
   if (!subjectId) {
+    teardownModuleObserver();
     renderHome(subjects);
     return;
   }
   await renderSubjectView(subjects, subjectId, moduleId);
 }
 
+function setupGlobalProgressListeners() {
+  initProgressTracker();
+  document.body.addEventListener(
+    'click',
+    (e) => {
+      const nav = e.target.closest(
+        '.module-link, .episode-step, .back-home, .subject-card, .bc-pill, #sidebar-episodes-toggle',
+      );
+      if (nav) {
+        const label =
+          nav.getAttribute('aria-label') ||
+          nav.textContent?.trim().slice(0, 60) ||
+          nav.className;
+        trackNav(label);
+      }
+    },
+    { passive: true },
+  );
+}
+
 loadTheme();
+setupGlobalProgressListeners();
 window.addEventListener('hashchange', route);
 route();
