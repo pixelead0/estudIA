@@ -1,14 +1,13 @@
-## 🎯 El Reto
-
+## 🎯 Mi casa y mi orgullo
 ¿Qué sientes en el pecho cuando escuchas las primeras notas del Himno Nacional o cuando ves el escudo de tu escuela brillando en tu uniforme? Esa emoción profunda que te hace sentir parte de algo más grande que tú mismo se llama **Identidad**.
 
 ¿Qué nos hace ser "mexicanos" más allá de haber nacido aquí? ¿Por qué es importante tener un gobierno y leyes que nos organicen? ¿Qué significa realmente el lema "La Técnica al Servicio de la Patria" ahora que eres un estudiante del Politécnico?
 
 En este módulo, el reto es descubrir las raíces de tu orgullo. Vamos a explorar nuestra "Casa Común" (México) y la "Tribu de la Ciencia" a la que ahora perteneces (el IPN). Prepárate para entender que ser parte de estas instituciones no es solo un regalo, sino una noble responsabilidad para construir un futuro mejor para todos. ¡Ponte la camiseta y descubre tu identidad!
 
-## 💡 ¿Cómo funciona esto?
+## 💡 Entiende
 
-### 1. La Metáfora: Las Raíces de tu Casa (Identidad Nacional)
+### La Metáfora: Las Raíces de tu Casa (Identidad Nacional)
 La **Identidad Nacional** es el conjunto de historias, valores y símbolos que nos hacen sentir que México es nuestro hogar(1). No es solo fútbol o comida; es el respeto a nuestra Bandera, Escudo e Himno Nacional(3).
 
 > "La identidad es un descubrimiento que se hace en comunidad". — Octavio Paz.
@@ -18,7 +17,7 @@ Como dice el dicho: "quien no ama a su tierra, no ama a su madre"(6). La razón 
 > "La patria es comunidad de intereses, unidad de tradiciones, unidad de fines, fusión de almas y fortunas". — José Martí.
 
 
-### 2. Las Reglas de la Casa (El Estado)
+### Las Reglas de la Casa (El Estado)
 Para que 130 millones de personas vivamos en paz, formamos un **Estado**, que tiene tres piezas clave(2):
 1. **Población**: Todos nosotros.
 2. **Territorio**: Nuestra tierra, mares y cielos.
@@ -34,37 +33,110 @@ Nuestro gobierno se divide en tres poderes: **Ejecutivo**, **Legislativo** (quie
 > "La moral es el arte de vivir, es el tratado de los deberes y derechos del hombre". — Alfonso Reyes.
 
 
-### 3. Tu Nueva Familia: El Orgullo Politécnico
+### Tu Nueva Familia: El Orgullo Politécnico
 Al entrar al **IPN**, te unes a una historia de excelencia. Tu nueva identidad tiene tres pilares(7): el lema **"La Técnica al Servicio de la Patria"**, tus colores guinda y blanco, y el compromiso social de usar tus conocimientos para beneficiar a México. Para eso tenemos un **Código de Ética** basado en cinco principios: la **honestidad**, la **responsabilidad**, el **respeto**, la **justicia social** y la **integridad**(8).
 
 > "La educación es el arma más poderosa que puedes usar para cambiar el mundo". — Nelson Mandela.
 
 
-### 4. Valores que se siembran
+### Valores que se siembran
 Estos son **Valores Aprendidos**(10): principios que recibes de tu familia y cultura para ser un buen ciudadano. Recuerda: tu identidad nacional te hace mexicano, pero tu **Dignidad Humana** te hace igual a cualquier persona del planeta(9).
 
 > [!IMPORTANT]
 > **El Lema**: "La Técnica al Servicio de la Patria". Significa que todo lo que estudies (computación, física, química) debe servir para que México sea un lugar más justo y avanzado. ¡Tú eres el futuro del país!
 
-## ✍️ Manos a la obra
+## ✍️ Practica
+
+**Objetivo:** Aplicar lo del módulo en situaciones reales — no memorizar etiquetas.
+
+**Cómo practicar (siempre en este orden):**
+
+1. Lee la situación.
+2. Pregúntate qué concepto o postura encaja mejor.
+3. Recién entonces abre la **clave** y compara con tu idea.
+
+> [!TIP]
+> No busques la respuesta “perfecta” a la primera. El aprendizaje está en **acertar, dudar o corregirte**.
 
 Identifica los símbolos que forman tu identidad hoy:
 
-| Símbolo | ¿Qué significa para ti? | ¿Cómo lo respetas? |
-| :--- | :--- | :--- |
-| **Bandera de México** | Nuestra historia y libertad. | Saludándola con respeto y cuidando sus valores. |
-| **Escudo del IPN** | Mi escuela y mi esfuerzo. | Estudiando de verdad y no haciendo trampa. |
-| **Territorio (Tu colonia)** | Mi hogar real. | No tirando basura y cuidando los parques. |
-| **Código de Ética** | Mi mapa para ser buena persona. | Siendo honesto con mis maestros y amigos. |
-| **Himno Nacional** | La unión de todos los mexicanos. | Entonándolo con fuerza y respeto en las ceremonias. |
-| **El "Huélum" (Porra)** | El sentido de comunidad y alegría. | Gritándolo con orgullo pero sin insultar a otros. |
-| **El Lema Institucional** | Mi compromiso con el progreso. | Aplicando mis conocimientos para resolver problemas reales. |
 
-## 🌍 En tu mundo
+### 🔍 Caso 1 — Bandera de México
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Nuestra historia y libertad.
+
+**Por qué importa:** Saludándola con respeto y cuidando sus valores.
+
+---
+
+### 🔍 Caso 2 — Escudo del IPN
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Mi escuela y mi esfuerzo.
+
+**Por qué importa:** Estudiando de verdad y no haciendo trampa.
+
+---
+
+### 🔍 Caso 3 — Territorio (Tu colonia)
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Mi hogar real.
+
+**Por qué importa:** No tirando basura y cuidando los parques.
+
+---
+
+### 🔍 Caso 4 — Código de Ética
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Mi mapa para ser buena persona.
+
+**Por qué importa:** Siendo honesto con mis maestros y amigos.
+
+---
+
+### 🔍 Caso 5 — Himno Nacional
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** La unión de todos los mexicanos.
+
+**Por qué importa:** Entonándolo con fuerza y respeto en las ceremonias.
+
+---
+
+### 🔍 Caso 6 — El "Huélum" (Porra)
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** El sentido de comunidad y alegría.
+
+**Por qué importa:** Gritándolo con orgullo pero sin insultar a otros.
+
+---
+
+### 🔍 Caso 7 — El Lema Institucional
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Mi compromiso con el progreso.
+
+**Por qué importa:** Aplicando mis conocimientos para resolver problemas reales.
+
+---
+
+
+## 🌍 En la vida real
 
 Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, cuando ayudas a un vecino o cuando te sientes orgulloso de un logro científico mexicano(1). En el IPN, eres un "burro blanco" de corazón cuando usas tus proyectos escolares para resolver un problema de tu comunidad o cuando defiendes el prestigio de tu escuela con tus buenas acciones. No eres solo un alumno, eres parte del motor que mueve a México(7).
 
-## 🏁 Pausa para pensar
+## 🏁 Reflexiona
 
 1. ¿Qué es lo que más te hace decir "¡Qué orgullo ser mexicano!"?
 2. Si tuvieras que explicarle a un extranjero qué significa el IPN, ¿qué le dirías?
@@ -72,7 +144,7 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 4. ¿Cuál de los tres poderes de gobierno crees que es el más difícil de ejercer?
 5. ¿Qué acción pequeña vas a hacer esta semana para poner "la técnica al servicio de tu patria"?
 
-## 📚 Glosario Maestro
+## 📚 Palabras clave
 
 - **Soberanía**: El poder de un pueblo para decidir su propio destino.
 - **Estado**: La forma en que nos organizamos en un territorio con leyes.
@@ -80,23 +152,33 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
 - **Identidad**: Sentirte parte de un grupo y compartir sus valores.
 - **Poder Legislativo**: El Congreso de la Unión, formado por la Cámara de Diputados y la Cámara de Senadores, que crean nuestras leyes(5).
 
-## 🌟 Zona de Descubrimiento
+## 🌟 Explora
+
+### Datos que sorprenden
 
 - **Dato curioso 1**: ¿Sabías que el lema "La Técnica al Servicio de la Patria" lo inventó un estudiante como tú en 1937? ¡Él quería recordar que el conocimiento es para ayudar!
 - **Dato curioso 2**: Los colores guinda y blanco del IPN fueron propuestos por el equipo de fútbol americano. El guinda por la sangre y el blanco por la pureza de ideales.
-- **🎥 Para ver (YouTube + TikToks)**:
-    - **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
-    - **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
-    - **¿De dónde vienen nuestros valores?**: El hogar y el barrio son la primera escuela moral; mucho antes de elegir qué creer, el entorno ya sembró en ti cómo ver el mundo. https://www.youtube.com/watch?v=XNbaR54Gpj4
-    - **La comunidad y tú (TikTok)**: Cada pequeña acción tuya tiene un efecto dominó en las personas que te rodean; ser ciudadano empieza en tu cuadra. https://www.tiktok.com/@estrategic11/video/7599725948040252692
-- **🎬 Para ver (Cine y Series)**:
-    - **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=cVZCHtykTDc
-    - **Orgullo Politécnico (El legado del IPN)**: La historia de por qué el IPN existe: no fue un accidente, fue la decisión de Lázaro Cárdenas de apostarle a su gente más humilde para llevarla a la ciencia y el progreso. https://www.youtube.com/watch?v=e2r0iru3XGQ
-    - **Up: La casa de los recuerdos (TikTok)**: Un hogar no son paredes — es la suma de todo lo que viviste en él; así como la casa de Carl guarda a Ellie, México guarda la historia que nos hace ser quienes somos. https://www.tiktok.com/@tmpilo_/video/7333614704058797318
-    - **Spider-Man: Tu barrio, tu responsabilidad (TikTok)**: Por qué cuidar tu entorno es el primer paso para ser un héroe real. https://www.tiktok.com/@estebandanyl440808/video/7438376859777158456
-- **Para conversar**: Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
 
-## 🏆 Reto Final
+### Clips y casos
+
+- **Solidaridad (Cortometraje animado)**: Una historia sin palabras que nos recuerda que ayudar a los demás es, en realidad, ayudarnos a nosotros mismos como comunidad. https://www.youtube.com/watch?v=aF4lMplHxfk
+- **Trabajo en equipo (Pingüinos, hormigas y cangrejos)**: ¿Qué pasa cuando nos unimos frente a un peligro? Una lección divertida sobre el poder de la organización colectiva. https://www.youtube.com/watch?v=pXvBckVO7EM
+- **¿De dónde vienen nuestros valores?**: El hogar y el barrio son la primera escuela moral; mucho antes de elegir qué creer, el entorno ya sembró en ti cómo ver el mundo. https://www.youtube.com/watch?v=XNbaR54Gpj4
+- **La comunidad y tú (TikTok)**: Cada pequeña acción tuya tiene un efecto dominó en las personas que te rodean; ser ciudadano empieza en tu cuadra. https://www.tiktok.com/@estrategic11/video/7599725948040252692
+
+### Cine y series
+
+- **Cadena de Favores**: ¿Es posible cambiar el mundo con una idea sencilla? El poder de la solidaridad multiplicada y el impacto de nuestras acciones en los demás. https://www.youtube.com/watch?v=cVZCHtykTDc
+- **Orgullo Politécnico (El legado del IPN)**: La historia de por qué el IPN existe: no fue un accidente, fue la decisión de Lázaro Cárdenas de apostarle a su gente más humilde para llevarla a la ciencia y el progreso. https://www.youtube.com/watch?v=e2r0iru3XGQ
+- **Up: La casa de los recuerdos (TikTok)**: Un hogar no son paredes — es la suma de todo lo que viviste en él; así como la casa de Carl guarda a Ellie, México guarda la historia que nos hace ser quienes somos. https://www.tiktok.com/@tmpilo_/video/7333614704058797318
+- **Spider-Man: Tu barrio, tu responsabilidad (TikTok)**: Por qué cuidar tu entorno es el primer paso para ser un héroe real. https://www.tiktok.com/@estebandanyl440808/video/7438376859777158456
+
+### Para conversar
+
+Pregúntale a un egresado del IPN: "¿Qué es lo que más extraña de su escuela?". Verás que el orgullo politécnico dura toda la vida.
+
+
+## 🏆 Pon a prueba
 
 1. ¿Qué es la "Identidad Nacional"?
    - A) Tener un pasaporte.
@@ -158,5 +240,5 @@ Tú vives la identidad nacional cada vez que respetas las reglas de tránsito, c
     - C) Solo los que se enseñan en el kínder.
     - D) No existen esos valores.
 
-## 🔑 Respuestas Correctas
+## 🔑 Respuestas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B

@@ -64,9 +64,27 @@ Si aparecen IDs rotos o repetidos entre lecciones:
 
 1. `python3 scripts/fix_filosofia_tiktok.py` — sustituye TikTok con oEmbed inválido usando el pool DHP + lecciones (requiere red).
 2. `python3 scripts/dedupe_filosofia_tiktok.py` — deja **un uso por `video_id`** en las lecciones (la primera aparición gana; el resto toma URLs del pool DHP).
-3. `python3 scripts/rebuild_filosofia_indice_videos.py` — regenera `1/Filosofia_I/00_indice_videos.md` desde el bloque «Zona de Descubrimiento» de cada lección (no toca `Resumen_*`).
+3. `python3 scripts/rebuild_filosofia_indice_videos.py` — regenera `1/Filosofia_I/00_indice_videos.md` desde la sección **🌟 Explora** de cada lección (no toca `Resumen_*`).
 
 Luego: `python3 scripts/check_multimedia.py --root 1/Filosofia_I --check-http`.
+
+### Migración v2 → v3 (Filosofía I)
+
+| Script | Uso |
+|--------|-----|
+| `migrate_filosofia_v3.py` | Renombra H2, convierte tablas Practica → casos 🔍, reestructura Explora. |
+| `fix_filosofia_explora_v3.py` | Dedupe de vídeos en Explora (tras migración). |
+| `restore_filosofia_conversar.py` | Recupera texto **Para conversar** si hace falta (desde `git show HEAD:…`). |
+
+### Migración v2 → v3 (Computación Básica I)
+
+| Script | Uso |
+|--------|-----|
+| `migrate_computacion_v3.py` | Renombra H2, convierte tablas Practica → casos 🔍, reestructura Explora (sin URLs). |
+| `computacion_video_data.py` | Pool de 52 TikTok + YouTube por módulo (datos). |
+| `apply_computacion_videos.py` | Inserta 8 vídeos tutoriales en Explora de cada lección. |
+
+Regenerar índice: `python3 .agents/scratch/gen_video_index.py "1/Computacion_Basica_I" "1/Computacion_Basica_I/00_indice_videos.md"`.
 
 ---
 

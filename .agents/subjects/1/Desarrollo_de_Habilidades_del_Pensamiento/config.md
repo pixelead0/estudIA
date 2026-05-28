@@ -10,8 +10,9 @@
 
 ## Estado de Desarrollo
 - **Módulos Totales**: 12
-- **Módulos Completados**: 12
-- **Última Actualización**: 2026-05-14
+- **Módulos Completados**: 12 (esquema v3)
+- **Última Actualización**: 2026-05-27
+- **Referencia web**: materia canónica para probar `enhance*` (callouts, casos 🔍, stepper, quiz, enlaces teoría↔reto). Piloto: `01_procesos_basicos.md`.
 
 ## Estrategia de Contenido
 - **Alineación Oficial**: 100% Alineado con el Programa Temático de D.H.P. (CECyT 6 - IPN).

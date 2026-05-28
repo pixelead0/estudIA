@@ -1,14 +1,13 @@
-## 🎯 El Reto
-
+## 🎯 Mi edificio de valores
 Imagina que tu vida es un rascacielos que tú mismo estás construyendo. Cada piso representa algo que te importa: tus amigos, tu familia, tus hobbies, el dinero o la honestidad. Ahora, piensa con cuidado: ¿qué pondrías en los cimientos para que el edificio no se caiga cuando llegue un terremoto? ¿Y qué pondrías en el penthouse para disfrutar de la vista?
 
 ¿Por qué a veces elegimos cosas que nos divierten un momento pero nos hacen sentir mal después? ¿Qué vale más: una amistad de años o un like en una foto? ¿Es posible tenerlo todo o a veces hay que elegir qué va primero?
 
 En este módulo, el reto es diseñar tu propio "Edificio de Valores". Vamos a aprender a organizar tus prioridades para que, cuando la vida se ponga difícil, sepas exactamente qué proteger primero. No se trata solo de tener valores, sino de saber cuáles son tus "vigas maestras". ¡Es hora de convertirte en el ingeniero de tu propio carácter!
 
-## 💡 ¿Cómo funciona esto?
+## 💡 Entiende
 
-### 1. La Metáfora: El Orden de los Pisos (Jerarquía)
+### La Metáfora: El Orden de los Pisos (Jerarquía)
 No todos los valores valen lo mismo. La **Jerarquía de Valores** es el orden de importancia que les das según su calidad y cuánto duran(1). 
 - Un **Valor Superior** es como un cimiento: es duradero, no se puede "repartir" como el dinero y sirve de base para los demás(5).
 
@@ -19,7 +18,7 @@ No todos los valores valen lo mismo. La **Jerarquía de Valores** es el orden de
 
 - Por ejemplo, la salud suele estar arriba de la diversión, porque sin salud no hay diversión que valga.
 
-### 2. El Mapa de los Opuestos (Bipolaridad)
+### El Mapa de los Opuestos (Bipolaridad)
 Los valores tienen **Bipolaridad**(2). Esto significa que siempre tienen un "villano" u opuesto:
 - Justicia vs. Injusticia.
 - Belleza vs. Fealdad.
@@ -29,7 +28,7 @@ Valorar es tener la valentía de elegir siempre el polo que te hace ser mejor hu
 > "He aprendido que la gente olvidará lo que dijiste y lo que hiciste, pero nunca olvidará cómo los hiciste sentir". — Maya Angelou.
 
 
-### 3. ¿Cómo decidir el orden?
+### ¿Cómo decidir el orden?
 Tu brújula para construir el edificio debe ser siempre el **bienestar de todos** y el respeto a la **Dignidad Humanas**(3). Una jerarquía sana nace de tu propia **reflexión y experiencia**, no de copiar lo que otros hacen(6). 
 
 > "Las cosas que más importan nunca deben estar a merced de las cosas que menos importan". — Johann Wolfgang von Goethe.
@@ -39,28 +38,98 @@ Cuando confundimos lo importante (como la integridad) con lo pasajero (como el d
 > [!TIP]
 > **Tu Huella Digital Ética**: Tu jerarquía de valores es única. Nadie tiene el mismo edificio que tú, y eso es lo que te hace especial y auténtico.
 
-## ✍️ Manos a la obra
+## ✍️ Practica
 
-Diseña tu rascacielos. Organiza estos valores del 1 (cimiento/más importante) al 4 (penthouse/importante pero no vital):
+**Objetivo:** Ordenar tus prioridades con honestidad — no copiar la lista de otro.
 
-| Valor | Nivel (1 al 4) | ¿Por qué es tu prioridad? |
-| :--- | :--- | :--- |
-| **Salud (Física y Mental)** | | |
-| **Amistad / Lealtad** | | |
-| **Éxito / Dinero** | | |
-| **Honestidad / Verdad** | | |
-| **Justicia / Igualdad** | | |
-| **Diversión / Ocio** | | |
-| **Fe / Espiritualidad** | | |
+**Cómo practicar (siempre en este orden):**
+
+1. Lee cada valor.
+2. Asigna un nivel del 1 (más importante) al 4 (importante, pero no vital).
+3. Escribe **por qué** antes de comparar con un compañero o en clase.
+
+> [!TIP]
+> No hay una sola respuesta correcta: lo que importa es que puedas **defender** tu orden con razones.
+
+
+### 🔍 Caso 1 — Salud (Física y Mental)
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Salud (Física y Mental)**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
+
+### 🔍 Caso 2 — Amistad / Lealtad
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Amistad / Lealtad**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
+
+### 🔍 Caso 3 — Éxito / Dinero
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Éxito / Dinero**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
+
+### 🔍 Caso 4 — Honestidad / Verdad
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Honestidad / Verdad**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
+
+### 🔍 Caso 5 — Justicia / Igualdad
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Justicia / Igualdad**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
+
+### 🔍 Caso 6 — Diversión / Ocio
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Diversión / Ocio**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
+
+### 🔍 Caso 7 — Fe / Espiritualidad
+
+**Tu turno:** ¿Qué nivel del 1 al 4 le darías a **Fe / Espiritualidad**? Escríbelo y una razón breve.
+
+**Clave:** (Reflexión personal — compara en clase o con alguien de confianza.)
+
+**Por qué importa:** Ordenar valores te ayuda a decidir cuando dos cosas importantes chocan.
+
+---
 
 > "Tu actitud, no tu aptitud, determinará tu altitud". — Zig Ziglar.
 
 
-## 🌍 En tu mundo
+## 🌍 En la vida real
 
 Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te vas a meter en un problema, o cuando dejas de jugar para ayudar a alguien que lo necesita. En esos momentos, estás poniendo la **Honestidad** o la **Solidaridad** por encima de tu comodidad. Tu edificio es lo que te mantiene de pie cuando todos los demás parecen estar cayendo en las "modas" o presiones del grupo.
 
-## 🏁 Pausa para pensar
+## 🏁 Reflexiona
 
 1. Si tu edificio solo pudiera tener 3 pisos, ¿cuáles serían los valores que JAMÁS quitarías?
 2. ¿Qué valor crees que es el que más "se derrumba" en las redes sociales hoy en día?
@@ -68,7 +137,7 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
 4. ¿Crees que tu jerarquía de valores será la misma cuando tengas 40 años?
 5. ¿Qué valor pondrías en la "puerta de entrada" de tu vida para que todos lo vieran al conocerte?
 
-## 📚 Glosario Maestro
+## 📚 Palabras clave
 
 - **Jerarquía**: El ranking de lo que más te importa en la vida.
 - **Bipolaridad**: La idea de que cada valor tiene su "gemelo malvado" (opuesto).
@@ -76,23 +145,33 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
 - **Dignidad**: El valor base de cualquier ser humano que nunca debe ser pisoteado.
 - **Reflexión**: El tiempo que te tomas para pensar si estás eligiendo bien.
 
-## 🌟 Zona de Descubrimiento
+## 🌟 Explora
+
+### Datos que sorprenden
 
 - **Dato curioso 1**: Max Scheler, un filósofo famoso, decía que los valores "superiores" son los que no se gastan cuando se comparten. Por ejemplo, si compartes tu alegría, ¡hay más alegría! Si compartes tu dinero, tienes menos.
 - **Dato curioso 2**: Se ha descubierto que las personas que tienen sus valores claros sufren menos estrés cuando tienen que tomar decisiones difíciles.
-- **🎥 Para ver (YouTube + TikToks)**:
-    - **Las 6 Etapas del Desarrollo Moral (Kohlberg)**: ¿Por qué nos portamos bien? Un video para entender cómo nuestra razón moral evoluciona desde el miedo al castigo hasta los principios universales. https://www.youtube.com/watch?v=eWoP3OHqzF8
-    - **Silogismos: razonamiento y decisiones éticas**: Cómo encadenar ideas con lógica para justificar mejor qué consideras importante en tu vida. https://www.youtube.com/watch?v=IB2V7TPqGhI
-    - **Jerarquía de valores en 1 minuto (TikTok)**: Aprende a organizar tus prioridades para que lo más importante sea siempre lo primero. https://www.tiktok.com/@harrypotterlat/video/7617181761948093716
-    - **¿Qué es lo más importante? (TikTok)**: Cómo los sesgos influyen en lo que priorizamos y por qué conviene revisar el “orden” de tus valores. https://www.tiktok.com/@urbanaplayfm/video/7582306919273008405
-- **🎬 Para ver (Cine y Series)**:
-    - **Matar a un ruiseñor (Discurso de Atticus Finch)**: Un ejemplo magistral de integridad y de poner la justicia y la verdad como los cimientos inamovibles de la vida. https://www.youtube.com/watch?v=GpJWiNmpLDs
-    - **Milagros Inesperados (La ejecución de John Coffey)**: Un momento desgarrador que nos obliga a cuestionar nuestros juicios morales y la fragilidad de la justicia humana frente a la inocencia. https://www.youtube.com/watch?v=WzLZxx7pae4
-    - **Atticus Finch y la integridad (TikTok)**: Por qué defender la verdad es el valor más alto, incluso cuando todos están en tu contra. https://www.tiktok.com/@srpollito07/video/7380777810878663941
-    - **Injusticia en 'The Green Mile' (TikTok)**: Un análisis de cómo la falta de valores superiores puede destruir vidas inocentes. https://www.tiktok.com/@papelypiedra/video/7390954430079732998
-- **Para conversar**: Pregúntale a un profesor o a tus papás: "¿Cuál es el valor que consideran el cimiento de su vida?". Te sorprenderá lo que puedes aprender de ellos.
 
-## 🏆 Reto Final
+### Clips y casos
+
+- **Las 6 Etapas del Desarrollo Moral (Kohlberg)**: ¿Por qué nos portamos bien? Un video para entender cómo nuestra razón moral evoluciona desde el miedo al castigo hasta los principios universales. https://www.youtube.com/watch?v=eWoP3OHqzF8
+- **Silogismos: razonamiento y decisiones éticas**: Cómo encadenar ideas con lógica para justificar mejor qué consideras importante en tu vida. https://www.youtube.com/watch?v=IB2V7TPqGhI
+- **Jerarquía de valores en 1 minuto (TikTok)**: Aprende a organizar tus prioridades para que lo más importante sea siempre lo primero. https://www.tiktok.com/@harrypotterlat/video/7617181761948093716
+- **¿Qué es lo más importante? (TikTok)**: Cómo los sesgos influyen en lo que priorizamos y por qué conviene revisar el “orden” de tus valores. https://www.tiktok.com/@urbanaplayfm/video/7582306919273008405
+
+### Cine y series
+
+- **Matar a un ruiseñor (Discurso de Atticus Finch)**: Un ejemplo magistral de integridad y de poner la justicia y la verdad como los cimientos inamovibles de la vida. https://www.youtube.com/watch?v=GpJWiNmpLDs
+- **Milagros Inesperados (La ejecución de John Coffey)**: Un momento desgarrador que nos obliga a cuestionar nuestros juicios morales y la fragilidad de la justicia humana frente a la inocencia. https://www.youtube.com/watch?v=WzLZxx7pae4
+- **Atticus Finch y la integridad (TikTok)**: Por qué defender la verdad es el valor más alto, incluso cuando todos están en tu contra. https://www.tiktok.com/@srpollito07/video/7380777810878663941
+- **Injusticia en 'The Green Mile' (TikTok)**: Un análisis de cómo la falta de valores superiores puede destruir vidas inocentes. https://www.tiktok.com/@papelypiedra/video/7390954430079732998
+
+### Para conversar
+
+Pregúntale a un profesor o a tus papás: "¿Cuál es el valor que consideran el cimiento de su vida?". Te sorprenderá lo que puedes aprender de ellos.
+
+
+## 🏆 Pon a prueba
 
 1. ¿Qué es la "Jerarquía de Valores"?
    - A) Una lista de precios.
@@ -130,5 +209,5 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
    - C) Siguiendo los impulsos.
    - D) No se construye, se nace con ella.
 
-## 🔑 Respuestas Correctas
+## 🔑 Respuestas
 1. B | 2. B | 3. B | 4. A | 5. B | 6. B

@@ -9,9 +9,10 @@
 - **Assets**: [assets/1/Filosofia_I/](../../../../assets/1/Filosofia_I)
 
 ## Estado de Desarrollo
-- **Módulos Totales**: 14
-- **Módulos Completados**: 14
-- **Última Actualización**: 2026-05-14
+- **Módulos Totales**: 17 (lecciones numeradas 01–12 y submódulos)
+- **Módulos Completados**: 17 (migración estructural v3, 2026-05-27)
+- **Última Actualización**: 2026-05-27
+- **Esquema**: v3 — casos 🔍 en Practica, H3 en Explora, títulos H2 v3; reactivos y URLs sin cambio sustantivo.
 - **Estándar Multimedia**: Premium 2.0 (2 YouTube + 2 TikToks por módulo)
 
 ## Nota de Control de Calidad (TikTok)

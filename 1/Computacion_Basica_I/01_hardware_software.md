@@ -1,7 +1,6 @@
 ![Hardware y Software](../../assets/1/Computacion_Basica_I/01_CBI_concepts_hardware_software.png)
 
-## 🎯 El Reto
-
+## 🎯 Tu cocina digital
 Imagina que quieres preparar la mejor pizza del mundo para tus amigos. Tienes una cocina increíble: un horno de piedra, una amasadora eléctrica, cuchillos muy afilados y una mesa de mármol amplia. Pero hay un gran problema: **no tienes ninguna receta**. No sabes cuánto tiempo calentar el horno ni en qué orden poner los ingredientes. Los utensilios están ahí, pero no hacen nada por sí solos.
 
 Por otro lado, imagínate que tienes la receta secreta de la mejor pizzería de Italia escrita en un papel, pero **no tienes cocina**. Tienes el conocimiento, pero no tienes donde aplicarlo. **¿Qué es lo más importante para que la pizza sea una realidad?** 
@@ -10,9 +9,9 @@ Por otro lado, imagínate que tienes la receta secreta de la mejor pizzería de 
 
 La respuesta es que ambos necesitan trabajar juntos. En el mundo de la tecnología, esto es exactamente lo que sucede con el Hardware y el Software. Sin uno, el otro no tiene sentido. El reto de hoy es que aprendas a distinguir las piezas de tu equipo y cómo cuidarlas para que tu "cocina digital" siempre funcione al cien por ciento(6).
 
-## 💡 ¿Cómo funciona esto?
+## 💡 Entiende
 
-### 1. Hardware: El Cuerpo de la Máquina
+### Hardware: El Cuerpo de la Máquina
 Para entender cómo se divide el trabajo en tu equipo, piensa en el **Hardware** como todo lo físico, lo que puedes tocar y sentir con tus manos. Son los "músculos" y las herramientas pesadas de tu equipo que permiten realizar el trabajo(1). 
 
 > "El hardware es lo que puedes golpear; el software es lo que solo puedes maldecir". — Atribuido a Stewart Brand.
@@ -22,7 +21,7 @@ Dentro de este grupo encontramos piezas clave:
 - **La Mesa de Trabajo (Memoria RAM)**: Es el espacio donde picas los ingredientes. Si la mesa es muy pequeña, te tardas más porque tienes que estar quitando cosas para poner otras. Si abres muchas pestañas de Internet y tu equipo se pone lento, es porque tu "mesa" de RAM está llena(2).
 - **La Alacena (Disco Duro o SSD)**: Es donde guardas todos los ingredientes y recetas para usarlos después(4). Aunque apagues la computadora, todo lo que está aquí se queda guardado de forma permanente.
 
-### 2. Software: La Mente Digital
+### Software: La Mente Digital
 El **Software** es la parte inteligente que no puedes tocar. Son las instrucciones que le dicen al hardware qué debe hacer. Sin el software, el hardware es solo un objeto de metal y plástico sin vida(6).
 
 > "El software es una combinación de arte e ingeniería". — Bill Gates.
@@ -36,35 +35,117 @@ Existen dos tipos principales que debes conocer:
 > [!TIP]
 > **Cuidado Integral**: El hardware necesita limpieza física y buena ventilación para no "quemarse". El software necesita actualizaciones constantes para no volverse lento o inseguro. ¡Cuida ambos!
 
-## ✍️ Manos a la obra
+## ✍️ Practica
+
+**Objetivo:** Aplicar la herramienta o el concepto del módulo en situaciones reales — no memorizar definiciones.
+
+**Cómo practicar (siempre en este orden):**
+
+1. Lee la situación.
+2. Pregúntate qué harías o qué concepto encaja.
+3. Recién entonces abre la **clave** y compara.
+
+> [!TIP]
+> Imagina que estás frente a la computadora: el aprendizaje está en **decidir antes de mirar la solución**.
 
 Identifica si estos elementos de tu vida digital son herramientas físicas (Hardware) o programas inteligentes (Software):
 
-| Elemento | ¿Hardware o Software? | ¿Qué función cumple en tu equipo? |
-| :--- | :--- | :--- |
-| **Monitor o Pantalla** | Hardware. | Te muestra visualmente todo lo que está pasando(1). |
-| **Navegador (Chrome/Edge)** | Software. | Es la aplicación que usas para entrar a Internet(3). |
-| **Ratón (Mouse)** | Hardware. | Te permite señalar y elegir opciones con la mano. |
-| **Instagram / TikTok** | Software. | Son programas diseñados para ver videos y fotos(3). |
-| **Teclado** | Hardware. | Tu herramienta principal para escribir información. |
-| **Procesador (CPU)** | Hardware. | El cerebro que hace todos los cálculos rápidos. |
-| **Antivirus** | Software. | El programa que protege tu equipo de amenazas. |
-| **Memoria USB** | Hardware. | Una pequeña "alacena" portátil para llevar archivos(4). |
 
-## 🌍 En tu mundo
+### 🔍 Caso 1 — Monitor o Pantalla
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Hardware.
+
+**Por qué importa:** Te muestra visualmente todo lo que está pasando(1).
+
+---
+
+### 🔍 Caso 2 — Navegador (Chrome/Edge)
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Software.
+
+**Por qué importa:** Es la aplicación que usas para entrar a Internet(3).
+
+---
+
+### 🔍 Caso 3 — Ratón (Mouse)
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Hardware.
+
+**Por qué importa:** Te permite señalar y elegir opciones con la mano.
+
+---
+
+### 🔍 Caso 4 — Instagram / TikTok
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Software.
+
+**Por qué importa:** Son programas diseñados para ver videos y fotos(3).
+
+---
+
+### 🔍 Caso 5 — Teclado
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Hardware.
+
+**Por qué importa:** Tu herramienta principal para escribir información.
+
+---
+
+### 🔍 Caso 6 — Procesador (CPU)
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Hardware.
+
+**Por qué importa:** El cerebro que hace todos los cálculos rápidos.
+
+---
+
+### 🔍 Caso 7 — Antivirus
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Software.
+
+**Por qué importa:** El programa que protege tu equipo de amenazas.
+
+---
+
+### 🔍 Caso 8 — Memoria USB
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Hardware.
+
+**Por qué importa:** Una pequeña "alacena" portátil para llevar archivos(4).
+
+---
+
+
+## 🌍 En la vida real
 
 Casi todo lo que usas hoy usa este sistema. Tu celular tiene una pantalla y batería (Hardware) y un sistema como Android que permite que uses tus apps (Software). Incluso un horno de microondas tiene botones físicos y un pequeño programa que sabe cuánto tiempo calentar tus palomitas.
 
 Entender esto te ayuda a saber qué falla cuando algo no funciona. Si la pantalla está rota, es un problema de Hardware. Si el juego no abre, es un problema de Software. Al conocer tu equipo, dejas de tenerle miedo a la tecnología(1).
 
-## 🏁 Pausa para pensar
+## 🏁 Reflexiona
 
 1. Si tuvieras que elegir una sola pieza de Hardware para mejorar de tu equipo, ¿cuál elegirías y para qué te serviría?
 2. ¿Qué programa o Software es el que más te ayuda en tus tareas de la escuela?
 3. ¿Cómo le explicarías a tu abuelito la diferencia entre el aparato (Hardware) y lo que ves dentro (Software)?
 4. Si tu computadora fuera una persona, ¿quién sería el Hardware y quién el Software?
 
-## 📚 Glosario Maestro
+## 📚 Palabras clave
 
 - **Hardware**: Todo lo físico que puedes tocar en un dispositivo electrónico(1).
 - **Software**: El conjunto de programas e instrucciones que hacen que el equipo funcione(6).
@@ -72,15 +153,33 @@ Entender esto te ayuda a saber qué falla cuando algo no funciona. Si la pantall
 - **Disco Duro/SSD**: Lugar donde se guarda la información de forma permanente (fotos, tareas)(4).
 - **CPU**: Unidad Central de Procesamiento; el "cerebro" que ejecuta las órdenes.
 
-## 🌟 Zona de Descubrimiento
+## 🌟 Explora
+
+### Datos que sorprenden
 
 - **Dato curioso 1**: Los primeros "hardwares" de computación eran tan grandes que ocupaban habitaciones enteras y pesaban toneladas. ¡Hoy caben en la palma de tu mano!
 - **Dato curioso 2**: El término "Bug" (bicho) para referirse a un error de software nació porque una polilla real se metió en una computadora antigua y la descompuso.
-- **Para ver**: *Intensamente* (Disney). Aunque habla de emociones, es una gran analogía: las islas de memoria son el hardware y los pensamientos son el software que corre en ellas.
-- **Para explorar**: Abre la configuración de tu celular y busca "Información del dispositivo". Verás cuánta RAM y almacenamiento tiene tu equipo real.
-- **Para conversar**: Pregúntale a un adulto: "¿Cuál fue la primera computadora que usaste y cómo era su hardware comparado con el de ahora?".
 
-## 🏆 Reto Final
+### Clips y casos
+
+- **Hardware y software explicado**: Identifica qué puedes tocar y qué son solo instrucciones. https://www.youtube.com/watch?v=gVaE2F0jOJs
+- **Diferencias hardware vs software**: Compara ejemplos reales en tu equipo. https://www.youtube.com/watch?v=6DcGWI7Z3XE
+- **Trucos Windows 11**: Ajustes del sistema que usarás a diario. https://www.tiktok.com/@jorgeizquierdo.tech/video/7358898032588377377
+- **Quitar formato en Word**: Pega texto limpio desde la web. https://www.tiktok.com/@mtholfsen/video/6946562335381196038
+
+### Cine y series
+
+- **Computadoras: datos y dispositivos**: Entrada, salida y almacenamiento en la práctica. https://www.youtube.com/watch?v=C19lKwVZE60
+- **Input y output**: Cómo fluye la información al guardar una tarea. https://www.youtube.com/watch?v=GFuDda1_yJQ
+- **Cinco tips de Word**: Atajos para tareas escolares. https://www.tiktok.com/@kevinstratvert/video/7234026043320012078
+- **Pegar solo texto**: Ctrl+Mayús+V en Word. https://www.tiktok.com/@mtholfsen/video/7332634447256341791
+
+### Para conversar
+
+Pregúntale a un adulto: "¿Cuál fue la primera computadora que usaste y cómo era su hardware comparado con el de ahora?".
+
+
+## 🏆 Pon a prueba
 
 1. Si estás trabajando en una tarea y de repente se apaga la luz, ¿dónde se pierde la información que no habías guardado todavía?
    - A) En el Disco Duro o SSD (Alacena).
@@ -118,6 +217,6 @@ Entender esto te ayuda a saber qué falla cuando algo no funciona. Si la pantall
    - C) Solo puede proyectar luz blanca a través del monitor.
    - D) Puede guardar archivos pero no permite verlos.
 
-## 🔑 Respuestas Correctas
+## 🔑 Respuestas
 
 1. B | 2. B | 3. B | 4. C | 5. B | 6. B

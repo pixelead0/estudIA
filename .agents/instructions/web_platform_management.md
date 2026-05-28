@@ -25,7 +25,7 @@ Orden **fijo** tras cargar el HTML del módulo:
 |------|---------|----------------|
 | 1 | `enhanceCallouts` | `blockquote` con `[!NOTE\|TIP\|IMPORTANT\|WARNING\|CAUTION]` → `.callout` + cabecera (Consejo, Nota, Clave, Ojo) |
 | 2 | `enhanceModuleSections` | Cada `h2` con emoji → `.study-section` (intro previa al primer H2 en `.study-intro`) |
-| 3 | `enhancePracticeCases` | En Practica: `### 🔍 Caso` → `.practica-caso`; «Ejemplo resuelto» → `.practica-ejemplo` |
+| 3 | `enhancePracticeCases` | Practica: casos 🔍 en **stepper** (Anterior/Siguiente), Clave oculta hasta **Ver clave**; ejemplo resuelto aparte |
 | 4 | `enhanceReflectPrompts` | En Reflexiona: `ol` con ≥2 ítems → `.reflect-stepper` (una pregunta a la vez) |
 | 5 | `enhanceGlossaryFlashcards` | En Palabras clave: `ul` con ≥2 `**Término**:` → `.glossary-deck` (volteo) |
 | 6 | `enhanceExploreSection` | En Explora: quita listas de vídeo duplicadas; curiosidades + Para conversar |

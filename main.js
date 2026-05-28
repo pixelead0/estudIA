@@ -330,18 +330,19 @@ function detectSectionKind(text) {
 function enhanceModuleSections(article) {
   if (!article?.classList.contains('module-flow')) return;
 
-  while (
-    article.firstElementChild &&
-    article.firstElementChild.tagName !== 'H2' &&
-    !article.firstElementChild.classList.contains('video-playlist-hub')
-  ) {
-    let intro = article.querySelector(':scope > .study-intro');
-    if (!intro) {
-      intro = document.createElement('div');
-      intro.className = 'study-intro';
-      article.insertBefore(intro, article.firstElementChild);
-    }
-    intro.appendChild(article.firstElementChild);
+  let intro = article.querySelector(':scope > .study-intro');
+  if (!intro) {
+    intro = document.createElement('div');
+    intro.className = 'study-intro';
+    article.insertBefore(intro, article.firstElementChild ?? null);
+  }
+
+  while (true) {
+    const first = article.firstElementChild;
+    if (!first || first === intro) break;
+    if (first.tagName === 'H2') break;
+    if (first.classList.contains('video-playlist-hub')) break;
+    intro.appendChild(first);
   }
 
   const h2List = [...article.querySelectorAll(':scope > h2')];
@@ -420,7 +421,175 @@ function enhancePracticeCases(container) {
       body.insertBefore(card, h3);
       nodes.forEach((n) => card.appendChild(n));
     });
+
+    enhancePracticaCasoReveal(body);
+    enhancePracticaStepper(body);
+
+    /* Separadores `---` del .md (PDF); en web el stepper ya divide los casos. */
+    body.querySelectorAll(':scope > hr').forEach((hr) => hr.remove());
   });
+}
+
+/** En casos 🔍: oculta Clave y Por qué hasta «Ver clave» (como las tablas scenario-card). */
+function enhancePracticaCasoReveal(body) {
+  const casos = [...body.querySelectorAll(':scope .practica-caso')];
+  if (!casos.length) return;
+
+  if (!body.querySelector('.practica-stepper') && !body.querySelector('.practica-casos-hint')) {
+    const hint = document.createElement('p');
+    hint.className = 'practica-casos-hint';
+    hint.textContent = 'Piensa tu respuesta antes de abrir cada clave.';
+    body.insertBefore(hint, casos[0]);
+  }
+
+  casos.forEach((card) => {
+    if (card.dataset.casoReveal) return;
+    card.dataset.casoReveal = '1';
+
+    const paragraphs = [...card.querySelectorAll(':scope > p')];
+    let tuTurno = null;
+    let clave = null;
+    let porque = null;
+
+    for (const p of paragraphs) {
+      const label = (p.querySelector('strong')?.textContent || '').trim().toLowerCase();
+      if (label.startsWith('tu turno')) tuTurno = p;
+      else if (label.startsWith('clave')) clave = p;
+      else if (label.startsWith('por qué') || label.startsWith('porque')) porque = p;
+    }
+
+    if (!tuTurno || !clave) return;
+
+    const reveal = document.createElement('div');
+    reveal.className = 'practica-caso-reveal';
+    reveal.append(clave);
+    if (porque) reveal.append(porque);
+
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'practica-caso-reveal-btn';
+    btn.textContent = 'Ver clave';
+    btn.addEventListener('click', () => {
+      card.classList.add('practica-caso--revealed');
+      btn.remove();
+    });
+
+    tuTurno.after(btn);
+    btn.after(reveal);
+  });
+}
+
+/** Casos 🔍 uno a la vez: Anterior / Siguiente (como Reflexiona). */
+function enhancePracticaStepper(body) {
+  const casos = [...body.querySelectorAll(':scope > .practica-caso')];
+  if (casos.length < 2) return;
+  if (body.querySelector('.practica-stepper')) return;
+
+  body.querySelector('.practica-casos-hint')?.remove();
+
+  const total = casos.length;
+  let current = 0;
+
+  const stepper = document.createElement('div');
+  stepper.className = 'practica-stepper';
+
+  const hint = document.createElement('p');
+  hint.className = 'practica-casos-hint';
+  hint.textContent = 'Piensa tu respuesta antes de abrir cada clave.';
+
+  const meta = document.createElement('div');
+  meta.className = 'practica-stepper-meta';
+  meta.innerHTML = `
+    <p class="practica-stepper-count" aria-live="polite">
+      Caso <span class="practica-stepper-current">1</span> de <span class="practica-stepper-total">${total}</span>
+    </p>
+    <div class="practica-stepper-track" aria-hidden="true">
+      <div class="practica-stepper-fill"></div>
+    </div>`;
+
+  const stage = document.createElement('div');
+  stage.className = 'practica-stepper-stage';
+
+  casos[0].before(stepper);
+
+  const slides = [];
+  while (body.querySelector(':scope > .practica-caso')) {
+    const card = body.querySelector(':scope > .practica-caso');
+    const i = slides.length;
+    const slide = document.createElement('div');
+    slide.className = 'practica-stepper-slide';
+    slide.hidden = i !== 0;
+    const badge = document.createElement('span');
+    badge.className = 'practica-stepper-num';
+    badge.setAttribute('aria-hidden', 'true');
+    badge.textContent = String(i + 1).padStart(2, '0');
+    slide.append(badge, card);
+    stage.appendChild(slide);
+    slides.push(slide);
+  }
+
+  const nav = document.createElement('div');
+  nav.className = 'practica-stepper-nav';
+
+  const prevBtn = document.createElement('button');
+  prevBtn.type = 'button';
+  prevBtn.className = 'practica-stepper-btn practica-stepper-btn--prev';
+  prevBtn.textContent = 'Anterior';
+
+  const dots = document.createElement('div');
+  dots.className = 'practica-stepper-dots';
+  dots.setAttribute('role', 'tablist');
+  dots.setAttribute('aria-label', 'Casos de práctica');
+
+  const dotButtons = slides.map((_, i) => {
+    const dot = document.createElement('button');
+    dot.type = 'button';
+    dot.className = 'practica-stepper-dot';
+    dot.setAttribute('role', 'tab');
+    dot.setAttribute('aria-label', `Caso ${i + 1}`);
+    dot.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+    dots.appendChild(dot);
+    return dot;
+  });
+
+  const nextBtn = document.createElement('button');
+  nextBtn.type = 'button';
+  nextBtn.className = 'practica-stepper-btn practica-stepper-btn--next';
+  nextBtn.textContent = 'Siguiente';
+
+  nav.append(prevBtn, dots, nextBtn);
+  stepper.append(hint, meta, stage, nav);
+
+  const countEl = meta.querySelector('.practica-stepper-current');
+  const fillEl = meta.querySelector('.practica-stepper-fill');
+
+  function syncUi() {
+    countEl.textContent = String(current + 1);
+    fillEl.style.width = `${((current + 1) / total) * 100}%`;
+    slides.forEach((slide, i) => {
+      slide.hidden = i !== current;
+    });
+    dotButtons.forEach((dot, i) => {
+      dot.classList.toggle('is-active', i === current);
+      dot.setAttribute('aria-selected', i === current ? 'true' : 'false');
+    });
+    prevBtn.disabled = current === 0;
+    nextBtn.textContent = current === total - 1 ? 'Listo' : 'Siguiente';
+  }
+
+  function goTo(index) {
+    current = Math.max(0, Math.min(total - 1, index));
+    syncUi();
+  }
+
+  prevBtn.addEventListener('click', () => goTo(current - 1));
+  nextBtn.addEventListener('click', () => {
+    if (current < total - 1) goTo(current + 1);
+    else nextBtn.disabled = true;
+  });
+  dotButtons.forEach((dot, i) => dot.addEventListener('click', () => goTo(i)));
+
+  syncUi();
 }
 
 /** Listas numeradas en «Para pensar» → visor paso a paso (una pregunta visible). */

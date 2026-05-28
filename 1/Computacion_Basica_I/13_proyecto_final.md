@@ -1,7 +1,6 @@
 ![Proyecto Integrador](../../assets/1/Computacion_Basica_I/13_CBI_concepts_final_project.png)
 
-## 🎯 El Reto
-
+## 🎯 Tu proyecto integrador
 ¡Felicidades, has llegado a la meta final! A lo largo de este curso, has aprendido a conocer las piezas de tu computadora, a navegar por el inmenso océano de Internet, a redactar documentos impecables y a diseñar presentaciones que emocionan. Pero el conocimiento solo se vuelve real cuando lo usas para crear algo valioso.
 
 Tu desafío final es demostrar todo lo que has aprendido a través de un **Proyecto Real**. No es un examen de memoria; es tu oportunidad de usar la tecnología como una herramienta para resolver un problema de tu comunidad o explicar un tema que te apasione. 
@@ -10,16 +9,16 @@ Tu desafío final es demostrar todo lo que has aprendido a través de un **Proye
 
 ¿Estás listo para mostrarle al mundo de lo que eres capaz de construir con tus nuevas habilidades digitales? El reto de hoy es tu **Vuelo de Graduación Digital**.
 
-## 💡 ¿Cómo funciona esto?
+## 💡 Entiende
 
-### 1. Las Cuatro Columnas de tu Éxito
+### Las Cuatro Columnas de tu Éxito
 Un gran proyecto tecnológico debe unir las cuatro grandes áreas que dominaste en el curso:
 - **Investigación Experta (Módulos 4-5)**: Encuentra información real y confiable. No olvides citar a tus fuentes para demostrar que tu investigación es seria(4).
 - **Documentación Profesional (Módulos 7-9)**: Crea un reporte escrito impecable. Revisa la ortografía, el formato y que tus márgenes estén perfectos(5).
 - **Comunicación Visual (Módulos 10-12)**: Diseña una presentación que no tenga mucho texto y use imágenes de alta calidad para apoyar tus ideas(2).
 - **Orden Digital (Módulos 1-3)**: Mantén tus archivos en carpetas organizadas con nombres claros y profesionales(3).
 
-### 2. El Toque Final: El Empaque
+### El Toque Final: El Empaque
 Para que tu proyecto llegue completo a manos de tu profesor, debes usar la herramienta de **Compresión**. Meter todos tus archivos (reporte, presentación e imágenes) en una carpeta comprimida (.zip) asegura que nada se pierda en el camino(6).
 
 > "La tecnología es un amplificador de tus capacidades. Úsala para hacer cosas grandes". — Desconocido.
@@ -31,35 +30,117 @@ Para que tu proyecto llegue completo a manos de tu profesor, debes usar la herra
 > [!TIP]
 > **Elige con el Corazón**: Haz tu proyecto sobre algo que realmente te guste (el medio ambiente, tu deporte favorito o la música). Si el tema te apasiona, ¡el trabajo dejará de ser una tarea para convertirse en tu propia creación!
 
-## ✍️ Manos a la obra
+## ✍️ Practica
+
+**Objetivo:** Aplicar la herramienta o el concepto del módulo en situaciones reales — no memorizar definiciones.
+
+**Cómo practicar (siempre en este orden):**
+
+1. Lee la situación.
+2. Pregúntate qué harías o qué concepto encaja.
+3. Recién entonces abre la **clave** y compara.
+
+> [!TIP]
+> Imagina que estás frente a la computadora: el aprendizaje está en **decidir antes de mirar la solución**.
 
 Sigue este mapa de ruta para que tu proyecto final sea digno de un experto digital:
 
-| Fase del Proyecto | ¿Qué acción debes realizar? | Herramienta que usarás |
-| :--- | :--- | :--- |
-| **1. El Plan Maestro.** | Elige tu tema y busca datos reales(4). | Google + Operadores (Filtros). |
-| **2. El Reporte Escrito.** | Redacta tu investigación con orden(5). | Procesador de Textos (Word). |
-| **3. El Apoyo Visual.** | Crea tu presentación de impacto(2). | Software de Diapositivas. |
-| **4. El Orden Digital.** | Nombra tus archivos profesionalmente(3). | Explorador de archivos del SO. |
-| **5. El Envío Seguro.** | Comprime todo en un solo paquete(6). | Herramienta de Compresión (.ZIP). |
-| **6. La Revisión Final.** | Checa ortografía y que los links sirvan. | Revisión ortográfica + Clics. |
-| **7. El Formato Libre.** | Guarda tu reporte como un archivo fijo. | Exportar a formato .PDF. |
-| **8. La Exposición.** | Explica tu tema con tus palabras(2). | Tu propia voz + Apoyo visual. |
 
-## 🌍 En tu mundo
+### 🔍 Caso 1 — 1. El Plan Maestro.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Elige tu tema y busca datos reales(4).
+
+**Por qué importa:** Google + Operadores (Filtros).
+
+---
+
+### 🔍 Caso 2 — 2. El Reporte Escrito.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Redacta tu investigación con orden(5).
+
+**Por qué importa:** Procesador de Textos (Word).
+
+---
+
+### 🔍 Caso 3 — 3. El Apoyo Visual.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Crea tu presentación de impacto(2).
+
+**Por qué importa:** Software de Diapositivas.
+
+---
+
+### 🔍 Caso 4 — 4. El Orden Digital.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Nombra tus archivos profesionalmente(3).
+
+**Por qué importa:** Explorador de archivos del SO.
+
+---
+
+### 🔍 Caso 5 — 5. El Envío Seguro.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Comprime todo en un solo paquete(6).
+
+**Por qué importa:** Herramienta de Compresión (.ZIP).
+
+---
+
+### 🔍 Caso 6 — 6. La Revisión Final.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Checa ortografía y que los links sirvan.
+
+**Por qué importa:** Revisión ortográfica + Clics.
+
+---
+
+### 🔍 Caso 7 — 7. El Formato Libre.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Guarda tu reporte como un archivo fijo.
+
+**Por qué importa:** Exportar a formato .PDF.
+
+---
+
+### 🔍 Caso 8 — 8. La Exposición.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Explica tu tema con tus palabras(2).
+
+**Por qué importa:** Tu propia voz + Apoyo visual.
+
+---
+
+
+## 🌍 En la vida real
 
 En la vida real, los ingenieros, científicos y emprendedores no suelen hacer exámenes; ellos desarrollan proyectos. Saber usar la tecnología para organizar ideas y presentarlas de forma convincente es una de las habilidades más valiosas que puedes tener hoy(1). Al terminar este proyecto, estarás construyendo tu primer **Portafolio de Éxitos**.
 
 > "Tu talento determina lo que puedes hacer. Tu motivación determina cuánto estás dispuesto a hacer". — Lou Holtz.
 
-## 🏁 Pausa para pensar
+## 🏁 Reflexiona
 
 1. De todo lo que aprendimos en el curso, ¿qué fue lo que más te sorprendió o te resultó más útil?
 2. ¿Qué habilidad digital crees que usarás más seguido en tus otras clases de la escuela?
 3. ¿Cómo te sientes al usar la computadora hoy comparado con cómo te sentías el primer día?
 4. Si pudieras inventar un proyecto tecnológico para ayudar a tu colonia, ¿qué harías?
 
-## 📚 Glosario Maestro
+## 📚 Palabras clave
 
 - **Proyecto Integrador**: Trabajo que une varios conocimientos para resolver un gran reto.
 - **Investigación Digital**: Proceso de buscar y verificar información en la red(4).
@@ -67,15 +148,33 @@ En la vida real, los ingenieros, científicos y emprendedores no suelen hacer ex
 - **Portafolio**: Una colección de tus mejores trabajos para mostrar lo que sabes hacer.
 - **Compresión ZIP**: Formato para agrupar archivos y que pesen menos al enviarlos(6).
 
-## 🌟 Zona de Descubrimiento
+## 🌟 Explora
+
+### Datos que sorprenden
 
 - **Dato curioso 1**: El 90% de los trabajos hoy en día piden saber usar la computadora de forma básica. ¡Al terminar este curso, ya tienes una ventaja real!
 - **Dato curioso 2**: Muchas de las aplicaciones más famosas (como Facebook o Google) empezaron como pequeños proyectos escolares de estudiantes como tú.
-- **Para ver**: *La Red Social*. Una película sobre cómo una idea se transforma en un proyecto mundial usando herramientas tecnológicas.
-- **Para explorar**: Investiga qué es un "Portafolio Digital". Es como una vitrina personal donde puedes guardar tus mejores creaciones para siempre.
-- **Para conversar**: Pregúntale a un adulto: "¿Cuál ha sido el proyecto más difícil que has tenido que hacer en tu trabajo?".
 
-## 🏆 Reto Final
+### Clips y casos
+
+- **Truco presentaciones PowerPoint**: Diseño rápido para proyecto final. https://www.youtube.com/watch?v=xIthSXwv4m0
+- **Portada Word o PowerPoint**: Identidad visual unificada. https://www.youtube.com/watch?v=CYcV9rI3Lac
+- **Fondo IA en Fotos Windows**: Herramienta visual incluida en Windows 11. https://www.tiktok.com/@mtholfsen/video/7301461450302721
+- **Ajustar columnas en Excel**: Deja que Excel calcule el ancho ideal. https://www.tiktok.com/@mtholfsen/video/7371758376162053418
+
+### Cine y series
+
+- **Word a presentación**: Reutiliza esquemas del informe. https://www.youtube.com/watch?v=uNlsnD-8Gwc
+- **Presentación con formas**: Creatividad con herramientas básicas. https://www.youtube.com/watch?v=adZpBRhbBQ0
+- **Copiar y pegar en Windows**: Función esencial que usa todo procesador de textos. https://www.tiktok.com/@windows/video/7351123794695654698
+- **Win+K para proyectar pantalla**: Conecta tu PC a un televisor o proyector. https://www.tiktok.com/@windows/video/736742629814831031
+
+### Para conversar
+
+Pregúntale a un adulto: "¿Cuál ha sido el proyecto más difícil que has tenido que hacer en tu trabajo?".
+
+
+## 🏆 Pon a prueba
 
 1. ¿Cuál es el objetivo principal de realizar este Proyecto Final?
    - A) Copiar y pegar la mayor cantidad posible de información de Internet.
@@ -113,6 +212,6 @@ En la vida real, los ingenieros, científicos y emprendedores no suelen hacer ex
    - C) Cambiar el fondo de pantalla por uno de tu serie favorita.
    - D) Borrar los archivos temporales que no sirven de tu equipo.
 
-## 🔑 Respuestas Correctas
+## 🔑 Respuestas
 
 1. B | 2. B | 3. A | 4. B | 5. B | 6. B

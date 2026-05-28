@@ -109,7 +109,7 @@ Tabla de 3 columnas con **situación + respuesta + explicación** en la misma fi
 - **Tu turno** siempre **antes** de **Clave**.
 - Separar casos con `---` entre bloques.
 - Las tablas de **3 columnas** solo para **ejemplo resuelto** o comparaciones modelo — **no** como sustituto de los casos 🔍 con clave explícita en el `.md`.
-- En web, `main.js` envuelve `### 🔍 Caso` en `.practica-caso` y el ejemplo en `.practica-ejemplo`.
+- En web, `main.js` envuelve `### 🔍 Caso` en `.practica-caso` (stepper **Anterior/Siguiente**, un caso visible); **Clave** y **Por qué** ocultos hasta **Ver clave**; el `.md` sigue completo para PDF.
 
 ### Vista web — Practica (tablas y claves)
 
@@ -244,7 +244,11 @@ Pregunta o consigna para debatir con alguien.
 2. Resto de módulos **uno a uno** (mismo patrón).
 3. No mezclar v2 y v3 dentro del mismo archivo.
 
-**DHP:** módulos 01–12 ✅ (completado).
+**DHP:** módulos 01–12 ✅ (completado; referencia QA web).
+
+**Filosofía I:** módulos 01–12 y submódulos ✅ (migración v3 estructural, 2026-05-27).
+
+**Computación Básica I:** módulos 01–13 ✅ (v3 + 104 vídeos tutoriales Microsoft, 2026-05-27). En esta materia, `### Cine y series` lleva **tutoriales en pantalla**, no películas; ver `.agents/subjects/1/Computacion_Basica_I/config.md`.
 
 ---
 

@@ -1,7 +1,6 @@
 ![Gestión de Archivos](../../assets/1/Computacion_Basica_I/03_CBI_concepts_file_management.png)
 
-## 🎯 El Reto
-
+## 🎯 Ordena tu mundo digital
 Imagina que tienes una colección de 500 fotos, 20 canciones y 30 documentos de la escuela, pero **todo está guardado en una sola carpeta llamada "Varios"**. Si mañana tu profesor te pide la tarea que entregaste hace dos meses, **¿cuánto tiempo tardarías en encontrarla?** 
 
 En el mundo digital, ser organizado es la diferencia entre terminar rápido y relajarte, o pasar horas buscando un archivo que "jurabas que estaba aquí". Organizar tu computadora es como organizar tu mochila escolar: si sabes exactamente dónde está cada cuaderno y cada pluma, todo fluye mejor.
@@ -10,21 +9,21 @@ En el mundo digital, ser organizado es la diferencia entre terminar rápido y re
 
 El reto de hoy es que aprendas a dominar el arte de la organización digital para que nunca vuelvas a perder un trabajo importante. Vamos a convertir tu "mochila digital" en un sistema perfecto donde encuentres todo en menos de 10 segundos.
 
-## 💡 ¿Cómo funciona esto?
+## 💡 Entiende
 
-### 1. La Dirección Digital (El Árbol de Carpetas)
+### La Dirección Digital (El Árbol de Carpetas)
 Para que nada se te pierda, el sistema operativo utiliza una **Estructura de Árbol**. Imagina un árbol donde cada parte tiene un nivel diferente:
 - **Las Raíces (Unidades)**: Es el lugar principal donde vive todo, como el Disco Local (C:).
 - **El Tronco (Carpetas Principales)**: Son las carpetas base, como "Documentos" o "Imágenes".
 - **Las Ramas (Subcarpetas)**: Son carpetas guardadas dentro de otras carpetas para separar los temas (ejemplo: `Documentos > Escuela > Computación`)(6).
 - **Las Hojas (Archivos)**: Son tus trabajos, fotos o canciones reales.
 
-### 2. El Nombre del Archivo
+### El Nombre del Archivo
 Cada archivo tiene un nombre y una **extensión** que le dice a la computadora qué tipo de información tiene. Por ejemplo, si termina en **.pdf**, es un documento que se verá igual en cualquier dispositivo(1). Para mantener el orden, siempre debes usar nombres que describan el contenido(5). Evita nombres como "tarea_final_finalísima.docx".
 
 > "Una buena organización es como un mapa: te ahorra tiempo y esfuerzo". — Desconocido.
 
-### 3. Tus Herramientas de Limpieza
+### Tus Herramientas de Limpieza
 El sistema te da tres herramientas vitales:
 - **Papelera de Reciclaje**: Si borras algo por error, se queda aquí un tiempo para que lo puedas recuperar(2).
 - **Compresión (Archivos ZIP)**: Sirve para "apretar" tus archivos y que pesen menos, facilitando mucho su envío por Internet(4).
@@ -35,33 +34,115 @@ El sistema te da tres herramientas vitales:
 > [!TIP]
 > **La Prueba del Tiempo**: Si tardas más de 10 segundos en encontrar un archivo, tu organización falló. Intenta crear subcarpetas por año y por materia para que tu búsqueda sea inmediata.
 
-## ✍️ Manos a la obra
+## ✍️ Practica
+
+**Objetivo:** Aplicar la herramienta o el concepto del módulo en situaciones reales — no memorizar definiciones.
+
+**Cómo practicar (siempre en este orden):**
+
+1. Lee la situación.
+2. Pregúntate qué harías o qué concepto encaja.
+3. Recién entonces abre la **clave** y compara.
+
+> [!TIP]
+> Imagina que estás frente a la computadora: el aprendizaje está en **decidir antes de mirar la solución**.
 
 Aplica acciones inteligentes para mantener tu "mochila digital" en perfecto orden:
 
-| Situación problemática | Acción de mejora | Herramienta del sistema |
-| :--- | :--- | :--- |
-| **Tienes 10 tareas de diferentes materias mezcladas.** | Crear carpetas con el nombre de cada materia. | Nueva Carpeta. |
-| **Borraste una foto por error hace un minuto.** | Buscar en el depósito temporal de borrados. | Papelera de Reciclaje(2). |
-| **Tu archivo de video pesa mucho para enviarlo.** | "Apretar" el archivo para reducir su tamaño. | Comprimir en .ZIP(4). |
-| **El archivo se llama "AAAAA.docx" y no sabes qué es.** | Poner un nombre claro (ej. "Tarea_Historia"). | Cambiar nombre (F2)(5). |
-| **Buscas una tarea de enero pero no la ves.** | Escribir el nombre en el cuadro de búsqueda. | Buscador / Lupa(3). |
-| **Quieres separar tus fotos por meses.** | Crear carpetas como "Enero", "Febrero", etc. | Nueva Carpeta(6). |
-| **Te pasaron un documento que no puedes editar.** | Abrirlo con un visor de documentos universales. | Archivo .PDF(1). |
-| **Tu escritorio está lleno de iconos estorbando.** | Mover los archivos a la carpeta de Documentos. | Cortar y Pegar. |
 
-## 🌍 En tu mundo
+### 🔍 Caso 1 — Tienes 10 tareas de diferentes materias mezclad…
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Crear carpetas con el nombre de cada materia.
+
+**Por qué importa:** Nueva Carpeta.
+
+---
+
+### 🔍 Caso 2 — Borraste una foto por error hace un minuto.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Buscar en el depósito temporal de borrados.
+
+**Por qué importa:** Papelera de Reciclaje(2).
+
+---
+
+### 🔍 Caso 3 — Tu archivo de video pesa mucho para enviarlo.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** "Apretar" el archivo para reducir su tamaño.
+
+**Por qué importa:** Comprimir en .ZIP(4).
+
+---
+
+### 🔍 Caso 4 — El archivo se llama "AAAAA.docx" y no sabes qué…
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Poner un nombre claro (ej. "Tarea_Historia").
+
+**Por qué importa:** Cambiar nombre (F2)(5).
+
+---
+
+### 🔍 Caso 5 — Buscas una tarea de enero pero no la ves.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Escribir el nombre en el cuadro de búsqueda.
+
+**Por qué importa:** Buscador / Lupa(3).
+
+---
+
+### 🔍 Caso 6 — Quieres separar tus fotos por meses.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Crear carpetas como "Enero", "Febrero", etc.
+
+**Por qué importa:** Nueva Carpeta(6).
+
+---
+
+### 🔍 Caso 7 — Te pasaron un documento que no puedes editar.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Abrirlo con un visor de documentos universales.
+
+**Por qué importa:** Archivo .PDF(1).
+
+---
+
+### 🔍 Caso 8 — Tu escritorio está lleno de iconos estorbando.
+
+**Tu turno:** ¿Qué respuesta encaja mejor? Escríbela antes de abrir la clave.
+
+**Clave:** Mover los archivos a la carpeta de Documentos.
+
+**Por qué importa:** Cortar y Pegar.
+
+---
+
+
+## 🌍 En la vida real
 
 Tu vida diaria ya usa sistemas de archivos. Tienes un lugar para la ropa limpia, otro para los trastes de la cocina y otro para tus cuadernos. En la computadora, trasladar este orden te hará sentir más tranquilo y seguro de tu trabajo(5). Ser una persona organizada digitalmente es una de las habilidades que más valoran las empresas y escuelas hoy en día.
 
-## 🏁 Pausa para pensar
+## 🏁 Reflexiona
 
 1. ¿Cómo se ve tu "Escritorio" de la computadora ahora mismo? ¿Refleja orden o caos?
 2. ¿Qué ventaja tiene usar nombres claros en lugar de nombres cortos como "1" o "a"?
 3. ¿Cuál es el archivo más valioso que tienes guardado y qué harías si lo perdieras hoy?
 4. Si tuvieras que organizar tu cuarto usando la lógica de "Carpetas y Archivos", ¿cómo lo harías?
 
-## 📚 Glosario Maestro
+## 📚 Palabras clave
 
 - **Archivo**: La unidad básica de información (foto, canción, tarea).
 - **Carpeta**: Contenedor virtual para organizar archivos y otras carpetas.
@@ -69,15 +150,33 @@ Tu vida diaria ya usa sistemas de archivos. Tienes un lugar para la ropa limpia,
 - **Subcarpeta**: Una carpeta que vive dentro de otra para subdividir información(6).
 - **Papelera**: Almacén temporal de archivos borrados que permite recuperarlos(2).
 
-## 🌟 Zona de Descubrimiento
+## 🌟 Explora
+
+### Datos que sorprenden
 
 - **Dato curioso 1**: Antes de las memorias USB, la gente usaba "Disquetes" que solo podían guardar el equivalente a una sola foto de mala calidad. ¡Eran muy frágiles!
 - **Dato curioso 2**: El icono de la carpeta de Windows es de color amarillo porque está inspirado en los folders de papel que se usaban antiguamente en las oficinas.
-- **Para ver**: *Toy Story*. Imagina que cada juguete es un archivo y el cuarto de Andy es el disco duro. El orden de los juguetes permite que la historia fluya.
-- **Para explorar**: Abre una carpeta cualquiera y presiona la tecla `F2` sobre un archivo. ¡Es el atajo más rápido para cambiarle el nombre!
-- **Para conversar**: Pregúntale a un adulto: "¿Cómo guardaban sus archivos antes de que existieran las computadoras o el Internet?".
 
-## 🏆 Reto Final
+### Clips y casos
+
+- **Explorador de archivos — curso**: Navega carpetas y unidades. https://www.youtube.com/watch?v=79u6_79nKW4
+- **Explorador: primeros pasos**: Crea y mueve archivos sin perder tareas. https://www.youtube.com/watch?v=y69J8zziatU
+- **Enviar PPT por correo o PDF**: Comparte tu presentación en un clic. https://www.tiktok.com/@mtholfsen/video/6951907647121706245
+- **Fórmulas en Excel con IA**: Complemento para tablas en informes. https://www.tiktok.com/@mtholfsen/video/7190890071304801582
+
+### Cine y series
+
+- **Explorador desde cero**: Ruta completa para ordenar tu PC. https://www.youtube.com/watch?v=j9aILD8S9Gc
+- **Tutorial completo Explorador**: Vistas, búsqueda y propiedades. https://www.youtube.com/watch?v=7lXnfF5BDEw
+- **Microsoft 365 Copilot**: Cómo la IA apoya Word y Teams. https://www.tiktok.com/@mtholfsen/video/7211269928127712555
+- **Funciones de chat en Teams**: Comunicación escolar organizada. https://www.tiktok.com/@mtholfsen/video/7230935961289510187
+
+### Para conversar
+
+Pregúntale a un adulto: "¿Cómo guardaban sus archivos antes de que existieran las computadoras o el Internet?".
+
+
+## 🏆 Pon a prueba
 
 1. Si encuentras un archivo que termina con la extensión ".pdf", ¿qué es lo más seguro que contenga?
    - A) Una canción que se puede escuchar y bailar.
@@ -115,6 +214,6 @@ Tu vida diaria ya usa sistemas de archivos. Tienes un lugar para la ropa limpia,
    - C) El nombre técnico que se le da a la papelera de reciclaje.
    - D) El botón redondo que abre el menú principal del sistema.
 
-## 🔑 Respuestas Correctas
+## 🔑 Respuestas
 
 1. B | 2. B | 3. B | 4. B | 5. B | 6. A

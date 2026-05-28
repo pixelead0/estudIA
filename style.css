@@ -1454,6 +1454,12 @@ a.quiz-theory-link:hover {
   animation: theory-ref-pulse 0.55s ease 2;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .theory-ref-tag.theory-ref-tag--highlight {
+    animation: none;
+  }
+}
+
 @keyframes theory-ref-pulse {
   0%,
   100% {
@@ -2369,10 +2375,17 @@ a.quiz-theory-link:hover {
 }
 
 /* Practica didáctica: casos y ejemplo resuelto */
-.study-section--practice hr {
-  border: none;
-  border-top: 1px dashed var(--border);
-  margin: 1.35rem 0;
+.study-section--practice .study-section-body > p:has(+ .practica-stepper) {
+  margin: 0 0 0.85rem;
+  max-width: 40rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.study-section--practice .practica-stepper ~ hr,
+.study-section--practice .practica-stepper hr {
+  display: none;
 }
 
 .practica-ejemplo {
@@ -2445,6 +2458,298 @@ a.quiz-theory-link:hover {
 .practica-caso p:nth-of-type(3) {
   color: var(--muted);
   font-size: 0.9rem;
+}
+
+.practica-casos-hint {
+  margin: 0 0 0.75rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.practica-caso-reveal-btn {
+  display: inline-block;
+  margin: 0.35rem 0 0.5rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1px dashed color-mix(in srgb, var(--section-accent, var(--accent)) 45%, var(--border));
+  background: color-mix(in srgb, var(--section-accent, var(--accent)) 8%, var(--surface));
+  color: var(--section-accent, var(--accent));
+  font-family: inherit;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.practica-caso-reveal-btn:hover {
+  border-style: solid;
+  background: color-mix(in srgb, var(--section-accent, var(--accent)) 14%, var(--surface));
+  transform: translateY(-1px);
+}
+
+.practica-caso-reveal-btn:focus-visible {
+  outline: 2px solid var(--section-accent, var(--accent));
+  outline-offset: 2px;
+}
+
+.practica-caso:not(.practica-caso--revealed) .practica-caso-reveal {
+  display: none;
+}
+
+.practica-caso-reveal {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.practica-caso--revealed .practica-caso-reveal {
+  animation: scenario-reveal-in 0.25s ease;
+}
+
+.practica-caso--revealed .practica-caso-reveal p:nth-of-type(1) {
+  margin-top: 0.15rem;
+}
+
+/* Practica: stepper (un caso a la vez) */
+.practica-stepper {
+  margin: 1rem 0 0;
+  padding: 1.2rem 1.25rem 1.1rem;
+  border-radius: var(--radius-lg);
+  border: 2px solid color-mix(in srgb, var(--section-accent) 32%, var(--border));
+  background: linear-gradient(
+    165deg,
+    color-mix(in srgb, var(--section-accent) 9%, var(--surface)),
+    var(--surface)
+  );
+  box-shadow:
+    0 16px 44px color-mix(in srgb, var(--section-accent) 14%, transparent),
+    inset 0 1px 0 color-mix(in srgb, #fff 35%, transparent);
+}
+
+.practica-stepper .practica-casos-hint {
+  margin: 0 0 1rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: var(--radius-sm);
+  border: 1px dashed color-mix(in srgb, var(--section-accent) 35%, var(--border));
+  background: color-mix(in srgb, var(--section-accent) 6%, var(--elevated));
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: color-mix(in srgb, var(--section-accent) 55%, var(--text));
+}
+
+.practica-stepper-meta {
+  margin-bottom: 1rem;
+}
+
+.practica-stepper-count {
+  margin: 0 0 0.55rem;
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--section-accent) 88%, var(--text));
+}
+
+.practica-stepper-count .practica-stepper-current {
+  font-size: 1.05em;
+  color: var(--section-accent);
+}
+
+.practica-stepper-track {
+  height: 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--section-accent) 14%, var(--border));
+  overflow: hidden;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+.practica-stepper-fill {
+  height: 100%;
+  width: 12%;
+  border-radius: inherit;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--section-accent) 65%, #fff),
+    var(--section-accent)
+  );
+  transition: width 0.28s ease;
+  box-shadow: 0 0 12px color-mix(in srgb, var(--section-accent) 45%, transparent);
+}
+
+.practica-stepper-stage {
+  min-height: 14rem;
+  padding: 0.15rem 0;
+}
+
+.practica-stepper-slide {
+  margin: 0;
+  padding: 1.15rem 1.2rem 1.05rem;
+  border-radius: var(--radius-md);
+  border: 1px solid color-mix(in srgb, var(--section-accent) 38%, var(--border));
+  background: var(--elevated);
+  box-shadow: 0 12px 32px color-mix(in srgb, var(--section-accent) 12%, transparent);
+  animation: practica-slide-in 0.28s ease;
+}
+
+@keyframes practica-slide-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .practica-stepper-slide {
+    animation: none;
+  }
+}
+
+.practica-stepper-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.65rem;
+  height: 2.65rem;
+  margin-bottom: 0.85rem;
+  border-radius: 12px;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: color-mix(in srgb, var(--section-accent) 92%, var(--text));
+  background: color-mix(in srgb, var(--section-accent) 20%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--section-accent) 35%, var(--border));
+}
+
+.practica-stepper-slide .practica-caso {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+
+.practica-stepper-slide .practica-caso h3 {
+  margin: 0 0 0.85rem;
+  font-size: clamp(1.08rem, 2.6vw, 1.28rem);
+  font-weight: 800;
+  line-height: 1.4;
+  letter-spacing: -0.02em;
+}
+
+.practica-stepper-slide .practica-caso p {
+  font-size: 1rem;
+  line-height: 1.58;
+}
+
+.practica-stepper-slide .practica-caso p:nth-of-type(1) {
+  padding: 0.75rem 0.9rem;
+  margin-bottom: 0.75rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: color-mix(in srgb, var(--section-accent) 40%, var(--border));
+  background: color-mix(in srgb, var(--section-accent) 8%, var(--surface));
+}
+
+.practica-stepper-slide .practica-caso p:nth-of-type(2) {
+  font-size: 1.02rem;
+  margin-bottom: 0.65rem;
+}
+
+.practica-stepper-slide .practica-caso-reveal-btn {
+  margin-top: 0.5rem;
+  padding: 0.45rem 0.95rem;
+  font-size: 0.8rem;
+}
+
+.practica-stepper-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.65rem;
+  margin-top: 1.15rem;
+  padding-top: 1rem;
+  border-top: 1px solid color-mix(in srgb, var(--section-accent) 18%, var(--border));
+}
+
+.practica-stepper-btn {
+  flex: 0 0 auto;
+  padding: 0.55rem 1.05rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--section-accent) 38%, var(--border));
+  background: color-mix(in srgb, var(--section-accent) 10%, var(--surface));
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, opacity 0.15s ease, transform 0.15s ease;
+}
+
+.practica-stepper-btn:hover:not(:disabled) {
+  border-color: color-mix(in srgb, var(--section-accent) 55%, var(--border));
+  background: color-mix(in srgb, var(--section-accent) 18%, var(--surface));
+  transform: translateY(-1px);
+}
+
+.practica-stepper-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.practica-stepper-btn:focus-visible {
+  outline: 2px solid var(--section-accent);
+  outline-offset: 2px;
+}
+
+.practica-stepper-btn--next {
+  border-color: transparent;
+  background: color-mix(in srgb, var(--section-accent) 88%, var(--text));
+  color: var(--surface);
+  box-shadow: 0 6px 18px color-mix(in srgb, var(--section-accent) 35%, transparent);
+}
+
+.practica-stepper-btn--next:hover:not(:disabled) {
+  background: var(--section-accent);
+  border-color: transparent;
+  color: var(--surface);
+}
+
+.practica-stepper-dots {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  flex: 1;
+}
+
+.practica-stepper-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  padding: 0;
+  border: none;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--section-accent) 22%, var(--border));
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+}
+
+.practica-stepper-dot.is-active {
+  transform: scale(1.35);
+  background: var(--section-accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--section-accent) 28%, transparent);
+}
+
+.practica-stepper-dot:focus-visible {
+  outline: 2px solid var(--section-accent);
+  outline-offset: 2px;
 }
 
 /* Tablas que no se convierten (PDF preview, otros módulos legacy) */

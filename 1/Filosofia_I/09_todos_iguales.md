@@ -1,17 +1,16 @@
 
 ![Derechos Humanos](../../assets/1/Filosofia_I/09_FI_concepts_human_rights.png)
 
-## 🎯 El Reto
-
+## 🎯 Todos somos iguales
 Imagina que te despiertas en un mundo donde no tienes derecho a decir lo que piensas, a asistir a la escuela o incluso a elegir qué ropa ponerte. Ese mundo oscuro existió para millones de personas durante siglos, y en algunos lugares todavía es una realidad.
 
 ¿Por qué se dice que todos nacemos con los mismos derechos si nuestras vidas son tan diferentes? ¿Qué podemos hacer cuando vemos que a alguien lo tratan mal por su color de piel o su dinero? ¿Basta con tener derechos o también tenemos que cumplir con "deberes"?
 
 En este módulo, el reto es convertirte en un **Guardián de la Dignidad**. Vamos a descubrir el "Escudo" que te protege a ti y a todos los seres humanos: los Derechos Humanos. Vamos a aprender a identificar a los enemigos de la paz (como la discriminación y la corrupción) y a entender que ser un ciudadano responsable es la única forma de que esos derechos sigan vivos. ¡Prepárate para defender lo que es justo!
 
-## 💡 ¿Cómo funciona esto?
+## 💡 Entiende
 
-### 1. La Metáfora: Los Tres Pilares (Libertad, Igualdad y Fraternidad)
+### La Metáfora: Los Tres Pilares (Libertad, Igualdad y Fraternidad)
 Todo el edificio de tus derechos se sostiene en tres ideas que nacieron en la **Revolución Francesa**(1):
 - **Libertad**: Poder elegir tu camino.
 - **Igualdad**: Que las leyes valgan igual para todos.
@@ -20,7 +19,7 @@ Todo el edificio de tus derechos se sostiene en tres ideas que nacieron en la **
 > "Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales". — Thomas Jefferson.
 
 
-### 2. ¿Qué son los Derechos Humanos? (Tu Escudo)
+### ¿Qué son los Derechos Humanos? (Tu Escudo)
 Son las protecciones que aseguran que siempre seas tratado con respeto en cualquier parte del mundo(2).
 
 > "Negar a la gente sus derechos humanos es desafiar su propia humanidad". — Nelson Mandela.
@@ -30,7 +29,7 @@ El **10 de diciembre de 1948** se firmó la **Declaración Universal** en París
 > "Injusticia en cualquier lugar es una amenaza a la justicia en todas partes". — Martin Luther King Jr.
 
 
-### 3. Las Tres Oleadas (Generaciones)
+### Las Tres Oleadas (Generaciones)
 Los derechos no llegaron todos al mismo tiempo, han ido surgiendo por "oleadas"(3):
 1. **1ª Generación**: Derechos para ser libres (votar, hablar, vivir).
 2. **2ª Generación**: Derechos para estar bien (estudiar, tener salud, trabajar).
@@ -39,7 +38,7 @@ Los derechos no llegaron todos al mismo tiempo, han ido surgiendo por "oleadas"(
 > "Un niño, un profesor, un libro y una pluma pueden cambiar el mundo". — Malala Yousafzai.
 
 
-### 4. Los Enemigos del Escudo
+### Los Enemigos del Escudo
 Para que los derechos funcionen, debemos combatir:
 - **Discriminación**: Tratar mal a alguien por ser "diferente"(6).
 - **Racismo/Clasismo**: Despreciar por origen o dinero(7).
@@ -53,25 +52,98 @@ Para que los derechos funcionen, debemos combatir:
 
 > "¿Dónde comienzan los derechos humanos universales? En pequeños lugares, cerca de casa". — Eleanor Roosevelt.
 
-## ✍️ Manos a la obra
+## ✍️ Practica
+
+**Objetivo:** Aplicar lo del módulo en situaciones reales — no memorizar etiquetas.
+
+**Cómo practicar (siempre en este orden):**
+
+1. Lee la situación.
+2. Pregúntate qué concepto o postura encaja mejor.
+3. Recién entonces abre la **clave** y compara con tu idea.
+
+> [!TIP]
+> No busques la respuesta “perfecta” a la primera. El aprendizaje está en **acertar, dudar o corregirte**.
 
 Aprende a usar tu escudo. ¿Es un Derecho (algo que pides) o un Deber (algo que das)?
 
-| Situación | ¿Derecho o Deber? | Por qué |
-| :--- | :--- | :--- |
-| **Ir a la escuela y recibir clases.** | Derecho. | Es algo que el Estado debe darte para tu futuro. |
-| **No rayar las bancas ni las paredes.** | Deber. | Es tu obligación cuidar lo que es de todos. |
-| **Tener un médico si te enfermas.** | Derecho. | Protege tu vida, que es el valor más importante. |
-| **Escuchar a los demás sin burlarte.** | Deber. | Es tu obligación respetar la libertad de opinión. |
-| **Vivir en un ambiente limpio y sin basura.** | Derecho. | Tienes derecho a un entorno sano para crecer(3). |
-| **Pagar tus impuestos o cuotas cuando trabajes.** | Deber. | Ayudas a que el Estado pueda dar servicios a todos. |
-| **Expresar tu opinión libremente en redes.** | Derecho. | Es parte de tu libertad de pensamiento(5). |
 
-## 🌍 En tu mundo
+### 🔍 Caso 1 — Ir a la escuela y recibir clases.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Derecho.
+
+**Por qué importa:** Es algo que el Estado debe darte para tu futuro.
+
+---
+
+### 🔍 Caso 2 — No rayar las bancas ni las paredes.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Deber.
+
+**Por qué importa:** Es tu obligación cuidar lo que es de todos.
+
+---
+
+### 🔍 Caso 3 — Tener un médico si te enfermas.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Derecho.
+
+**Por qué importa:** Protege tu vida, que es el valor más importante.
+
+---
+
+### 🔍 Caso 4 — Escuchar a los demás sin burlarte.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Deber.
+
+**Por qué importa:** Es tu obligación respetar la libertad de opinión.
+
+---
+
+### 🔍 Caso 5 — Vivir en un ambiente limpio y sin basura.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Derecho.
+
+**Por qué importa:** Tienes derecho a un entorno sano para crecer(3).
+
+---
+
+### 🔍 Caso 6 — Pagar tus impuestos o cuotas cuando trabajes.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Deber.
+
+**Por qué importa:** Ayudas a que el Estado pueda dar servicios a todos.
+
+---
+
+### 🔍 Caso 7 — Expresar tu opinión libremente en redes.
+
+**Tu turno:** ¿Qué etiqueta o concepto le pondrías? Escríbelo antes de abrir la clave.
+
+**Clave:** Derecho.
+
+**Por qué importa:** Es parte de tu libertad de pensamiento(5).
+
+---
+
+
+## 🌍 En la vida real
 
 Tú eres un ciudadano activo cada vez que no te callas ante un acto de "bullying" o cuando decides incluir a alguien que los demás están dejando fuera por su apariencia o su dinero(6). Ser responsable es entender que tus derechos terminan donde empiezan los de la persona que tienes al lado. Al denunciar lo que es injusto y actuar con integridad, estás ayudando a que el mundo sea un lugar más fraterno y seguro para todos.
 
-## 🏁 Pausa para pensar
+## 🏁 Reflexiona
 
 1. De los 30 derechos humanos, ¿cuál crees que es el que más se rompe en internet hoy?
 2. ¿Por qué crees que a la gente le cuesta tanto aceptar la "Igualdad" en la vida real?
@@ -79,7 +151,7 @@ Tú eres un ciudadano activo cada vez que no te callas ante un acto de "bullying
 4. ¿Crees que tener internet debería ser ya un derecho humano de 2ª o 3ª generación?
 5. ¿Qué significa para ti la frase: "La unión hace la fuerza" en relación con la fraternidad?
 
-## 📚 Glosario Maestro
+## 📚 Palabras clave
 
 - **Derechos Humanos**: Tu escudo contra la injusticia.
 - **Discriminación**: El acto de hacer menos a alguien por sus características.
@@ -87,23 +159,33 @@ Tú eres un ciudadano activo cada vez que no te callas ante un acto de "bullying
 - **Corrupción**: Romper las reglas para beneficio propio.
 - **Conciencia Crítica**: No creer todo lo que ves y preguntarte: "¿esto es justo?".
 
-## 🌟 Zona de Descubrimiento
+## 🌟 Explora
+
+### Datos que sorprenden
 
 - **Dato curioso 1**: La Declaración Universal de Derechos Humanos es el documento más traducido del planeta (¡está en más de 500 idiomas!).
 - **Dato curioso 2**: La idea de que "todos somos iguales" era considerada una locura hace apenas 300 años. ¡Hemos avanzado mucho!
-- **🎥 Para ver (YouTube + TikToks)**:
-    - **Historia de los Derechos Humanos**: Un recorrido visual desde el Cilindro de Ciro hasta la Declaración Universal para entender cómo ganamos nuestro "escudo". https://www.youtube.com/watch?v=iSi_w2KslK8
-    - **Introducción a los Derechos Humanos**: Una explicación animada de por qué estos 30 artículos son la base de la dignidad en todo el mundo. https://www.youtube.com/watch?v=xMXQpbOriF0
-    - **¿Qué son los Derechos Humanos? (TikTok)**: Un resumen dinámico de tus protecciones básicas como habitante del planeta. https://www.tiktok.com/@llegaspacheco/video/6914762795837934853
-    - **Igualdad vs Equidad 2 (TikTok)**: Por qué la justicia social requiere mirar las diferencias para dar a cada quien lo que necesita. https://www.tiktok.com/@faridieck/video/7398000054138588422
-- **🎬 Para ver (Cine y Series)**:
-    - **La Vida es Bella (Traducir las reglas)**: Una lección conmovedora sobre cómo proteger la dignidad y la esperanza incluso en el lugar más oscuro de la historia. https://www.youtube.com/watch?v=IhOHGVAn4-4
-    - **La Lista de Schindler (Quien salva una vida)**: El poderoso mensaje de que un solo individuo tiene el poder de defender la humanidad frente a la injusticia masiva. https://www.youtube.com/watch?v=Dpbp6KZDRZE
-    - **12 años de esclavitud: La lucha por la dignidad (TikTok)**: Una reflexión sobre por qué la libertad es un derecho inalienable que nadie debería perder. https://www.tiktok.com/@tupildoramental/video/7244885384897793307
-    - **Gandhi y la fuerza de la verdad (TikTok)**: Cómo la no-violencia y la justicia pueden vencer a los imperios más poderosos. https://www.tiktok.com/@sonychannellat/video/7595730341403446540
-- **Para conversar**: Pregúntale a un adulto mayor: "¿Cómo eran los derechos cuando ellos tenían tu edad?". Te sorprenderá ver cómo han cambiado las cosas.
 
-## 🏆 Reto Final
+### Clips y casos
+
+- **Historia de los Derechos Humanos**: Un recorrido visual desde el Cilindro de Ciro hasta la Declaración Universal para entender cómo ganamos nuestro "escudo". https://www.youtube.com/watch?v=iSi_w2KslK8
+- **Introducción a los Derechos Humanos**: Una explicación animada de por qué estos 30 artículos son la base de la dignidad en todo el mundo. https://www.youtube.com/watch?v=xMXQpbOriF0
+- **¿Qué son los Derechos Humanos? (TikTok)**: Un resumen dinámico de tus protecciones básicas como habitante del planeta. https://www.tiktok.com/@llegaspacheco/video/6914762795837934853
+- **Igualdad vs Equidad 2 (TikTok)**: Por qué la justicia social requiere mirar las diferencias para dar a cada quien lo que necesita. https://www.tiktok.com/@faridieck/video/7398000054138588422
+
+### Cine y series
+
+- **La Vida es Bella (Traducir las reglas)**: Una lección conmovedora sobre cómo proteger la dignidad y la esperanza incluso en el lugar más oscuro de la historia. https://www.youtube.com/watch?v=IhOHGVAn4-4
+- **La Lista de Schindler (Quien salva una vida)**: El poderoso mensaje de que un solo individuo tiene el poder de defender la humanidad frente a la injusticia masiva. https://www.youtube.com/watch?v=Dpbp6KZDRZE
+- **12 años de esclavitud: La lucha por la dignidad (TikTok)**: Una reflexión sobre por qué la libertad es un derecho inalienable que nadie debería perder. https://www.tiktok.com/@tupildoramental/video/7244885384897793307
+- **Gandhi y la fuerza de la verdad (TikTok)**: Cómo la no-violencia y la justicia pueden vencer a los imperios más poderosos. https://www.tiktok.com/@sonychannellat/video/7595730341403446540
+
+### Para conversar
+
+Pregúntale a un adulto mayor: "¿Cómo eran los derechos cuando ellos tenían tu edad?". Te sorprenderá ver cómo han cambiado las cosas.
+
+
+## 🏆 Pon a prueba
 
 1. ¿Cuáles son los Ideales de la Revolución Francesa?
    - A) Dinero, Poder y Fama.
@@ -177,5 +259,5 @@ Tú eres un ciudadano activo cada vez que no te callas ante un acto de "bullying
     - C) Porque es una palabra antigua.
     - D) Solo es importante en la escuela.
 
-## 🔑 Respuestas Correctas
+## 🔑 Respuestas
 1. B | 2. B | 3. B | 4. B | 5. B | 6. B | 7. B | 8. B | 9. B | 10. B | 11. B | 12. B

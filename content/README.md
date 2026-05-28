@@ -32,6 +32,8 @@ Los archivos **Markdown** en `1/<Materia>/` son la **única fuente** del materia
 
 Detalle técnico: `.agents/instructions/web_platform_management.md` y didáctica: `.agents/instructions/module_schema_v3.md` (§ callouts, Practica web, Reflexiona web).
 
+**Prueba web recomendada:** `1/Desarrollo_de_Habilidades_del_Pensamiento/` (v3 completo). Tras cambios en `enhance*`, revisar al menos un módulo DHP, uno de Filosofía I y uno de Computación Básica I (p. ej. `07_procesador_textos_inicio.md`: Practica stepper + playlist Word).
+
 Editar siempre el `.md` en `1/`; no mantener copias paralelas para web y PDF.
 
 ## Vídeos en la Zona de Descubrimiento

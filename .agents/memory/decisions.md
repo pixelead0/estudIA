@@ -25,3 +25,8 @@ Este documento registra los acuerdos fundamentales sobre la dirección del proye
 | 2026-05-27 | **Callouts y marked** | `marked` fusiona `> [!TIP]` con el cuerpo en un `<p>`; `enhanceCallouts` detecta el tag al inicio y muestra tarjeta con cabecera (p. ej. **Consejo**). |
 | 2026-05-27 | **DOM enhanceModuleSections** | El `h2` debe seguir hijo de `article` al hacer `insertBefore` del `<section>`; si se mueve antes a `.study-section-titles`, la página rompe con `NotFoundError`. |
 | 2026-05-27 | **Explora web sin repetir vídeos** | Clips en playlist al inicio del módulo; sección Explora solo curiosidades + Para conversar (+ enlace al reproductor). El `.md` conserva URLs para PDF. |
+| 2026-05-27 | **DHP = QA web canónico** | Los 12 módulos DHP (v3) son la referencia para validar `main.js`/`style.css` antes de migrar otras materias. |
+| 2026-05-27 | **Filosofía I → v3 fuente** | 17 lecciones migradas: H2 v3, Practica con casos 🔍, Explora con H3; scripts `migrate_filosofia_v3.py` + `fix_filosofia_explora_v3.py`. |
+| 2026-05-27 | **Enlaces teoría ↔ reto** | Pregunta del quiz enlaza al párrafo con `(N)`; resaltado amarillo + superíndice en web (`enhanceQuizTheoryAnchors`). El `.md` mantiene `(N)` sin enlaces. |
+| 2026-05-27 | **Computación — vídeos tutoriales** | En CBI, Explora = 8 clips **operativos** (cómo usar Word/Windows/PPT/Chrome/Gmail del módulo). Microsoft como referencia; bloque «Cine y series» = tutoriales extendidos, no ficción. |
+| 2026-05-27 | **Computación I → v3** | 13 módulos migrados (`migrate_computacion_v3.py`); 104 URLs en `apply_computacion_videos.py` + `computacion_video_data.py`; atajos Word corregidos (Ctrl+S, Ctrl+B, etc.). |
