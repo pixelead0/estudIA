@@ -287,9 +287,9 @@
 🎵 **TikTok** &nbsp; [Encabezado y pie en Word](https://www.tiktok.com/@deborah.monografia/video/7514858086356503813)
 > Numera hojas en TCC o reportes
 
-### Morph en PowerPoint
-🎵 **TikTok** &nbsp; [Morph en PowerPoint](https://www.tiktok.com/@lourrutia.ppt/video/7164312858510118146)
-> Transición suave entre slides
+### Logo en cada página
+🎵 **TikTok** &nbsp; [Logo en cada página](https://www.tiktok.com/@seewhatiseeee/video/7492324842516073744)
+> Repite identidad visual usando encabezado
 
 ---
 

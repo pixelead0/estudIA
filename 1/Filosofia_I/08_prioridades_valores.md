@@ -8,7 +8,7 @@ En este módulo, el reto es diseñar tu propio "Edificio de Valores". Vamos a ap
 ## 💡 Entiende
 
 ### La Metáfora: El Orden de los Pisos (Jerarquía)
-No todos los valores valen lo mismo. La **Jerarquía de Valores** es el orden de importancia que les das según su calidad y cuánto duran(1). 
+No todos los valores valen lo mismo. La **Jerarquía de Valores** es el orden de importancia que les das según su calidad y cuánto duran(1).
 - Un **Valor Superior** es como un cimiento: es duradero, no se puede "repartir" como el dinero y sirve de base para los demás(5).
 
 > "Si dices la verdad, no tienes que recordar nada". — Mark Twain.
@@ -29,7 +29,7 @@ Valorar es tener la valentía de elegir siempre el polo que te hace ser mejor hu
 
 
 ### ¿Cómo decidir el orden?
-Tu brújula para construir el edificio debe ser siempre el **bienestar de todos** y el respeto a la **Dignidad Humanas**(3). Una jerarquía sana nace de tu propia **reflexión y experiencia**, no de copiar lo que otros hacen(6). 
+Tu brújula para construir el edificio debe ser siempre el **bienestar de todos** y el respeto a la **Dignidad Humanas**(3). Una jerarquía sana nace de tu propia **reflexión y experiencia**, no de copiar lo que otros hacen(6).
 
 > "Las cosas que más importan nunca deben estar a merced de las cosas que menos importan". — Johann Wolfgang von Goethe.
 
@@ -155,13 +155,13 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
 ### Clips y casos
 
 - **Las 6 Etapas del Desarrollo Moral (Kohlberg)**: ¿Por qué nos portamos bien? Un video para entender cómo nuestra razón moral evoluciona desde el miedo al castigo hasta los principios universales. https://www.youtube.com/watch?v=eWoP3OHqzF8
-- **Silogismos: razonamiento y decisiones éticas**: Cómo encadenar ideas con lógica para justificar mejor qué consideras importante en tu vida. https://www.youtube.com/watch?v=IB2V7TPqGhI
-- **Jerarquía de valores en 1 minuto (TikTok)**: Aprende a organizar tus prioridades para que lo más importante sea siempre lo primero. https://www.tiktok.com/@harrypotterlat/video/7617181761948093716
-- **¿Qué es lo más importante? (TikTok)**: Cómo los sesgos influyen en lo que priorizamos y por qué conviene revisar el “orden” de tus valores. https://www.tiktok.com/@urbanaplayfm/video/7582306919273008405
+- **Doce Hombres sin Piedad: justicia y evidencia**: Un caso clásico para analizar cómo priorizar verdad, duda razonable y dignidad humana antes de condenar. https://www.youtube.com/watch?v=KftB_ZfcAo8
+- **Escena breve para debatir prioridades (TikTok)**: Úsalo como detonador para discutir qué valor protegerías primero cuando dos opciones chocan. https://www.tiktok.com/@difany94/video/7541901775385677064
+- **Decidir qué va primero (TikTok)**: Clip corto para contrastar elecciones inmediatas vs principios de largo plazo en tu jerarquía personal. https://www.tiktok.com/@talentoklyzescalante/video/7334344606475177221
 
 ### Cine y series
 
-- **Matar a un ruiseñor (Discurso de Atticus Finch)**: Un ejemplo magistral de integridad y de poner la justicia y la verdad como los cimientos inamovibles de la vida. https://www.youtube.com/watch?v=GpJWiNmpLDs
+- **Matar a un ruiseñor (Discurso de Atticus Finch)**: Un ejemplo magistral de integridad y de poner la justicia y la verdad como los cimientos inamovibles de la vida. https://www.youtube.com/watch?v=tCuQoC0vxHA
 - **Milagros Inesperados (La ejecución de John Coffey)**: Un momento desgarrador que nos obliga a cuestionar nuestros juicios morales y la fragilidad de la justicia humana frente a la inocencia. https://www.youtube.com/watch?v=WzLZxx7pae4
 - **Atticus Finch y la integridad (TikTok)**: Por qué defender la verdad es el valor más alto, incluso cuando todos están en tu contra. https://www.tiktok.com/@srpollito07/video/7380777810878663941
 - **Injusticia en 'The Green Mile' (TikTok)**: Un análisis de cómo la falta de valores superiores puede destruir vidas inocentes. https://www.tiktok.com/@papelypiedra/video/7390954430079732998

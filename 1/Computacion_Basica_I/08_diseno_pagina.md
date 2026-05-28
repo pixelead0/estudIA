@@ -168,7 +168,7 @@ Mira cualquier libro de texto o revista que tengas en casa. Fíjate cómo los m�
 - **Bordes de página**: Marco profesional para portadas. https://www.youtube.com/watch?v=dYY2T69873c
 - **Márgenes normas APA**: Referencia para trabajos formales. https://www.youtube.com/watch?v=crLW6tG14LM
 - **Encabezado y pie en Word**: Numera hojas en TCC o reportes. https://www.tiktok.com/@deborah.monografia/video/7514858086356503813
-- **Morph en PowerPoint**: Transición suave entre slides. https://www.tiktok.com/@lourrutia.ppt/video/7164312858510118146
+- **Logo en cada página**: Repite identidad visual usando encabezado. https://www.tiktok.com/@seewhatiseeee/video/7492324842516073744
 
 ### Para conversar
 
