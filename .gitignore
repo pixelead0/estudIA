@@ -26,3 +26,7 @@ dist-ssr
 # Project specific
 subjects.json
 # exports/
+
+# Python cache
+__pycache__/
+*.py[cod]
