@@ -4,13 +4,94 @@ import { isStudyModule } from './content/pipeline.js';
 import { webSectionHeadline, webSectionKicker } from './content/section-labels.js';
 import {
   PROGRESS_REPORT_SLUG,
+  getProgressStore,
+  getQuizDraft,
   initProgressTracker,
   mountProgressReport,
+  registerModuleVideoCatalog,
+  setPageContext,
   setupModuleProgressTracking,
   teardownModuleObserver,
+  trackGlossaryFlip,
   trackNav,
+  trackPracticeAction,
+  trackQuizNav,
   trackQuizResult,
+  trackQuizValidation,
+  trackReflectAction,
+  trackVideoSelected,
+  saveQuizDraft,
+  clearQuizDraft,
 } from './content/progress-tracker.js';
+
+function progressCtxFrom(container) {
+  const subjectId = container?.dataset?.progressSubject;
+  const moduleId = container?.dataset?.progressModule;
+  return subjectId && moduleId ? { subjectId, moduleId } : null;
+}
+
+function buildQuizProgressPayload(questions, picks, attempts, answerKey, resultsViewed) {
+  const perQ = {};
+  const keys = [];
+  const failed = attempts.slice();
+  for (let i = 0; i < questions.length; i += 1) {
+    const n = i + 1;
+    const key = answerKey.get(n) ?? null;
+    keys.push(key);
+    const pick = picks[i];
+    const fail = attempts[i] || 0;
+    perQ[String(n)] = {
+      pick,
+      key,
+      ok: key ? pick === key : Boolean(pick),
+      fail,
+    };
+  }
+  const perfect = attempts.filter((n) => n === 0).length;
+  const wrong = attempts.reduce((sum, n) => sum + n, 0);
+  return {
+    total: questions.length,
+    perfect,
+    wrong,
+    failed,
+    picks: picks.slice(),
+    keys,
+    perQ,
+    resultsViewed,
+    finishedAt: Date.now(),
+  };
+}
+
+function finalizeQuizProgress(subjectId, moduleId, questions, picks, attempts, answerKey, resultsViewed) {
+  const payload = buildQuizProgressPayload(
+    questions,
+    picks,
+    attempts,
+    answerKey,
+    resultsViewed,
+  );
+  const store = getProgressStore();
+  const live = store.mods[`${subjectId}|${moduleId}`]?.quizLive;
+  if (live) {
+    payload.validations = live.val ?? 0;
+    payload.nav = live.nav ?? 0;
+    payload.navDet = live.navDet ?? null;
+    for (const [qk, lq] of Object.entries(live.q || {})) {
+      const n = Number(qk);
+      const pick = picks[n - 1];
+      const key = answerKey.get(n) ?? lq.key;
+      payload.perQ[qk] = {
+        ...payload.perQ[qk],
+        ...lq,
+        pick: pick ?? lq.pick,
+        key,
+        ok: key ? pick === key : lq.ok,
+        fail: attempts[n - 1] ?? lq.fail,
+      };
+    }
+  }
+  trackQuizResult(subjectId, moduleId, payload);
+}
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -18,6 +99,7 @@ const contentView = document.getElementById('content-view');
 const sidebar = document.getElementById('sidebar');
 const themeToggle = document.getElementById('theme-toggle');
 const themeIcon = document.getElementById('theme-icon');
+const headerReportLink = document.getElementById('header-report-link');
 const logoEl = document.querySelector('.logo');
 
 marked.setOptions({
@@ -70,6 +152,10 @@ themeToggle.addEventListener('click', () => {
   localStorage.setItem('theme', next);
   syncThemeIcon();
 });
+
+if (headerReportLink) {
+  headerReportLink.setAttribute('href', `#/${PROGRESS_REPORT_SLUG}`);
+}
 
 logoEl.addEventListener('click', (e) => {
   e.preventDefault();
@@ -489,6 +575,8 @@ function enhancePracticaCasoReveal(body) {
     btn.addEventListener('click', () => {
       card.classList.add('practica-caso--revealed');
       btn.remove();
+      const ctx = progressCtxFrom(body.closest('#content-view') || document.getElementById('content-view'));
+      if (ctx) trackPracticeAction(ctx.subjectId, ctx.moduleId, { action: 'reveal' });
     });
 
     tuTurno.after(btn);
@@ -594,17 +682,31 @@ function enhancePracticaStepper(body) {
     nextBtn.textContent = current === total - 1 ? 'Listo' : 'Siguiente';
   }
 
-  function goTo(index) {
+  function goTo(index, via = 'dot') {
     current = Math.max(0, Math.min(total - 1, index));
     syncUi();
+    const ctx = progressCtxFrom(body.closest('#content-view') || document.getElementById('content-view'));
+    if (ctx) {
+      const action =
+        via === 'prev' ? 'step_prev' : via === 'next' ? 'step_next' : 'step_dot';
+      trackPracticeAction(ctx.subjectId, ctx.moduleId, {
+        action,
+        caseNum: current + 1,
+        total,
+      });
+    }
   }
 
-  prevBtn.addEventListener('click', () => goTo(current - 1));
+  prevBtn.addEventListener('click', () => goTo(current - 1, 'prev'));
   nextBtn.addEventListener('click', () => {
-    if (current < total - 1) goTo(current + 1);
-    else nextBtn.disabled = true;
+    const ctx = progressCtxFrom(body.closest('#content-view') || document.getElementById('content-view'));
+    if (current < total - 1) goTo(current + 1, 'next');
+    else {
+      if (ctx) trackPracticeAction(ctx.subjectId, ctx.moduleId, { action: 'step_done', caseNum: total, total });
+      nextBtn.disabled = true;
+    }
   });
-  dotButtons.forEach((dot, i) => dot.addEventListener('click', () => goTo(i)));
+  dotButtons.forEach((dot, i) => dot.addEventListener('click', () => goTo(i, 'dot')));
 
   syncUi();
 }
@@ -700,17 +802,37 @@ function enhanceReflectPrompts(container) {
       nextBtn.disabled = false;
     }
 
-    function goTo(index) {
+    function goTo(index, via = 'goto') {
       current = Math.max(0, Math.min(total - 1, index));
       syncUi();
+      const ctx = progressCtxFrom(container);
+      if (ctx) {
+        const action = via === 'dot' ? 'dot' : via === 'prev' ? 'prev' : via === 'next' ? 'next' : 'dot';
+        trackReflectAction(ctx.subjectId, ctx.moduleId, {
+          action,
+          step: current + 1,
+          total,
+        });
+      }
     }
 
-    prevBtn.addEventListener('click', () => goTo(current - 1));
+    prevBtn.addEventListener('click', () => goTo(current - 1, 'prev'));
     nextBtn.addEventListener('click', () => {
-      if (current < total - 1) goTo(current + 1);
-      else nextBtn.disabled = true;
+      const ctx = progressCtxFrom(container);
+      if (current < total - 1) {
+        goTo(current + 1, 'next');
+      } else {
+        if (ctx) {
+          trackReflectAction(ctx.subjectId, ctx.moduleId, {
+            action: 'done',
+            step: total,
+            total,
+          });
+        }
+        nextBtn.disabled = true;
+      }
     });
-    dotButtons.forEach((dot, i) => dot.addEventListener('click', () => goTo(i)));
+    dotButtons.forEach((dot, i) => dot.addEventListener('click', () => goTo(i, 'dot')));
 
     syncUi();
     ol.replaceWith(stepper);
@@ -783,6 +905,15 @@ function enhanceGlossaryFlashcards(container) {
           'aria-label',
           flipped ? `${term}. Significado visible.` : `${term}. Toca para ver el significado.`,
         );
+        const ctx = progressCtxFrom(container);
+        if (ctx && flipped) {
+          trackGlossaryFlip(ctx.subjectId, ctx.moduleId, {
+            term,
+            index: i + 1,
+            total: entries.length,
+            flipped: true,
+          });
+        }
       });
 
       grid.appendChild(card);
@@ -1478,6 +1609,47 @@ function enhanceQuizChallenge(container) {
     const finishText = finish.querySelector('.quiz-challenge-finish-text');
     let resultsShown = false;
 
+    const subjectId0 = container.dataset.progressSubject;
+    const moduleId0 = container.dataset.progressModule;
+    const canPersistQuiz = Boolean(subjectId0 && moduleId0);
+
+    function persistQuizDraft() {
+      if (!canPersistQuiz) return;
+      saveQuizDraft(subjectId0, moduleId0, {
+        total: questions.length,
+        current,
+        picks: picks.slice(),
+        solved: solved.slice(),
+        attempts: attempts.slice(),
+        finished,
+        resultsShown,
+      });
+    }
+
+    function restoreQuizDraft() {
+      if (!canPersistQuiz) return;
+      const d = getQuizDraft(subjectId0, moduleId0, questions.length);
+      if (!d) return;
+      if (Array.isArray(d.picks)) {
+        d.picks.forEach((v, i) => {
+          if (i < picks.length && (v == null || /^[A-D]$/i.test(String(v)))) picks[i] = v;
+        });
+      }
+      if (Array.isArray(d.attempts)) {
+        d.attempts.forEach((v, i) => {
+          if (i < attempts.length && Number.isFinite(v)) attempts[i] = Math.max(0, Number(v));
+        });
+      }
+      if (Array.isArray(d.solved)) {
+        d.solved.forEach((v, i) => {
+          if (i < solved.length) solved[i] = Boolean(v);
+        });
+      }
+      current = Math.max(0, Math.min(questions.length - 1, Number(d.current) || 0));
+      finished = Boolean(d.finished);
+      resultsShown = Boolean(d.resultsShown);
+    }
+
     function correctLetterFor(index) {
       return answerKey.get(index + 1) ?? null;
     }
@@ -1560,6 +1732,7 @@ function enhanceQuizChallenge(container) {
           card.querySelector('.quiz-feedback')?.remove();
           confirmBtn.disabled = false;
           nextBtn.disabled = true;
+          persistQuizDraft();
         });
         optionsWrap.appendChild(btn);
       });
@@ -1602,49 +1775,81 @@ function enhanceQuizChallenge(container) {
       const subjectId = container.dataset.progressSubject;
       const moduleId = container.dataset.progressModule;
       if (subjectId && moduleId) {
-        const totalWrong = attempts.reduce((sum, n) => sum + n, 0);
-        const perfect = attempts.filter((n) => n === 0).length;
-        trackQuizResult(subjectId, moduleId, {
-          total: questions.length,
-          perfect,
-          wrong: totalWrong,
-          picks: picks.slice(),
-          resultsViewed: false,
-        });
+        finalizeQuizProgress(
+          subjectId,
+          moduleId,
+          questions,
+          picks,
+          attempts,
+          answerKey,
+          false,
+        );
       }
     }
 
-    function goTo(index) {
+    function goTo(index, via) {
+      const prev = current;
       current = Math.max(0, Math.min(questions.length - 1, index));
+      const subjectId = container.dataset.progressSubject;
+      const moduleId = container.dataset.progressModule;
+      if (subjectId && moduleId && prev !== current && via) {
+        trackQuizNav(subjectId, moduleId, {
+          action: via,
+          from: prev + 1,
+          to: current + 1,
+          total: questions.length,
+        });
+      }
+      persistQuizDraft();
       syncUi();
     }
 
     root.id = 'module-quiz-challenge';
     root.dataset.questionCount = String(questions.length);
 
-    prevBtn.addEventListener('click', () => goTo(current - 1));
+    prevBtn.addEventListener('click', () => goTo(current - 1, 'prev'));
     confirmBtn.addEventListener('click', () => {
       if (picks[current] == null || solved[current]) return;
       const keyLetter = correctLetterFor(current);
+      const subjectId = container.dataset.progressSubject;
+      const moduleId = container.dataset.progressModule;
+      const qNum = current + 1;
+      const recordValidation = (correct) => {
+        if (!subjectId || !moduleId) return;
+        trackQuizValidation(subjectId, moduleId, {
+          question: qNum,
+          pick: picks[current],
+          correct,
+          failed: attempts[current],
+          key: keyLetter,
+          total: questions.length,
+        });
+      };
       if (!keyLetter) {
         confirmed[current] = true;
         solved[current] = true;
+        recordValidation(true);
+        persistQuizDraft();
         syncUi();
         return;
       }
       if (picks[current] === keyLetter) {
         solved[current] = true;
         confirmed[current] = true;
+        recordValidation(true);
       } else {
         attempts[current] += 1;
         confirmed[current] = false;
+        recordValidation(false);
       }
+      persistQuizDraft();
       syncUi();
     });
     nextBtn.addEventListener('click', () => {
       if (!solved[current]) return;
-      if (current < questions.length - 1) goTo(current + 1);
+      if (current < questions.length - 1) goTo(current + 1, 'next');
       else showFinish();
+      persistQuizDraft();
     });
 
     resultsBtn.addEventListener('click', () => {
@@ -1656,15 +1861,16 @@ function enhanceQuizChallenge(container) {
       const subjectId = container.dataset.progressSubject;
       const moduleId = container.dataset.progressModule;
       if (subjectId && moduleId) {
-        const totalWrong = attempts.reduce((sum, n) => sum + n, 0);
-        const perfect = attempts.filter((n) => n === 0).length;
-        trackQuizResult(subjectId, moduleId, {
-          total: questions.length,
-          perfect,
-          wrong: totalWrong,
-          picks: picks.slice(),
-          resultsViewed: true,
-        });
+        finalizeQuizProgress(
+          subjectId,
+          moduleId,
+          questions,
+          picks,
+          attempts,
+          answerKey,
+          true,
+        );
+        clearQuizDraft(subjectId, moduleId);
       }
       const body = answersSection.querySelector('.study-section-body');
       const keyHtml = body?.innerHTML ?? '';
@@ -1688,9 +1894,13 @@ function enhanceQuizChallenge(container) {
       answersSection.classList.remove('quiz-answers--locked');
       resultsBtn.textContent = 'Ver resultados abajo ↑';
       answersSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      persistQuizDraft();
     });
 
+    restoreQuizDraft();
+    if (finished) showFinish();
     syncUi();
+    persistQuizDraft();
   });
 }
 
@@ -2212,6 +2422,13 @@ let videoPlaylistSerial = 0;
 function enhanceVideoPlaylist(article) {
   const slots = [...article.querySelectorAll('.video-embed-slot')];
   if (slots.length === 0) return;
+  const progressCtx =
+    article.dataset.progressSubject && article.dataset.progressModule
+      ? {
+          subjectId: article.dataset.progressSubject,
+          moduleId: article.dataset.progressModule,
+        }
+      : null;
   if (slots.length === 1) {
     const adjacent = extractVideoAdjacentContext(slots[0]);
     hydrateSingleVideoSlot(slots[0]);
@@ -2222,6 +2439,30 @@ function enhanceVideoPlaylist(article) {
         sectionTitle: adjacent.sectionTitle,
         reflectionText: adjacent.reflectionText,
       });
+    }
+    if (progressCtx) {
+      const s0 = slots[0].dataset;
+      registerModuleVideoCatalog(progressCtx.subjectId, progressCtx.moduleId, [
+        {
+          provider: s0.provider,
+          id: s0.id,
+          title: s0.title,
+          displayTitle: s0.title,
+          clipTitle: s0.title,
+        },
+      ]);
+      trackVideoSelected(
+        progressCtx.subjectId,
+        progressCtx.moduleId,
+        {
+          provider: s0.provider,
+          id: s0.id,
+          displayTitle: s0.title,
+          clipTitle: s0.title,
+          title: s0.title,
+        },
+        0,
+      );
     }
     return;
   }
@@ -2340,9 +2581,16 @@ function enhanceVideoPlaylist(article) {
 
   let activeIndex = 0;
 
+  if (progressCtx) {
+    registerModuleVideoCatalog(progressCtx.subjectId, progressCtx.moduleId, items);
+  }
+
   function mountAt(index) {
     const item = items[index];
     activeIndex = index;
+    if (progressCtx) {
+      trackVideoSelected(progressCtx.subjectId, progressCtx.moduleId, item, index);
+    }
     iframeMount.innerHTML = '';
     const frame = document.createElement('div');
     frame.className =
@@ -2534,6 +2782,7 @@ function subjectIcon(id) {
 
 function renderHome(subjects) {
   setAppView('view-home');
+  setPageContext({ type: 'home' });
   renderSidebarEmpty();
   const totalEpisodes = subjects.reduce((n, s) => n + s.modules.filter(isStudyModule).length, 0);
 
@@ -2573,6 +2822,7 @@ function renderHome(subjects) {
 }
 
 function renderProgressReportView(subjects) {
+  teardownModuleObserver();
   setAppView('view-report');
   renderSidebarEmpty();
   mountProgressReport(contentView, subjects);
@@ -2580,7 +2830,6 @@ function renderProgressReportView(subjects) {
 }
 
 async function renderSubjectView(subjects, subjectId, moduleId) {
-  teardownModuleObserver();
   const subject = subjects.find((x) => x.id === subjectId);
   if (!subject) {
     setAppView('view-home');
@@ -2676,6 +2925,7 @@ async function route() {
     renderHome(subjects);
     return;
   }
+  teardownModuleObserver();
   await renderSubjectView(subjects, subjectId, moduleId);
 }
 

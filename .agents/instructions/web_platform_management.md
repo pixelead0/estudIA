@@ -14,7 +14,10 @@ This instruction defines how to manage and extend the estudIA web platform.
 - **Home Grid**: Menú visual de materias.
 - **Filtered Sidebar**: Solo módulos de la materia activa; apéndices `00_*` en «Extras».
 - **Theme Toggle**: Dark/Light con `localStorage`.
-- **Seguimiento de avance**: `content/progress-tracker.js` guarda estadísticas en **cookies** (troceadas si hace falta) y respaldo en `localStorage`. Registra visitas a episodios, secciones (vista + clics), navegación, retos y actividades interactivas. Página de evidencia (solo para captura): hash `#/informe-avance-estudIA` — compartir la URL solo con docentes/alumnos al pedir la evidencia.
+- **Seguimiento de avance**: `content/progress-tracker.js` (v4) cookies + `localStorage`. Métricas: tiempo activo por **página/episodio/sección**, scroll máx., sesiones, vídeos, Para pensar, Práctica, Conceptos clave, reto (por pregunta), clics e interacciones. Informe: `#/informe-avance-estudIA`.
+- **Acceso y evidencia**: botón **Informe** en header (`index.html`) + botón **Guardar informe en PDF** dentro del reporte (`window.print()`).
+- **Regla de reporte limpio**: no renderizar filas/bloques de detalle para episodios sin actividad medible.
+- **Quiz resiliente**: guardar borrador (`quizDraft`) y restaurar estado del reto tras recarga (pregunta actual, picks, intentos, progreso).
 - **Módulos v3**: Tarjetas por sección H2 (`enhanceModuleSections`), kickers/títulos web vía `content/section-labels.js`.
 - **Contenido didáctico:** `.agents/instructions/module_schema_v3.md`.
 - **Cuestionario (Pon a prueba):** la calidad de los distractores A–D es **editorial manual** en los `.md`; la web solo valida letras contra `🔑 Respuestas` (`enhanceQuizChallenge`).
@@ -36,7 +39,7 @@ Orden **fijo** tras cargar el HTML del módulo:
 | 9 | `enhanceWisdomQuotes` | Citas atribuidas → `.wisdom-quote` (excluye `.callout` y TikTok) |
 | 10 | `enhanceActivityTables` | Tablas 3 columnas → `.scenario-cards`; en Practica: modo quiz (clave oculta) |
 | 11 | `enhanceVideoPlaylist` + TikTok | Vídeos YouTube/TikTok, playlist arriba del módulo, `embed.js` |
-| 12 | `setupModuleProgressTracking` | Cookies/localStorage: secciones vistas, clics, reto completado |
+| 12 | `setupModuleProgressTracking` | Cookies/localStorage: secciones vistas, clics, tiempo activo, scroll y eventos por sección |
 
 ### Callouts (`enhanceCallouts`)
 

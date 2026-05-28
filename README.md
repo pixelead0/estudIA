@@ -57,6 +57,15 @@ Puedes seguir el estado en [Actions](https://github.com/pixelead0/estudIA/action
 - Esquema didáctico v3: `.agents/instructions/module_schema_v3.md`
 - Plataforma web: `.agents/instructions/web_platform_management.md`
 
+## Informe de avance (web)
+
+- Ruta secreta: `#/informe-avance-estudIA`
+- Acceso directo: botón **Informe** junto al toggle dark/light
+- Exportación: botón **Guardar informe en PDF** (usa `window.print()`)
+- Almacenamiento local: cookies + `localStorage` (sin backend)
+- El informe solo lista episodios con **actividad medible** (tiempo/scroll/interacciones), ocultando filas vacías.
+- El quiz guarda borrador por módulo y, si recargas, **continúa donde se quedó**.
+
 ## Contribuir contenido
 
 1. Edita los `.md` en `1/<Materia>/`.

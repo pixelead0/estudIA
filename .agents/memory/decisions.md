@@ -30,3 +30,6 @@ Este documento registra los acuerdos fundamentales sobre la dirección del proye
 | 2026-05-27 | **Enlaces teoría ↔ reto** | Pregunta del quiz enlaza al párrafo con `(N)`; resaltado amarillo + superíndice en web (`enhanceQuizTheoryAnchors`). El `.md` mantiene `(N)` sin enlaces. |
 | 2026-05-27 | **Computación — vídeos tutoriales** | En CBI, Explora = 8 clips **operativos** (cómo usar Word/Windows/PPT/Chrome/Gmail del módulo). Microsoft como referencia; bloque «Cine y series» = tutoriales extendidos, no ficción. |
 | 2026-05-27 | **Computación I → v3** | 13 módulos migrados (`migrate_computacion_v3.py`); 104 URLs en `apply_computacion_videos.py` + `computacion_video_data.py`; atajos Word corregidos (Ctrl+S, Ctrl+B, etc.). |
+| 2026-05-27 | **Informe de avance v4** | Se institucionaliza `#/informe-avance-estudIA`: métricas web medibles (tiempo, scroll, secciones, vídeos, quiz), exportación PDF desde navegador y acceso directo por botón en header. |
+| 2026-05-27 | **Reporte sin ruido** | El informe oculta episodios/materias sin actividad real (sin tiempo/scroll/interacciones), evitando tablas extensas con filas en cero. |
+| 2026-05-27 | **Quiz reanudable** | El reto guarda borrador en cookies/localStorage (`quizDraft`) y restaura estado completo tras recarga para continuidad del alumno. |
