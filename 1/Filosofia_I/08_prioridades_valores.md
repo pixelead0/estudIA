@@ -154,7 +154,7 @@ Tú usas tu jerarquía cada vez que eliges decir la verdad aunque sepas que te v
 
 ### Clips y casos
 
-- **Las 6 Etapas del Desarrollo Moral (Kohlberg)**: ¿Por qué nos portamos bien? Un video para entender cómo nuestra razón moral evoluciona desde el miedo al castigo hasta los principios universales. https://www.youtube.com/watch?v=eWoP3OHqzF8
+- **¿Qué son los valores?**: Introducción breve para repasar qué es un valor antes de ordenar prioridades y jerarquías personales. https://www.youtube.com/shorts/Dxulfjv8pas
 - **Doce Hombres sin Piedad: justicia y evidencia**: Un caso clásico para analizar cómo priorizar verdad, duda razonable y dignidad humana antes de condenar. https://www.youtube.com/watch?v=KftB_ZfcAo8
 - **Escena breve para debatir prioridades (TikTok)**: Úsalo como detonador para discutir qué valor protegerías primero cuando dos opciones chocan. https://www.tiktok.com/@difany94/video/7541901775385677064
 - **Decidir qué va primero (TikTok)**: Clip corto para contrastar elecciones inmediatas vs principios de largo plazo en tu jerarquía personal. https://www.tiktok.com/@talentoklyzescalante/video/7334344606475177221
