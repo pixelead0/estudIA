@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Regenera `1/Filosofia_I/00_indice_videos.md` a partir del bloque
-«## 🌟 Zona de Descubrimiento» de cada lección (NN / NN.MM).
+«## 🌟 Explora» (v3) o «## 🌟 Zona de Descubrimiento» (legacy) de cada lección.
 """
 
 from __future__ import annotations
@@ -52,9 +52,12 @@ def lesson_paths() -> list[Path]:
     return sorted(ps, key=keyfn)
 
 
+EXPLORE_ANCHORS = ("## 🌟 Explora", "## 🌟 Zona de Descubrimiento")
+
+
 def discover_rows(text: str) -> list[tuple[str, str, str]]:
-    anchor = "## 🌟 Zona de Descubrimiento"
-    if anchor not in text:
+    anchor = next((a for a in EXPLORE_ANCHORS if a in text), None)
+    if not anchor:
         return []
     i = text.index(anchor)
     sub = text[i:]
@@ -102,7 +105,7 @@ def main() -> None:
         "# 🎬 Índice de Multimedia",
         "## Filosofia I",
         "",
-        "> Generado desde el bloque «Zona de Descubrimiento» de cada lección.",
+        "> Generado desde el bloque «Explora» de cada lección.",
         "> Estándar **2+2 YouTube + TikTok** por archivo (más sección de cine).",
         "",
     ]
